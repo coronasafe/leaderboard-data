@@ -1,0 +1,14 @@
+---
+name: Anuragh K.P
+title: Contributor
+github: kpanuragh
+twitter: ""
+linkedin: ""
+slack: ""
+joining_date: ""
+core: false
+intern: false
+operations: false
+---
+
+Still waiting for this
