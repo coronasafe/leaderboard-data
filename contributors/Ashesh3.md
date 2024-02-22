@@ -1,16 +1,16 @@
 ---
 name: Ashesh Kumar
-title: GDC Intern
+title: Software Engineer
 github: Ashesh3
-twitter: Ashesh3
-linkedin: Ashesh3
+twitter: ASHESH1708
+linkedin: ashesh1708
 slack: U02T4HFA07Q
 joining_date: "09/05/2022"
-core: false
-intern: true
+core: true
+intern: false
 operations: false
 courses_completed:
   ["Web Development 101", "Web Development 202", "Web Development 301"]
 ---
 
-Still waiting for this
+Driven to tackle complex real-world problems with innovative solutions, I thrive at the intersection of creativity and technology. Outside the digital realm, I'm a curious explorer, constantly inspired by the diversity of people and their ideas.
