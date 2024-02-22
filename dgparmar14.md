@@ -1,6 +1,6 @@
 ---
 Name: Dhrumit Parmar  
-Title: Full Stack Developer (MERN + Next.js)
+Title: Next.js Devloper
 GitHub: dgparmar14
 LinkedIn: dhrumit-parmar
 Slack: U068Q4BJBNE
