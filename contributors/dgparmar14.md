@@ -4,7 +4,7 @@ title: GSoC Participant
 github: dgparmar14
 twitter: ""
 linkedin: ""
-slack: ""
+slack: U06LNUE5PCG
 joining_date: ""
 core: false
 intern: false
