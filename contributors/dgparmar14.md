@@ -1,6 +1,6 @@
 ---
 name: Dhrumit Parmar
-title: Contributor
+title: GSoC Participant
 github: dgparmar14
 twitter: ""
 linkedin: ""
@@ -11,4 +11,4 @@ intern: false
 operations: false
 ---
 
-Still waiting for this
+Hey there! I'm a frontend web developer passionate about crafting beautiful, modern,fast and responsive websites with the magic of Next.js.
