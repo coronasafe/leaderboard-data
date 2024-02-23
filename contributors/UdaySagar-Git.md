@@ -2,8 +2,8 @@
 name: Uday Sagar
 title: Contributor
 github: UdaySagar-Git
-twitter: ""
-linkedin: ""
+twitter: "https://twitter.com/udaySagar_twt/"
+linkedin: "https://www.linkedin.com/in/udaysagar-in/"
 slack: ""
 joining_date: ""
 core: false
