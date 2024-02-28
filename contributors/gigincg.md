@@ -6,9 +6,7 @@ twitter: gigin_geo
 linkedin: giginchandygeorge
 slack: "UV5PPBE2D"
 joining_date: "11/03/2020"
-core: true
-intern: false
-operations: false
+role: "core"
 ---
 
 Gigan to update your bio

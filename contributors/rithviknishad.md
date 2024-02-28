@@ -6,9 +6,7 @@ twitter: rithviknishad
 linkedin: rithviknishad
 slack: U02TDGQQPMJ
 joining_date: "09/05/2022"
-core: true
-intern: false
-operations: false
+role: "core"
 courses_completed:
   ["Web Development 101", "Web Development 202", "Web Development 301"]
 ---

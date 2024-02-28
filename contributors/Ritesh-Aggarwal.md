@@ -6,9 +6,7 @@ twitter: ritesh_agg
 linkedin: ritesh--aggarwal
 slack: U02T4HE96KY
 joining_date: "09/05/2022"
-core: false
-intern: true
-operations: false
+role: "intern"
 courses_completed:
   ["Web Development 101", "Web Development 202", "Web Development 301"]
 ---

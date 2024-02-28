@@ -6,9 +6,7 @@ twitter: ""
 linkedin: ""
 slack: ""
 joining_date: ""
-core: true
-intern: false
-operations: false
+role: "core"
 ---
 
 Still waiting for this

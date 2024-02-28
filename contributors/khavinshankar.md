@@ -6,9 +6,7 @@ twitter: khavinshankar
 linkedin: khavinshankar
 slack: "U01JB8L8P7Y"
 joining_date: "16/03/2021"
-core: true
-intern: false
-operations: false
+role: "core"
 courses_completed:
   ["Web Development 101", "Web Development 201", "Web Development 301"]
 leadership: ["Maintainer"]
