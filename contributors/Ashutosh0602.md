@@ -3,7 +3,7 @@ name: Ashutosh Rai
 title: GSOC Participant
 github: Ashutosh0602
 twitter: ""
-linkedin: "https://www.linkedin.com/in/ashutosh-rai-b75aa622a/"
+linkedin: ashutosh-rai-b75aa622a
 slack: ""
 joining_date: ""
 core: false
