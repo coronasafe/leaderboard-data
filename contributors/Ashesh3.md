@@ -6,9 +6,7 @@ twitter: ASHESH1708
 linkedin: ashesh1708
 slack: U02T4HFA07Q
 joining_date: "09/05/2022"
-core: true
-intern: false
-operations: false
+role: core
 courses_completed:
   ["Web Development 101", "Web Development 202", "Web Development 301"]
 ---

@@ -6,9 +6,7 @@ twitter: AnuranRoy
 linkedin: anuran-roy
 slack: U02TB83MU9G
 joining_date: "09/05/2022"
-core: false
-intern: true
-operations: false
+role: intern
 courses_completed:
   ["Web Development 101", "Web Development 202", "Web Development 301"]
 ---

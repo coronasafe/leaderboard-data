@@ -6,9 +6,7 @@ twitter: ""
 linkedin: ashutosh-rai-b75aa622a
 slack: ""
 joining_date: ""
-core: false
-intern: false
-operations: false
+role: contributor
 ---
 
 Still waiting for this

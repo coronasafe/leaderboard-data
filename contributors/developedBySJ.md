@@ -6,9 +6,7 @@ twitter: _SwapnilJagtap
 linkedin: swapnil-jagtap-7b8b5b202
 slack: "U01JB8KR81L"
 joining_date: "16/03/2021"
-core: false
-intern: true
-operations: false
+role: intern
 courses_completed:
   ["Web Development 101", "Web Development 201", "Web Development 301"]
 leadership: ["Teaching Assistant"]

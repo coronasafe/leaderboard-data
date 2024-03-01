@@ -6,9 +6,7 @@ twitter: arpancodes
 linkedin: arpancodes
 slack: "U01K7STBS48"
 joining_date: "16/03/2021"
-core: false
-intern: true
-operations: false
+role: intern
 courses_completed:
   ["Web Development 101", "Web Development 201", "Web Development 301"]
 leadership: ["Teaching Assistant"]
