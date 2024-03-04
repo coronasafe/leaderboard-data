@@ -15,14 +15,15 @@
   --primary-800: #35156b;
   --primary-900: #1f0d40;
 
-  --secondary-50: #f8f8f8;
-  --secondary-100: #e1e1e1;
-  --secondary-200: #c4c4c4;
-  --secondary-300: #a7a7a7;
-  --secondary-400: #8b8b8b;
-  --secondary-500: #6e6e6e;
-  --secondary-600: #555555;
-  --secondary-700: #3b3b3b;
-  --secondary-800: #262626;
-  --secondary-900: #171717;
+  --secondary-50: #f9fafb;
+  --secondary-100: #f3f4f6;
+  --secondary-200: #e5e7eb;
+  --secondary-300: #d1d5db;
+  --secondary-400: #9ca3af;
+  --secondary-500: #6b7280;
+  --secondary-600: #4b5563;
+  --secondary-700: #374151;
+  --secondary-800: #1f2937;
+  --secondary-900: #111827;
+  --secondary-950: #030712;
 }
