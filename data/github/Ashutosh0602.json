@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709283735.0,
+  "last_updated": 1709495493.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7332",
+      "time": 1709495493.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7332",
+      "text": "Search option"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7326",
+      "time": 1709408224.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7326#issuecomment-1974888801",
+      "text": "@rithviknishad I have created an issue for this as discussed. \r\nPlease assign me so that I can make PR."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7326",
+      "time": 1709408153.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7326",
+      "text": "Issue in finding the value in options tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7307",
+      "time": 1709407978.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7307#issuecomment-1974887902",
+      "text": "@rithviknishad I solved this issue you can check it once and if there is something wrong you can tell me I will try to solve"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#18",
@@ -179,6 +207,30 @@
       "text": "Hello @nihal467 ,\r\nMy name is Ashutosh Rai. Currently, I am pre-final year student in NSUT(formerly NSIT). Being curious about tech I learnt and done projects in  MERN stack and also worked on tech stack like NextJs, NestJs and python based web framework(django, flask). I also worked for startup ArualApp helping them to add new features and improving UX alos and OG (OG raised funds) developed whole website from scratch. \r\n\r\nI am not only committed to participating in GSoC but also genuinely enthusiastic about contributing substantially to your project, aiming to create a significant and positive influence. And this eventually help me to gain better experience and valuable learning. \r\n\r\nI would appreciate your assistance throughout this opportunity."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7332",
+      "title": "Search option",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7310",
+      "title": "Fix: Fixes the validation of Username in add new Users section",
+      "stale_for": 1,
+      "labels": [
+        "merge conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/253",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/255"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7262",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7266"
+    }
+  ]
 }

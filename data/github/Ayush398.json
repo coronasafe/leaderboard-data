@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709290995.0,
+  "last_updated": 1709494382.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#294",
+      "time": 1709494382.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/294#issuecomment-1975273505",
+      "text": "can you please  assign me this issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#315",
+      "time": 1709492181.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/315",
+      "text": "fix: UI improvements to Contributor Badge Popup"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#298",
+      "time": 1709369017.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/298#issuecomment-1974732468",
+      "text": "Please assign me this issue"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1933",
@@ -30,6 +51,21 @@
       "text": "Can you please assign me this issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/315",
+      "title": "fix: UI improvements to Contributor Badge Popup",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7300",
+      "title": "fix: Bed Capacity- facilities",
+      "stale_for": 3,
+      "labels": [
+        "waiting for backend"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

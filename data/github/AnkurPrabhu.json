@@ -1,6 +1,69 @@
 {
-  "last_updated": 1709320879.0,
+  "last_updated": 1709468053.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709468053.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1975140709",
+      "text": "@sainak will the migrations files be a separate pr ?\r\n "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709407021.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1974883777",
+      "text": "@sainak just wanted to confirm this will have \r\n1) a migration file for the addition of two fields in class BaseModel \r\n2) all the changes where any object of a class extended by BaseModel is either created or modified right ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709399273.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1974853770",
+      "text": "Hey can i work on this one ?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1889",
+      "time": 1709399045.0,
+      "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1974852603",
+      "text": "@DraKen0009 are you working on this one ?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": 1709398136.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1974848782",
+      "text": "@rithviknishad @balaji-sivasakthi i tried using the same front-end on my local backend it does not show this error. do we have some sort of waf or any firewall this passes through that could be the issue here pls correct me if i am wrong "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709392051.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1974824752",
+      "text": "> Why is `id` required there? What purpose/requirement does it satisfy?\r\n\r\nas in  as far as i know its good to have ids while mapping it in the front end also CONSULTATION_TABS is of type Array<OptionsType>  so id is a compulsory field so what do you think should we remove it ? thoughts @rithviknishad ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709369073.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1974732651",
+      "text": "in ConsultationDetails/index.tsx:423 CONSULTATION_TABS is being mapped there we might need ids ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709368326.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1974710512",
+      "text": "> Correct me if I'm wrong, are the `id` attribute used anywhere?\r\nNope was not able to find"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709362654.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1974510263",
+      "text": "@rithviknishad are these test fails due to my change ?\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7320",
@@ -23,13 +86,6 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7320",
-      "title": "Rearrange tabs in patient dashboard",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

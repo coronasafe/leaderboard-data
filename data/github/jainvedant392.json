@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709311137.0,
+  "last_updated": 1709473154.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7328",
+      "time": 1709473154.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7328",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1938",
+      "time": 1709411455.0,
+      "link": "https://github.com/coronasafe/care/pull/1938",
+      "text": "Add django filter for patient review missed"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7101",
@@ -444,6 +458,19 @@
       "text": "Hello @rithviknishad, I would really love to contribute to and solve this issue, as I am familiar with the tech-stack and the required frontend to solve this issue. So could you please assign me this issue?"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7328",
+      "title": "Add Patient Filter for Review Missed",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1938",
+      "title": "Add django filter for patient review missed",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

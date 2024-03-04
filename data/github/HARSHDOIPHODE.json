@@ -1,6 +1,55 @@
 {
-  "last_updated": 1709134724.0,
+  "last_updated": 1709377096.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#21",
+      "time": 1709377096.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21#issuecomment-1974763435",
+      "text": "This PR resolves issue #303.   @rithviknishad"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#306",
+      "time": 1709376860.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/306#issuecomment-1974762694",
+      "text": "@rithviknishad please check this PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#303",
+      "time": 1709376054.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/303#issuecomment-1974760120",
+      "text": "This PR resolves issue #303.\r\n\r\nCloses #303"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#303",
+      "time": 1709373806.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/303#issuecomment-1974752147",
+      "text": "@rithviknishad please check and let me know if any changes are needed."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#306",
+      "time": 1709373705.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/306",
+      "text": "fixes #303"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#21",
+      "time": 1709369608.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21",
+      "text": "fix: #303 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#303",
+      "time": 1709365523.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/303#issuecomment-1974668622",
+      "text": "please assign me this issue"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#278",

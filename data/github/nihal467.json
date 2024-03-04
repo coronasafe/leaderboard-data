@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709207077.0,
+  "last_updated": 1709490958.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709490958.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1975255445",
+      "text": "@UdaySagar-Git the failing test is due to a frontend bug in the staging, upon merging ( #7257 ) tomorrow morning will fix the test "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709488330.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1975243898",
+      "text": "@UdaySagar-Git i will look into it, and will let you know by tomorrow EOD"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7329",
+      "time": 1709484929.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7329",
+      "text": "Verify Manage User Cypress"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7313",

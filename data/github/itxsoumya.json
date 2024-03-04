@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709310985.0,
+  "last_updated": 1709465922.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1934",
+      "time": 1709465922.0,
+      "link": "https://github.com/coronasafe/care/pull/1934#issuecomment-1975131299",
+      "text": "@sainak review please "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1934",
+      "time": 1709349723.0,
+      "link": "https://github.com/coronasafe/care/pull/1934#issuecomment-1974250881",
+      "text": "@sainak I have updated the parameters for all password reset routes\r\n\r\n\r\n![Screenshot from 2024-03-02 08-33-46](https://github.com/coronasafe/care/assets/72642534/758a83ba-93fe-419d-bf9c-9692394598f8)\r\n"
+    },
     {
       "type": "pr_reviewed",
       "time": 1709310985.0,
@@ -51,19 +65,6 @@
       "text": "hello maintainers please assign this issue to me \r\n "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1934",
-      "title": "reset password schema for API docs swagger updated #1434",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1926",
-      "title": "added validate on ResetPasswordUserSerializer for username ",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

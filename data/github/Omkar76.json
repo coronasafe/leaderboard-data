@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708960763.0,
+  "last_updated": 1709411991.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6993",
+      "time": 1709411991.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#issuecomment-1974903739",
+      "text": "@aparnacoronasafe can you please check which one looks better in updates tab. I prefer last one.\r\nOne\r\n![image](https://github.com/coronasafe/care_fe/assets/56870381/f8634794-f7a4-4e6d-9b07-0126ae7a87f0)\r\nTwo\r\n![image](https://github.com/coronasafe/care_fe/assets/56870381/1c1199e9-55b8-4d55-b830-2357a5ac0169)\r\nThree\r\n![image](https://github.com/coronasafe/care_fe/assets/56870381/be3828d4-43e5-4a0c-ae7d-67175f237e9d)\r\n\r\n\r\n"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7271",
@@ -775,6 +782,38 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7275",
+      "title": "create vite plugin to treeshake uniconpaths.json",
+      "stale_for": 5,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1907",
+      "title": "track previous consultation",
+      "stale_for": 8,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6993",
+      "title": "Collect postpartum data",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "changes required",
+        "merge conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
+    }
+  ]
 }

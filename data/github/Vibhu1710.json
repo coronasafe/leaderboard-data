@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709145771.0,
+  "last_updated": 1709382806.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7308",
+      "time": 1709382806.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7308#issuecomment-1974785243",
+      "text": "Hey @aeswibon , @nihal467... I have made a PR with necessary changes, not sure if I have added the right reviewers or if the branch is out of sync"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7323",
+      "time": 1709382264.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7323",
+      "text": "#7308 fix : use \"hidden\" css property to toggle b/w Login & Forgot Password"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7308",

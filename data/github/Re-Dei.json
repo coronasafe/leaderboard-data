@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709127400.0,
+  "last_updated": 1709397923.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#248",
+      "time": 1709397923.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/248#issuecomment-1974847942",
+      "text": "Can anyone assign me this issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#292",
+      "time": 1709397681.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/292#issuecomment-1974846993",
+      "text": "This issue is linked with issue #248. I have been researching different ways to solve this issue and found that it cause by unauthorized access to the github's api."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#308",
+      "time": 1709390610.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/308#issuecomment-1974819088",
+      "text": "@rithviknishad please review this PR.\r\nRegarding GSOC, I know it's a bit early but I have a favor to ask. Could you check out my project proposal? Just a few minutes will be fine. I heard it was a common practice to get proposals checked by mentors a few weeks before application period begins. I am sorry if its not the case. If its ok by you, I will dm my google docs link to you in slack. Also in how many projects can each contributor apply? I didn't find any information related to it. I just know each contributor can apply to at most 3 organizations."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#308",
+      "time": 1709389999.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/308",
+      "text": "chore: allocated types, consts and utility functions to separate files"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#277",

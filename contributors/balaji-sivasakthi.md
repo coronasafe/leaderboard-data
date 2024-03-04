@@ -2,9 +2,9 @@
 name: Balaji Sivasakthi
 title: Contributor
 github: balaji-sivasakthi
-twitter: ""
-linkedin: ""
-slack: ""
+twitter: "balaji_jpeg"
+linkedin: "balajisivasakthi"
+slack: "U06LH1TN3FG"
 joining_date: ""
 role: contributor
 ---

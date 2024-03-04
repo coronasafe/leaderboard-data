@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709226073.0,
+  "last_updated": 1709459790.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4500",
+      "time": 1709459790.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4500#issuecomment-1975106924",
+      "text": "@nihal467 @aparnacoronasafe  can you please assign this issue to me"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7297",
@@ -107,16 +114,6 @@
       "text": "@aparnacoronasafe can you please assign me this issue"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7301",
-      "title": "Log update vital feature modified ",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
