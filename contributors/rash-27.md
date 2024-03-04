@@ -2,9 +2,9 @@
 name: Rashmik
 title: Contributor
 github: rash-27
-twitter: ""
-linkedin: ""
-slack: ""
+twitter: rash_2703
+linkedin: Neduri Rashmik
+slack: U06KYRU85AS
 joining_date: ""
 role: contributor
 ---
