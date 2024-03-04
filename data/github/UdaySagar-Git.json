@@ -1,6 +1,125 @@
 {
-  "last_updated": 1709294594.0,
+  "last_updated": 1709499986.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7333",
+      "time": 1709499986.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7333#issuecomment-1975325931",
+      "text": "can you please assign me ! "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7333",
+      "time": 1709499964.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7333",
+      "text": "Improve import UI for External Results Import"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7327",
+      "time": 1709495492.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7327",
+      "text": "Redesign UI for imports in external results "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709491669.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1975259974",
+      "text": "@nihal467 sure ! "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709472059.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1975160081",
+      "text": "@nihal467 can you please help me fix this\r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/762dfca4-3131-4406-8b43-717cd4329b3a)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#310",
+      "time": 1709466809.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/310#issuecomment-1975134778",
+      "text": "@rithviknishad should i update home page leader board page with default roles or \r\nlet it be for all roles \r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#22",
+      "time": 1709464383.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/22",
+      "text": "Update UdaySagar-Git.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#313",
+      "time": 1709459677.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/313",
+      "text": "Added indication for option selected in Date Range picker"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#312",
+      "time": 1709459464.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/312#issuecomment-1975105619",
+      "text": "working on this "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#312",
+      "time": 1709459444.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/312",
+      "text": "No indication for option selected in Date Range picker"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#311",
+      "time": 1709451783.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/311#issuecomment-1975075571",
+      "text": "can you please assign me \r\n\r\nand just a question , should ordering affect the ranks ?\r\nfor example , changing sort order from desc to asc should change the 1st place to the last or \r\nkeep the 1st place as first and just display last rank in the first "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#311",
+      "time": 1709451650.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/311",
+      "text": "Incorrect rank display upon search "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#310",
+      "time": 1709451207.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/310",
+      "text": "Directly pushes to leaderboard page with default options"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7327",
+      "time": 1709449260.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7327#issuecomment-1975067280",
+      "text": "@kumar11jr it is implemented only at some places i guess \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/1a4a1edf-5745-4eda-aab4-0760017a1c33)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7327",
+      "time": 1709411495.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7327#issuecomment-1974901639",
+      "text": "I would like to work on this issue\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7327",
+      "time": 1709411479.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7327",
+      "text": "Enhance File Upload with Drag and Drop Feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709397364.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1974845788",
+      "text": "I would like to work on this , can you please assign me "
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#296",
@@ -420,6 +539,51 @@
       "text": "Improve Input Field UI for Phone Number"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/22",
+      "title": "Update UdaySagar-Git.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/313",
+      "title": "Added indication for option selected in Date Range picker",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/310",
+      "title": "Changes Default Values of Roles for Initial Page Load on Leaderboard Page ",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7253",
+      "title": "Auto-close dropdown when single select option is selected in a multi select dropdown ",
+      "stale_for": 0,
+      "labels": [
+        "changes required",
+        "cypress failed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/271",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/280"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/270",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/296"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/257",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/267"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7248",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7250"
+    }
+  ]
 }

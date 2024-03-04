@@ -1,6 +1,48 @@
 {
-  "last_updated": 1709318948.0,
+  "last_updated": 1709490907.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#314",
+      "time": 1709490907.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/314",
+      "text": "fixes-client-side-exception"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": 1709407785.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1974887166",
+      "text": "@rithviknishad Hey, Rithvik can you please review it?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#309",
+      "time": 1709407472.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/309",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#295",
+      "time": 1709401460.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/295#issuecomment-1974862411",
+      "text": "![Screenshot 2024-03-02 223442](https://github.com/coronasafe/leaderboard/assets/99136186/5c5774d7-d7ef-474e-aa09-5379b53fc8b8)\r\n![Screenshot 2024-03-02 224311](https://github.com/coronasafe/leaderboard/assets/99136186/d788d8a7-8116-4d20-979a-2acce701a05e)\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/3a048b41-2187-4554-8393-a840e2e93ca8)\r\n\r\n\r\nWhich one looks better?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#292",
+      "time": 1709398105.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/292#issuecomment-1974848668",
+      "text": "Me and Rithvik already discussed this issue and we reached a solution, Implementation in progress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#307",
+      "time": 1709375261.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/307",
+      "text": "Different logic of Leaderboard"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#295",
@@ -749,7 +791,20 @@
       "text": "I want take this task ."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/314",
+      "title": "fixes-client-side-exception",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/309",
+      "title": "Add rank of contributor on the weeklybasis in profile page",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",

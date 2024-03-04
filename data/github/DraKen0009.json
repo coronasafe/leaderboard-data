@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709203282.0,
+  "last_updated": 1709399711.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1889",
+      "time": 1709399711.0,
+      "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1974855551",
+      "text": "@AnkurPrabhu  I've raised a PR and it also got approved. So this issue is solved. \r\n\r\nPlease pick another issue from issues tab"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1927",

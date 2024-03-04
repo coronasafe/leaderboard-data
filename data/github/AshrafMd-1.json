@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709318193.0,
+  "last_updated": 1709451266.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1709451266.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1975073985",
+      "text": "@nihal467 can you check once why Cypress is failing \r\nbecause it works perfectly on my computer \r\n\r\nI feel it's due to not having the nurse logins "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7268",
+      "time": 1709448297.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#issuecomment-1975064725",
+      "text": "@rithviknishad can u check once"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7268",
+      "time": 1709395272.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#issuecomment-1974837420",
+      "text": "@rithviknishad Yeah that's a good point so \r\n\r\nwhat i will do is \r\n\r\n1. When the user clicks on the Create patient\r\n2. it directly goes to the patient creation page if the user is below district admin"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7197",
@@ -1659,50 +1680,6 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7268",
-      "title": "Restrict Unauthorized Users from Accessing Facility's Patient Registration",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7197",
-      "title": "Add Cypress test to patient file upload",
-      "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6923",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6946"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6902",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6910"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6838",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6842"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6837",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6841"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6783",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6848"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6632",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6639"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6599",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6614"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

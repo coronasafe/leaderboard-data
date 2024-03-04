@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709305100.0,
+  "last_updated": 1709497012.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709497012.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1975284318",
+      "text": "> hey @Ashesh3 i am unable to login using dummy email do i need to use some other email ??\r\n\r\nTry this:\r\n```\r\nEmail: demo@demo.com\r\nUsername: demo\r\nPassword: demo\r\n``"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709386234.0,
+      "title": "coronasafe/care#1936",
+      "link": "https://github.com/coronasafe/care/pull/1936#pullrequestreview-1912660991",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709386227.0,
+      "title": "coronasafe/care#1928",
+      "link": "https://github.com/coronasafe/care/pull/1928#pullrequestreview-1912660979",
+      "text": "Add validation checks in ResourceRequestSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709360857.0,
+      "title": "coronasafe/care_fe#7320",
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#pullrequestreview-1912588816",
+      "text": "Rearrange tabs in patient dashboard"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
@@ -18035,6 +18063,119 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7305",
+      "title": "Improve File Preview",
+      "stale_for": 3,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1903",
+      "title": "Migrate consultation's assigned_to to assigned_clinicians",
+      "stale_for": 11,
+      "labels": [
+        "blocked",
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1900",
+      "title": "Add assigned_clinicians field to PatientConsultation model",
+      "stale_for": 6,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1657",
+      "title": "POC: AI discharge summary",
+      "stale_for": 150,
+      "labels": [
+        "POC"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5147",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 334,
+      "labels": [
+        "work-in-progress",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1227",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 347,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1893",
+      "pr_link": "https://github.com/coronasafe/care/pull/1896"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
+      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1283",
+      "pr_link": "https://github.com/coronasafe/care/pull/1286"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4147",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4148"
+    }
+  ]
 }

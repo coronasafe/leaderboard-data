@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709324563.0,
+  "last_updated": 1709468811.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709468811.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1975144012",
+      "text": "hey @Ashesh3  i am unable to login using dummy email do i need to use some other email ??\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#183",
+      "time": 1709458692.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1975102411",
+      "text": "@skks1212 any update??"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#183",
@@ -90,7 +104,7 @@
     {
       "link": "https://github.com/coronasafe/ayushma_fe/pull/189",
       "title": "closes #183 unnecessary packages removed",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     }
   ],

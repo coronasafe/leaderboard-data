@@ -1,6 +1,132 @@
 {
-  "last_updated": 1709313996.0,
+  "last_updated": 1709463647.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1702",
+      "time": 1709463647.0,
+      "link": "https://github.com/coronasafe/care/issues/1702",
+      "text": "Fix cors headers in prod"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1702",
+      "time": 1709463626.0,
+      "link": "https://github.com/coronasafe/care/issues/1702",
+      "text": "Fix cors headers in prod"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709463500.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1975121608",
+      "text": "> @sainak just wanted to confirm this will have\r\n> \r\n>     1. a migration file for the addition of two fields in class BaseModel\r\n> \r\n>     2. all the changes where any object of a class extended by BaseModel is either created or modified right ?\r\n\r\nYes, and also override perform create/update function of viewsets"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1937",
+      "time": 1709453506.0,
+      "link": "https://github.com/coronasafe/care/issues/1937#issuecomment-1975081772",
+      "text": "@balaji-sivasakthi you will have to use local development tools like localstack and arureite"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1937",
+      "time": 1709400844.0,
+      "link": "https://github.com/coronasafe/care/issues/1937",
+      "text": "Configurable storage provider"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1347",
+      "time": 1709400029.0,
+      "link": "https://github.com/coronasafe/care/issues/1347",
+      "text": "TypeError: unhashable type: 'list' at `/api/v1/patient/{patient_external_id}/test_sample/{external_id}/icmr_sample/`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1928",
+      "time": 1709399862.0,
+      "link": "https://github.com/coronasafe/care/pull/1928#issuecomment-1974856138",
+      "text": "@rash-27 fix lint issues https://github.com/coronasafe/care/blob/master/CONTRIBUTING.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1889",
+      "time": 1709399742.0,
+      "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1974855673",
+      "text": "@DraKen0009 link the issue to pr "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709399687.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1974855444",
+      "text": "sure"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709381123.0,
+      "title": "coronasafe/care#1936",
+      "link": "https://github.com/coronasafe/care/pull/1936#pullrequestreview-1912649555",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709381006.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912649203",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380997.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912649182",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380938.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912649073",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380860.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912648130",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380860.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912648130",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380269.0,
+      "title": "coronasafe/care#1928",
+      "link": "https://github.com/coronasafe/care/pull/1928#pullrequestreview-1912647989",
+      "text": "Add validation checks in ResourceRequestSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709365162.0,
+      "title": "coronasafe/leaderboard#305",
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912596678",
+      "text": "update of scrollbar for pages"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709365162.0,
+      "title": "coronasafe/leaderboard#305",
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912596678",
+      "text": "update of scrollbar for pages"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1909",
@@ -10098,133 +10224,6 @@
       "text": "fix: sidebar on devices with small height"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1924",
-      "title": "Fix failing test cases and shuffle case before run",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
-      "title": "add ability to fetch config from care",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6457",
-      "title": "add support for webrtc stream",
-      "stale_for": 96,
-      "labels": [
-        "blocked",
-        "changes required",
-        "merge conflict",
-        "cypress failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1579",
-      "title": "refactor all files as per ruff rules",
-      "stale_for": 171,
-      "labels": [
-        "In progress"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1559",
-      "title": "feat: use ruff",
-      "stale_for": 85,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/medibase/pull/7",
-      "title": "Update dependencies",
-      "stale_for": 225,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1349",
-      "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 150,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1883",
-      "pr_link": "https://github.com/coronasafe/care/pull/1888"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6500",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6501"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1681",
-      "pr_link": "https://github.com/coronasafe/care/pull/1682"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1658",
-      "pr_link": "https://github.com/coronasafe/care/pull/1788"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1645",
-      "pr_link": "https://github.com/coronasafe/care/pull/1646"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1627",
-      "pr_link": "https://github.com/coronasafe/care/pull/1628"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1610",
-      "pr_link": "https://github.com/coronasafe/care/pull/1611"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1594",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1593",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6131",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care/pull/1546"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6086",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6087"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/zoomdrive/issues/2",
-      "pr_link": "https://github.com/coronasafe/zoomdrive/pull/4"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1419",
-      "pr_link": "https://github.com/coronasafe/care/pull/1420"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1417",
-      "pr_link": "https://github.com/coronasafe/care/pull/1418"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5783",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5800"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1351",
-      "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1350",
-      "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

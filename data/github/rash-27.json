@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709335788.0,
+  "last_updated": 1709417657.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1928",
+      "time": 1709417657.0,
+      "link": "https://github.com/coronasafe/care/pull/1928#issuecomment-1974922846",
+      "text": "@sainak fixed lint errors but was unable to push (encountering this error), and even the pulling not worked \r\n![Screenshot 2024-03-03 034210](https://github.com/coronasafe/care/assets/146672184/5768f84d-1204-4803-a17a-3c3c525a125e)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1935",
+      "time": 1709364940.0,
+      "link": "https://github.com/coronasafe/care/pull/1935#issuecomment-1974665793",
+      "text": "Ok I'll update it"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7322",
@@ -154,7 +168,9 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7322",
       "title": "Replace age field with DOB while Updating User",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "waiting for backend"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1935",
@@ -165,16 +181,14 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1929",
       "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1928",
       "title": "Add validation checks in ResourceRequestSerializer",
       "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
+      "labels": []
     }
   ],
   "authored_issue_and_pr": [

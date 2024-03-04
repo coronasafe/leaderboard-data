@@ -1,6 +1,94 @@
 {
-  "last_updated": 1709328409.0,
+  "last_updated": 1709471161.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#305",
+      "time": 1709471161.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#issuecomment-1975154544",
+      "text": "Hey @sainak , I have added the features of tailwind-scrollbar package in our website \ud83d\udc4d"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#287",
+      "time": 1709374388.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/287",
+      "text": "updating UI of Navbar",
+      "turnaround_time": 19705
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#287",
+      "time": 1709374388.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/287",
+      "text": "updating UI of Navbar",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709372311.0,
+      "title": "coronasafe/leaderboard#305",
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912633129",
+      "text": "update of scrollbar for pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#305",
+      "time": 1709372163.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#issuecomment-1974746770",
+      "text": "Hey, @rithviknishad  @sainak \r\n\r\nRegarding the scrollbar functionality, instead of relying on traditional CSS methods, I propose leveraging the \"tailwind-scrollbar\" package. It boasts a weekly download count exceeding 100k+ across both modern and legacy browsers, making it a robust solution for our needs. Given the frequency with which we'll be implementing scrollbars across various components, using this package seems both practical and efficient.\r\n\r\nI'm prepared to integrate this package into our workflow if you believe it aligns with our objectives. Otherwise, I'm fully capable of proceeding with the conventional methods outlined in the documentation.\ud83d\ude80"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#287",
+      "time": 1709371190.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1974743263",
+      "text": "Hey @rithviknishad , \"Contribute Now\" text has been removed, leaving only the GitHub button visible.\ud83d\ude0a"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#287",
+      "time": 1709370260.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1974737497",
+      "text": "sure, why not \ud83d\ude0a"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709365510.0,
+      "title": "coronasafe/leaderboard#305",
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912597469",
+      "text": "update of scrollbar for pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#294",
+      "time": 1709365018.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/294#issuecomment-1974666505",
+      "text": "@rithviknishad Following your earlier guidance, I've implemented the recommendations to the best of my ability. You can now explore all four pull requests, each representing a step towards refining our project's design and functionality. \ud83d\ude0a\ud83d\udc4d"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#305",
+      "time": 1709364655.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/305",
+      "text": "update of scrollbar for pages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#304",
+      "time": 1709362511.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/304",
+      "text": "updating the contributor activity section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#287",
+      "time": 1709358386.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1974329113",
+      "text": "![Untitled drawing (4)](https://github.com/coronasafe/leaderboard/assets/108052802/a9e5dcfe-29c9-4b68-904b-e80076ee449f)\r\n\r\n- Drawing from your previous advice, I've refined the sidebar and subtly adjusted the text's hue, enhancing its readability and aesthetic appeal"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#294",
@@ -257,31 +345,29 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/302",
-      "title": "Update GitHub acitvity",
+      "link": "https://github.com/coronasafe/leaderboard/pull/305",
+      "title": "update of scrollbar for pages",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/304",
+      "title": "updating the contributor activity section",
       "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/301",
       "title": "solving the layout issue of Image",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/293",
-      "title": "Update thumb",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/287",
-      "title": "updating UI of Navbar",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/278",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/287"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/268",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/276"

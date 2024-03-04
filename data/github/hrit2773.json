@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709181796.0,
+  "last_updated": 1709483982.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": 1709483982.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1975225281",
+      "text": "@balaji-sivasakthi that 403 error is because there is no authentication details. I tried to find the method associated with the url in the care backend repo but I'm unable to find it\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7156",
