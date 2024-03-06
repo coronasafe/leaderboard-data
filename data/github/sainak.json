@@ -294,24 +294,10 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-03-02T12:01:00.000Z",
-      "title": "coronasafe/care#1935",
-      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912648130",
-      "text": "Replace age field with DOB in users model"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-03-02T11:51:09.000Z",
       "title": "coronasafe/care#1928",
       "link": "https://github.com/coronasafe/care/pull/1928#pullrequestreview-1912647989",
       "text": "Add validation checks in ResourceRequestSerializer"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-03-02T07:39:22.000Z",
-      "title": "coronasafe/leaderboard#305",
-      "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912596678",
-      "text": "update of scrollbar for pages"
     },
     {
       "type": "pr_reviewed",
@@ -377,13 +363,6 @@
       "text": "reset password schema for API docs swagger updated #1434"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2024-03-01T14:25:39.000Z",
-      "title": "coronasafe/care#1934",
-      "link": "https://github.com/coronasafe/care/pull/1934#pullrequestreview-1911295648",
-      "text": "reset password schema for API docs swagger updated #1434"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7319",
       "time": "2024-03-01T13:43:09.000Z",
@@ -396,13 +375,6 @@
       "time": "2024-03-01T13:41:38.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973226913",
       "text": "lets get it resolved asap\r\n"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-03-01T12:34:04.000Z",
-      "title": "coronasafe/care#1757",
-      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1911010691",
-      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
     },
     {
       "type": "pr_reviewed",
@@ -441,13 +413,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-03-01T12:17:51.000Z",
-      "title": "coronasafe/care#1929",
-      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1910995859",
-      "text": "Add age validation in PatientDetailSerializer"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-03-01T12:11:10.000Z",
       "title": "coronasafe/care#1912",
       "link": "https://github.com/coronasafe/care/pull/1912#pullrequestreview-1910989700",
@@ -459,13 +424,6 @@
       "time": "2024-03-01T12:08:12.000Z",
       "link": "https://github.com/coronasafe/care/issues/1930#issuecomment-1973074399",
       "text": "@arnit-coder will you be able to work on this?\r\n"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-03-01T04:58:50.000Z",
-      "title": "coronasafe/care#1932",
-      "link": "https://github.com/coronasafe/care/pull/1932#pullrequestreview-1910323151",
-      "text": "Fix:Migration of new facility types"
     },
     {
       "type": "pr_reviewed",
@@ -612,13 +570,6 @@
       "time": "2024-02-29T04:03:23.000Z",
       "title": "coronasafe/care#1908",
       "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1907885869",
-      "text": "Fixed N+1 queries issue in /api/v1/bed/"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-02-29T04:02:29.000Z",
-      "title": "coronasafe/care#1908",
-      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1907884950",
       "text": "Fixed N+1 queries issue in /api/v1/bed/"
     },
     {
@@ -780,13 +731,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-02-26T14:47:08.000Z",
-      "title": "coronasafe/care#1839",
-      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1901074754",
-      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-02-26T14:41:41.000Z",
       "title": "coronasafe/care#1908",
       "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1901062894",
@@ -819,13 +763,6 @@
       "time": "2024-02-26T14:34:25.000Z",
       "link": "https://github.com/coronasafe/teleicu_middleware/issues/22",
       "text": "Setup Sentry with Environment"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-02-26T14:05:31.000Z",
-      "title": "coronasafe/care#1757",
-      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1900558153",
-      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
     },
     {
       "type": "pr_reviewed",
@@ -921,13 +858,6 @@
       "title": "coronasafe/care#1910",
       "link": "https://github.com/coronasafe/care/pull/1910#pullrequestreview-1900595633",
       "text": "Added dummy data for shifting and Resource"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-02-26T11:11:56.000Z",
-      "title": "coronasafe/care#1911",
-      "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1900594037",
-      "text": "fix: Adds pagination to Facility linked list API"
     },
     {
       "type": "pr_reviewed",
@@ -1079,13 +1009,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-02-22T11:30:10.000Z",
-      "title": "coronasafe/care#1757",
-      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1895458382",
-      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-02-22T04:44:57.000Z",
       "title": "coronasafe/docs#4",
       "link": "https://github.com/coronasafe/docs/pull/4#pullrequestreview-1894884335",
@@ -1168,13 +1091,6 @@
       "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2024-02-17T18:19:45.000Z",
-      "title": "coronasafe/care#1757",
-      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1886770644",
-      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care#1894",
       "time": "2024-02-15T16:25:54.000Z",
@@ -1224,13 +1140,6 @@
       "title": "coronasafe/care#1839",
       "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1878579024",
       "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-02-13T17:33:43.000Z",
-      "title": "coronasafe/care#1757",
-      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1878562151",
-      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
     },
     {
       "type": "pr_reviewed",
@@ -1346,13 +1255,6 @@
       "text": "Add support for OpenAI TTS Engine"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2024-02-11T19:23:26.000Z",
-      "title": "coronasafe/ayushma#465",
-      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874420323",
-      "text": "Add support for OpenAI TTS Engine"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care#1888",
       "time": "2024-02-10T14:50:10.000Z",
@@ -1367,13 +1269,6 @@
       "link": "https://github.com/coronasafe/care/pull/1882",
       "text": "Fix prefetch_related in PatientInvestigationViewSet",
       "turnaround_time": 6492
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-02-10T14:46:29.000Z",
-      "title": "coronasafe/care#1839",
-      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1873723813",
-      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
     },
     {
       "type": "pr_reviewed",
@@ -1593,13 +1488,6 @@
       "text": "Track Location Uptime"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2024-02-08T15:21:50.000Z",
-      "title": "coronasafe/care#1843",
-      "link": "https://github.com/coronasafe/care/pull/1843#pullrequestreview-1870475923",
-      "text": "Track Location Uptime"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care#1879",
       "time": "2024-02-08T14:55:28.000Z",
@@ -1655,13 +1543,6 @@
       "time": "2024-02-03T18:30:49.000Z",
       "link": "https://github.com/coronasafe/care/pull/1869#issuecomment-1925423232",
       "text": "> @sainak, how about we keep a char choices field `occupation` in the patient registration table to keep it simple instead?\r\n\r\nmeta table is a good to have, it helps in keeping the main table less cluttered"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-02-03T18:28:24.000Z",
-      "title": "coronasafe/care#1869",
-      "link": "https://github.com/coronasafe/care/pull/1869#pullrequestreview-1861108356",
-      "text": "draft support for patient occupation"
     },
     {
       "type": "pr_reviewed",
@@ -1937,13 +1818,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-01-22T19:35:05.000Z",
-      "title": "coronasafe/care#1718",
-      "link": "https://github.com/coronasafe/care/pull/1718#pullrequestreview-1837220575",
-      "text": "Sort \"No Consultation Filed\" patients to the top of Patient List page "
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-01-22T16:16:30.000Z",
       "title": "coronasafe/care#1794",
       "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1836851003",
@@ -2076,20 +1950,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-01-18T13:57:26.000Z",
-      "title": "coronasafe/care#1794",
-      "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1829735916",
-      "text": "Send asset downtime status along with asset details"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-01-18T13:33:06.000Z",
-      "title": "coronasafe/care#1821",
-      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1829676037",
-      "text": "ABDM: Log the errors instead of sending them as a response"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-01-18T13:33:06.000Z",
       "title": "coronasafe/care#1821",
       "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1829676037",
@@ -2138,13 +1998,6 @@
       "time": "2024-01-18T10:45:22.000Z",
       "link": "https://github.com/coronasafe/care/pull/1836",
       "text": "Fix celery beat healthchecks"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-01-18T06:05:47.000Z",
-      "title": "coronasafe/care#1830",
-      "link": "https://github.com/coronasafe/care/pull/1830#pullrequestreview-1828902785",
-      "text": "Adds support for filtering patients by diagnoses"
     },
     {
       "type": "pr_reviewed",
@@ -2219,13 +2072,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-01-17T10:45:03.000Z",
-      "title": "coronasafe/care#1829",
-      "link": "https://github.com/coronasafe/care/pull/1829#pullrequestreview-1826447932",
-      "text": "ABDM M3"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-01-12T16:43:12.000Z",
       "title": "coronasafe/care#1820",
       "link": "https://github.com/coronasafe/care/pull/1820#pullrequestreview-1818654991",
@@ -2249,13 +2095,6 @@
       "link": "https://github.com/coronasafe/care/pull/1819",
       "text": "Add nurse user type",
       "turnaround_time": 4749
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-01-11T08:41:11.000Z",
-      "title": "coronasafe/care#1819",
-      "link": "https://github.com/coronasafe/care/pull/1819#pullrequestreview-1814981821",
-      "text": "Add nurse user type"
     },
     {
       "type": "pr_reviewed",
@@ -2377,13 +2216,6 @@
       "time": "2024-01-04T12:36:10.000Z",
       "title": "coronasafe/care#1807",
       "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804079855",
-      "text": "added error handling for get_hip_id_by_health_id"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-01-04T12:34:02.000Z",
-      "title": "coronasafe/care#1807",
-      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804071326",
       "text": "added error handling for get_hip_id_by_health_id"
     },
     {
@@ -2541,31 +2373,10 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-12-27T08:51:01.000Z",
-      "title": "coronasafe/care#1221",
-      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1796910361",
-      "text": "feat(patient notes): add edit window validation and update endpoint"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-12-27T08:46:05.000Z",
       "title": "coronasafe/care#1773",
       "link": "https://github.com/coronasafe/care/pull/1773#pullrequestreview-1796906553",
       "text": "Data Migration to Support New Discharge Reason Field"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-12-27T08:46:05.000Z",
-      "title": "coronasafe/care#1773",
-      "link": "https://github.com/coronasafe/care/pull/1773#pullrequestreview-1796906553",
-      "text": "Data Migration to Support New Discharge Reason Field"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-12-27T08:38:57.000Z",
-      "title": "coronasafe/care#1221",
-      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1796900761",
-      "text": "feat(patient notes): add edit window validation and update endpoint"
     },
     {
       "type": "pr_reviewed",
@@ -2738,13 +2549,6 @@
         "rithviknishad",
         "nihal467"
       ]
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-12-13T19:18:04.000Z",
-      "title": "coronasafe/care_fe#6856",
-      "link": "https://github.com/coronasafe/care_fe/pull/6856#pullrequestreview-1778872763",
-      "text": "Show correct error message for interval server errors"
     },
     {
       "type": "pr_reviewed",
@@ -3178,13 +2982,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-12-07T10:35:43.000Z",
-      "title": "coronasafe/care#1749",
-      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769709227",
-      "text": "Refactor Discharge Reason to Integer Format"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-12-06T13:02:50.000Z",
       "title": "coronasafe/care#1710",
       "link": "https://github.com/coronasafe/care/pull/1710#pullrequestreview-1767500619",
@@ -3196,13 +2993,6 @@
       "title": "coronasafe/care#1157",
       "link": "https://github.com/coronasafe/care/pull/1157#pullrequestreview-1767415857",
       "text": "Restrict Admin from unlinking users from other district"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-12-06T12:18:41.000Z",
-      "title": "coronasafe/care#1692",
-      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1767375099",
-      "text": "Prescription: Titrated drug dose"
     },
     {
       "type": "pr_reviewed",
@@ -3287,13 +3077,6 @@
       "title": "coronasafe/care#1741",
       "link": "https://github.com/coronasafe/care/pull/1741#pullrequestreview-1762262951",
       "text": "Add `resolved_middleware` JSON field to Asset Serializer."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-12-04T11:55:54.000Z",
-      "title": "coronasafe/care#1742",
-      "link": "https://github.com/coronasafe/care/pull/1742#pullrequestreview-1762230265",
-      "text": "Display users list based on user access limitation"
     },
     {
       "type": "pr_reviewed",
@@ -3396,13 +3179,6 @@
     {
       "type": "pr_reviewed",
       "time": "2023-11-27T12:45:16.000Z",
-      "title": "coronasafe/care#1728",
-      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1750338585",
-      "text": "Rename `admission_date` to `encounter_date` and clean column"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-11-27T12:45:05.000Z",
       "title": "coronasafe/care#1728",
       "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1750338585",
       "text": "Rename `admission_date` to `encounter_date` and clean column"
@@ -3567,13 +3343,6 @@
       "text": "Fix for Incorrect Discharge Reasons in Patient Transfers and Readmissions"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-11-14T17:50:58.000Z",
-      "title": "coronasafe/care#1712",
-      "link": "https://github.com/coronasafe/care/pull/1712#pullrequestreview-1730363011",
-      "text": "Fix for Incorrect Discharge Reasons in Patient Transfers and Readmissions"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6594",
       "time": "2023-11-14T14:16:08.000Z",
@@ -3586,13 +3355,6 @@
       "title": "coronasafe/care#1704",
       "link": "https://github.com/coronasafe/care/pull/1704#pullrequestreview-1729328787",
       "text": "Adds authz for Prescription & Medicine Administrations"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-11-14T07:42:27.000Z",
-      "title": "coronasafe/care#1678",
-      "link": "https://github.com/coronasafe/care/pull/1678#pullrequestreview-1729076447",
-      "text": "Patient Consultation: Route to Facility 🏥, Admission Date & Time 🕚, Rename variable: `verified_by` to `treating_physician`"
     },
     {
       "type": "pr_reviewed",
@@ -3812,13 +3574,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-11-03T07:27:20.000Z",
-      "title": "coronasafe/care#1688",
-      "link": "https://github.com/coronasafe/care/pull/1688#pullrequestreview-1711941132",
-      "text": "Add notifications for doctor notes"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-11-03T07:21:26.000Z",
       "title": "coronasafe/care#1575",
       "link": "https://github.com/coronasafe/care/pull/1575#pullrequestreview-1711935888",
@@ -3857,13 +3612,6 @@
       "time": "2023-11-03T06:43:47.000Z",
       "title": "coronasafe/care#1690",
       "link": "https://github.com/coronasafe/care/pull/1690#pullrequestreview-1711902885",
-      "text": "Adds M2M Consultation Diagnosis model"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-11-03T06:38:09.000Z",
-      "title": "coronasafe/care#1690",
-      "link": "https://github.com/coronasafe/care/pull/1690#pullrequestreview-1711860765",
       "text": "Adds M2M Consultation Diagnosis model"
     },
     {
@@ -3967,13 +3715,6 @@
       "time": "2023-10-20T09:11:44.000Z",
       "link": "https://github.com/coronasafe/care/pull/1505#issuecomment-1772367249",
       "text": "@Pranshu1902 delete and recreate the migrations"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-10-20T07:17:18.000Z",
-      "title": "coronasafe/care#1589",
-      "link": "https://github.com/coronasafe/care/pull/1589#pullrequestreview-1689381216",
-      "text": "Adds Nurse user type and promote existing staffs to nurse"
     },
     {
       "type": "pr_reviewed",
@@ -4113,13 +3854,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-10-06T12:20:43.000Z",
-      "title": "coronasafe/care#1588",
-      "link": "https://github.com/coronasafe/care/pull/1588#pullrequestreview-1661740186",
-      "text": "Filter out those facilities that are already linked to user"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-10-06T11:58:30.000Z",
       "title": "coronasafe/care#1661",
       "link": "https://github.com/coronasafe/care/pull/1661#pullrequestreview-1661709202",
@@ -4226,13 +3960,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-09-29T11:52:33.000Z",
-      "title": "coronasafe/care#1539",
-      "link": "https://github.com/coronasafe/care/pull/1539#pullrequestreview-1650629717",
-      "text": "Add list and detail serializer patient external serializer"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-09-28T22:23:26.000Z",
       "title": "coronasafe/care#1630",
       "link": "https://github.com/coronasafe/care/pull/1630#pullrequestreview-1649787359",
@@ -4271,13 +3998,6 @@
       "time": "2023-09-28T22:12:28.000Z",
       "title": "coronasafe/care#1531",
       "link": "https://github.com/coronasafe/care/pull/1531#pullrequestreview-1649778123",
-      "text": "List detail serializer notification"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-09-28T22:04:26.000Z",
-      "title": "coronasafe/care#1531",
-      "link": "https://github.com/coronasafe/care/pull/1531#pullrequestreview-1649766468",
       "text": "List detail serializer notification"
     },
     {
@@ -4379,13 +4099,6 @@
       "text": "Refactor ICD11 Table; Cleanup in-memory search"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-09-25T15:31:45.000Z",
-      "title": "coronasafe/care#1636",
-      "link": "https://github.com/coronasafe/care/pull/1636#pullrequestreview-1642447970",
-      "text": "Refactor ICD11 Table; Cleanup in-memory search"
-    },
-    {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1633",
       "time": "2023-09-22T17:59:07.000Z",
@@ -4445,13 +4158,6 @@
       "time": "2023-09-19T17:40:03.000Z",
       "link": "https://github.com/coronasafe/care/issues/1626",
       "text": "Add merge queues to this repo"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-09-19T16:31:20.000Z",
-      "title": "coronasafe/care#1625",
-      "link": "https://github.com/coronasafe/care/pull/1625#pullrequestreview-1633729600",
-      "text": "Added `AssetPublicQRViewSet` to handle QR code based asset retrieval"
     },
     {
       "type": "pr_reviewed",
@@ -4867,13 +4573,6 @@
       "text": "add field readmission + custom migration"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-09-08T09:38:07.000Z",
-      "title": "coronasafe/care#1572",
-      "link": "https://github.com/coronasafe/care/pull/1572#pullrequestreview-1617074388",
-      "text": "add field readmission + custom migration"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care#1584",
       "time": "2023-09-08T06:14:16.000Z",
@@ -4914,13 +4613,6 @@
       "title": "coronasafe/care#1567",
       "link": "https://github.com/coronasafe/care/pull/1567#pullrequestreview-1613093886",
       "text": "Foreign Key to User for Consultation Verified By"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-09-06T11:14:25.000Z",
-      "title": "coronasafe/care#1580",
-      "link": "https://github.com/coronasafe/care/pull/1580#pullrequestreview-1613078273",
-      "text": "Implement Tracking and Storing of Plausible Statistics"
     },
     {
       "type": "pr_reviewed",
@@ -5034,13 +4726,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-09-01T06:41:57.000Z",
-      "title": "coronasafe/care_fe#6201",
-      "link": "https://github.com/coronasafe/care_fe/pull/6201#pullrequestreview-1606349325",
-      "text": "Vite Config: Use `CARE_API` from env"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-09-01T06:40:05.000Z",
       "title": "coronasafe/care#1565",
       "link": "https://github.com/coronasafe/care/pull/1565#pullrequestreview-1606347345",
@@ -5073,13 +4758,6 @@
       "time": "2023-08-31T17:30:40.000Z",
       "link": "https://github.com/coronasafe/care/pull/1568",
       "text": "fix: user duplicate skill in facility_userskill"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-31T14:32:52.000Z",
-      "title": "coronasafe/care#1567",
-      "link": "https://github.com/coronasafe/care/pull/1567#pullrequestreview-1604902981",
-      "text": "Foreign Key to User for Consultation Verified By"
     },
     {
       "type": "pr_reviewed",
@@ -5160,24 +4838,10 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-08-29T11:38:47.000Z",
-      "title": "coronasafe/care#1565",
-      "link": "https://github.com/coronasafe/care/pull/1565#pullrequestreview-1600204011",
-      "text": "Reject Prescription Creation if Medicine already Prescribed and is active"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-08-29T11:33:06.000Z",
       "title": "coronasafe/care#1221",
       "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1600193961",
       "text": "feat(patient notes): add edit window validation and update endpoint"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-29T11:25:12.000Z",
-      "title": "coronasafe/care#1531",
-      "link": "https://github.com/coronasafe/care/pull/1531#pullrequestreview-1600180540",
-      "text": "List detail serializer notification"
     },
     {
       "type": "pr_reviewed",
@@ -5424,13 +5088,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-08-24T05:57:24.000Z",
-      "title": "coronasafe/care#1277",
-      "link": "https://github.com/coronasafe/care/pull/1277#pullrequestreview-1592826445",
-      "text": "feat: Add service request history for asset"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-08-23T17:59:32.000Z",
       "title": "coronasafe/care#1277",
       "link": "https://github.com/coronasafe/care/pull/1277#pullrequestreview-1592134972",
@@ -5449,13 +5106,6 @@
       "title": "coronasafe/care#1453",
       "link": "https://github.com/coronasafe/care/pull/1453#pullrequestreview-1592072209",
       "text": "Add boundary based validation"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-23T17:13:42.000Z",
-      "title": "coronasafe/care#1277",
-      "link": "https://github.com/coronasafe/care/pull/1277#pullrequestreview-1592060393",
-      "text": "feat: Add service request history for asset"
     },
     {
       "type": "pr_reviewed",
@@ -5717,13 +5367,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-08-18T07:10:47.000Z",
-      "title": "coronasafe/care#1221",
-      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1583976898",
-      "text": "feat(patient notes): add edit window validation and update endpoint"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-08-18T07:01:04.000Z",
       "title": "coronasafe/care#1277",
       "link": "https://github.com/coronasafe/care/pull/1277#pullrequestreview-1583966350",
@@ -5786,25 +5429,11 @@
       "text": "Added is_occupied field in Bed"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-08-08T19:11:00.000Z",
-      "title": "coronasafe/care#1093",
-      "link": "https://github.com/coronasafe/care/pull/1093#pullrequestreview-1567954579",
-      "text": "Added is_occupied field in Bed"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care#1505",
       "time": "2023-08-08T18:54:35.000Z",
       "link": "https://github.com/coronasafe/care/pull/1505#issuecomment-1670131330",
       "text": "> Switch to [docs.djangoproject.com/en/4.2/ref/models/fields/#positiveintegerfield](https://docs.djangoproject.com/en/4.2/ref/models/fields/#positiveintegerfield)\r\n\r\n@Pranshu1902 make sure to handle negative values while migrating"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-08T18:50:02.000Z",
-      "title": "coronasafe/care#1260",
-      "link": "https://github.com/coronasafe/care/pull/1260#pullrequestreview-1567928750",
-      "text": "fix: added recommend_discharge as action"
     },
     {
       "type": "pr_reviewed",
@@ -6031,24 +5660,10 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-08-03T13:14:03.000Z",
-      "title": "coronasafe/care#1229",
-      "link": "https://github.com/coronasafe/care/pull/1229#pullrequestreview-1561041751",
-      "text": "Hcx Refactors"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-08-03T12:44:29.000Z",
       "title": "coronasafe/care#1506",
       "link": "https://github.com/coronasafe/care/pull/1506#pullrequestreview-1561015925",
       "text": "Add referred facility to discharge serializer"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-03T12:38:33.000Z",
-      "title": "coronasafe/care#1507",
-      "link": "https://github.com/coronasafe/care/pull/1507#pullrequestreview-1561005035",
-      "text": "Made doctor role as static attribute"
     },
     {
       "type": "pr_reviewed",
@@ -6957,13 +6572,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-07-17T14:01:54.000Z",
-      "title": "coronasafe/care#1454",
-      "link": "https://github.com/coronasafe/care/pull/1454#pullrequestreview-1532839408",
-      "text": "Asset Tracking and Monitoring Enhancements"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-07-17T13:29:13.000Z",
       "title": "coronasafe/care#1447",
       "link": "https://github.com/coronasafe/care/pull/1447#pullrequestreview-1532788299",
@@ -7105,13 +6713,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-07-11T07:19:13.000Z",
-      "title": "coronasafe/care#1443",
-      "link": "https://github.com/coronasafe/care/pull/1443#pullrequestreview-1523585567",
-      "text": "Medibase: Drop littletable; instead store as list from ORM's `values_list`"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-07-11T07:13:22.000Z",
       "title": "coronasafe/care#1445",
       "link": "https://github.com/coronasafe/care/pull/1445#pullrequestreview-1523576946",
@@ -7133,13 +6734,6 @@
       "collaborated_with": [
         "vigneshhari"
       ]
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-07-08T07:22:58.000Z",
-      "title": "coronasafe/care#1275",
-      "link": "https://github.com/coronasafe/care/pull/1275#pullrequestreview-1520665442",
-      "text": "Modified bedCreate API View to support bulk creating beds"
     },
     {
       "type": "pr_reviewed",
@@ -7493,13 +7087,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-07-01T17:59:06.000Z",
-      "title": "coronasafe/care#1275",
-      "link": "https://github.com/coronasafe/care/pull/1275#pullrequestreview-1508750190",
-      "text": "Modified bedCreate API View to support bulk creating beds"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-07-01T15:45:00.000Z",
       "title": "coronasafe/care#1415",
       "link": "https://github.com/coronasafe/care/pull/1415#pullrequestreview-1508670647",
@@ -7691,13 +7278,6 @@
       "time": "2023-06-26T07:23:14.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5783",
       "text": "Fix PWA"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-06-24T18:18:54.000Z",
-      "title": "coronasafe/care#1157",
-      "link": "https://github.com/coronasafe/care/pull/1157#pullrequestreview-1496770743",
-      "text": "Restrict Admin from unlinking users from other district"
     },
     {
       "type": "pr_reviewed",
@@ -7943,13 +7523,6 @@
       "text": "Medibase Medicines Integration"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-06-14T12:35:57.000Z",
-      "title": "coronasafe/care#1369",
-      "link": "https://github.com/coronasafe/care/pull/1369#pullrequestreview-1479309158",
-      "text": "Medibase Medicines Integration"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care#1371",
       "time": "2023-06-14T10:47:09.000Z",
@@ -8133,13 +7706,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-06-02T11:00:53.000Z",
-      "title": "coronasafe/care#1310",
-      "link": "https://github.com/coronasafe/care/pull/1310#pullrequestreview-1457111289",
-      "text": "optimized the query performed to fetch skills in UserAssignedSerializer"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-06-02T10:28:22.000Z",
       "title": "coronasafe/care#1318",
       "link": "https://github.com/coronasafe/care/pull/1318#pullrequestreview-1457080785",
@@ -8186,13 +7752,6 @@
       "time": "2023-06-01T15:43:20.000Z",
       "link": "https://github.com/coronasafe/care/pull/1325#issuecomment-1572297032",
       "text": "In a through model the `on_delete` should be set to `models.CASCADE`, was there any specific reason to set it to `models.PROTECT` ? @vigneshhari"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-06-01T15:37:45.000Z",
-      "title": "coronasafe/care#1325",
-      "link": "https://github.com/coronasafe/care/pull/1325#pullrequestreview-1455775330",
-      "text": "Fixes issues with and related to `PatientAssetBed` view"
     },
     {
       "type": "pr_reviewed",
@@ -8602,13 +8161,6 @@
       "text": "vite migration"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-03-25T08:20:58.000Z",
-      "title": "coronasafe/care_fe#5140",
-      "link": "https://github.com/coronasafe/care_fe/pull/5140#pullrequestreview-1357795754",
-      "text": "vite migration"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5140",
       "time": "2023-03-24T09:56:28.000Z",
@@ -8846,18 +8398,6 @@
       "text": "Production Release; Oct Week 2",
       "collaborated_with": [
         "Ashesh3",
-        "gigincg"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care#1062",
-      "time": "2022-10-09T20:16:17.000Z",
-      "link": "https://github.com/coronasafe/care/pull/1062",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "Ashesh3",
-        "rithviknishad",
         "gigincg"
       ]
     },
@@ -9213,13 +8753,6 @@
       "text": "api - update role of user"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-08-09T17:03:11.000Z",
-      "title": "coronasafe/care#970",
-      "link": "https://github.com/coronasafe/care/pull/970#pullrequestreview-1067080101",
-      "text": "api - update role of user"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/teleicu_middleware#51",
       "time": "2022-08-09T03:52:13.000Z",
@@ -9367,48 +8900,6 @@
       "text": "Finalize MiddlewareAuthentication for required endpoints"
     },
     {
-      "type": "pr_merged",
-      "title": "coronasafe/care#811",
-      "time": "2022-06-27T20:16:42.000Z",
-      "link": "https://github.com/coronasafe/care/pull/811",
-      "text": "Finalize MiddlewareAuthentication for required endpoints"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-25T13:29:45.000Z",
-      "title": "coronasafe/care_fe#2897",
-      "link": "https://github.com/coronasafe/care_fe/pull/2897#pullrequestreview-1019313329",
-      "text": "Revamped patient details page UI"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-25T13:09:41.000Z",
-      "title": "coronasafe/care#874",
-      "link": "https://github.com/coronasafe/care/pull/874#pullrequestreview-1019307157",
-      "text": "Added features for facilities"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#881",
-      "time": "2022-06-25T13:08:38.000Z",
-      "link": "https://github.com/coronasafe/care/issues/881#issuecomment-1166281364",
-      "text": "> Is facility icon the same as facility cover image or different: #791 ?\r\n\r\n@Marmik2003 this api is needed to give out the summary for indicators mentioned  in care_fe#2759"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care#891",
-      "time": "2022-06-25T12:56:17.000Z",
-      "link": "https://github.com/coronasafe/care/issues/891",
-      "text": "AttributeError: 'AnonymousUser' object has no attribute 'user_type' on `/api/v1/asset/`"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#812",
-      "time": "2022-06-25T12:52:11.000Z",
-      "link": "https://github.com/coronasafe/care/issues/812#issuecomment-1166277839",
-      "text": "@gigincg it's a nice to have, chrome is closed sourced, vignesh tried using chromium but that didnt work either."
-    },
-    {
       "type": "pr_reviewed",
       "time": "2022-06-25T13:29:45.000Z",
       "title": "coronasafe/care_fe#2897",
@@ -9458,20 +8949,6 @@
       "text": "> Also this field is also present in the template. So do I have to delete from template too?\r\n\r\nwe are not using template views anymore and it is planned to be removed so its fine to leave it as it is."
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-06-24T05:00:42.000Z",
-      "title": "coronasafe/care#882",
-      "link": "https://github.com/coronasafe/care/pull/882#pullrequestreview-1017983471",
-      "text": "Removed current health field"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#882",
-      "time": "2022-06-24T05:00:11.000Z",
-      "link": "https://github.com/coronasafe/care/pull/882#issuecomment-1165197102",
-      "text": "> Also this field is also present in the template. So do I have to delete from template too?\r\n\r\nwe are not using template views anymore and it is planned to be removed so its fine to leave it as it is."
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care#874",
       "time": "2022-06-23T18:22:12.000Z",
@@ -9498,41 +8975,6 @@
       "title": "coronasafe/care#811",
       "link": "https://github.com/coronasafe/care/pull/811#pullrequestreview-1017440566",
       "text": "Finalize MiddlewareAuthentication for required endpoints"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#874",
-      "time": "2022-06-23T18:22:12.000Z",
-      "link": "https://github.com/coronasafe/care/pull/874#issuecomment-1164731144",
-      "text": "@skks1212 whats [this](https://github.com/coronasafe/care/pull/874/files#diff-af4f6a3a22f741955002ce0a55764940a9082a84d779e3db3c80b0f406ce4755) file for?"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T18:19:08.000Z",
-      "title": "coronasafe/care#882",
-      "link": "https://github.com/coronasafe/care/pull/882#pullrequestreview-1017459659",
-      "text": "Removed current health field"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T18:04:55.000Z",
-      "title": "coronasafe/care#811",
-      "link": "https://github.com/coronasafe/care/pull/811#pullrequestreview-1017441649",
-      "text": "Finalize MiddlewareAuthentication for required endpoints"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T18:04:00.000Z",
-      "title": "coronasafe/care#811",
-      "link": "https://github.com/coronasafe/care/pull/811#pullrequestreview-1017440566",
-      "text": "Finalize MiddlewareAuthentication for required endpoints"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#848",
-      "time": "2022-06-19T12:37:41.000Z",
-      "link": "https://github.com/coronasafe/care/pull/848",
-      "text": "update sentry sdk"
     },
     {
       "type": "pr_merged",
@@ -9661,13 +9103,6 @@
       "text": "Add check for empty comments and notes"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-06-08T12:54:23.000Z",
-      "title": "coronasafe/care#838",
-      "link": "https://github.com/coronasafe/care/pull/838#pullrequestreview-999665168",
-      "text": "Add check for empty comments and notes"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care#837",
       "time": "2022-06-08T12:23:54.000Z",
@@ -9780,13 +9215,6 @@
       "text": "updated user tests, removed facility tests"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-06-07T10:46:30.000Z",
-      "title": "coronasafe/care#824",
-      "link": "https://github.com/coronasafe/care/pull/824#pullrequestreview-997919880",
-      "text": "updated user tests, removed facility tests"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care#824",
       "time": "2022-06-06T21:42:22.000Z",
@@ -9857,25 +9285,11 @@
       "text": "Endpoint analyse/ fixed for read-only users"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-06-04T11:26:17.000Z",
-      "title": "coronasafe/care#817",
-      "link": "https://github.com/coronasafe/care/pull/817#pullrequestreview-995796762",
-      "text": "Endpoint analyse/ fixed for read-only users"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care#792",
       "time": "2022-06-04T10:09:40.000Z",
       "link": "https://github.com/coronasafe/care/issues/792#issuecomment-1146582385",
       "text": "> We can but let it be there. Since we have multiple instances being deployed to\r\n\r\n@tomahawk-pilot I'm asking auto deployments only for Staging-egov, If the review requirement could be removed for `Staging-egov` environment the FE development and testing won't be blocked by pending deployments."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-04T09:12:21.000Z",
-      "title": "coronasafe/care#817",
-      "link": "https://github.com/coronasafe/care/pull/817#pullrequestreview-995787289",
-      "text": "Endpoint analyse/ fixed for read-only users"
     },
     {
       "type": "pr_reviewed",
@@ -10023,13 +9437,6 @@
       "time": "2022-05-27T17:20:47.000Z",
       "link": "https://github.com/coronasafe/care/pull/769#issuecomment-1139827654",
       "text": "@rabilrbl recreate the migrations"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-05-27T17:07:08.000Z",
-      "title": "coronasafe/care#769",
-      "link": "https://github.com/coronasafe/care/pull/769#pullrequestreview-987790203",
-      "text": "Make the meta field optional in Asset & Bed Tables"
     },
     {
       "type": "pr_reviewed",

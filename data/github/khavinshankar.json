@@ -49,13 +49,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-03-05T16:54:26.000Z",
-      "title": "coronasafe/care_fe#7301",
-      "link": "https://github.com/coronasafe/care_fe/pull/7301#pullrequestreview-1917599509",
-      "text": "Log update vital feature modified "
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-03-05T16:40:51.000Z",
       "title": "coronasafe/care_fe#7301",
       "link": "https://github.com/coronasafe/care_fe/pull/7301#pullrequestreview-1917560439",
@@ -280,13 +273,6 @@
       "title": "coronasafe/care_fe#7291",
       "link": "https://github.com/coronasafe/care_fe/pull/7291#pullrequestreview-1903103814",
       "text": "License update"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-02-27T10:12:31.000Z",
-      "title": "coronasafe/leaderboard#261",
-      "link": "https://github.com/coronasafe/leaderboard/pull/261#pullrequestreview-1903085260",
-      "text": "Adds workflow to trigger Slack EOD Updates Bot"
     },
     {
       "type": "pr_reviewed",
@@ -711,13 +697,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-02-07T16:48:54.000Z",
-      "title": "coronasafe/care_fe#7189",
-      "link": "https://github.com/coronasafe/care_fe/pull/7189#pullrequestreview-1868314529",
-      "text": "fixes improper string interpolation in relative dates causing 'false' to be present when withoutSuffix is disabled"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-02-07T16:47:26.000Z",
       "title": "coronasafe/care_fe#7191",
       "link": "https://github.com/coronasafe/care_fe/pull/7191#pullrequestreview-1868312144",
@@ -750,13 +729,6 @@
       "title": "coronasafe/care_fe#6960",
       "link": "https://github.com/coronasafe/care_fe/pull/6960#pullrequestreview-1867402295",
       "text": "Fixes responsiveness in Facilty Home"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-02-07T05:59:15.000Z",
-      "title": "coronasafe/care_fe#6487",
-      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1866960643",
-      "text": "Abdm M3"
     },
     {
       "type": "pr_reviewed",
@@ -928,13 +900,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2024-02-06T09:13:42.000Z",
-      "title": "coronasafe/care_fe#5681",
-      "link": "https://github.com/coronasafe/care_fe/pull/5681#pullrequestreview-1864627846",
-      "text": "HCX Communication"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2024-02-06T08:37:08.000Z",
       "title": "coronasafe/care_fe#7177",
       "link": "https://github.com/coronasafe/care_fe/pull/7177#pullrequestreview-1864556163",
@@ -967,13 +932,6 @@
       "title": "coronasafe/care_fe#7165",
       "link": "https://github.com/coronasafe/care_fe/pull/7165#pullrequestreview-1862459639",
       "text": "New Cypress Test | Patient Transfer and Patient Data Import From External Result | Patient Module"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#7166",
-      "time": "2024-02-05T10:50:38.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/7166",
-      "text": "Patient Filters: Selected state of Facility, LSG Body and District is not working as expected"
     },
     {
       "type": "issue_closed",
@@ -1319,13 +1277,6 @@
       "text": "Added support for multi-line text input for Doctor Notes"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2024-01-23T15:39:28.000Z",
-      "title": "coronasafe/care_fe#6977",
-      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1839129776",
-      "text": "Added support for multi-line text input for Doctor Notes"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6751",
       "time": "2024-01-23T15:35:19.000Z",
@@ -1387,13 +1338,6 @@
       "title": "coronasafe/care_fe#7083",
       "link": "https://github.com/coronasafe/care_fe/pull/7083#pullrequestreview-1839081755",
       "text": "Add CSP headers"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-01-23T14:30:48.000Z",
-      "title": "coronasafe/leaderboard#206",
-      "link": "https://github.com/coronasafe/leaderboard/pull/206#pullrequestreview-1838931934",
-      "text": "Adds support for flexible date range in leaderboard and other QOL fixes"
     },
     {
       "type": "pr_reviewed",
@@ -2729,13 +2673,6 @@
       "text": "fix(location): duty doctors and staff for each location in a facility"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-12-20T11:58:11.000Z",
-      "title": "coronasafe/care_fe#6512",
-      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1790746624",
-      "text": "fix(location): duty doctors and staff for each location in a facility"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6855",
       "time": "2023-12-20T08:28:45.000Z",
@@ -3317,13 +3254,6 @@
       "text": "Changed to current date time instead of date time at which app was loaded."
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-12-06T14:06:38.000Z",
-      "title": "coronasafe/care_fe#6791",
-      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1766933009",
-      "text": "Changed to current date time instead of date time at which app was loaded."
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6652",
       "time": "2023-12-06T07:57:20.000Z",
@@ -3731,13 +3661,6 @@
       "title": "coronasafe/care_fe#6688",
       "link": "https://github.com/coronasafe/care_fe/pull/6688#pullrequestreview-1754447569",
       "text": "hide location filter if facility is not selected"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-11-29T04:43:58.000Z",
-      "title": "coronasafe/care_fe#6694",
-      "link": "https://github.com/coronasafe/care_fe/pull/6694#pullrequestreview-1754445208",
-      "text": "Modified the external results sample format"
     },
     {
       "type": "pr_reviewed",
@@ -5725,13 +5648,6 @@
       "text": "Disable out of constraint dates in DateInputV2"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-10-04T04:31:55.000Z",
-      "title": "coronasafe/care_fe#6379",
-      "link": "https://github.com/coronasafe/care_fe/pull/6379#pullrequestreview-1656648483",
-      "text": "Disable out of constraint dates in DateInputV2"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6371",
       "time": "2023-10-04T04:28:31.000Z",
@@ -5807,13 +5723,6 @@
       "title": "coronasafe/care_fe#6333",
       "link": "https://github.com/coronasafe/care_fe/pull/6333#pullrequestreview-1656619411",
       "text": "Refactor: replaced Dispatch to useQuery/Request of src/Components/Auth/log…"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-10-03T15:32:36.000Z",
-      "title": "coronasafe/care_fe#6374",
-      "link": "https://github.com/coronasafe/care_fe/pull/6374#pullrequestreview-1655505652",
-      "text": "Replaced dispatch with useQuery and request in Asset module"
     },
     {
       "type": "pr_reviewed",
@@ -6888,13 +6797,6 @@
       "text": "Live Camera Feed Enhancement(Review, QA and testing)"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-09-06T07:45:39.000Z",
-      "title": "coronasafe/care_fe#6223",
-      "link": "https://github.com/coronasafe/care_fe/pull/6223#pullrequestreview-1612616056",
-      "text": "Live Camera Feed Enhancement(Review, QA and testing)"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6178",
       "time": "2023-09-06T03:10:05.000Z",
@@ -7119,13 +7021,6 @@
       "text": "Foreign Key to User for Consultation Verified By"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-09-01T11:30:34.000Z",
-      "title": "coronasafe/care#1567",
-      "link": "https://github.com/coronasafe/care/pull/1567#pullrequestreview-1606773065",
-      "text": "Foreign Key to User for Consultation Verified By"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6193",
       "time": "2023-09-01T06:44:44.000Z",
@@ -7292,13 +7187,6 @@
       "title": "coronasafe/care_fe#6172",
       "link": "https://github.com/coronasafe/care_fe/pull/6172#pullrequestreview-1601820753",
       "text": "Minor UI Fix: Button background should not appear when loading"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-29T13:06:24.000Z",
-      "title": "coronasafe/care_fe#6171",
-      "link": "https://github.com/coronasafe/care_fe/pull/6171#pullrequestreview-1600370794",
-      "text": "Merged configure facility and configure health facility in one page"
     },
     {
       "type": "pr_reviewed",
@@ -7479,13 +7367,6 @@
       "collaborated_with": [
         "nihal467"
       ]
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-24T13:59:10.000Z",
-      "title": "coronasafe/care_fe#6128",
-      "link": "https://github.com/coronasafe/care_fe/pull/6128#pullrequestreview-1593681584",
-      "text": "cypress maintenance fix"
     },
     {
       "type": "pr_reviewed",
@@ -7918,13 +7799,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-08-14T11:58:15.000Z",
-      "title": "coronasafe/care_fe#6067",
-      "link": "https://github.com/coronasafe/care_fe/pull/6067#pullrequestreview-1576705239",
-      "text": "Fixed responsive issue in resource page and user page"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-08-14T11:51:25.000Z",
       "title": "coronasafe/care_fe#6071",
       "link": "https://github.com/coronasafe/care_fe/pull/6071#pullrequestreview-1576697020",
@@ -8019,13 +7893,6 @@
       "time": "2023-08-11T06:23:32.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6050",
       "text": "Use absolute paths for imports"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-11T06:22:11.000Z",
-      "title": "coronasafe/care_fe#6048",
-      "link": "https://github.com/coronasafe/care_fe/pull/6048#pullrequestreview-1573058072",
-      "text": "Fix display of localized dates"
     },
     {
       "type": "pr_reviewed",
@@ -9333,13 +9200,6 @@
       "text": "HCX Communication"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-07-10T15:18:50.000Z",
-      "title": "coronasafe/care_fe#5681",
-      "link": "https://github.com/coronasafe/care_fe/pull/5681#pullrequestreview-1522337853",
-      "text": "HCX Communication"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care#1446",
       "time": "2023-07-10T14:45:02.000Z",
@@ -10182,13 +10042,6 @@
       "text": "Replace Material UI components in `src/Components/Facility/FacilityHome.tsx`:"
     },
     {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#4953",
-      "time": "2023-06-21T06:42:47.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/4953",
-      "text": "Replace Material UI components in `src/Components/Facility/FacilityHome.tsx`:"
-    },
-    {
       "type": "pr_reviewed",
       "time": "2023-06-21T06:42:34.000Z",
       "title": "coronasafe/care_fe#5650",
@@ -10633,13 +10486,6 @@
       "text": "Changed UI for Live/Discharged Tabs in Patients Page"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-06-12T12:46:27.000Z",
-      "title": "coronasafe/care_fe#5543",
-      "link": "https://github.com/coronasafe/care_fe/pull/5543#pullrequestreview-1474845325",
-      "text": "Changed UI for Live/Discharged Tabs in Patients Page"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#4956",
       "time": "2023-06-12T12:44:12.000Z",
@@ -10792,13 +10638,6 @@
       "title": "coronasafe/care_fe#5631",
       "link": "https://github.com/coronasafe/care_fe/pull/5631#pullrequestreview-1474790345",
       "text": "Tailwinds `SampleDetails.tsx`"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-06-12T04:57:37.000Z",
-      "title": "coronasafe/care_fe#5601",
-      "link": "https://github.com/coronasafe/care_fe/pull/5601#pullrequestreview-1474031271",
-      "text": "index field added as key to remove warnings"
     },
     {
       "type": "pr_reviewed",
@@ -11002,13 +10841,6 @@
       "text": "Cypress Test - Create Consultation For a new patient "
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-06-05T13:58:45.000Z",
-      "title": "coronasafe/care_fe#5603",
-      "link": "https://github.com/coronasafe/care_fe/pull/5603#pullrequestreview-1462615882",
-      "text": "Cypress Test - Create Consultation For a new patient "
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care#1346",
       "time": "2023-06-05T08:22:15.000Z",
@@ -11200,13 +11032,6 @@
       "title": "coronasafe/care_fe#5569",
       "link": "https://github.com/coronasafe/care_fe/pull/5569#pullrequestreview-1450746220",
       "text": "fix phone number autofocus"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-05-30T11:22:00.000Z",
-      "title": "coronasafe/care_fe#5543",
-      "link": "https://github.com/coronasafe/care_fe/pull/5543#pullrequestreview-1450703463",
-      "text": "Changed UI for Live/Discharged Tabs in Patients Page"
     },
     {
       "type": "pr_reviewed",
@@ -12216,13 +12041,6 @@
       "text": "made the assigned to field only available to wartime mode"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-04-26T06:30:06.000Z",
-      "title": "coronasafe/care_fe#5411",
-      "link": "https://github.com/coronasafe/care_fe/pull/5411#pullrequestreview-1401248151",
-      "text": "made the assigned to field only available to wartime mode"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#5256",
       "time": "2023-04-26T04:02:03.000Z",
@@ -13109,13 +12927,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-04-05T04:13:24.000Z",
-      "title": "coronasafe/care_fe#5200",
-      "link": "https://github.com/coronasafe/care_fe/pull/5200#pullrequestreview-1372123617",
-      "text": "Fixed Page redirection malfunction issue in the facility cns page"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-04-05T04:10:30.000Z",
       "title": "coronasafe/care_fe#5164",
       "link": "https://github.com/coronasafe/care_fe/pull/5164#pullrequestreview-1372122124",
@@ -13217,13 +13028,6 @@
       "time": "2023-04-03T15:16:03.000Z",
       "title": "coronasafe/care_fe#5140",
       "link": "https://github.com/coronasafe/care_fe/pull/5140#pullrequestreview-1369259960",
-      "text": "vite migration"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-04-03T07:01:11.000Z",
-      "title": "coronasafe/care_fe#5140",
-      "link": "https://github.com/coronasafe/care_fe/pull/5140#pullrequestreview-1368398825",
       "text": "vite migration"
     },
     {
@@ -13997,13 +13801,6 @@
       "text": "Added red border on select input fields and removed MUI"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-03-14T04:44:23.000Z",
-      "title": "coronasafe/care_fe#5089",
-      "link": "https://github.com/coronasafe/care_fe/pull/5089#pullrequestreview-1338419710",
-      "text": "Added red border on select input fields and removed MUI"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#5100",
       "time": "2023-03-14T04:42:55.000Z",
@@ -14198,13 +13995,6 @@
       "title": "coronasafe/care_fe#5048",
       "link": "https://github.com/coronasafe/care_fe/pull/5048#pullrequestreview-1336458063",
       "text": "fix: Showing Consultation and discharge dates"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-03-13T06:58:09.000Z",
-      "title": "coronasafe/care_fe#5054",
-      "link": "https://github.com/coronasafe/care_fe/pull/5054#pullrequestreview-1336341682",
-      "text": "Resolves malfunctioning Add Doctor Capacity form"
     },
     {
       "type": "pr_reviewed",
@@ -14710,13 +14500,6 @@
       "time": "2023-02-28T08:13:00.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/4418",
       "text": "Migrate to  Part 6 (2 migrations under facility)"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#4649",
-      "time": "2023-02-28T08:05:49.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/4649",
-      "text": "Add `RelativeTime` component which shows actual timestamp on hover else relative time (like GitHub relative-time)"
     },
     {
       "type": "issue_closed",
@@ -15492,104 +15275,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-02-13T06:21:04.000Z",
-      "title": "coronasafe/care_fe#4653",
-      "link": "https://github.com/coronasafe/care_fe/pull/4653#pullrequestreview-1295003491",
-      "text": "Adds `RelativeTime` component"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T06:15:20.000Z",
-      "title": "coronasafe/care_fe#4740",
-      "link": "https://github.com/coronasafe/care_fe/pull/4740#pullrequestreview-1294998984",
-      "text": "Fix facility create page responsiveness and adds `RadioFormField` component"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T06:11:13.000Z",
-      "title": "coronasafe/care_fe#4771",
-      "link": "https://github.com/coronasafe/care_fe/pull/4771#pullrequestreview-1294995673",
-      "text": "Made the user add button consistent with others"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T06:10:34.000Z",
-      "title": "coronasafe/care_fe#4782",
-      "link": "https://github.com/coronasafe/care_fe/pull/4782#pullrequestreview-1294995054",
-      "text": "Add hover effect to Cancel button in Advanced Filters"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#3360",
-      "time": "2023-02-13T06:01:51.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3360#issuecomment-1427393373",
-      "text": "outdated, not relevant"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T13:14:55.000Z",
-      "title": "coronasafe/care_fe#4802",
-      "link": "https://github.com/coronasafe/care_fe/pull/4802#pullrequestreview-1295623147",
-      "text": "Hide query params on initial load"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T13:13:50.000Z",
-      "title": "coronasafe/care_fe#4792",
-      "link": "https://github.com/coronasafe/care_fe/pull/4792#pullrequestreview-1295621416",
-      "text": "Migrates usages of deprecated `goBack` utility to use the new goBack provided by `useAppHistory`"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T13:12:45.000Z",
-      "title": "coronasafe/care_fe#4791",
-      "link": "https://github.com/coronasafe/care_fe/pull/4791#pullrequestreview-1295619632",
-      "text": "Disabled Proceed button of Edit File Name"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T13:11:47.000Z",
-      "title": "coronasafe/care_fe#4806",
-      "link": "https://github.com/coronasafe/care_fe/pull/4806#pullrequestreview-1295618124",
-      "text": "Set default value of sliders to their min value"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T13:08:37.000Z",
-      "title": "coronasafe/care_fe#4801",
-      "link": "https://github.com/coronasafe/care_fe/pull/4801#pullrequestreview-1295613316",
-      "text": "UI fixes for User cards"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T13:07:52.000Z",
-      "title": "coronasafe/care_fe#4796",
-      "link": "https://github.com/coronasafe/care_fe/pull/4796#pullrequestreview-1295612153",
-      "text": "Added Page Component to make padding across pages to be consistent"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T07:32:02.000Z",
-      "title": "coronasafe/care_fe#4791",
-      "link": "https://github.com/coronasafe/care_fe/pull/4791#pullrequestreview-1295072008",
-      "text": "Disabled Proceed button of Edit File Name"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T06:21:04.000Z",
-      "title": "coronasafe/care_fe#4653",
-      "link": "https://github.com/coronasafe/care_fe/pull/4653#pullrequestreview-1295003491",
-      "text": "Adds `RelativeTime` component"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T06:21:04.000Z",
-      "title": "coronasafe/care_fe#4653",
-      "link": "https://github.com/coronasafe/care_fe/pull/4653#pullrequestreview-1295003491",
-      "text": "Adds `RelativeTime` component"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-02-13T06:15:20.000Z",
       "title": "coronasafe/care_fe#4740",
       "link": "https://github.com/coronasafe/care_fe/pull/4740#pullrequestreview-1294998984",
@@ -15702,13 +15387,6 @@
       "title": "coronasafe/care_fe#4746",
       "link": "https://github.com/coronasafe/care_fe/pull/4746#pullrequestreview-1289172185",
       "text": "Localizations for texts in ExternalResult"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-08T13:21:46.000Z",
-      "title": "coronasafe/care_fe#4738",
-      "link": "https://github.com/coronasafe/care_fe/pull/4738#pullrequestreview-1289167826",
-      "text": "Added Total Doctors Count card on Facility home page"
     },
     {
       "type": "pr_reviewed",
@@ -15926,20 +15604,6 @@
       "time": "2023-02-07T04:53:03.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/4779",
       "text": "Abdm Integration"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#4697",
-      "time": "2023-02-06T10:55:17.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/4697#issuecomment-1418887662",
-      "text": "@cp-Coder can you please work on this immediately and push a pr ASAP, this needs to be released in this week's release\r\n\r\ncc: @nihal467 "
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#4772",
-      "time": "2023-02-06T07:37:18.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/4772",
-      "text": "Added skills in doctor connect"
     },
     {
       "type": "comment_created",
@@ -17935,13 +17599,6 @@
       "text": "Handle situation when coverimg fails to upload also added hints for uploading coverimage"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2023-01-03T05:51:46.000Z",
-      "title": "coronasafe/care_fe#4266",
-      "link": "https://github.com/coronasafe/care_fe/pull/4266#pullrequestreview-1234112509",
-      "text": "Handle situation when coverimg fails to upload also added hints for uploading coverimage"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4427",
       "time": "2023-01-03T05:49:20.000Z",
@@ -18881,13 +18538,6 @@
       "text": "Allow 11 digits only when a phone number starts with 1800"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-12-21T06:04:14.000Z",
-      "title": "coronasafe/care_fe#4366",
-      "link": "https://github.com/coronasafe/care_fe/pull/4366#pullrequestreview-1225501326",
-      "text": "Allow 11 digits only when a phone number starts with 1800"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4134",
       "time": "2022-12-21T05:55:21.000Z",
@@ -18907,20 +18557,6 @@
       "title": "coronasafe/care_fe#4134",
       "link": "https://github.com/coronasafe/care_fe/pull/4134#pullrequestreview-1225493771",
       "text": "Added Cypress Spec for asset creation"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-12-21T05:53:22.000Z",
-      "title": "coronasafe/care_fe#4134",
-      "link": "https://github.com/coronasafe/care_fe/pull/4134#pullrequestreview-1225493771",
-      "text": "Added Cypress Spec for asset creation"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-12-21T05:36:37.000Z",
-      "title": "coronasafe/care_fe#4028",
-      "link": "https://github.com/coronasafe/care_fe/pull/4028#pullrequestreview-1225483595",
-      "text": "Remove broken pagination and disable inputs on Inventory Management"
     },
     {
       "type": "pr_reviewed",
@@ -19337,13 +18973,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-12-16T12:44:02.000Z",
-      "title": "coronasafe/care_fe#4295",
-      "link": "https://github.com/coronasafe/care_fe/pull/4295#pullrequestreview-1220797608",
-      "text": "Made verified by field in consultation required"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-12-16T12:35:02.000Z",
       "title": "coronasafe/care_fe#4251",
       "link": "https://github.com/coronasafe/care_fe/pull/4251#pullrequestreview-1220787055",
@@ -19355,13 +18984,6 @@
       "time": "2022-12-16T12:32:45.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/4294#issuecomment-1354701086",
       "text": "@skks1212 can you check this and clear it out as soon as possible"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-12-16T12:31:59.000Z",
-      "title": "coronasafe/care_fe#4294",
-      "link": "https://github.com/coronasafe/care_fe/pull/4294#pullrequestreview-1220783490",
-      "text": "Added 11 digit restriction for toll free numbers"
     },
     {
       "type": "pr_reviewed",
@@ -19550,13 +19172,6 @@
       "text": "feat: added admitted bed type filter"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-12-07T13:11:02.000Z",
-      "title": "coronasafe/care_fe#3963",
-      "link": "https://github.com/coronasafe/care_fe/pull/3963#pullrequestreview-1208388985",
-      "text": "feat: added admitted bed type filter"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/teleicu_middleware#62",
       "time": "2022-12-07T11:47:57.000Z",
@@ -19613,13 +19228,6 @@
       "text": "Made the adding cover image feature visible in mobile devices when there is no cover image"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-12-07T06:19:55.000Z",
-      "title": "coronasafe/care_fe#4149",
-      "link": "https://github.com/coronasafe/care_fe/pull/4149#pullrequestreview-1207824433",
-      "text": "Made the adding cover image feature visible in mobile devices when there is no cover image"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#4188",
       "time": "2022-12-07T06:16:15.000Z",
@@ -19667,13 +19275,6 @@
       "title": "coronasafe/care_fe#4222",
       "link": "https://github.com/coronasafe/care_fe/pull/4222#pullrequestreview-1207814609",
       "text": "Removed extra space in login page and fit it to screen size"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-12-07T06:05:33.000Z",
-      "title": "coronasafe/care_fe#4227",
-      "link": "https://github.com/coronasafe/care_fe/pull/4227#pullrequestreview-1207813098",
-      "text": "Fix (HospitalList): textarea of notify facility modal"
     },
     {
       "type": "pr_reviewed",
@@ -19753,13 +19354,6 @@
       "text": "Added a modal to notify user if a existing triage exist"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-12-06T11:12:48.000Z",
-      "title": "coronasafe/care_fe#4008",
-      "link": "https://github.com/coronasafe/care_fe/pull/4008#pullrequestreview-1206374251",
-      "text": "Added a modal to notify user if a existing triage exist"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4124",
       "time": "2022-12-06T08:37:55.000Z",
@@ -19772,13 +19366,6 @@
       "title": "coronasafe/care_fe#4124",
       "link": "https://github.com/coronasafe/care_fe/pull/4124#pullrequestreview-1206116794",
       "text": "Removed auto scroll to top on Users page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-12-06T08:33:34.000Z",
-      "title": "coronasafe/care_fe#4215",
-      "link": "https://github.com/coronasafe/care_fe/pull/4215#pullrequestreview-1206111039",
-      "text": "fix(patient): re-admission is using existing consultation"
     },
     {
       "type": "pr_reviewed",
@@ -19942,13 +19529,6 @@
       "text": "fix(facility): cancel button is malfunction in facility update page"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-12-05T04:18:44.000Z",
-      "title": "coronasafe/care_fe#4214",
-      "link": "https://github.com/coronasafe/care_fe/pull/4214#pullrequestreview-1203838846",
-      "text": "fix(facility): cancel button is malfunction in facility update page"
-    },
-    {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#4216",
       "time": "2022-12-04T17:15:41.000Z",
@@ -19964,13 +19544,6 @@
         "cp-Coder",
         "dependabot[bot]"
       ]
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-12-04T13:41:07.000Z",
-      "title": "coronasafe/care_fe#4214",
-      "link": "https://github.com/coronasafe/care_fe/pull/4214#pullrequestreview-1203655638",
-      "text": "fix(facility): cancel button is malfunction in facility update page"
     },
     {
       "type": "pr_reviewed",
@@ -20090,13 +19663,6 @@
       "title": "coronasafe/care_fe#4158",
       "link": "https://github.com/coronasafe/care_fe/pull/4158#pullrequestreview-1200921271",
       "text": "Fix updatePreset"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-12-01T12:41:45.000Z",
-      "title": "coronasafe/care_fe#3307",
-      "link": "https://github.com/coronasafe/care_fe/pull/3307#pullrequestreview-1200917550",
-      "text": "fix: remove raw css file import from .res files in critical care recording"
     },
     {
       "type": "pr_reviewed",
@@ -20385,13 +19951,6 @@
       "time": "2022-11-24T05:30:14.000Z",
       "title": "coronasafe/care_fe#4041",
       "link": "https://github.com/coronasafe/care_fe/pull/4041#pullrequestreview-1192543063",
-      "text": "Generalize handling of filters and pagination with `useFilters` hook"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-11-24T05:23:32.000Z",
-      "title": "coronasafe/care_fe#4041",
-      "link": "https://github.com/coronasafe/care_fe/pull/4041#pullrequestreview-1192531728",
       "text": "Generalize handling of filters and pagination with `useFilters` hook"
     },
     {
@@ -20814,13 +20373,6 @@
       "text": "Remove broken pagination and disable inputs on Inventory Management"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-11-16T12:46:04.000Z",
-      "title": "coronasafe/care_fe#4028",
-      "link": "https://github.com/coronasafe/care_fe/pull/4028#pullrequestreview-1182501575",
-      "text": "Remove broken pagination and disable inputs on Inventory Management"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#4000",
       "time": "2022-11-16T12:37:16.000Z",
@@ -20896,13 +20448,6 @@
       "title": "coronasafe/care_fe#4053",
       "link": "https://github.com/coronasafe/care_fe/pull/4053#pullrequestreview-1182477601",
       "text": "Auto scroll to error on Asset Creation"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-11-16T12:12:08.000Z",
-      "title": "coronasafe/care_fe#4061",
-      "link": "https://github.com/coronasafe/care_fe/pull/4061#pullrequestreview-1182448551",
-      "text": "Upload file option disabled for discharged patients"
     },
     {
       "type": "pr_reviewed",
@@ -21165,13 +20710,6 @@
       "text": "Waveform Refresh Mode"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-11-09T15:37:19.000Z",
-      "title": "coronasafe/care_fe#3768",
-      "link": "https://github.com/coronasafe/care_fe/pull/3768#pullrequestreview-1174277201",
-      "text": "Waveform Refresh Mode"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#4016",
       "time": "2022-11-09T14:09:12.000Z",
@@ -21333,13 +20871,6 @@
       "text": "Fixed facility search offset"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-11-09T10:02:18.000Z",
-      "title": "coronasafe/care_fe#4004",
-      "link": "https://github.com/coronasafe/care_fe/pull/4004#pullrequestreview-1173724502",
-      "text": "Fixed facility search offset"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#3973",
       "time": "2022-11-08T05:31:25.000Z",
@@ -21489,13 +21020,6 @@
       "time": "2022-11-04T04:55:35.000Z",
       "link": "https://github.com/coronasafe/care_dashboard/pull/60",
       "text": "Simplified env for deployment"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-11-02T14:38:12.000Z",
-      "title": "coronasafe/care_fe#3918",
-      "link": "https://github.com/coronasafe/care_fe/pull/3918#pullrequestreview-1165374293",
-      "text": "Added create more button in the asset creation form"
     },
     {
       "type": "pr_reviewed",
@@ -21694,13 +21218,6 @@
       "text": "Added Home Facility name beside doctors name while assigning doctor in Consutation Page"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-11-01T16:19:30.000Z",
-      "title": "coronasafe/care_fe#3897",
-      "link": "https://github.com/coronasafe/care_fe/pull/3897#pullrequestreview-1163634011",
-      "text": "Added Home Facility name beside doctors name while assigning doctor in Consutation Page"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care#1085",
       "time": "2022-11-01T11:04:52.000Z",
@@ -21748,13 +21265,6 @@
       "time": "2022-11-01T08:20:06.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3356#issuecomment-1298199891",
       "text": "@nihal467 yes, it was done by @arpancodes long back, i'm not sure even if this is relevant anymore, we already investigation, so not sure if we need procedure "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-11-01T06:51:01.000Z",
-      "title": "coronasafe/care_fe#3275",
-      "link": "https://github.com/coronasafe/care_fe/pull/3275#pullrequestreview-1162907820",
-      "text": "Added image for locations not found"
     },
     {
       "type": "pr_reviewed",
@@ -22198,13 +21708,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-10-24T14:31:28.000Z",
-      "title": "coronasafe/care#1076",
-      "link": "https://github.com/coronasafe/care/pull/1076#pullrequestreview-1153249303",
-      "text": "fix(Patient): Updated review_time logic"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-10-24T14:07:29.000Z",
       "title": "coronasafe/care#1076",
       "link": "https://github.com/coronasafe/care/pull/1076#pullrequestreview-1153208234",
@@ -22348,13 +21851,6 @@
       "text": "Patient Review feature fixes"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-10-21T15:17:46.000Z",
-      "title": "coronasafe/care_fe#3584",
-      "link": "https://github.com/coronasafe/care_fe/pull/3584#pullrequestreview-1151139174",
-      "text": "Patient Review feature fixes"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#2210",
       "time": "2022-10-21T15:11:03.000Z",
@@ -22409,13 +21905,6 @@
       "time": "2022-10-21T04:15:48.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3586#issuecomment-1286436398",
       "text": "@patelaryan7751 just some minor refactors here and there"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-10-21T04:15:20.000Z",
-      "title": "coronasafe/care_fe#3586",
-      "link": "https://github.com/coronasafe/care_fe/pull/3586#pullrequestreview-1150300839",
-      "text": "Added validation to onvif and hl7monitor asset pages"
     },
     {
       "type": "pr_reviewed",
@@ -22678,13 +22167,6 @@
       "text": "Camera feed fallback protocol on IOS devices"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-10-16T07:23:10.000Z",
-      "title": "coronasafe/care_fe#3372",
-      "link": "https://github.com/coronasafe/care_fe/pull/3372#pullrequestreview-1143261517",
-      "text": "Camera feed fallback protocol on IOS devices"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#2921",
       "time": "2022-10-14T02:39:55.000Z",
@@ -22697,26 +22179,6 @@
       "time": "2022-10-14T02:38:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3739",
       "text": "Added git precommit hook"
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3741",
-      "time": "2022-10-13T06:21:41.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3741",
-      "text": "Fix patient category selection",
-      "collaborated_with": [
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3741",
-      "time": "2022-10-13T06:21:41.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3741",
-      "text": "Fix patient category selection",
-      "collaborated_with": [
-        "Ashesh3"
-      ]
     },
     {
       "type": "pr_collaborated",
@@ -22865,25 +22327,11 @@
       "text": "Uniform date/time format across CARE"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-10-12T09:48:47.000Z",
-      "title": "coronasafe/care_fe#3687",
-      "link": "https://github.com/coronasafe/care_fe/pull/3687#pullrequestreview-1138733743",
-      "text": "Uniform date/time format across CARE"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#3731",
       "time": "2022-10-12T09:41:06.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3731#issuecomment-1275881601",
       "text": "@Ritesh-Aggarwal can you double-check it once again, when I go to the pressure sore tab, it scrolls to the top, also when I go to a different tab and go back to updates, it scrolls back to the top, also check other tabs too"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-10-12T09:35:33.000Z",
-      "title": "coronasafe/care_fe#3690",
-      "link": "https://github.com/coronasafe/care_fe/pull/3690#pullrequestreview-1138767352",
-      "text": "Fixed: Bed assign malfunction in consultation form"
     },
     {
       "type": "pr_reviewed",
@@ -23036,16 +22484,6 @@
       ]
     },
     {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_dashboard#34",
-      "time": "2022-10-11T06:48:04.000Z",
-      "link": "https://github.com/coronasafe/care_dashboard/pull/34",
-      "text": "Fixed search issue and pagination issue",
-      "collaborated_with": [
-        "developedBySJ"
-      ]
-    },
-    {
       "type": "pr_reviewed",
       "time": "2022-10-11T05:59:44.000Z",
       "title": "coronasafe/care_dashboard#34",
@@ -23058,13 +22496,6 @@
       "title": "coronasafe/care_dashboard#34",
       "link": "https://github.com/coronasafe/care_dashboard/pull/34#pullrequestreview-1136786161",
       "text": "Fixed search issue and pagination issue"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-10-11T05:14:23.000Z",
-      "title": "coronasafe/leaderboard#89",
-      "link": "https://github.com/coronasafe/leaderboard/pull/89#pullrequestreview-1136768821",
-      "text": "Added badge glow and sparkle."
     },
     {
       "type": "pr_reviewed",
@@ -23182,35 +22613,6 @@
       "link": "https://github.com/coronasafe/care_fe/pull/3736",
       "text": "Production Release; Oct Week 2",
       "collaborated_with": [
-        "Ashesh3",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "patelaryan7751"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "Pragati1610",
-        "Ashesh3",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "patelaryan7751"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
         "Pragati1610",
         "Ashesh3",
         "rithviknishad",
@@ -23245,193 +22647,6 @@
         "cp-Coder",
         "rithviknishad",
         "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "mathew-alex",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "mathew-alex",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "mathew-alex",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "mathew-alex",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "mathew-alex",
         "GokulramGHV",
         "Pragati1610",
         "skks1212",
@@ -23482,26 +22697,6 @@
       ]
     },
     {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_dashboard#24",
-      "time": "2022-10-03T04:50:18.000Z",
-      "link": "https://github.com/coronasafe/care_dashboard/pull/24",
-      "text": "Add Patient Page",
-      "collaborated_with": [
-        "developedBySJ"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_dashboard#24",
-      "time": "2022-10-03T04:50:18.000Z",
-      "link": "https://github.com/coronasafe/care_dashboard/pull/24",
-      "text": "Add Patient Page",
-      "collaborated_with": [
-        "developedBySJ"
-      ]
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care_dashboard#23",
       "time": "2022-10-03T04:16:56.000Z",
@@ -23530,63 +22725,9 @@
       "collaborated_with": [
         "mathew-alex",
         "Ashesh3",
-        "rithviknishad",
-        "skks1212"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3689",
-      "time": "2022-10-02T16:29:09.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3689",
-      "text": "Production Release; Oct Week 1",
-      "collaborated_with": [
-        "mathew-alex",
-        "Ashesh3",
-        "rithviknishad",
-        "skks1212"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3689",
-      "time": "2022-10-02T16:29:09.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3689",
-      "text": "Production Release; Oct Week 1",
-      "collaborated_with": [
-        "mathew-alex",
-        "Ashesh3",
-        "rithviknishad",
-        "skks1212"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3689",
-      "time": "2022-10-02T16:29:09.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3689",
-      "text": "Production Release; Oct Week 1",
-      "collaborated_with": [
-        "mathew-alex",
-        "Ashesh3",
         "patelaryan7751",
         "rithviknishad",
         "skks1212"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3689",
-      "time": "2022-10-02T16:29:09.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3689",
-      "text": "Production Release; Oct Week 1",
-      "collaborated_with": [
-        "mathew-alex",
-        "Ashesh3",
-        "patelaryan7751",
-        "rithviknishad",
-        "skks1212",
-        "Pranshu1902"
       ]
     },
     {
@@ -23984,13 +23125,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-08-16T07:04:35.000Z",
-      "title": "coronasafe/care_fe#3356",
-      "link": "https://github.com/coronasafe/care_fe/pull/3356#pullrequestreview-1073593726",
-      "text": "Add procedure in consultation update"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-08-16T06:22:53.000Z",
       "title": "coronasafe/care_fe#3050",
       "link": "https://github.com/coronasafe/care_fe/pull/3050#pullrequestreview-1073554430",
@@ -24012,24 +23146,10 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-08-16T06:05:15.000Z",
-      "title": "coronasafe/care_fe#3050",
-      "link": "https://github.com/coronasafe/care_fe/pull/3050#pullrequestreview-1073530710",
-      "text": "add: delete option for facility bed type"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-08-16T05:44:40.000Z",
       "title": "coronasafe/care_fe#2736",
       "link": "https://github.com/coronasafe/care_fe/pull/2736#pullrequestreview-1073525764",
       "text": "Added styling on Patients page Issue#2735"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-08-16T05:29:37.000Z",
-      "title": "coronasafe/care_fe#3007",
-      "link": "https://github.com/coronasafe/care_fe/pull/3007#pullrequestreview-1073512916",
-      "text": "Improved Ui of Choose File input and added validation in upload new file form in Consultation Files Page"
     },
     {
       "type": "pr_reviewed",
@@ -24191,20 +23311,6 @@
       "title": "coronasafe/care_fe#2488",
       "link": "https://github.com/coronasafe/care_fe/pull/2488#pullrequestreview-1068335367",
       "text": "Fixed improper pagination padding in external results page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-08-10T13:59:17.000Z",
-      "title": "coronasafe/care_fe#2488",
-      "link": "https://github.com/coronasafe/care_fe/pull/2488#pullrequestreview-1068335367",
-      "text": "Fixed improper pagination padding in external results page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-08-10T13:54:25.000Z",
-      "title": "coronasafe/care_fe#2736",
-      "link": "https://github.com/coronasafe/care_fe/pull/2736#pullrequestreview-1068323807",
-      "text": "Added styling on Patients page Issue#2735"
     },
     {
       "type": "pr_reviewed",
@@ -24655,13 +23761,6 @@
       "text": "Cannot use stock now before having sufficient stock in inventory management page"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-07-28T04:10:15.000Z",
-      "title": "coronasafe/care_fe#3226",
-      "link": "https://github.com/coronasafe/care_fe/pull/3226#pullrequestreview-1053460821",
-      "text": "Cannot use stock now before having sufficient stock in inventory management page"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#3202",
       "time": "2022-07-28T03:38:41.000Z",
@@ -24737,13 +23836,6 @@
       "title": "coronasafe/care_fe#3171",
       "link": "https://github.com/coronasafe/care_fe/pull/3171#pullrequestreview-1053436586",
       "text": "Fixed styling issue in Resource Management"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-07-28T03:12:29.000Z",
-      "title": "coronasafe/care_fe#2869",
-      "link": "https://github.com/coronasafe/care_fe/pull/2869#pullrequestreview-1053434103",
-      "text": "Fix: Consultation Form Styling Issue and assign a volunteer field in Patient details"
     },
     {
       "type": "pr_reviewed",
@@ -25124,13 +24216,6 @@
       "text": "Fixed Malfunctioning of Asset Creation Page and revamped it's UI"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-07-26T08:37:21.000Z",
-      "title": "coronasafe/care_fe#2848",
-      "link": "https://github.com/coronasafe/care_fe/pull/2848#pullrequestreview-1050583291",
-      "text": "Fixed Malfunctioning of Asset Creation Page and revamped it's UI"
-    },
-    {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#3193",
       "time": "2022-07-22T09:11:03.000Z",
@@ -25157,13 +24242,6 @@
       "title": "coronasafe/care_fe#2812",
       "link": "https://github.com/coronasafe/care_fe/pull/2812#pullrequestreview-1045971875",
       "text": "Enhanced UI of patients page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-07-21T05:45:38.000Z",
-      "title": "coronasafe/care_fe#3080",
-      "link": "https://github.com/coronasafe/care_fe/pull/3080#pullrequestreview-1045961279",
-      "text": "Added feature for user to change password"
     },
     {
       "type": "pr_reviewed",
@@ -25283,13 +24361,6 @@
       "title": "coronasafe/care_fe#3028",
       "link": "https://github.com/coronasafe/care_fe/pull/3028#pullrequestreview-1045941477",
       "text": "Added icons for facility features"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-07-21T05:08:54.000Z",
-      "title": "coronasafe/care_fe#3026",
-      "link": "https://github.com/coronasafe/care_fe/pull/3026#pullrequestreview-1045939918",
-      "text": "Added pointer cursor to inventory list item and changed name to inventory manager"
     },
     {
       "type": "pr_reviewed",
@@ -25465,13 +24536,6 @@
       "title": "coronasafe/care_fe#2836",
       "link": "https://github.com/coronasafe/care_fe/pull/2836#pullrequestreview-1039964205",
       "text": "Alignment issue of Patient Page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-07-15T05:55:45.000Z",
-      "title": "coronasafe/care_fe#3134",
-      "link": "https://github.com/coronasafe/care_fe/pull/3134#pullrequestreview-1039827098",
-      "text": "fix (PatientHome): changed no medical data condition"
     },
     {
       "type": "pr_reviewed",
@@ -25678,13 +24742,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-07-13T09:45:00.000Z",
-      "title": "coronasafe/care_fe#2953",
-      "link": "https://github.com/coronasafe/care_fe/pull/2953#pullrequestreview-1037069479",
-      "text": "add: delete specialization doctor type"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-07-13T09:36:43.000Z",
       "title": "coronasafe/care_fe#2956",
       "link": "https://github.com/coronasafe/care_fe/pull/2956#pullrequestreview-1037063885",
@@ -25845,13 +24902,6 @@
       "text": "Added Add Doctor and Exit button"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-07-12T06:28:09.000Z",
-      "title": "coronasafe/care_fe#3037",
-      "link": "https://github.com/coronasafe/care_fe/pull/3037#pullrequestreview-1035272584",
-      "text": "Added Add Doctor and Exit button"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#3034",
       "time": "2022-07-12T06:23:42.000Z",
@@ -25873,13 +24923,6 @@
       "text": "remove profile button, shifted link to user at bottom"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-07-12T06:18:05.000Z",
-      "title": "coronasafe/care_fe#3031",
-      "link": "https://github.com/coronasafe/care_fe/pull/3031#pullrequestreview-1035263749",
-      "text": "remove profile button, shifted link to user at bottom"
-    },
-    {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#3021",
       "time": "2022-07-12T06:09:57.000Z",
@@ -25892,13 +24935,6 @@
       "title": "coronasafe/care_fe#3022",
       "link": "https://github.com/coronasafe/care_fe/pull/3022#pullrequestreview-1035257724",
       "text": "Remove placeholder when value is selected on Investigation Report page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-07-12T06:07:45.000Z",
-      "title": "coronasafe/care_fe#3023",
-      "link": "https://github.com/coronasafe/care_fe/pull/3023#pullrequestreview-1035252609",
-      "text": "Added username validator"
     },
     {
       "type": "pr_reviewed",
@@ -26392,13 +25428,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-07-06T09:18:48.000Z",
-      "title": "coronasafe/care_fe#2650",
-      "link": "https://github.com/coronasafe/care_fe/pull/2650#pullrequestreview-1029773720",
-      "text": "Fix: Overlapping card headings in Resource Details page"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-07-06T09:14:42.000Z",
       "title": "coronasafe/care_fe#2579",
       "link": "https://github.com/coronasafe/care_fe/pull/2579#pullrequestreview-1029768398",
@@ -26419,25 +25448,11 @@
       "text": "fix: extra padding on external results page"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-07-06T09:13:01.000Z",
-      "title": "coronasafe/care_fe#2409",
-      "link": "https://github.com/coronasafe/care_fe/pull/2409#pullrequestreview-1029763333",
-      "text": "fix: extra padding on external results page"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2407",
       "time": "2022-07-06T09:06:41.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2407#issuecomment-1175975119",
       "text": "@cp-Coder can you check it once please"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-07-06T09:06:12.000Z",
-      "title": "coronasafe/care_fe#2407",
-      "link": "https://github.com/coronasafe/care_fe/pull/2407#pullrequestreview-1029756145",
-      "text": "upgraded raviger to v4"
     },
     {
       "type": "pr_reviewed",
@@ -26529,13 +25544,6 @@
       "title": "coronasafe/care_fe#2439",
       "link": "https://github.com/coronasafe/care_fe/pull/2439#pullrequestreview-1027321471",
       "text": "add: cancel button on update/create of assets"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-07-04T10:01:42.000Z",
-      "title": "coronasafe/care_fe#2758",
-      "link": "https://github.com/coronasafe/care_fe/pull/2758#pullrequestreview-1027308961",
-      "text": "Change in camera UI, is now inside the player"
     },
     {
       "type": "pr_reviewed",
@@ -26945,13 +25953,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-06-30T12:50:04.000Z",
-      "title": "coronasafe/care_fe#2768",
-      "link": "https://github.com/coronasafe/care_fe/pull/2768#pullrequestreview-1024811072",
-      "text": "Made the required fields mandatory in respective forms"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-06-30T12:41:56.000Z",
       "title": "coronasafe/care_fe#2724",
       "link": "https://github.com/coronasafe/care_fe/pull/2724#pullrequestreview-1024801081",
@@ -26963,20 +25964,6 @@
       "title": "coronasafe/care_fe#2650",
       "link": "https://github.com/coronasafe/care_fe/pull/2650#pullrequestreview-1024797406",
       "text": "Fix: Overlapping card headings in Resource Details page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-30T12:39:14.000Z",
-      "title": "coronasafe/care_fe#2650",
-      "link": "https://github.com/coronasafe/care_fe/pull/2650#pullrequestreview-1024797406",
-      "text": "Fix: Overlapping card headings in Resource Details page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-30T12:36:12.000Z",
-      "title": "coronasafe/care_fe#2439",
-      "link": "https://github.com/coronasafe/care_fe/pull/2439#pullrequestreview-1024792406",
-      "text": "add: cancel button on update/create of assets"
     },
     {
       "type": "pr_reviewed",
@@ -27147,137 +26134,11 @@
       "text": "The UI:\r\n![image](https://user-images.githubusercontent.com/29787772/176166661-1105d514-e0d1-4fa3-998d-969e18fea76b.png)\r\n"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T14:04:35.000Z",
-      "title": "coronasafe/care_fe#2867",
-      "link": "https://github.com/coronasafe/care_fe/pull/2867#pullrequestreview-1021804820",
-      "text": "Made the Sample management page responsive"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T14:03:38.000Z",
-      "title": "coronasafe/care_fe#2868",
-      "link": "https://github.com/coronasafe/care_fe/pull/2868#pullrequestreview-1021803206",
-      "text": "Made the External Results Page Responsive"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T14:00:10.000Z",
-      "title": "coronasafe/care_fe#2877",
-      "link": "https://github.com/coronasafe/care_fe/pull/2877#pullrequestreview-1021796916",
-      "text": "Fixed investigation report styling issue"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:58:52.000Z",
-      "title": "coronasafe/care_fe#2884",
-      "link": "https://github.com/coronasafe/care_fe/pull/2884#pullrequestreview-1021794581",
-      "text": "Changed error message in sample management system"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:55:23.000Z",
-      "title": "coronasafe/care_fe#2885",
-      "link": "https://github.com/coronasafe/care_fe/pull/2885#pullrequestreview-1021788385",
-      "text": "Fixed malfunction of patient notes"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:53:23.000Z",
-      "title": "coronasafe/care_fe#2895",
-      "link": "https://github.com/coronasafe/care_fe/pull/2895#pullrequestreview-1021784757",
-      "text": "Fixed uneven badge sizes"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:50:14.000Z",
-      "title": "coronasafe/care_fe#2896",
-      "link": "https://github.com/coronasafe/care_fe/pull/2896#pullrequestreview-1021778570",
-      "text": "fixed external results filter badges"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:48:38.000Z",
-      "title": "coronasafe/care_fe#2900",
-      "link": "https://github.com/coronasafe/care_fe/pull/2900#pullrequestreview-1021775262",
-      "text": "Removed 'State Test ID' and 'Operation' fields from consultation form"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:41:34.000Z",
-      "title": "coronasafe/care_fe#2901",
-      "link": "https://github.com/coronasafe/care_fe/pull/2901#pullrequestreview-1021761838",
-      "text": "Fixed misalignment of badges in facilities page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:40:28.000Z",
-      "title": "coronasafe/care_fe#2902",
-      "link": "https://github.com/coronasafe/care_fe/pull/2902#pullrequestreview-1021759921",
-      "text": "UI update : no data available in nursing section"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:35:36.000Z",
-      "title": "coronasafe/care_fe#2913",
-      "link": "https://github.com/coronasafe/care_fe/pull/2913#pullrequestreview-1021751694",
-      "text": "Fixed: Consultation page Malfunction"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-28T13:34:37.000Z",
-      "title": "coronasafe/care_fe#2905",
-      "link": "https://github.com/coronasafe/care_fe/pull/2905#pullrequestreview-1021750004",
-      "text": "Fix alignment issue in Consulation Details page."
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/leaderboard#60",
-      "time": "2022-06-28T11:23:02.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/pull/60#issuecomment-1168593983",
-      "text": "The UI:\r\n![image](https://user-images.githubusercontent.com/29787772/176166661-1105d514-e0d1-4fa3-998d-969e18fea76b.png)\r\n"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#2921",
       "time": "2022-06-27T09:33:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2921",
       "text": "Changed leaflet location picker to gmap"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2921",
-      "time": "2022-06-27T09:33:31.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2921",
-      "text": "Changed leaflet location picker to gmap"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2815",
-      "time": "2022-06-25T07:20:27.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2815",
-      "text": "Medical Detail Malfunction : Patient Detail Page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-25T07:19:19.000Z",
-      "title": "coronasafe/care_fe#2816",
-      "link": "https://github.com/coronasafe/care_fe/pull/2816#pullrequestreview-1019276769",
-      "text": "Fixed patient health card"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care_fe#2875",
-      "time": "2022-06-25T07:19:03.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2875",
-      "text": "Fixed useEffect conflict and logical error in form validation in DailyRounds"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2875",
-      "time": "2022-06-25T06:47:48.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2875",
-      "text": "Fixed useEffect conflict and logical error in form validation in DailyRounds"
     },
     {
       "type": "issue_closed",
@@ -27369,209 +26230,6 @@
       "title": "coronasafe/care_fe#2778",
       "link": "https://github.com/coronasafe/care_fe/pull/2778#pullrequestreview-1016846672",
       "text": "validated weight and height to only numbers in consultation Form"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:32:56.000Z",
-      "title": "coronasafe/care_fe#2768",
-      "link": "https://github.com/coronasafe/care_fe/pull/2768#pullrequestreview-1016843153",
-      "text": "Made the required fields mandatory in respective forms"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:32:56.000Z",
-      "title": "coronasafe/care_fe#2768",
-      "link": "https://github.com/coronasafe/care_fe/pull/2768#pullrequestreview-1016843153",
-      "text": "Made the required fields mandatory in respective forms"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2764",
-      "time": "2022-06-23T11:25:30.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2764",
-      "text": "IO- only positive quantities to be mentioned"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:25:16.000Z",
-      "title": "coronasafe/care_fe#2781",
-      "link": "https://github.com/coronasafe/care_fe/pull/2781#pullrequestreview-1016836170",
-      "text": "IO Balance: Allow only positive quantities to be mentioned"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2763",
-      "time": "2022-06-23T11:24:21.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2763",
-      "text": "Preview Icon"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:24:04.000Z",
-      "title": "coronasafe/care_fe#2780",
-      "link": "https://github.com/coronasafe/care_fe/pull/2780#pullrequestreview-1016834796",
-      "text": "Fix incorrect icon for preview file and improve alignment"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2761",
-      "time": "2022-06-23T11:22:54.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2761",
-      "text": "Remove redundant fields from Log update"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:22:46.000Z",
-      "title": "coronasafe/care_fe#2772",
-      "link": "https://github.com/coronasafe/care_fe/pull/2772#pullrequestreview-1016833277",
-      "text": "Removed current health as a field from Daily Rounds Form"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2679",
-      "time": "2022-06-23T11:21:25.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2679",
-      "text": "Esc button to close the update sample test status popup"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:21:15.000Z",
-      "title": "coronasafe/care_fe#2774",
-      "link": "https://github.com/coronasafe/care_fe/pull/2774#pullrequestreview-1016831585",
-      "text": "Esc key closes the popup of update sample test status Issue#2679"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2756",
-      "time": "2022-06-23T11:20:32.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2756",
-      "text": "Navbar in consultation details page is transparent"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:20:04.000Z",
-      "title": "coronasafe/care_fe#2775",
-      "link": "https://github.com/coronasafe/care_fe/pull/2775#pullrequestreview-1016830295",
-      "text": "Fixed buttons on top of patient card"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2711",
-      "time": "2022-06-23T11:18:59.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2711",
-      "text": "Revamping notice board page UI"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:03:44.000Z",
-      "title": "coronasafe/care_fe#2777",
-      "link": "https://github.com/coronasafe/care_fe/pull/2777#pullrequestreview-1016811756",
-      "text": "Improving the UI for notice board"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2699",
-      "time": "2022-06-23T09:33:49.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2699#issuecomment-1164178367",
-      "text": "@skks1212 please do work on the merge conflicts"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2750",
-      "time": "2022-06-23T09:32:16.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2750",
-      "text": "Patients with no consultation filed"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T09:32:00.000Z",
-      "title": "coronasafe/care_fe#2757",
-      "link": "https://github.com/coronasafe/care_fe/pull/2757#pullrequestreview-1016690438",
-      "text": "Fixed PatientURL"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2751",
-      "time": "2022-06-23T09:30:10.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2751",
-      "text": "Add Location to list of beds in Update bed"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T09:29:50.000Z",
-      "title": "coronasafe/care_fe#2766",
-      "link": "https://github.com/coronasafe/care_fe/pull/2766#pullrequestreview-1016687504",
-      "text": "Added Location name"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#870",
-      "time": "2022-06-23T14:54:53.000Z",
-      "link": "https://github.com/coronasafe/care/pull/870",
-      "text": "Fixed push notifications issue"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2773",
-      "time": "2022-06-23T11:49:49.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2773",
-      "text": "Prevent Daily Round Form from being submitted by giving validation of Respiratory Rate"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:49:38.000Z",
-      "title": "coronasafe/care_fe#2786",
-      "link": "https://github.com/coronasafe/care_fe/pull/2786#pullrequestreview-1016863610",
-      "text": "added respiratory validation in the Daily Rounds form and prevented it from submitting"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2707",
-      "time": "2022-06-23T11:49:04.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2707",
-      "text": "Update Doctor connect UI to show staff and doctors separately"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:48:44.000Z",
-      "title": "coronasafe/care_fe#2709",
-      "link": "https://github.com/coronasafe/care_fe/pull/2709#pullrequestreview-1016862549",
-      "text": "Added distinction between doctor and staff list and changed UI"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2682",
-      "time": "2022-06-23T11:45:32.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2682",
-      "text": "Align bed assignment modal and improve general UI"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:45:12.000Z",
-      "title": "coronasafe/care_fe#2699",
-      "link": "https://github.com/coronasafe/care_fe/pull/2699#pullrequestreview-1016858407",
-      "text": "Improve bed UI"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2099",
-      "time": "2022-06-23T11:34:52.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2099",
-      "text": "Validation for weight and height"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:34:40.000Z",
-      "title": "coronasafe/care_fe#2778",
-      "link": "https://github.com/coronasafe/care_fe/pull/2778#pullrequestreview-1016846672",
-      "text": "validated weight and height to only numbers in consultation Form"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T11:32:56.000Z",
-      "title": "coronasafe/care_fe#2768",
-      "link": "https://github.com/coronasafe/care_fe/pull/2768#pullrequestreview-1016843153",
-      "text": "Made the required fields mandatory in respective forms"
     },
     {
       "type": "pr_reviewed",
@@ -27904,34 +26562,6 @@
     },
     {
       "type": "pr_opened",
-      "title": "coronasafe/care_fe#2794",
-      "time": "2022-06-21T13:10:43.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2794",
-      "text": "Added notification count indicator in NotificationsList"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#865",
-      "time": "2022-06-21T08:00:07.000Z",
-      "link": "https://github.com/coronasafe/care/pull/865",
-      "text": "Changed default VAPID keypair"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#865",
-      "time": "2022-06-21T07:39:41.000Z",
-      "link": "https://github.com/coronasafe/care/pull/865",
-      "text": "Changed default VAPID keypair"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-21T07:17:03.000Z",
-      "title": "coronasafe/care_fe#2754",
-      "link": "https://github.com/coronasafe/care_fe/pull/2754#pullrequestreview-1013074279",
-      "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
-    },
-    {
-      "type": "pr_opened",
       "title": "coronasafe/care_fe#2788",
       "time": "2022-06-20T15:16:16.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2788",
@@ -27943,34 +26573,6 @@
       "time": "2022-06-20T12:21:56.000Z",
       "link": "https://github.com/coronasafe/care/pull/864",
       "text": "Added an endpoint to search diseases from ICD11"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2788",
-      "time": "2022-06-20T15:16:16.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2788",
-      "text": "Push notifications"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#864",
-      "time": "2022-06-20T12:21:56.000Z",
-      "link": "https://github.com/coronasafe/care/pull/864",
-      "text": "Added an endpoint to search diseases from ICD11"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#861",
-      "time": "2022-06-19T11:59:11.000Z",
-      "link": "https://github.com/coronasafe/care/pull/861",
-      "text": "Fixed docker compose command in CONTRIBUTING"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#861",
-      "time": "2022-06-19T04:06:11.000Z",
-      "link": "https://github.com/coronasafe/care/pull/861",
-      "text": "Fixed docker compose command in CONTRIBUTING"
     },
     {
       "type": "pr_merged",
@@ -28148,13 +26750,6 @@
       "text": "fix: extra padding on external results page"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-06-11T11:17:33.000Z",
-      "title": "coronasafe/care_fe#2409",
-      "link": "https://github.com/coronasafe/care_fe/pull/2409#pullrequestreview-1003450415",
-      "text": "fix: extra padding on external results page"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2563",
       "time": "2022-06-10T13:07:37.000Z",
@@ -28215,13 +26810,6 @@
       "time": "2022-06-10T06:12:39.000Z",
       "title": "coronasafe/care_fe#2473",
       "link": "https://github.com/coronasafe/care_fe/pull/2473#pullrequestreview-1002289180",
-      "text": "Modal for switching bed fixed"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-10T06:11:24.000Z",
-      "title": "coronasafe/care_fe#2473",
-      "link": "https://github.com/coronasafe/care_fe/pull/2473#pullrequestreview-1002288279",
       "text": "Modal for switching bed fixed"
     },
     {
@@ -28457,13 +27045,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-06-06T12:56:13.000Z",
-      "title": "coronasafe/care_fe#2499",
-      "link": "https://github.com/coronasafe/care_fe/pull/2499#pullrequestreview-996565480",
-      "text": "Removed overlapping Fixes Issue#2492"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-06-06T12:45:55.000Z",
       "title": "coronasafe/care_fe#2613",
       "link": "https://github.com/coronasafe/care_fe/pull/2613#pullrequestreview-996556426",
@@ -28590,20 +27171,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-06-03T05:42:18.000Z",
-      "title": "coronasafe/care_fe#2398",
-      "link": "https://github.com/coronasafe/care_fe/pull/2398#pullrequestreview-994459797",
-      "text": "Renamed button from 'Add COVID Suspect/Patient' to 'Add Patient'"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-03T05:36:46.000Z",
-      "title": "coronasafe/care_fe#2419",
-      "link": "https://github.com/coronasafe/care_fe/pull/2419#pullrequestreview-994457573",
-      "text": "Fixed the unhandled situation of QR code Scanner"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-06-03T05:36:46.000Z",
       "title": "coronasafe/care_fe#2419",
       "link": "https://github.com/coronasafe/care_fe/pull/2419#pullrequestreview-994457573",
@@ -28615,20 +27182,6 @@
       "title": "coronasafe/care_fe#2468",
       "link": "https://github.com/coronasafe/care_fe/pull/2468#pullrequestreview-994450683",
       "text": "Added option for 3rd dose"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-03T05:30:00.000Z",
-      "title": "coronasafe/care_fe#2468",
-      "link": "https://github.com/coronasafe/care_fe/pull/2468#pullrequestreview-994450683",
-      "text": "Added option for 3rd dose"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-03T05:16:29.000Z",
-      "title": "coronasafe/care_fe#2473",
-      "link": "https://github.com/coronasafe/care_fe/pull/2473#pullrequestreview-994443970",
-      "text": "Modal for switching bed fixed"
     },
     {
       "type": "pr_reviewed",
@@ -28699,13 +27252,6 @@
       "title": "coronasafe/care_fe#2489",
       "link": "https://github.com/coronasafe/care_fe/pull/2489#pullrequestreview-994419563",
       "text": "Fix asset qr code id empty string"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-03T04:11:22.000Z",
-      "title": "coronasafe/care_fe#2490",
-      "link": "https://github.com/coronasafe/care_fe/pull/2490#pullrequestreview-994418044",
-      "text": "Fixed the unresponsive behaviour of UI in sample test page"
     },
     {
       "type": "pr_reviewed",

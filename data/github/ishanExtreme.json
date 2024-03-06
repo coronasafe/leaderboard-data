@@ -770,32 +770,11 @@
       "text": "/test_sample route fixed for staff readonly"
     },
     {
-      "type": "pr_merged",
-      "title": "coronasafe/care#871",
-      "time": "2022-06-26T16:11:33.000Z",
-      "link": "https://github.com/coronasafe/care/pull/871",
-      "text": "/test_sample route fixed for staff readonly"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#2843",
       "time": "2022-06-24T11:12:25.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2843",
       "text": "Completed patient details section for read-only user 🥁"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2843",
-      "time": "2022-06-24T11:12:25.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2843",
-      "text": "Completed patient details section for read-only user 🥁"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#873",
-      "time": "2022-06-23T14:56:57.000Z",
-      "link": "https://github.com/coronasafe/care/pull/873",
-      "text": "Notes endpoint fixed for read-only users"
     },
     {
       "type": "pr_merged",

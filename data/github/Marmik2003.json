@@ -205,13 +205,6 @@
       "text": "added 404 page"
     },
     {
-      "type": "pr_merged",
-      "title": "coronasafe/care_dashboard#8",
-      "time": "2022-06-27T06:26:39.000Z",
-      "link": "https://github.com/coronasafe/care_dashboard/pull/8",
-      "text": "added 404 page"
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care_dashboard#8",
       "time": "2022-06-27T06:09:07.000Z",
@@ -240,27 +233,6 @@
       "text": "Is facility icon the same as facility cover image or different: https://github.com/coronasafe/care/pull/791 ?"
     },
     {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2580",
-      "time": "2022-06-25T12:03:47.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2580",
-      "text": "Ending Backslashes missing in api paths"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2580",
-      "time": "2022-06-25T12:03:47.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2580#issuecomment-1166268634",
-      "text": "yes, it was fixed by https://github.com/coronasafe/care_fe/pull/2395, I did not have attention to this PR... is working fine now"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#881",
-      "time": "2022-06-25T06:05:26.000Z",
-      "link": "https://github.com/coronasafe/care/issues/881#issuecomment-1166201063",
-      "text": "Is facility icon the same as facility cover image or different: https://github.com/coronasafe/care/pull/791 ?"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care#884",
       "time": "2022-06-24T12:53:32.000Z",
@@ -287,55 +259,6 @@
       "title": "coronasafe/care#871",
       "link": "https://github.com/coronasafe/care/pull/871#pullrequestreview-1017924707",
       "text": "/test_sample route fixed for staff readonly"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#884",
-      "time": "2022-06-24T12:53:32.000Z",
-      "link": "https://github.com/coronasafe/care/pull/884",
-      "text": "added missing migrations"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#884",
-      "time": "2022-06-24T05:52:53.000Z",
-      "link": "https://github.com/coronasafe/care/pull/884",
-      "text": "added missing migrations"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#867",
-      "time": "2022-06-24T05:47:05.000Z",
-      "link": "https://github.com/coronasafe/care/pull/867#issuecomment-1165220891",
-      "text": "whoops... really apologize, will add the migrations of it"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-24T02:42:14.000Z",
-      "title": "coronasafe/care#871",
-      "link": "https://github.com/coronasafe/care/pull/871#pullrequestreview-1017924707",
-      "text": "/test_sample route fixed for staff readonly"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#867",
-      "time": "2022-06-23T14:55:33.000Z",
-      "link": "https://github.com/coronasafe/care/pull/867",
-      "text": "fixed plural for local body in admin"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T13:06:24.000Z",
-      "title": "coronasafe/care#874",
-      "link": "https://github.com/coronasafe/care/pull/874#pullrequestreview-1016974626",
-      "text": "Added features for facilities"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2580",
-      "time": "2022-06-23T11:48:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2580#issuecomment-1164309694",
-      "text": "it is missing in API calls, just for some routes, thus gives 500s while developing locally with proxy of localhost"
     },
     {
       "type": "pr_merged",
@@ -385,34 +308,6 @@
       "title": "coronasafe/care#791",
       "link": "https://github.com/coronasafe/care/pull/791#pullrequestreview-1013237443",
       "text": "Added Facility Cover image API endpoints"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#867",
-      "time": "2022-06-21T13:56:45.000Z",
-      "link": "https://github.com/coronasafe/care/pull/867",
-      "text": "fixed plural for local body in admin"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care#866",
-      "time": "2022-06-21T13:56:08.000Z",
-      "link": "https://github.com/coronasafe/care/issues/866",
-      "text": "fix plural of localbody in admin"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-21T09:04:58.000Z",
-      "title": "coronasafe/care#791",
-      "link": "https://github.com/coronasafe/care/pull/791#pullrequestreview-1013237443",
-      "text": "Added Facility Cover image API endpoints"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#857",
-      "time": "2022-06-19T12:13:32.000Z",
-      "link": "https://github.com/coronasafe/care/pull/857",
-      "text": "updated deployment workflow"
     },
     {
       "type": "pr_merged",
@@ -706,13 +601,6 @@
       "time": "2022-05-29T03:37:47.000Z",
       "title": "coronasafe/care#797",
       "link": "https://github.com/coronasafe/care/pull/797#pullrequestreview-988570964",
-      "text": "Added API Route for User Password Change"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-05-28T14:16:13.000Z",
-      "title": "coronasafe/care#797",
-      "link": "https://github.com/coronasafe/care/pull/797#pullrequestreview-988526276",
       "text": "Added API Route for User Password Change"
     },
     {

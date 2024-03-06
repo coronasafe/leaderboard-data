@@ -23,20 +23,6 @@
       "text": "@GokulramGHV Any updates?"
     },
     {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#4005",
-      "time": "2023-02-06T11:40:16.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/4005#issuecomment-1418946408",
-      "text": "Closing this, a new PR will be created with different branch"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#4236",
-      "time": "2023-02-06T11:34:01.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/4236#issuecomment-1418939386",
-      "text": "@GokulramGHV Any updates?"
-    },
-    {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#4659",
       "time": "2023-01-22T23:10:10.000Z",
@@ -383,16 +369,6 @@
       ]
     },
     {
-      "type": "pr_collaborated",
-      "title": "coronasafe/leaderboard#74",
-      "time": "2022-09-27T04:46:27.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/pull/74",
-      "text": "UI enhancements for search, sort and toggle",
-      "collaborated_with": [
-        "naman114"
-      ]
-    },
-    {
       "type": "pr_reviewed",
       "time": "2022-09-15T14:13:41.000Z",
       "title": "coronasafe/care_fe#3575",
@@ -452,27 +428,6 @@
       "type": "pr_merged",
       "title": "coronasafe/care_fe#3555",
       "time": "2022-09-08T14:48:46.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3555",
-      "text": "Cypress Fix"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#3539",
-      "time": "2022-09-07T13:33:02.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3539#issuecomment-1239396919",
-      "text": "> @rabilrbl Which design looks better for you?\r\nObviously the first one."
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#3539",
-      "time": "2022-09-07T13:28:37.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3539#issuecomment-1239391563",
-      "text": "@Ashesh3 Reached out to @gigincg told me @aparnacoronasafe Will confirm whether this UI is confusing or not."
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#3555",
-      "time": "2022-09-07T10:19:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3555",
       "text": "Cypress Fix"
     },
@@ -785,53 +740,11 @@
       "text": "Notifications cannot be subscribed."
     },
     {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#2927",
-      "time": "2022-06-27T15:15:45.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2927",
-      "text": "Improve Loading state in Camera Feed"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2926",
-      "time": "2022-06-27T15:06:34.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2926",
-      "text": "Error Handling for Camera Feed"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2360",
-      "time": "2022-06-27T13:42:13.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2360#issuecomment-1167369368",
-      "text": "Closing this for now. Ref [this](https://github.com/coronasafe/care/issues/782)."
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2360",
-      "time": "2022-06-27T13:42:13.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2360",
-      "text": "Notifications cannot be subscribed."
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2497",
       "time": "2022-06-23T14:40:55.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2497#issuecomment-1164495525",
       "text": "@gigincg Last time I worked on this, I was unable to reproduce the error. Will check again and get back to you."
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2497",
-      "time": "2022-06-23T14:40:55.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2497#issuecomment-1164495525",
-      "text": "@gigincg Last time I worked on this, I was unable to reproduce the error. Will check again and get back to you."
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#769",
-      "time": "2022-06-19T12:50:10.000Z",
-      "link": "https://github.com/coronasafe/care/pull/769",
-      "text": "Make the meta field optional in Asset & Bed Tables"
     },
     {
       "type": "pr_merged",

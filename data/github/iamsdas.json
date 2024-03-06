@@ -367,34 +367,6 @@
       "text": "update actions for hl7monitor asset integration"
     },
     {
-      "type": "pr_opened",
-      "title": "coronasafe/care#899",
-      "time": "2022-06-28T08:02:50.000Z",
-      "link": "https://github.com/coronasafe/care/pull/899",
-      "text": "update actions for hl7monitor asset integration"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#877",
-      "time": "2022-06-27T20:18:54.000Z",
-      "link": "https://github.com/coronasafe/care/pull/877",
-      "text": "Update HL7Monitor asset integration"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#894",
-      "time": "2022-06-27T19:54:59.000Z",
-      "link": "https://github.com/coronasafe/care/pull/894",
-      "text": "add IsAuthenticated permission class to asset view set"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#894",
-      "time": "2022-06-27T06:40:44.000Z",
-      "link": "https://github.com/coronasafe/care/pull/894",
-      "text": "add IsAuthenticated permission class to asset view set"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care#877",
       "time": "2022-06-27T20:18:54.000Z",
@@ -420,20 +392,6 @@
       "time": "2022-06-25T12:42:23.000Z",
       "title": "coronasafe/care#877",
       "link": "https://github.com/coronasafe/care/pull/877#pullrequestreview-1019305298",
-      "text": "Update HL7Monitor asset integration"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-25T12:42:23.000Z",
-      "title": "coronasafe/care#877",
-      "link": "https://github.com/coronasafe/care/pull/877#pullrequestreview-1019305298",
-      "text": "Update HL7Monitor asset integration"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#877",
-      "time": "2022-06-23T13:59:02.000Z",
-      "link": "https://github.com/coronasafe/care/pull/877",
       "text": "Update HL7Monitor asset integration"
     },
     {
@@ -449,13 +407,6 @@
       "time": "2022-06-22T14:39:32.000Z",
       "link": "https://github.com/coronasafe/care/pull/854#issuecomment-1163191242",
       "text": "Added a commit to prevent switching to occupied beds (regardless of consultation).\r\nAdded it to address this [issue/comment](https://github.com/coronasafe/care/issues/850#issuecomment-1159448522).\r\nThis does not affect already existing multi-occupancies of beds. Should I add some kind of migration to handle them? (not sure how that would work though)"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-20T13:27:01.000Z",
-      "title": "coronasafe/care#736",
-      "link": "https://github.com/coronasafe/care/pull/736#pullrequestreview-1012271021",
-      "text": "Prevent creation of bed with the same name"
     },
     {
       "type": "pr_reviewed",

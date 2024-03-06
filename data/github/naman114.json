@@ -262,16 +262,6 @@
       ]
     },
     {
-      "type": "pr_collaborated",
-      "title": "coronasafe/leaderboard#74",
-      "time": "2022-09-27T04:46:27.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/pull/74",
-      "text": "UI enhancements for search, sort and toggle",
-      "collaborated_with": [
-        "rabilrbl"
-      ]
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#74",
       "time": "2022-09-02T17:36:54.000Z",
@@ -501,34 +491,6 @@
       "time": "2022-07-04T19:37:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2650#issuecomment-1174175851",
       "text": "Refactored and used clsx for conditional css @khavinshankar "
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2838",
-      "time": "2022-06-26T14:53:16.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2838#issuecomment-1166555812",
-      "text": "@nihal467 @cp-Coder I have revamped the Bed Management page entirely in the PR #2903"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2903",
-      "time": "2022-06-26T14:48:32.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2903",
-      "text": "Feat: revamp bed management page, improve responsiveness"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2650",
-      "time": "2022-06-26T09:58:43.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2650#issuecomment-1166476652",
-      "text": "Converted the cards into a 3 column view to reduce extra white space in desktop view @nihal467 \r\n\r\n![image](https://user-images.githubusercontent.com/57593654/175808957-45b9758b-7fd6-4244-b28d-f593e72c1991.png)\r\n\r\n \r\n\r\n"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2744",
-      "time": "2022-06-26T08:37:31.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2744#issuecomment-1166455277",
-      "text": "Fixed the special case of text overflow for very long words\r\n\r\n![image](https://user-images.githubusercontent.com/57593654/175806408-48dcd71b-24cc-4ec9-ace8-460a1c16646f.png)\r\n"
     },
     {
       "type": "comment_created",

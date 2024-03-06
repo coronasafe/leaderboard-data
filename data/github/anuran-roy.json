@@ -86,34 +86,6 @@
       "text": "Yes Gigin, I'll push it by tomorrow "
     },
     {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2898",
-      "time": "2022-06-25T13:51:37.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2898#issuecomment-1166291638",
-      "text": "@gigincg Can yo please review the changes?"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2898",
-      "time": "2022-06-25T13:07:27.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2898",
-      "text": "Remove Service worker registration Error notification, replaced them with Sentry reports and console logs"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2646",
-      "time": "2022-06-25T11:45:22.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2646#issuecomment-1166265096",
-      "text": "Yes Gigin, I'll push it by tomorrow "
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/leaderboard#61",
-      "time": "2022-06-18T10:22:46.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/pull/61",
-      "text": "Update profile description of anuran-roy"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#61",
       "time": "2022-06-18T10:22:46.000Z",

@@ -170,27 +170,6 @@
       "text": "@vigneshhari @gigincg closing this for now."
     },
     {
-      "type": "comment_created",
-      "title": "coronasafe/care#829",
-      "time": "2022-06-19T14:29:45.000Z",
-      "link": "https://github.com/coronasafe/care/pull/829#issuecomment-1159741338",
-      "text": "@vigneshhari @gigincg closing this for now."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-18T07:54:01.000Z",
-      "title": "coronasafe/care_fe#2746",
-      "link": "https://github.com/coronasafe/care_fe/pull/2746#pullrequestreview-1011266207",
-      "text": "Added Loader in Patient Notes removed the text Loading"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-18T07:50:22.000Z",
-      "title": "coronasafe/care#829",
-      "link": "https://github.com/coronasafe/care/pull/829#pullrequestreview-1011265999",
-      "text": "Allow DELETE option for Assets"
-    },
-    {
       "type": "pr_reviewed",
       "time": "2022-06-18T07:54:01.000Z",
       "title": "coronasafe/care_fe#2746",

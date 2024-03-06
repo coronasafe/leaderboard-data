@@ -31,13 +31,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2023-10-11T02:26:54.000Z",
-      "title": "coronasafe/care_fe#6415",
-      "link": "https://github.com/coronasafe/care_fe/pull/6415#pullrequestreview-1669628029",
-      "text": "Optimize lodash. Fixes #6006"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2023-09-07T15:54:31.000Z",
       "title": "coronasafe/ayushma_fe#103",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/103#pullrequestreview-1615766358",
@@ -112,13 +105,6 @@
       "time": "2023-08-30T08:53:11.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/124#issuecomment-1698763267",
       "text": "@rithviknishad lets clean up `Journey Map`; Not a priority, lets tackle it on a different PR \r\n![image](https://github.com/coronasafe/leaderboard/assets/14979190/3fb39fb3-8716-491a-b1d1-17a004fd8cad)\r\n\r\n"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-30T08:50:58.000Z",
-      "title": "coronasafe/leaderboard#124",
-      "link": "https://github.com/coronasafe/leaderboard/pull/124#pullrequestreview-1602215314",
-      "text": "Migrate to NextJS 13 App Router + Typescript support"
     },
     {
       "type": "pr_reviewed",
@@ -405,13 +391,6 @@
       "text": "Add `GIT_ACCESS_TOKEN` along with requests"
     },
     {
-      "type": "issue_closed",
-      "title": "coronasafe/leaderboard#108",
-      "time": "2023-02-07T16:32:46.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/issues/108",
-      "text": "Scrapper fails when github email and git local email ID does not match"
-    },
-    {
       "type": "pr_reviewed",
       "time": "2023-02-07T16:32:33.000Z",
       "title": "coronasafe/leaderboard#112",
@@ -518,13 +497,6 @@
       "time": "2022-10-05T02:51:40.000Z",
       "title": "coronasafe/care_fe#3683",
       "link": "https://github.com/coronasafe/care_fe/pull/3683#pullrequestreview-1130829083",
-      "text": "Use `Inter` font as the sans font"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-10-05T02:49:29.000Z",
-      "title": "coronasafe/care_fe#3683",
-      "link": "https://github.com/coronasafe/care_fe/pull/3683#pullrequestreview-1130825040",
       "text": "Use `Inter` font as the sans font"
     },
     {
@@ -683,13 +655,6 @@
     },
     {
       "type": "comment_created",
-      "title": "coronasafe/leaderboard#58",
-      "time": "2022-06-28T13:35:51.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/pull/58#issuecomment-1168735054",
-      "text": "I thought the data loading service handled it. We should fix it. "
-    },
-    {
-      "type": "comment_created",
       "title": "coronasafe/leaderboard#53",
       "time": "2022-06-19T18:16:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1159787295",
@@ -708,48 +673,6 @@
       "title": "coronasafe/leaderboard#58",
       "link": "https://github.com/coronasafe/leaderboard/pull/58#pullrequestreview-1011486240",
       "text": "change cron time to every 12 hours"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/leaderboard#53",
-      "time": "2022-06-19T18:16:09.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1159787295",
-      "text": "Looks good,the number of years on the right should consider the 1st contribution year to compute the available years. "
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/leaderboard#57",
-      "time": "2022-06-19T07:42:49.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/issues/57",
-      "text": "Changing cron time to 7:00 PM"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-19T07:42:44.000Z",
-      "title": "coronasafe/leaderboard#58",
-      "link": "https://github.com/coronasafe/leaderboard/pull/58#pullrequestreview-1011486240",
-      "text": "change cron time to every 12 hours"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-18T10:22:35.000Z",
-      "title": "coronasafe/leaderboard#61",
-      "link": "https://github.com/coronasafe/leaderboard/pull/61#pullrequestreview-1011406668",
-      "text": "Update profile description of anuran-roy"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/leaderboard#58",
-      "time": "2022-06-18T10:21:32.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/pull/58#issuecomment-1159438777",
-      "text": "Can we run it twice a day?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/leaderboard#53",
-      "time": "2022-06-18T10:19:57.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1159438153",
-      "text": "@GokulramGHV nice work. \r\n\r\nFew suggestions.\r\n- by default show last 365 days\r\n- The number of years should be dynamic, you could easily do that by updating the current 5 year function. \r\n- move the years to the right side just like github "
     },
     {
       "type": "pr_reviewed",
@@ -858,13 +781,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2022-06-01T06:17:10.000Z",
-      "title": "coronasafe/leaderboard#41",
-      "link": "https://github.com/coronasafe/leaderboard/pull/41#pullrequestreview-991440392",
-      "text": "Include only interns in leaderboard homepage"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2022-06-01T06:15:08.000Z",
       "title": "coronasafe/leaderboard#39",
       "link": "https://github.com/coronasafe/leaderboard/pull/39#pullrequestreview-991438943",
@@ -903,13 +819,6 @@
       "time": "2022-05-30T12:46:20.000Z",
       "title": "coronasafe/leaderboard#30",
       "link": "https://github.com/coronasafe/leaderboard/pull/30#pullrequestreview-989301033",
-      "text": "Remove console output for scrapped data"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-05-30T12:44:52.000Z",
-      "title": "coronasafe/leaderboard#30",
-      "link": "https://github.com/coronasafe/leaderboard/pull/30#pullrequestreview-989299132",
       "text": "Remove console output for scrapped data"
     },
     {

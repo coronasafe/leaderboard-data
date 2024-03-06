@@ -423,13 +423,6 @@
       "text": "@nihal467 I will make a new PR for this, it's an old branch so I'm having trouble merging it with develop."
     },
     {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#3275",
-      "time": "2023-02-06T18:57:00.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3275#issuecomment-1419588263",
-      "text": "@nihal467 I will make a new PR for this, it's an old branch so I'm having trouble merging it with develop."
-    },
-    {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#4769",
       "time": "2023-02-06T00:13:56.000Z",
@@ -955,20 +948,6 @@
       "text": "Add Booster dose option "
     },
     {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2055",
-      "time": "2022-06-27T06:58:00.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2055",
-      "text": "Add Filter : Assets"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2037",
-      "time": "2022-06-27T06:57:43.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2037",
-      "text": "Add Booster dose option "
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#2808",
       "time": "2022-06-23T12:00:59.000Z",
@@ -988,34 +967,6 @@
       "time": "2022-06-23T10:03:25.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2807",
       "text": "Add a District ID filter for viewing users"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2808",
-      "time": "2022-06-23T12:00:59.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2808",
-      "text": "Issue#2807 - District filter for Users."
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#785",
-      "time": "2022-06-23T11:58:19.000Z",
-      "link": "https://github.com/coronasafe/care/issues/785#issuecomment-1164318418",
-      "text": "@gigincg there's one for districts. I'm working on adding the facilities filter to the GET users API."
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#2807",
-      "time": "2022-06-23T10:03:25.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2807",
-      "text": "Add a District ID filter for viewing users"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-20T05:16:20.000Z",
-      "title": "coronasafe/care#821",
-      "link": "https://github.com/coronasafe/care/pull/821#pullrequestreview-1011700030",
-      "text": "Add a \"working\" filter for Assets"
     },
     {
       "type": "pr_reviewed",

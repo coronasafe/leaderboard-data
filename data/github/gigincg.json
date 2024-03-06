@@ -96,13 +96,6 @@
       "text": "show notification when health id registration fails"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2024-02-08T13:28:54.000Z",
-      "title": "coronasafe/care_fe#7114",
-      "link": "https://github.com/coronasafe/care_fe/pull/7114#pullrequestreview-1870225716",
-      "text": "show notification when health id registration fails"
-    },
-    {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7173",
       "time": "2024-02-05T14:40:32.000Z",
@@ -971,13 +964,6 @@
       "title": "coronasafe/care#1524",
       "link": "https://github.com/coronasafe/care/pull/1524#pullrequestreview-1584581790",
       "text": "add consultation specific assets"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-08-18T08:36:01.000Z",
-      "title": "coronasafe/care_fe#6087",
-      "link": "https://github.com/coronasafe/care_fe/pull/6087#pullrequestreview-1584114177",
-      "text": "add consultation bed specific asset relations"
     },
     {
       "type": "pr_reviewed",
@@ -2236,20 +2222,6 @@
       "text": "Abbreviate Discharge Reason in Patient CSV Export"
     },
     {
-      "type": "issue_closed",
-      "title": "coronasafe/care#1191",
-      "time": "2023-02-13T14:08:37.000Z",
-      "link": "https://github.com/coronasafe/care/issues/1191",
-      "text": "Patient Export: Discharge reason"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2023-02-13T14:08:30.000Z",
-      "title": "coronasafe/care#1192",
-      "link": "https://github.com/coronasafe/care/pull/1192#pullrequestreview-1295715237",
-      "text": "Abbreviate Discharge Reason in Patient CSV Export"
-    },
-    {
       "type": "pr_reviewed",
       "time": "2023-02-03T07:37:36.000Z",
       "title": "coronasafe/care_fe#4725",
@@ -2981,13 +2953,6 @@
       "text": "Remove pages and components used under `/teleicu/...`"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-11-30T14:15:53.000Z",
-      "title": "coronasafe/care_fe#4142",
-      "link": "https://github.com/coronasafe/care_fe/pull/4142#pullrequestreview-1199403912",
-      "text": "Remove pages and components used under `/teleicu/...`"
-    },
-    {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#4150",
       "time": "2022-11-30T05:15:41.000Z",
@@ -3509,18 +3474,6 @@
       "collaborated_with": [
         "Ashesh3",
         "sainak"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care#1062",
-      "time": "2022-10-09T20:16:17.000Z",
-      "link": "https://github.com/coronasafe/care/pull/1062",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "Ashesh3",
-        "sainak",
-        "rithviknishad"
       ]
     },
     {
@@ -4691,13 +4644,6 @@
       "text": "Delete asset bed"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2022-07-02T20:17:19.000Z",
-      "title": "coronasafe/care_fe#2705",
-      "link": "https://github.com/coronasafe/care_fe/pull/2705#pullrequestreview-1026785765",
-      "text": "Delete asset bed"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2286",
       "time": "2022-07-02T20:14:12.000Z",
@@ -4710,13 +4656,6 @@
       "time": "2022-07-02T20:12:11.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2311#issuecomment-1172954385",
       "text": "@sainAk Can you fix the conflict?"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-07-02T20:10:55.000Z",
-      "title": "coronasafe/care_fe#2417",
-      "link": "https://github.com/coronasafe/care_fe/pull/2417#pullrequestreview-1026785340",
-      "text": "Updated the colour of profile badge and fixed errors in the same file"
     },
     {
       "type": "pr_reviewed",
@@ -4808,48 +4747,6 @@
       "time": "2022-06-28T07:30:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2934",
       "text": "Deploy Environments for care_fe"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2934",
-      "time": "2022-06-28T07:31:14.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2934#issuecomment-1168343561",
-      "text": "Almost all variables form the ENV should be configurable for deployment"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#2934",
-      "time": "2022-06-28T07:30:29.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2934",
-      "text": "Deploy Environments for care_fe"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care#898",
-      "time": "2022-06-27T13:00:29.000Z",
-      "link": "https://github.com/coronasafe/care/issues/898",
-      "text": "Create Constraint not to allow multiple patients to be allotted to the same bed"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/leaderboard#64",
-      "time": "2022-06-27T07:33:29.000Z",
-      "link": "https://github.com/coronasafe/leaderboard/issues/64",
-      "text": "Tailwind Dark Mode"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care#895",
-      "time": "2022-06-27T06:46:12.000Z",
-      "link": "https://github.com/coronasafe/care/issues/895",
-      "text": "ABDM Integration"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#2917",
-      "time": "2022-06-27T06:32:37.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2917",
-      "text": "Build Fallback Protocol to Support iOS Devices"
     },
     {
       "type": "issue_opened",
@@ -4957,104 +4854,6 @@
       "text": "Production Release June Week 4"
     },
     {
-      "type": "pr_merged",
-      "title": "coronasafe/care_fe#2814",
-      "time": "2022-06-26T15:25:39.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2814",
-      "text": "Production Release June Week 4"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2801",
-      "time": "2022-06-25T11:54:20.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2801#issuecomment-1166266610",
-      "text": "@thenithinbalaji If you wanted to make a PR for this, I can change the Assignee.\r\n\r\ncc: @cp-Coder "
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2785",
-      "time": "2022-06-25T11:52:46.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2785#issuecomment-1166266330",
-      "text": "@skks1212 Is the Sidebar having any MUI components?\n"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2783",
-      "time": "2022-06-25T11:51:48.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2783",
-      "text": "Error in Summary "
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2760",
-      "time": "2022-06-25T11:48:26.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2760#issuecomment-1166265600",
-      "text": "@GokulramGHV Any Update on this?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2759",
-      "time": "2022-06-25T11:47:30.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2759#issuecomment-1166265441",
-      "text": "@patelaryan7751 Have you filed the Backend Issue for this? Can you link the 2 Issues? Add a reference to the backend Issue Here"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2753",
-      "time": "2022-06-25T11:46:12.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2753#issuecomment-1166265237",
-      "text": "It Can be Removed. Modifying Issue for the Same"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2646",
-      "time": "2022-06-25T11:44:26.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2646#issuecomment-1166264948",
-      "text": "@anuran-roy Is this in Progress?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#816",
-      "time": "2022-06-25T11:43:12.000Z",
-      "link": "https://github.com/coronasafe/care/issues/816#issuecomment-1166264787",
-      "text": "@sainAk Moving Issue to DevOps Board"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#812",
-      "time": "2022-06-25T11:41:33.000Z",
-      "link": "https://github.com/coronasafe/care/issues/812#issuecomment-1166264486",
-      "text": "@sainAk How would it be better? Chrome works fine right?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2580",
-      "time": "2022-06-25T11:37:43.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2580#issuecomment-1166263827",
-      "text": "@Marmik2003 I think it was fixed. Can you recheck?\n"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2512",
-      "time": "2022-06-25T11:36:47.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2512#issuecomment-1166263678",
-      "text": "@developedBySJ Can you add a bit more depth to this? Seems vague"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2871",
-      "time": "2022-06-25T07:19:03.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2871",
-      "text": "Critical Care Malfunction"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2865",
-      "time": "2022-06-25T07:19:02.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2865",
-      "text": "Normal Round Malfunction : Data's are not visible"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2801",
       "time": "2022-06-25T11:54:20.000Z",
@@ -5158,104 +4957,6 @@
       "time": "2022-06-24T04:57:22.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2814",
       "text": "Production Release June Week 4"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#883",
-      "time": "2022-06-24T04:58:56.000Z",
-      "link": "https://github.com/coronasafe/care/pull/883",
-      "text": "Production Release June Week 4"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#2814",
-      "time": "2022-06-24T04:57:22.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2814",
-      "text": "Production Release June Week 4"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#2811",
-      "time": "2022-06-23T14:39:34.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2811",
-      "text": "Build Dedicated Configure Page for HL7 Monitors"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#2810",
-      "time": "2022-06-23T14:39:20.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2810",
-      "text": "Build Dedicated Configure Page for ONVIF Camera"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#2809",
-      "time": "2022-06-23T14:38:45.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2809",
-      "text": "Hide the Configure button if asset_class = null"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2431",
-      "time": "2022-06-23T14:37:27.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2431",
-      "text": "Create a new Field in CreateAsset Form to update the asset_class for the asset"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2432",
-      "time": "2022-06-23T14:37:27.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2432",
-      "text": "Create a Hint next the Asset Type field (Internal/External) that specifies the difference"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T14:37:08.000Z",
-      "title": "coronasafe/care_fe#2653",
-      "link": "https://github.com/coronasafe/care_fe/pull/2653#pullrequestreview-1017129013",
-      "text": "Adds Asset Class field and Improve Asset Type option's descriptions"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2736",
-      "time": "2022-06-23T10:27:17.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2736#issuecomment-1164241129",
-      "text": "@Pranshu1902 Can you merge the latest develop? \r\n"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2580",
-      "time": "2022-06-23T10:16:54.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2580#issuecomment-1164231493",
-      "text": "@Marmik2003 Can you add a bit more depth to this? Are you talking about missing / in the React Routes, or for API calls?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#785",
-      "time": "2022-06-23T10:13:33.000Z",
-      "link": "https://github.com/coronasafe/care/issues/785#issuecomment-1164228421",
-      "text": "@vigneshhari Why are we using a different API for this? Isn't it against the standard pattern? Opinion on getting rid of the API and building the filter?"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care#782",
-      "time": "2022-06-23T10:11:38.000Z",
-      "link": "https://github.com/coronasafe/care/issues/782",
-      "text": "Push notification key is invalid"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#782",
-      "time": "2022-06-23T10:11:38.000Z",
-      "link": "https://github.com/coronasafe/care/issues/782#issuecomment-1164226624",
-      "text": "@khavinshankar The updated VAPID Keys solve this right? Closing this, do reopen if you feel the need to"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2497",
-      "time": "2022-06-23T10:10:54.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2497#issuecomment-1164226013",
-      "text": "@rabilrbl Any update on this?"
     },
     {
       "type": "issue_opened",
@@ -5375,34 +5076,6 @@
       "time": "2022-06-19T03:35:58.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2460#issuecomment-1159609461",
       "text": "@kunatastic I see you've assigned this, have you created a backend issue for this? Isn't an  API change needed for this?"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#2769",
-      "time": "2022-06-19T10:47:51.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2769",
-      "text": "Issue in netlify.toml"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2460",
-      "time": "2022-06-19T03:35:58.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2460#issuecomment-1159609461",
-      "text": "@kunatastic I see you've assigned this, have you created a backend issue for this? Isn't an  API change needed for this?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#2747",
-      "time": "2022-06-18T14:10:24.000Z",
-      "link": "https://github.com/coronasafe/care_fe/issues/2747#issuecomment-1159471930",
-      "text": "@aparnacoronasafe Currently we are not allowing modification of Admission Date. We should either disallow both `Admission Date` and `Decision after Consultation` or allow both. What's your take on this?"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-18T10:57:58.000Z",
-      "title": "coronasafe/care_fe#2381",
-      "link": "https://github.com/coronasafe/care_fe/pull/2381#pullrequestreview-1011409128",
-      "text": "Feature: Keyboard Shortcuts for Camera Live Feed"
     },
     {
       "type": "comment_created",
@@ -5893,13 +5566,6 @@
       "time": "2022-05-31T11:57:48.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2308#issuecomment-1142038848",
       "text": "@Pranshu1902 Update the labels when you've made changes, otherwise it won't get tested for QA"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-05-31T11:56:35.000Z",
-      "title": "coronasafe/care_fe#2308",
-      "link": "https://github.com/coronasafe/care_fe/pull/2308#pullrequestreview-990312062",
-      "text": "Reduced white spaces and added 2 column view Issue#2046"
     },
     {
       "type": "pr_reviewed",
@@ -6999,13 +6665,6 @@
       "time": "2022-05-12T06:39:19.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2313#issuecomment-1124586479",
       "text": "@skks1212 Add a Screenshot to the new UI!"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-05-12T06:37:25.000Z",
-      "title": "coronasafe/care_fe#2291",
-      "link": "https://github.com/coronasafe/care_fe/pull/2291#pullrequestreview-970319359",
-      "text": "added patient details in investigation report"
     },
     {
       "type": "pr_reviewed",

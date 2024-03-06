@@ -3281,96 +3281,6 @@
       ]
     },
     {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "khavinshankar",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "khavinshankar",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "khavinshankar",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "khavinshankar",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3736",
-      "time": "2022-10-09T20:16:06.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3736",
-      "text": "Production Release; Oct Week 2",
-      "collaborated_with": [
-        "cp-Coder",
-        "rithviknishad",
-        "Pranshu1902",
-        "GokulramGHV",
-        "Pragati1610",
-        "skks1212",
-        "khavinshankar",
-        "patelaryan7751",
-        "Ashesh3"
-      ]
-    },
-    {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#3736",
       "time": "2022-10-09T18:48:56.000Z",
@@ -3480,63 +3390,9 @@
       "text": "Production Release; Oct Week 1",
       "collaborated_with": [
         "Ashesh3",
-        "rithviknishad",
-        "skks1212",
-        "khavinshankar"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3689",
-      "time": "2022-10-02T16:29:09.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3689",
-      "text": "Production Release; Oct Week 1",
-      "collaborated_with": [
-        "Ashesh3",
-        "rithviknishad",
-        "skks1212",
-        "khavinshankar"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3689",
-      "time": "2022-10-02T16:29:09.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3689",
-      "text": "Production Release; Oct Week 1",
-      "collaborated_with": [
-        "Ashesh3",
-        "rithviknishad",
-        "skks1212",
-        "khavinshankar"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3689",
-      "time": "2022-10-02T16:29:09.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3689",
-      "text": "Production Release; Oct Week 1",
-      "collaborated_with": [
-        "Ashesh3",
         "patelaryan7751",
         "rithviknishad",
         "skks1212",
-        "khavinshankar"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#3689",
-      "time": "2022-10-02T16:29:09.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/3689",
-      "text": "Production Release; Oct Week 1",
-      "collaborated_with": [
-        "Ashesh3",
-        "patelaryan7751",
-        "rithviknishad",
-        "skks1212",
-        "Pranshu1902",
         "khavinshankar"
       ]
     },
@@ -4382,20 +4238,6 @@
       "text": "Revert \"Fixed created_by field in patient log\" (#896)"
     },
     {
-      "type": "pr_merged",
-      "title": "coronasafe/care#897",
-      "time": "2022-06-27T09:42:25.000Z",
-      "link": "https://github.com/coronasafe/care/pull/897",
-      "text": "Revert \"Fixed created_by field in patient log\" (#896)"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#897",
-      "time": "2022-06-27T09:31:52.000Z",
-      "link": "https://github.com/coronasafe/care/pull/897",
-      "text": "Revert \"Fixed created_by field in patient log\" (#896)"
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care#791",
       "time": "2022-06-23T14:10:58.000Z",
@@ -4408,27 +4250,6 @@
       "title": "coronasafe/care_fe#2806",
       "link": "https://github.com/coronasafe/care_fe/pull/2806#pullrequestreview-1016722888",
       "text": "Fixed issue-automation workflow"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#791",
-      "time": "2022-06-23T14:10:58.000Z",
-      "link": "https://github.com/coronasafe/care/pull/791#issuecomment-1164457648",
-      "text": "> Changes look good to me otherwise, @mathew-alex add env vars for the extra setting confs required in this PR.\r\n\r\nadded env vars in staging. "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-23T09:52:23.000Z",
-      "title": "coronasafe/care_fe#2806",
-      "link": "https://github.com/coronasafe/care_fe/pull/2806#pullrequestreview-1016722888",
-      "text": "Fixed issue-automation workflow"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2022-06-21T07:59:41.000Z",
-      "title": "coronasafe/care#865",
-      "link": "https://github.com/coronasafe/care/pull/865#pullrequestreview-1013133015",
-      "text": "Changed default VAPID keypair"
     },
     {
       "type": "pr_reviewed",
