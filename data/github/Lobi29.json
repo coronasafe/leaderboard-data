@@ -1,51 +1,51 @@
 {
-  "last_updated": 1709571155.0,
+  "last_updated": "2024-03-04T16:52:35.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#326",
-      "time": 1709571155.0,
+      "time": "2024-03-04T16:52:35.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/326#issuecomment-1977036640",
       "text": "Hey @rithviknishad,\r\n\r\nI've cut down the delay of motion.div to just 0.2 seconds and switched the background color to our secondary base"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#330",
-      "time": 1709563934.0,
+      "time": "2024-03-04T14:52:14.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/330",
       "text": "Adding Framer Motion Animation to Feed Page and Home Page Feed Section"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#329",
-      "time": 1709563499.0,
+      "time": "2024-03-04T14:44:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/329",
       "text": "Request for Website Architecture and Documentation"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#304",
-      "time": 1709559390.0,
+      "time": "2024-03-04T13:36:30.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/304#issuecomment-1976598525",
-      "text": "Hey @rithviknishad \ud83d\ude0a\r\nHere is the new PR link: #326  \r\nI have updated the PR with all your recommendations.\ud83d\udc4d"
+      "text": "Hey @rithviknishad 😊\r\nHere is the new PR link: #326  \r\nI have updated the PR with all your recommendations.👍"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#326",
-      "time": 1709559219.0,
+      "time": "2024-03-04T13:33:39.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/326",
       "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements "
     },
     {
       "type": "pr_reviewed",
-      "time": 1709556870.0,
+      "time": "2024-03-04T12:54:30.000Z",
       "title": "coronasafe/leaderboard#304",
       "link": "https://github.com/coronasafe/leaderboard/pull/304#pullrequestreview-1914245655",
       "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709556848.0,
+      "time": "2024-03-04T12:54:08.000Z",
       "title": "coronasafe/leaderboard#304",
       "link": "https://github.com/coronasafe/leaderboard/pull/304#pullrequestreview-1914244957",
       "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements"
@@ -53,14 +53,14 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#305",
-      "time": 1709471161.0,
+      "time": "2024-03-03T13:06:01.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/305#issuecomment-1975154544",
-      "text": "Hey @sainak , I have added the features of tailwind-scrollbar package in our website \ud83d\udc4d"
+      "text": "Hey @sainak , I have added the features of tailwind-scrollbar package in our website 👍"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709374388.0,
+      "time": "2024-03-02T10:13:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287",
       "text": "updating UI of Navbar",
       "turnaround_time": 19705
@@ -68,7 +68,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709374388.0,
+      "time": "2024-03-02T10:13:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287",
       "text": "updating UI of Navbar",
       "collaborated_with": [
@@ -77,7 +77,7 @@
     },
     {
       "type": "pr_reviewed",
-      "time": 1709372311.0,
+      "time": "2024-03-02T09:38:31.000Z",
       "title": "coronasafe/leaderboard#305",
       "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912633129",
       "text": "update of scrollbar for pages"
@@ -85,27 +85,27 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#305",
-      "time": 1709372163.0,
+      "time": "2024-03-02T09:36:03.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/305#issuecomment-1974746770",
-      "text": "Hey, @rithviknishad  @sainak \r\n\r\nRegarding the scrollbar functionality, instead of relying on traditional CSS methods, I propose leveraging the \"tailwind-scrollbar\" package. It boasts a weekly download count exceeding 100k+ across both modern and legacy browsers, making it a robust solution for our needs. Given the frequency with which we'll be implementing scrollbars across various components, using this package seems both practical and efficient.\r\n\r\nI'm prepared to integrate this package into our workflow if you believe it aligns with our objectives. Otherwise, I'm fully capable of proceeding with the conventional methods outlined in the documentation.\ud83d\ude80"
+      "text": "Hey, @rithviknishad  @sainak \r\n\r\nRegarding the scrollbar functionality, instead of relying on traditional CSS methods, I propose leveraging the \"tailwind-scrollbar\" package. It boasts a weekly download count exceeding 100k+ across both modern and legacy browsers, making it a robust solution for our needs. Given the frequency with which we'll be implementing scrollbars across various components, using this package seems both practical and efficient.\r\n\r\nI'm prepared to integrate this package into our workflow if you believe it aligns with our objectives. Otherwise, I'm fully capable of proceeding with the conventional methods outlined in the documentation.🚀"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709371190.0,
+      "time": "2024-03-02T09:19:50.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1974743263",
-      "text": "Hey @rithviknishad , \"Contribute Now\" text has been removed, leaving only the GitHub button visible.\ud83d\ude0a"
+      "text": "Hey @rithviknishad , \"Contribute Now\" text has been removed, leaving only the GitHub button visible.😊"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709370260.0,
+      "time": "2024-03-02T09:04:20.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1974737497",
-      "text": "sure, why not \ud83d\ude0a"
+      "text": "sure, why not 😊"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709365510.0,
+      "time": "2024-03-02T07:45:10.000Z",
       "title": "coronasafe/leaderboard#305",
       "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912597469",
       "text": "update of scrollbar for pages"
@@ -113,125 +113,125 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#294",
-      "time": 1709365018.0,
+      "time": "2024-03-02T07:36:58.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/294#issuecomment-1974666505",
-      "text": "@rithviknishad Following your earlier guidance, I've implemented the recommendations to the best of my ability. You can now explore all four pull requests, each representing a step towards refining our project's design and functionality. \ud83d\ude0a\ud83d\udc4d"
+      "text": "@rithviknishad Following your earlier guidance, I've implemented the recommendations to the best of my ability. You can now explore all four pull requests, each representing a step towards refining our project's design and functionality. 😊👍"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#305",
-      "time": 1709364655.0,
+      "time": "2024-03-02T07:30:55.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/305",
       "text": "update of scrollbar for pages"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#304",
-      "time": 1709362511.0,
+      "time": "2024-03-02T06:55:11.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/304",
       "text": "updating the contributor activity section"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709358386.0,
+      "time": "2024-03-02T05:46:26.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1974329113",
       "text": "![Untitled drawing (4)](https://github.com/coronasafe/leaderboard/assets/108052802/a9e5dcfe-29c9-4b68-904b-e80076ee449f)\r\n\r\n- Drawing from your previous advice, I've refined the sidebar and subtly adjusted the text's hue, enhancing its readability and aesthetic appeal"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#294",
-      "time": 1709328409.0,
+      "time": "2024-03-01T21:26:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/294#issuecomment-1973943043",
-      "text": "Given my prior experience working on the contribution activity section's filter \ud83d\udee0\ufe0f, I believe I'm well-equipped to tackle this particular issue. Would you kindly assign it to me?\ud83d\ude0a"
+      "text": "Given my prior experience working on the contribution activity section's filter 🛠️, I believe I'm well-equipped to tackle this particular issue. Would you kindly assign it to me?😊"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#302",
-      "time": 1709327446.0,
+      "time": "2024-03-01T21:10:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/302",
       "text": "Update GitHub acitvity"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#301",
-      "time": 1709324364.0,
+      "time": "2024-03-01T20:19:24.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/301",
       "text": "solving the layout issue of Image"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709323069.0,
+      "time": "2024-03-01T19:57:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1973826762",
       "text": "color is updated\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709316758.0,
+      "time": "2024-03-01T18:12:38.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1973678651",
-      "text": "Got it \ud83d\ude01\ud83d\udc4d, "
+      "text": "Got it 😁👍, "
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#299",
-      "time": 1709309361.0,
+      "time": "2024-03-01T16:09:21.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/299",
       "text": "Solving legacy prop \"layout\" issue"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#293",
-      "time": 1709301396.0,
+      "time": "2024-03-01T13:56:36.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/293#issuecomment-1973251198",
       "text": "Color theme applied, with emphasis on the primary theme"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709300507.0,
+      "time": "2024-03-01T13:41:47.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1973227129",
       "text": "<h1 align=\"center\">Updates</h1>\r\n\r\n- Added `.env` variable to the contribution link's href\r\n- Color theme applied, with emphasis on the primary theme\r\n- 'use client' feature removed from redundant components\r\n"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709295950.0,
+      "time": "2024-03-01T12:25:50.000Z",
       "title": "coronasafe/leaderboard#293",
       "link": "https://github.com/coronasafe/leaderboard/pull/293#pullrequestreview-1911012541",
       "text": "Update thumb"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709295910.0,
+      "time": "2024-03-01T12:25:10.000Z",
       "title": "coronasafe/leaderboard#287",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911011481",
       "text": "updating UI of Navbar"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709295868.0,
+      "time": "2024-03-01T12:24:28.000Z",
       "title": "coronasafe/leaderboard#287",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911010501",
       "text": "updating UI of Navbar"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709295848.0,
+      "time": "2024-03-01T12:24:08.000Z",
       "title": "coronasafe/leaderboard#287",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911010006",
       "text": "updating UI of Navbar"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709295792.0,
+      "time": "2024-03-01T12:23:12.000Z",
       "title": "coronasafe/leaderboard#287",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911008531",
       "text": "updating UI of Navbar"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709295762.0,
+      "time": "2024-03-01T12:22:42.000Z",
       "title": "coronasafe/leaderboard#287",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911007823",
       "text": "updating UI of Navbar"
@@ -239,84 +239,84 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#293",
-      "time": 1709280360.0,
+      "time": "2024-03-01T08:06:00.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/293",
       "text": "Update thumb"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#281",
-      "time": 1709222029.0,
+      "time": "2024-02-29T15:53:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/281#issuecomment-1971436722",
-      "text": "yes, it will be a great enhancement \ud83d\ude2e, I will update you, when I am ready with figma design for this page and filter project feature,"
+      "text": "yes, it will be a great enhancement 😮, I will update you, when I am ready with figma design for this page and filter project feature,"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#279",
-      "time": 1709191434.0,
+      "time": "2024-02-29T07:23:54.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/279#issuecomment-1970552796",
-      "text": "Simply adding a touch of padding and width to --webkit-thumb, while imbuing it with a dynamic color theme that seamlessly adjusts to the currently active theme of the site \ud83d\udc4d"
+      "text": "Simply adding a touch of padding and width to --webkit-thumb, while imbuing it with a dynamic color theme that seamlessly adjusts to the currently active theme of the site 👍"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#288",
-      "time": 1709190475.0,
+      "time": "2024-02-29T07:07:55.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/288#issuecomment-1970535419",
-      "text": "@rithviknishad I am pleased to tackle this issue. Please assign it to me \ud83d\ude4f"
+      "text": "@rithviknishad I am pleased to tackle this issue. Please assign it to me 🙏"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709190135.0,
+      "time": "2024-02-29T07:02:15.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1970528695",
-      "text": "### changing the gradient to a more asthetic and minimal one\r\n\r\n![Untitled drawing](https://github.com/coronasafe/leaderboard/assets/108052802/2ccbc752-bb03-4af2-b592-7da3676efb1d)\r\n\r\n- if it's all right, then please merge it \ud83d\ude0a\r\n\r\n"
+      "text": "### changing the gradient to a more asthetic and minimal one\r\n\r\n![Untitled drawing](https://github.com/coronasafe/leaderboard/assets/108052802/2ccbc752-bb03-4af2-b592-7da3676efb1d)\r\n\r\n- if it's all right, then please merge it 😊\r\n\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#287",
-      "time": 1709181884.0,
+      "time": "2024-02-29T04:44:44.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/287",
       "text": "updating UI of Navbar"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#281",
-      "time": 1709150671.0,
+      "time": "2024-02-28T20:04:31.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/281#issuecomment-1969775472",
       "text": "It's functioning well on my device.\n\nHowever, by incorporating a dynamic page for specific project details, such as projects/[id], we can distinctly separate the project page from the projects page. \n\nThis way, in the future, we can modify the projects page according to our needs without affecting the specific project page. \n\nIntegrating a dynamic page for specific project details will definitely reduce the loading time. By focusing on just one project instead of loading all the projects at once, we can optimize the performance significantly."
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#281",
-      "time": 1709147121.0,
+      "time": "2024-02-28T19:05:21.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/281",
       "text": "Redirect Inconsistency: View Button Links to Projects Page Instead of Specific Project Details"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#279",
-      "time": 1709133709.0,
+      "time": "2024-02-28T15:21:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/279",
       "text": "Enhance Scrollbar Design for Improved User Experience"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#278",
-      "time": 1709132856.0,
+      "time": "2024-02-28T15:07:36.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/278",
       "text": "Change the UI of the Navbar to a more modern and interactive navbar"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#276",
-      "time": 1709128955.0,
+      "time": "2024-02-28T14:02:35.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/276#issuecomment-1969050770",
-      "text": "> Awesome! LGTM\n\nYup \ud83e\udd70"
+      "text": "> Awesome! LGTM\n\nYup 🥰"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#276",
-      "time": 1709126584.0,
+      "time": "2024-02-28T13:23:04.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/276",
       "text": "Updating the UI of Theme Changing button",
       "turnaround_time": 720
@@ -324,13 +324,13 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#276",
-      "time": 1709125865.0,
+      "time": "2024-02-28T13:11:05.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/276",
       "text": "Updating the UI of Theme Changing button"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709111740.0,
+      "time": "2024-02-28T09:15:40.000Z",
       "title": "coronasafe/leaderboard#272",
       "link": "https://github.com/coronasafe/leaderboard/pull/272#pullrequestreview-1905705912",
       "text": "Updating the UI of Dark/Light mode button"
@@ -338,56 +338,56 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#272",
-      "time": 1709111593.0,
+      "time": "2024-02-28T09:13:13.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/272#issuecomment-1968542721",
       "text": "Thank your for suggestions,"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#272",
-      "time": 1709104995.0,
+      "time": "2024-02-28T07:23:15.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/272",
       "text": "Updating the UI of Dark/Light mode button"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#268",
-      "time": 1709064576.0,
+      "time": "2024-02-27T20:09:36.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/268",
       "text": "Changing the UI of Dark/Light Mode Button to a more interactive and modern UI"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#185",
-      "time": 1709060872.0,
+      "time": "2024-02-27T19:07:52.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/185",
       "text": " Adding Copy to Clipboard Feature"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#184",
-      "time": 1709059828.0,
+      "time": "2024-02-27T18:50:28.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/184#issuecomment-1967386441",
       "text": "![Screenshot from 2024-02-28 00-00-41](https://github.com/coronasafe/ayushma_fe/assets/108052802/850747c0-2164-4b6b-b857-e6172305a88e)\r\n\r\n<h1 align=\"center\">Updates</h1>\r\n\r\n- I have updated the UI as per your requirements.\r\n\r\n- Managed to integrate both the audio feature and feedback feature within a single flex div\r\n\r\n- Successfully mitigated excess white space by strategically arranging elements within the layout.\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#184",
-      "time": 1709051923.0,
+      "time": "2024-02-27T16:38:43.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/184",
       "text": "Improve User Experience by Delaying and Repositioning Interaction Buttons."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#182",
-      "time": 1709031756.0,
+      "time": "2024-02-27T11:02:36.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/182#issuecomment-1966301359",
-      "text": "I am happy to work on it, thank you for assigning this issue to me \ud83d\ude80"
+      "text": "I am happy to work on it, thank you for assigning this issue to me 🚀"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#182",
-      "time": 1709019702.0,
+      "time": "2024-02-27T07:41:42.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/182",
       "text": "Improve User Experience by Delaying and Repositioning Interaction Buttons."
     }

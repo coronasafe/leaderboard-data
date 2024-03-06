@@ -1,24 +1,24 @@
 {
-  "last_updated": 1695398716.0,
+  "last_updated": "2023-09-22T16:05:16.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6329",
-      "time": 1695398716.0,
+      "time": "2023-09-22T16:05:16.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6329#issuecomment-1731671100",
       "text": "> Hey @AlexVCS, you may refer #6316 on how to perform the replacement properly. This is not a plug-and-play replacement.\r\n\r\nok. I see getPatient should be available to useQuery, so don't think any are being used that can't still be used. where do I add the response types?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6329",
-      "time": 1695396263.0,
+      "time": "2023-09-22T15:24:23.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6329",
       "text": "replaced useDispatch with useQuery"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6328",
-      "time": 1695395629.0,
+      "time": "2023-09-22T15:13:49.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6328#issuecomment-1731591906",
       "text": "I'd like to work on this"
     }

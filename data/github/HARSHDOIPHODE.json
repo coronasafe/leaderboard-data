@@ -1,24 +1,24 @@
 {
-  "last_updated": 1709548123.0,
+  "last_updated": "2024-03-04T10:28:43.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#317",
-      "time": 1709548123.0,
+      "time": "2024-03-04T10:28:43.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/317#issuecomment-1976259205",
       "text": "can you please assign me"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#318",
-      "time": 1709548099.0,
+      "time": "2024-03-04T10:28:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/318#issuecomment-1976258503",
       "text": "can you please assign me\r\n"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#306",
-      "time": 1709537779.0,
+      "time": "2024-03-04T07:36:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/306",
       "text": "Configurable secondary color ",
       "turnaround_time": 77674
@@ -26,7 +26,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard#306",
-      "time": 1709537779.0,
+      "time": "2024-03-04T07:36:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/306",
       "text": "Configurable secondary color ",
       "collaborated_with": [
@@ -36,7 +36,7 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#21",
-      "time": 1709537533.0,
+      "time": "2024-03-04T07:32:13.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/21",
       "text": "Configure secondary colors in theme",
       "turnaround_time": 81526
@@ -44,13 +44,13 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard-data#21",
-      "time": 1709535744.0,
+      "time": "2024-03-04T07:02:24.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/21#issuecomment-1975859656",
       "text": "Done @rithviknishad "
     },
     {
       "type": "pr_reviewed",
-      "time": 1709534573.0,
+      "time": "2024-03-04T06:42:53.000Z",
       "title": "coronasafe/leaderboard-data#21",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/21#pullrequestreview-1913478806",
       "text": "Configure secondary colors in theme"
@@ -58,56 +58,56 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard-data#21",
-      "time": 1709377096.0,
+      "time": "2024-03-02T10:58:16.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/21#issuecomment-1974763435",
       "text": "This PR resolves issue #303.   @rithviknishad"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#306",
-      "time": 1709376860.0,
+      "time": "2024-03-02T10:54:20.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/306#issuecomment-1974762694",
       "text": "@rithviknishad please check this PR"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#303",
-      "time": 1709376054.0,
+      "time": "2024-03-02T10:40:54.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/303#issuecomment-1974760120",
       "text": "This PR resolves issue #303.\r\n\r\nCloses #303"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#303",
-      "time": 1709373806.0,
+      "time": "2024-03-02T10:03:26.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/303#issuecomment-1974752147",
       "text": "@rithviknishad please check and let me know if any changes are needed."
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#306",
-      "time": 1709373705.0,
+      "time": "2024-03-02T10:01:45.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/306",
       "text": "fixes #303"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#21",
-      "time": 1709369608.0,
+      "time": "2024-03-02T08:53:28.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/21",
       "text": "fix: #303 "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#303",
-      "time": 1709365523.0,
+      "time": "2024-03-02T07:45:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/303#issuecomment-1974668622",
       "text": "please assign me this issue"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#278",
-      "time": 1709134724.0,
+      "time": "2024-02-28T15:38:44.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/278#issuecomment-1969252723",
       "text": "Can anyone assign me this issue?"
     }

@@ -1,17 +1,17 @@
 {
-  "last_updated": 1709665282.0,
+  "last_updated": "2024-03-05T19:01:22.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care#1948",
-      "time": 1709665282.0,
+      "time": "2024-03-05T19:01:22.000Z",
       "link": "https://github.com/coronasafe/care/issues/1948#issuecomment-1979447004",
       "text": "I would like to work on this issue."
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#24",
-      "time": 1709644163.0,
+      "time": "2024-03-05T13:09:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/24",
       "text": "Update DraKen0009.md",
       "turnaround_time": 72286
@@ -19,28 +19,28 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1927",
-      "time": 1709587454.0,
+      "time": "2024-03-04T21:24:14.000Z",
       "link": "https://github.com/coronasafe/care/pull/1927#issuecomment-1977483323",
       "text": "contd. #1941 "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1941",
-      "time": 1709587146.0,
+      "time": "2024-03-04T21:19:06.000Z",
       "link": "https://github.com/coronasafe/care/pull/1941",
       "text": "Loading medibase and icd11 static json and migrations"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#24",
-      "time": 1709571879.0,
+      "time": "2024-03-04T17:04:39.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/24",
       "text": "Update DraKen0009.md"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1917",
-      "time": 1709559578.0,
+      "time": "2024-03-04T13:39:38.000Z",
       "link": "https://github.com/coronasafe/care/pull/1917",
       "text": "added contraints in consultations and custom migrations",
       "turnaround_time": 62805
@@ -48,7 +48,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1917",
-      "time": 1709559578.0,
+      "time": "2024-03-04T13:39:38.000Z",
       "link": "https://github.com/coronasafe/care/pull/1917",
       "text": "added contraints in consultations and custom migrations",
       "collaborated_with": [
@@ -58,7 +58,7 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1910",
-      "time": 1709558839.0,
+      "time": "2024-03-04T13:27:19.000Z",
       "link": "https://github.com/coronasafe/care/pull/1910",
       "text": "Added dummy data for shifting and Resource",
       "turnaround_time": 19776
@@ -66,154 +66,154 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1889",
-      "time": 1709399711.0,
+      "time": "2024-03-02T17:15:11.000Z",
       "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1974855551",
       "text": "@AnkurPrabhu  I've raised a PR and it also got approved. So this issue is solved. \r\n\r\nPlease pick another issue from issues tab"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1927",
-      "time": 1709203282.0,
+      "time": "2024-02-29T10:41:22.000Z",
       "link": "https://github.com/coronasafe/care/pull/1927#issuecomment-1970861078",
       "text": "- made some changes to load_icd11_diagnose_data file.\r\n- updated migrations field for removing external_id before populating data"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1917",
-      "time": 1709157703.0,
+      "time": "2024-02-28T22:01:43.000Z",
       "link": "https://github.com/coronasafe/care/pull/1917#issuecomment-1969993351",
       "text": "updated the dummy data as it was not following the constraints. And the load_dummy_data command wasn't working"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1927",
-      "time": 1709154615.0,
+      "time": "2024-02-28T21:10:15.000Z",
       "link": "https://github.com/coronasafe/care/pull/1927#issuecomment-1969921833",
       "text": "please let me know if i missed any use of external_id in reference to `MedibaseMedicine` model"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1927",
-      "time": 1709153651.0,
+      "time": "2024-02-28T20:54:11.000Z",
       "link": "https://github.com/coronasafe/care/pull/1927",
       "text": "Loading medibase and icd11 static json"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1917",
-      "time": 1709140872.0,
+      "time": "2024-02-28T17:21:12.000Z",
       "link": "https://github.com/coronasafe/care/pull/1917#issuecomment-1969477576",
       "text": "Here are the screenshots -\r\n- When trying to create consultation with same patient_no within facility\r\n\r\n![Screenshot from 2024-02-28 16-32-20](https://github.com/coronasafe/care/assets/115104695/ea3082cb-919a-4c87-b92c-cfcca1dc79bc)\r\n\r\n- When trying to create consultation with same patient_no in different facility\r\n![Screenshot from 2024-02-28 16-32-36](https://github.com/coronasafe/care/assets/115104695/d8cfaf05-1686-43fc-8332-7f874ff774b5)\r\n![Screenshot from 2024-02-28 16-32-43](https://github.com/coronasafe/care/assets/115104695/74a309ec-c012-485b-b85a-a121f5cd78f0)\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1917",
-      "time": 1708978374.0,
+      "time": "2024-02-26T20:12:54.000Z",
       "link": "https://github.com/coronasafe/care/pull/1917",
       "text": "added contraints in consultations and custom migrations"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1912",
-      "time": 1708948864.0,
+      "time": "2024-02-26T12:01:04.000Z",
       "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963982477",
       "text": "135-145 ( what i have currently noticed)\r\n\r\n- like in line 135 \r\nMin should be 11 and max should be 18\r\nBut given 0 and 25\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1912",
-      "time": 1708946848.0,
+      "time": "2024-02-26T11:27:28.000Z",
       "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963918794",
       "text": "Also the data at the bottom of the table is not accurate (min, max values)\r\n![image](https://github.com/coronasafe/care/assets/115104695/125c32e3-e4c6-47ad-bd67-f8b4bcf948b3)\r\n\r\nI can update them accordingly and update the json file with it."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1912",
-      "time": 1708946454.0,
+      "time": "2024-02-26T11:20:54.000Z",
       "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963903706",
       "text": "@sainak  do we need to update the data according to comment before ?\r\n![image](https://github.com/coronasafe/care/assets/115104695/26250113-f289-4e35-a3c6-20bc06e2c651)\r\n\r\nUpdated to - \r\n![image](https://github.com/coronasafe/care/assets/115104695/e6f0ce4e-d190-42de-baf4-78e041474cca)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1912",
-      "time": 1708854292.0,
+      "time": "2024-02-25T09:44:52.000Z",
       "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1962874751",
       "text": "@rithviknishad  made the required changes , please have a look "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1912",
-      "time": 1708811408.0,
+      "time": "2024-02-24T21:50:08.000Z",
       "link": "https://github.com/coronasafe/care/pull/1912",
       "text": "converted investigation and investigation group data into JSON"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1541",
-      "time": 1708805154.0,
+      "time": "2024-02-24T20:05:54.000Z",
       "link": "https://github.com/coronasafe/care/issues/1541#issuecomment-1962684746",
       "text": "@sainak  I would like to work on this issue.\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1817",
-      "time": 1708763463.0,
+      "time": "2024-02-24T08:31:03.000Z",
       "link": "https://github.com/coronasafe/care/issues/1817#issuecomment-1962298046",
       "text": "@sainak I would like to work on this issue , please assign it to me"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1889",
-      "time": 1708675265.0,
+      "time": "2024-02-23T08:01:05.000Z",
       "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1960879504",
       "text": "@Omkar76  Thanks for help"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1910",
-      "time": 1708675173.0,
+      "time": "2024-02-23T07:59:33.000Z",
       "link": "https://github.com/coronasafe/care/pull/1910#issuecomment-1960878634",
       "text": "after loading the dummy data in db -\r\n\r\n![image](https://github.com/coronasafe/care/assets/115104695/9bbd37c2-cc58-4fe9-a767-6a7428eb2f28)\r\n![image](https://github.com/coronasafe/care/assets/115104695/b39c98c5-0459-4fa0-ab75-8a6fdc3d3ceb)\r\n\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1910",
-      "time": 1708675062.0,
+      "time": "2024-02-23T07:57:42.000Z",
       "link": "https://github.com/coronasafe/care/pull/1910",
       "text": "Added dummy data for shifting and Resource"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1806",
-      "time": 1708614328.0,
+      "time": "2024-02-22T15:05:28.000Z",
       "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1959643037",
       "text": "@Omkar76  If you aren't currently working on this issue , can I work on it? "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1906",
-      "time": 1708601950.0,
+      "time": "2024-02-22T11:39:10.000Z",
       "link": "https://github.com/coronasafe/care/pull/1906#issuecomment-1959272636",
       "text": "This is my first PR in the organisation, any advice and help will be greatly appreciated "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1906",
-      "time": 1708601817.0,
+      "time": "2024-02-22T11:36:57.000Z",
       "link": "https://github.com/coronasafe/care/pull/1906",
-      "text": "added constraints to patient consultation for storing unique patient_\u2026"
+      "text": "added constraints to patient consultation for storing unique patient_…"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1805",
-      "time": 1708581964.0,
+      "time": "2024-02-22T06:06:04.000Z",
       "link": "https://github.com/coronasafe/care/issues/1805#issuecomment-1958765908",
       "text": "@sainak , I would like to work on this issue , can you help me with some details about this issue \r\n- which endpoint need to be updated/changed ?\r\n- what is the expected output?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1889",
-      "time": 1708573993.0,
+      "time": "2024-02-22T03:53:13.000Z",
       "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1958608549",
       "text": "I'm trying to reproduce the issue , but i guess this is already resolved as I can see dummy data already populated in the shifting and resource tabs \r\n- I've populated the dummy data using make command\r\n![image](https://github.com/coronasafe/care/assets/115104695/672f9b25-90b2-42bf-95d0-8dfa910e3aa7)\r\n\r\nlet me know if I'm doing something wrong or unable to understand the issue"
     }

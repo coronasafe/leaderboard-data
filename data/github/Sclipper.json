@@ -1,10 +1,10 @@
 {
-  "last_updated": 1691835042.0,
+  "last_updated": "2023-08-12T10:10:42.000Z",
   "activity": [
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6068",
-      "time": 1691835042.0,
+      "time": "2023-08-12T10:10:42.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6068",
       "text": "Production Release; Aug Week 3",
       "collaborated_with": [
@@ -19,14 +19,14 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6010",
-      "time": 1691508540.0,
+      "time": "2023-08-08T15:29:00.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6010",
       "text": "#6008: Made the \"Update\" buttons full width"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6010",
-      "time": 1691237537.0,
+      "time": "2023-08-05T12:12:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6010",
       "text": "#6008: Made the \"Update\" buttons full width"
     }

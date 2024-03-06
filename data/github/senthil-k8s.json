@@ -1,10 +1,10 @@
 {
-  "last_updated": 1708975569.0,
+  "last_updated": "2024-02-26T19:26:09.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6637",
-      "time": 1708975569.0,
+      "time": "2024-02-26T19:26:09.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1965064471",
       "text": "Hey @nihal467. We can enhance the user experience by adding a view more button. Based on that, when the user clicks on it, an extra 5 more comments will be visible, and we'll repeat the same until the comment exists. And intially Top 5 comments will be only displayed."
     }

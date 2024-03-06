@@ -1,10 +1,10 @@
 {
-  "last_updated": 1709574817.0,
+  "last_updated": "2024-03-04T17:53:37.000Z",
   "activity": [
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7337",
-      "time": 1709574817.0,
+      "time": "2024-03-04T17:53:37.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7337",
       "text": "Production Release 97 | March week 1 2024",
       "collaborated_with": [
@@ -25,14 +25,14 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7297",
-      "time": 1709119681.0,
+      "time": "2024-02-28T11:28:01.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7297#issuecomment-1968782851",
       "text": "Hi, can you include the steps to reproduce the above mentioned details such as:\r\n- the account where this can be accesed by.\r\n- The UI required to be implemented. (design or image)\r\n- Image of the current faculty dashboard where the option to upload image is present."
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7261",
-      "time": 1709105784.0,
+      "time": "2024-02-28T07:36:24.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7261",
       "text": "fix: overflow of fields in the user management cards",
       "turnaround_time": 76817
@@ -40,7 +40,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7261",
-      "time": 1709105784.0,
+      "time": "2024-02-28T07:36:24.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7261",
       "text": "fix: overflow of fields in the user management cards",
       "collaborated_with": [
@@ -50,27 +50,27 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7297",
-      "time": 1709035963.0,
+      "time": "2024-02-27T12:12:43.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7297#issuecomment-1966412930",
       "text": "Hi, I would like to take this issue."
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7256",
-      "time": 1708842275.0,
+      "time": "2024-02-25T06:24:35.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7256",
       "text": "Overflow of some fields such as district in the user management page"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#239",
-      "time": 1708779075.0,
+      "time": "2024-02-24T12:51:15.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/239",
       "text": "Content overflowing from the edges of the window on certain screen resolutions"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708776127.0,
+      "time": "2024-02-24T12:02:07.000Z",
       "title": "coronasafe/care_fe#7261",
       "link": "https://github.com/coronasafe/care_fe/pull/7261#pullrequestreview-1899406682",
       "text": "fix: overflow of fields in the user management cards"
@@ -78,21 +78,21 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7261",
-      "time": 1708691134.0,
+      "time": "2024-02-23T12:25:34.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7261",
       "text": "fix: overflow of fields in the user management cards"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7256",
-      "time": 1708683417.0,
+      "time": "2024-02-23T10:16:57.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7256#issuecomment-1961061317",
       "text": "I would like to work on this issue."
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7256",
-      "time": 1708678269.0,
+      "time": "2024-02-23T08:51:09.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7256",
       "text": "Overflow of some fields such as district in the user management page"
     }

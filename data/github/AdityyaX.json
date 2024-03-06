@@ -1,10 +1,10 @@
 {
-  "last_updated": 1704873346.0,
+  "last_updated": "2024-01-10T07:55:46.000Z",
   "activity": [
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6950",
-      "time": 1704873346.0,
+      "time": "2024-01-10T07:55:46.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6950",
       "text": "Updated DOB Date Format in Patient details page",
       "turnaround_time": 12295
@@ -12,7 +12,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6950",
-      "time": 1704873346.0,
+      "time": "2024-01-10T07:55:46.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6950",
       "text": "Updated DOB Date Format in Patient details page",
       "collaborated_with": [
@@ -22,35 +22,35 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6950",
-      "time": 1703913380.0,
+      "time": "2023-12-30T05:16:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6950#issuecomment-1872455203",
       "text": "@rithviknishad \r\nOkay i have made the suggested changes"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6950",
-      "time": 1703911821.0,
+      "time": "2023-12-30T04:50:21.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6950",
       "text": "date format changed"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6830",
-      "time": 1703910531.0,
+      "time": "2023-12-30T04:28:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6830#issuecomment-1872449198",
       "text": "@rithviknishad yess"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6830",
-      "time": 1702646630.0,
+      "time": "2023-12-15T13:23:50.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6830#issuecomment-1857876873",
       "text": "hello there @rithviknishad,\r\nCould you please assign this issue to me if no one else is working on it?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5491",
-      "time": 1684739052.0,
+      "time": "2023-05-22T07:04:12.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5491#issuecomment-1556652131",
       "text": "Hello there,\r\nI have gone through the project and it seems really interesting and matches my skillset and experience too, Looking forward to submitting the proposal for this one!"
     }

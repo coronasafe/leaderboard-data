@@ -1,10 +1,10 @@
 {
-  "last_updated": 1669574099.0,
+  "last_updated": "2022-11-27T18:34:59.000Z",
   "activity": [
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#4135",
-      "time": 1669574099.0,
+      "time": "2022-11-27T18:34:59.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/4135",
       "text": "Production Release; Nov Week 4",
       "collaborated_with": [
@@ -21,49 +21,49 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#3558",
-      "time": 1669119255.0,
+      "time": "2022-11-22T12:14:15.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3558",
       "text": "sentry reports are made only in production"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1061",
-      "time": 1665306307.0,
+      "time": "2022-10-09T09:05:07.000Z",
       "link": "https://github.com/coronasafe/care/issues/1061",
       "text": "Do Not Update last_daily_round When Creating Automated Daily Rounds"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1040",
-      "time": 1664369790.0,
+      "time": "2022-09-28T12:56:30.000Z",
       "link": "https://github.com/coronasafe/care/pull/1040",
       "text": "Sync asset status with middleware"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1018",
-      "time": 1662726749.0,
+      "time": "2022-09-09T12:32:29.000Z",
       "link": "https://github.com/coronasafe/care/pull/1018",
       "text": "AssetBed Serializer Update"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#3558",
-      "time": 1662651272.0,
+      "time": "2022-09-08T15:34:32.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3558",
       "text": "sentry reports are made only in production"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#3557",
-      "time": 1662648989.0,
+      "time": "2022-09-08T14:56:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/3557",
       "text": "Sentry Calls are Made In Development Instances"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1004",
-      "time": 1662469785.0,
+      "time": "2022-09-06T13:09:45.000Z",
       "link": "https://github.com/coronasafe/care/pull/1004",
       "text": "create CallMetrics model, viewset and serializer"
     }

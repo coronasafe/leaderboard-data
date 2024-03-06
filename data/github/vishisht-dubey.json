@@ -1,94 +1,94 @@
 {
-  "last_updated": 1709657540.0,
+  "last_updated": "2024-03-05T16:52:20.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7343",
-      "time": 1709657540.0,
+      "time": "2024-03-05T16:52:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1979213078",
       "text": "Hey @aparnacoronasafe @rithviknishad i am going through the issue i think this message would be correct **Dear Dr. B,\r\n\r\nI trust this message finds you well. I am writing to seek your professional consultation regarding a patient under my care named patient_name. Patient [patient_name] is currently being treated for [disease_name]. I am attaching relevant medical records, test results, and any other important information for your review.\r\nYour insights and recommendations would be highly valued in ensuring the best possible care for Patient. Please let me know a convenient time for you to discuss this case further or if you require any additional information.\r\npatient_details: [patient_details]**\r\n\r\napart from it i waas thinking that see below image\r\n![Screenshot 2024-03-05 222020](https://github.com/coronasafe/care_fe/assets/98794736/fd02d5ca-e13c-4d50-b1d8-e749f5277ec0)\r\nWhen we click on this whole div it routes to whatsapp, if we only provide routing on whatsapp phone by clicking on the icons only it would be much better as sometimes we by mistake click the whole card, what are your suggestions on this please let me  know......"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7343",
-      "time": 1709647848.0,
+      "time": "2024-03-05T14:10:48.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1978860332",
       "text": "hey @aparnacoronasafe  can i work on this?? please assign this to me"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/dashboard#123",
-      "time": 1709646223.0,
+      "time": "2024-03-05T13:43:43.000Z",
       "link": "https://github.com/coronasafe/dashboard/issues/123#issuecomment-1978805582",
       "text": "@aparnacoronasafe please assign this to me "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#185",
-      "time": 1709640722.0,
+      "time": "2024-03-05T12:12:02.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/185#issuecomment-1978624973",
       "text": "Hiii @Lobi29 are you still working on this ??"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709640600.0,
+      "time": "2024-03-05T12:10:00.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1978621527",
       "text": "Hii @Ashesh3 I have created a pr [#186](https://github.com/coronasafe/ayushma_fe/pull/190) please let me know once you test it."
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#190",
-      "time": 1709640519.0,
+      "time": "2024-03-05T12:08:39.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/190",
       "text": "Closes #186 Support for bulk question import from csv "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709572352.0,
+      "time": "2024-03-04T17:12:32.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1977076258",
       "text": "@Ashesh3 can i open a pr so that you can review my code and also check whether the import from csv is working fine or not??"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709560106.0,
+      "time": "2024-03-04T13:48:26.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1976621236",
       "text": "> > Hiii @Ashesh3 just want a quick review I have used react-csv-reader for reading the data from csv currently the UI is looking like this I will change to look more better ![Screenshot 2024-03-04 180626](https://private-user-images.githubusercontent.com/98794736/309755722-e9eb3434-a85e-4532-86e0-2e5c5e14f0bf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk1NTkyMzcsIm5iZiI6MTcwOTU1ODkzNywicGF0aCI6Ii85ODc5NDczNi8zMDk3NTU3MjItZTllYjM0MzQtYTg1ZS00NTMyLTg2ZTAtMmU1YzVlMTRmMGJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA0VDEzMjg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjMDMzNDgzNzk2MTY3MWFlMTcwODdlY2NmNjI3YjY0YTNlYjgyMTU5YjljOTk4YTU5YTNkOTA4YzBmMGNlNzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lObAoWVq9kRrCI0thtTO6xfw840JcNJB-B6U_PcyeXE) So when we click choose file and select a csv if the csv contains headers like question,human_answer,language then only it proceeds with the csv else it says upload correct csv and if the csv is correct it uses handleAddQuestion function in a loop untill all the data from csv is completed. I have also implemented checks in between so if there is a row which does not contains any of the details like question or human_answer or language it simply does not add that data as well this helps in stopping the missing values to enter is this approach correct??? please give suggestions......\r\n> \r\n> Approach sounds good, let's get the design ready now!\r\n\r\none more query like if the api fails to upload a question, what does it return because while running a loop it may be possible that at some point or due to network, api may get fail so that's why i am asking"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709556091.0,
+      "time": "2024-03-04T12:41:31.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1976498198",
       "text": "Hiii @Ashesh3 \r\njust want a quick review \r\nI have used react-csv-reader for reading the data from csv \r\ncurrently the UI is looking like this\r\nI will change to look more better\r\n![Screenshot 2024-03-04 180626](https://github.com/coronasafe/ayushma_fe/assets/98794736/e9eb3434-a85e-4532-86e0-2e5c5e14f0bf)\r\nSo when we click choose file and select a csv if the csv contains headers like question,human_answer,language then only it proceeds with the csv else it says upload correct csv and if the csv is correct it uses handleAddQuestion function in a loop untill all the data from csv is completed. I have also implemented checks in between so if there is a row which does not contains any of the details like question or human_answer or language it simply does not add that data as well this helps in stopping the missing values to enter is this approach correct??? please give suggestions......"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709553848.0,
+      "time": "2024-03-04T12:04:08.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1976430240",
       "text": "> > hey @Ashesh3 i am unable to login using dummy email do i need to use some other email ??\r\n> \r\n> You can just create a user by yourself too by visiting the registration page.\r\n> \r\n> I've created an account for you, try this:\r\n> \r\n> ```\r\n> Email: admin@admin.com\r\n> Username: admin\r\n> Password: admin\r\n> ```\r\n\r\nok i got it"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#189",
-      "time": 1709551729.0,
+      "time": "2024-03-04T11:28:49.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/189",
       "text": "closes #183 unnecessary packages removed",
       "turnaround_time": 78224
     },
     {
       "type": "pr_reviewed",
-      "time": 1709549491.0,
+      "time": "2024-03-04T10:51:31.000Z",
       "title": "coronasafe/ayushma_fe#189",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/189#pullrequestreview-1914001628",
       "text": "closes #183 unnecessary packages removed"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709549040.0,
+      "time": "2024-03-04T10:44:00.000Z",
       "title": "coronasafe/ayushma_fe#189",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/189#pullrequestreview-1913986093",
       "text": "closes #183 unnecessary packages removed"
@@ -96,98 +96,98 @@
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709468811.0,
+      "time": "2024-03-03T12:26:51.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1975144012",
       "text": "hey @Ashesh3  i am unable to login using dummy email do i need to use some other email ??\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#183",
-      "time": 1709458692.0,
+      "time": "2024-03-03T09:38:12.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1975102411",
       "text": "@skks1212 any update??"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#183",
-      "time": 1709324563.0,
+      "time": "2024-03-01T20:22:43.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1973861678",
       "text": "hey @skks1212 i have raised the pr [https://github.com/coronasafe/ayushma_fe/pull/189](#183) please review the pr and merge it"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#189",
-      "time": 1709324484.0,
+      "time": "2024-03-01T20:21:24.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/189",
       "text": "closes #183 unnecessary packages removed"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#188",
-      "time": 1709324134.0,
+      "time": "2024-03-01T20:15:34.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/188",
       "text": "#183 removed chatbot which was added for testing only"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#183",
-      "time": 1709300931.0,
+      "time": "2024-03-01T13:48:51.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1973237883",
       "text": "@skks1212 src/app also contains a chatbot folder i have removed it as well because it is using that /chatbot folder and removed the scripts as well and build is also succeeding is it fine?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#183",
-      "time": 1709299731.0,
+      "time": "2024-03-01T13:28:51.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1973206475",
       "text": "hey @skks1212 i am doing this assign this to me i will raise the pr by today"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709298778.0,
+      "time": "2024-03-01T13:12:58.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1973175247",
       "text": "Hiiii @Ashesh3 i have completed the logic part, please host the backend so that i can test it.\r\nWhat happens if there is some error while uploading the question? does handle add question throws any error or any confirmation that the data is successfully uploaded??"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709286220.0,
+      "time": "2024-03-01T09:43:40.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1972852345",
       "text": "@Ashesh3 yes please host the backend and provide the staff account access as i also need to check on the frontend part whether its working or not"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709145192.0,
+      "time": "2024-02-28T18:33:12.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1969596669",
       "text": "just a query that while i am adding the question post request is not responding and !storage?.user?.is_staff since this is false i am unable to access some things can you guide me a little how to test apis and everything should work?\r\n![Screenshot 2024-02-28 235953](https://github.com/coronasafe/ayushma_fe/assets/98794736/724add19-65b1-4ce1-a50a-caa24324609d)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709143977.0,
+      "time": "2024-02-28T18:12:57.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1969565031",
       "text": "> @Ashesh3 can you tell me the path where we enter questions for test suite\r\n\r\nis it src/app/admin/tests\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709143501.0,
+      "time": "2024-02-28T18:05:01.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1969551973",
       "text": "@Ashesh3  can you tell me the path where we enter questions for test suite "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709141761.0,
+      "time": "2024-02-28T17:36:01.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1969502965",
       "text": "so @Ashesh3 i would get a csv which contains 3 headers question, human_answer, language_code, now the task is to develop a function which would take question, human_answer and language_code and map all those for all the entres so that we dont need to manually add data in test suite \r\n\r\n\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
-      "time": 1709141065.0,
+      "time": "2024-02-28T17:24:25.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1969483127",
       "text": "Hi @Ashesh3 i would like to work on this, would you please assign this to me\r\nalso i am trying to contribute to GSOC so let me know the further details of contributing to this org."
     }

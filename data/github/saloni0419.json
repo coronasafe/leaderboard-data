@@ -1,16 +1,16 @@
 {
-  "last_updated": 1709662839.0,
+  "last_updated": "2024-03-05T18:20:39.000Z",
   "activity": [
     {
       "type": "pr_reviewed",
-      "time": 1709662839.0,
+      "time": "2024-03-05T18:20:39.000Z",
       "title": "coronasafe/care_fe#7301",
       "link": "https://github.com/coronasafe/care_fe/pull/7301#pullrequestreview-1917806860",
       "text": "Log update vital feature modified "
     },
     {
       "type": "pr_reviewed",
-      "time": 1709658497.0,
+      "time": "2024-03-05T17:08:17.000Z",
       "title": "coronasafe/care_fe#7301",
       "link": "https://github.com/coronasafe/care_fe/pull/7301#pullrequestreview-1917634732",
       "text": "Log update vital feature modified "
@@ -18,119 +18,119 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7343",
-      "time": 1709648450.0,
+      "time": "2024-03-05T14:20:50.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1978883065",
       "text": "@aparnacoronasafe please assign me this issue "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4500",
-      "time": 1709459790.0,
+      "time": "2024-03-03T09:56:30.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/4500#issuecomment-1975106924",
       "text": "@nihal467 @aparnacoronasafe  can you please assign this issue to me"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7297",
-      "time": 1709226073.0,
+      "time": "2024-02-29T17:01:13.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7297#issuecomment-1971573155",
       "text": "@aparnacoronasafe Can you please assign me this issue "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7316",
-      "time": 1709225980.0,
+      "time": "2024-02-29T16:59:40.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1971569800",
       "text": "Sure"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7316",
-      "time": 1709225449.0,
+      "time": "2024-02-29T16:50:49.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1971553124",
       "text": "@sainak @rithviknishad  can you please assign this issue to me"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709197567.0,
+      "time": "2024-02-29T09:06:07.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1970702843",
       "text": "I have linked a PR yesterday. \r\nPlease review it."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7309",
-      "time": 1709178704.0,
+      "time": "2024-02-29T03:51:44.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7309#issuecomment-1970348567",
       "text": "@nihal467 can you assign me this issue "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7289",
-      "time": 1709148297.0,
+      "time": "2024-02-28T19:24:57.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7289#issuecomment-1969691546",
       "text": "@aparnacoronasafe , Can you please assign me this issue?\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7301",
-      "time": 1709111069.0,
+      "time": "2024-02-28T09:04:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7301",
       "text": "Log update vital feature modified  #7290"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709108331.0,
+      "time": "2024-02-28T08:18:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1968451304",
       "text": " I am just new to rescript files and just wanted to know, that I have changed the code in .res file, now how it will reflect the change in js and overall . can anyone please help in this"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709102035.0,
+      "time": "2024-02-28T06:33:55.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1968323264",
       "text": "okay I am doing it"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709056613.0,
+      "time": "2024-02-27T17:56:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1967302177",
       "text": "@aparnacoronasafe I have solved the issue, i am not able to push it on Git Hub i am running the command right but on git commit it is showing no filed staged. I have forked, cloned right added a new branch, and git add. , git status. I have done all these still showing the error. Can you please help me\r\n![image](https://github.com/coronasafe/care_fe/assets/100074110/3e1591ca-65cd-4044-977a-7857229b7232)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709031797.0,
+      "time": "2024-02-27T11:03:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1966302453",
       "text": "> Hey, @aparnacoronasafe can you please guide me to where I can generate this issue on the website?\r\n\r\nI have generated the issue now"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709031247.0,
+      "time": "2024-02-27T10:54:07.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1966287128",
       "text": "![image](https://github.com/coronasafe/care_fe/assets/100074110/54916742-3f7e-4481-abab-241dec4bc35f)\r\nIs this the same issue here mentioned because I am confused there are so many options in vitals showing high and low"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709030900.0,
+      "time": "2024-02-27T10:48:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1966277407",
       "text": "Hey, @aparnacoronasafe can you please guide me to where I can generate this issue on the website?\r\n "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709030283.0,
+      "time": "2024-02-27T10:38:03.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1966259640",
       "text": "![image](https://github.com/coronasafe/care_fe/assets/100074110/5f70beee-8058-4fe8-8705-4bdc077ce3d2)\r\nI have set up the project locally \r\nCan you please tell me how should I login, there is no way to sign up showing here"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
-      "time": 1709028996.0,
+      "time": "2024-02-27T10:16:36.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1966219748",
       "text": "@aparnacoronasafe can you please assign me this issue"
     }

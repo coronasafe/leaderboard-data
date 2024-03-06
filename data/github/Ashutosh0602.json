@@ -1,10 +1,10 @@
 {
-  "last_updated": 1709574817.0,
+  "last_updated": "2024-03-04T17:53:37.000Z",
   "activity": [
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7337",
-      "time": 1709574817.0,
+      "time": "2024-03-04T17:53:37.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7337",
       "text": "Production Release 97 | March week 1 2024",
       "collaborated_with": [
@@ -25,13 +25,13 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#322",
-      "time": 1709565288.0,
+      "time": "2024-03-04T15:14:48.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/322#issuecomment-1976815147",
       "text": "@rithviknishad I have made changes please review it."
     },
     {
       "type": "pr_reviewed",
-      "time": 1709551809.0,
+      "time": "2024-03-04T11:30:09.000Z",
       "title": "coronasafe/leaderboard#322",
       "link": "https://github.com/coronasafe/leaderboard/pull/322#pullrequestreview-1914075759",
       "text": "Added new Forked and Star count feature"
@@ -39,77 +39,77 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#322",
-      "time": 1709548823.0,
+      "time": "2024-03-04T10:40:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/322#issuecomment-1976281825",
       "text": "@rithviknishad Is this okay or do you want to suggest some changes"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#322",
-      "time": 1709548664.0,
+      "time": "2024-03-04T10:37:44.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/322",
       "text": "Added new Forked and Star count feature"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#321",
-      "time": 1709548050.0,
+      "time": "2024-03-04T10:27:30.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/321",
       "text": "Added new fork and star count feature"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#320",
-      "time": 1709542004.0,
+      "time": "2024-03-04T08:46:44.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/320#issuecomment-1976030448",
       "text": "@rithviknishad I have created this issue as we discussed.\r\nIf it look okay to you assign me and I will raise PR."
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#320",
-      "time": 1709541909.0,
+      "time": "2024-03-04T08:45:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/320",
       "text": "feature: Adding new container to show forked and starred count"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#319",
-      "time": 1709541632.0,
+      "time": "2024-03-04T08:40:32.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/319#issuecomment-1976019001",
       "text": "I would to like to work this issue, please assign me"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7332",
-      "time": 1709495493.0,
+      "time": "2024-03-03T19:51:33.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7332",
       "text": "Search option"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7326",
-      "time": 1709408224.0,
+      "time": "2024-03-02T19:37:04.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7326#issuecomment-1974888801",
       "text": "@rithviknishad I have created an issue for this as discussed. \r\nPlease assign me so that I can make PR."
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7326",
-      "time": 1709408153.0,
+      "time": "2024-03-02T19:35:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7326",
       "text": "Issue in finding the value in options tab"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7307",
-      "time": 1709407978.0,
+      "time": "2024-03-02T19:32:58.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7307#issuecomment-1974887902",
       "text": "@rithviknishad I solved this issue you can check it once and if there is something wrong you can tell me I will try to solve"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#18",
-      "time": 1709283735.0,
+      "time": "2024-03-01T09:02:15.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
       "text": "Update Ashutosh0602.md",
       "turnaround_time": 41220
@@ -117,7 +117,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard-data#18",
-      "time": 1709283735.0,
+      "time": "2024-03-01T09:02:15.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
       "text": "Update Ashutosh0602.md",
       "collaborated_with": [
@@ -127,63 +127,63 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7310",
-      "time": 1709205378.0,
+      "time": "2024-02-29T11:16:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7310#issuecomment-1970860278",
       "text": "@nihal467  Fixes #7309 \r\n<img width=\"371\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/4e52c67a-ddc8-4832-8ab9-751e78edec26\">\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7309",
-      "time": 1709203422.0,
+      "time": "2024-02-29T10:43:42.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7309#issuecomment-1970864883",
       "text": "@nihal467 I have solved this issue with another issue related to the Users Section.\r\nIs it right or do I make another pull request for this issue."
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#18",
-      "time": 1709156116.0,
+      "time": "2024-02-28T21:35:16.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
       "text": "Update Ashutosh0602.md"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7309",
-      "time": 1709155250.0,
+      "time": "2024-02-28T21:20:50.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7309#issuecomment-1969940700",
       "text": "Please assign me I will try to fix this issue."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7310",
-      "time": 1709155184.0,
+      "time": "2024-02-28T21:19:44.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7310#issuecomment-1969939205",
       "text": "fixes #7307 "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7310",
-      "time": 1709154862.0,
+      "time": "2024-02-28T21:14:22.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7310",
       "text": "Fix: Fixes the validation of Username in add new Users section"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7307",
-      "time": 1709130047.0,
+      "time": "2024-02-28T14:20:47.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7307#issuecomment-1969085656",
       "text": "I would like to work on this please assign me."
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7307",
-      "time": 1709129972.0,
+      "time": "2024-02-28T14:19:32.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7307",
       "text": "Issue in adding new user in users section"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7266",
-      "time": 1709105751.0,
+      "time": "2024-02-28T07:35:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7266",
       "text": "fix: Irregular flow of responsive design in patient details",
       "turnaround_time": 60862
@@ -191,7 +191,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7266",
-      "time": 1709105751.0,
+      "time": "2024-02-28T07:35:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7266",
       "text": "fix: Irregular flow of responsive design in patient details",
       "collaborated_with": [
@@ -201,7 +201,7 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#255",
-      "time": 1708960587.0,
+      "time": "2024-02-26T15:16:27.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/255",
       "text": "fix: fixes sorting container",
       "turnaround_time": 16315
@@ -209,77 +209,77 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#255",
-      "time": 1708957453.0,
+      "time": "2024-02-26T14:24:13.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/255#issuecomment-1964267660",
-      "text": "@sainak I hope this looks better now. \r\n\r\nWide screen view:\r\n<img width=\"1366\" alt=\"Screenshot 2024-02-26 at 7 53 11\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/9f2b112c-cef1-480f-ab86-e23dcf576b2a\">\r\n\r\nMobile screen view:\r\n<img width=\"409\" alt=\"Screenshot 2024-02-26 at 7 53 20\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/1edfc590-fe61-4a0c-8f56-d73b0fb0c368\">\r\n"
+      "text": "@sainak I hope this looks better now. \r\n\r\nWide screen view:\r\n<img width=\"1366\" alt=\"Screenshot 2024-02-26 at 7 53 11 PM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/9f2b112c-cef1-480f-ab86-e23dcf576b2a\">\r\n\r\nMobile screen view:\r\n<img width=\"409\" alt=\"Screenshot 2024-02-26 at 7 53 20 PM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/1edfc590-fe61-4a0c-8f56-d73b0fb0c368\">\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#255",
-      "time": 1708944272.0,
+      "time": "2024-02-26T10:44:32.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/255",
       "text": "fix: fixes sorting container"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#253",
-      "time": 1708943698.0,
+      "time": "2024-02-26T10:34:58.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/253",
       "text": "Issue in overflow of  leaderboard sorting porints container"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7234",
-      "time": 1708800585.0,
+      "time": "2024-02-24T18:49:45.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7234#issuecomment-1962528222",
       "text": "@nihal467 Is this problem still open or someone working on it?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6773",
-      "time": 1708730162.0,
+      "time": "2024-02-23T23:16:02.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1962124175",
-      "text": "@rithviknishad I was looking over this issue but I found that it is working properly on system.\r\n\r\nThis image is assets page showing location:\r\n<img width=\"1426\" alt=\"Screenshot 2024-02-24 at 4 42 38\u202fAM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/4f06bd98-83fb-455c-b64c-1a8377af8624\">\r\n\r\n\r\nThis image on update page showing location correctly:\r\n<img width=\"1412\" alt=\"Screenshot 2024-02-24 at 4 42 50\u202fAM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/52df7bdd-1aa4-4f56-908f-3f325da17d29\">\r\n"
+      "text": "@rithviknishad I was looking over this issue but I found that it is working properly on system.\r\n\r\nThis image is assets page showing location:\r\n<img width=\"1426\" alt=\"Screenshot 2024-02-24 at 4 42 38 AM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/4f06bd98-83fb-455c-b64c-1a8377af8624\">\r\n\r\n\r\nThis image on update page showing location correctly:\r\n<img width=\"1412\" alt=\"Screenshot 2024-02-24 at 4 42 50 AM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/52df7bdd-1aa4-4f56-908f-3f325da17d29\">\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7266",
-      "time": 1708719357.0,
+      "time": "2024-02-23T20:15:57.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7266",
       "text": "fix: Irregular flow of responsive design in patient details #7262"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7239",
-      "time": 1708701069.0,
+      "time": "2024-02-23T15:11:09.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7239#issuecomment-1961505067",
       "text": "If I assigned over this issue, I can work on the code part."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7239",
-      "time": 1708701022.0,
+      "time": "2024-02-23T15:10:22.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7239#issuecomment-1961503761",
       "text": "Hey, I was looking over the solution for this and find out closing tab after one minute will not have good UX. \r\nIt will be better to close the tab if it is not in 'Active' state."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7262",
-      "time": 1708691639.0,
+      "time": "2024-02-23T12:33:59.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7262#issuecomment-1961248701",
       "text": "Please assign me as I would to like to fix this issue.\r\n"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7262",
-      "time": 1708691521.0,
+      "time": "2024-02-23T12:32:01.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7262",
       "text": "Irregular flow of responsive design in patient "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7156",
-      "time": 1708641998.0,
+      "time": "2024-02-22T22:46:38.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7156#issuecomment-1960459054",
       "text": "Hello @nihal467 ,\r\nMy name is Ashutosh Rai. Currently, I am pre-final year student in NSUT(formerly NSIT). Being curious about tech I learnt and done projects in  MERN stack and also worked on tech stack like NextJs, NestJs and python based web framework(django, flask). I also worked for startup ArualApp helping them to add new features and improving UX alos and OG (OG raised funds) developed whole website from scratch. \r\n\r\nI am not only committed to participating in GSoC but also genuinely enthusiastic about contributing substantially to your project, aiming to create a significant and positive influence. And this eventually help me to gain better experience and valuable learning. \r\n\r\nI would appreciate your assistance throughout this opportunity."
     }

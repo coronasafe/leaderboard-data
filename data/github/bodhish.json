@@ -1,9 +1,9 @@
 {
-  "last_updated": 1708627992.0,
+  "last_updated": "2024-02-22T18:53:12.000Z",
   "activity": [
     {
       "type": "pr_reviewed",
-      "time": 1708627992.0,
+      "time": "2024-02-22T18:53:12.000Z",
       "title": "coronasafe/.github#1",
       "link": "https://github.com/coronasafe/.github/pull/1#pullrequestreview-1896701370",
       "text": "Fixes links to Leaderboard"
@@ -11,34 +11,34 @@
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma#445",
-      "time": 1705563541.0,
+      "time": "2024-01-18T07:39:01.000Z",
       "link": "https://github.com/coronasafe/ayushma/issues/445",
       "text": "Ayushma review Jan"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6715",
-      "time": 1700988410.0,
+      "time": "2023-11-26T08:46:50.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6715",
       "text": "Add 2FA support for login"
     },
     {
       "type": "pr_reviewed",
-      "time": 1696991214.0,
+      "time": "2023-10-11T02:26:54.000Z",
       "title": "coronasafe/care_fe#6415",
       "link": "https://github.com/coronasafe/care_fe/pull/6415#pullrequestreview-1669628029",
       "text": "Optimize lodash. Fixes #6006"
     },
     {
       "type": "pr_reviewed",
-      "time": 1696991214.0,
+      "time": "2023-10-11T02:26:54.000Z",
       "title": "coronasafe/care_fe#6415",
       "link": "https://github.com/coronasafe/care_fe/pull/6415#pullrequestreview-1669628029",
       "text": "Optimize lodash. Fixes #6006"
     },
     {
       "type": "pr_reviewed",
-      "time": 1694102071.0,
+      "time": "2023-09-07T15:54:31.000Z",
       "title": "coronasafe/ayushma_fe#103",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/103#pullrequestreview-1615766358",
       "text": "Fixed logo url typo in admin side bar"
@@ -46,62 +46,62 @@
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#127",
-      "time": 1694070552.0,
+      "time": "2023-09-07T07:09:12.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/127",
       "text": "Add soical image for contributors profile page"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#99",
-      "time": 1693924557.0,
+      "time": "2023-09-05T14:35:57.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/99#issuecomment-1706746136",
       "text": "If we can use the svg in readme why not remove it"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693824508.0,
+      "time": "2023-09-04T10:48:28.000Z",
       "title": "coronasafe/ayushma_fe#93",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/93#pullrequestreview-1609289810",
       "text": "Updated the Project form for the new `preset_questions` field"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693824465.0,
+      "time": "2023-09-04T10:47:45.000Z",
       "title": "coronasafe/ayushma_fe#93",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/93#pullrequestreview-1609286897",
       "text": "Updated the Project form for the new `preset_questions` field"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693823165.0,
+      "time": "2023-09-04T10:26:05.000Z",
       "title": "coronasafe/ayushma_fe#93",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/93#pullrequestreview-1609238211",
       "text": "Updated the Project form for the new `preset_questions` field"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693823166.0,
+      "time": "2023-09-04T10:26:06.000Z",
       "title": "coronasafe/ayushma_fe#93",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/93#pullrequestreview-1609238211",
       "text": "Updated the Project form for the new `preset_questions` field"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693822851.0,
+      "time": "2023-09-04T10:20:51.000Z",
       "title": "coronasafe/ayushma_fe#99",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/99#pullrequestreview-1609230954",
       "text": "Added env var for optional logo"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693818555.0,
+      "time": "2023-09-04T09:09:15.000Z",
       "title": "coronasafe/ayushma#297",
       "link": "https://github.com/coronasafe/ayushma/pull/297#pullrequestreview-1609101642",
       "text": "Fix migration conflict"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693767766.0,
+      "time": "2023-09-03T19:02:46.000Z",
       "title": "coronasafe/leaderboard#124",
       "link": "https://github.com/coronasafe/leaderboard/pull/124#pullrequestreview-1608566232",
       "text": "Migrate to NextJS 13 App Router + Typescript support"
@@ -109,20 +109,20 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#124",
-      "time": 1693385591.0,
+      "time": "2023-08-30T08:53:11.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/124#issuecomment-1698763267",
       "text": "@rithviknishad lets clean up `Journey Map`; Not a priority, lets tackle it on a different PR \r\n![image](https://github.com/coronasafe/leaderboard/assets/14979190/3fb39fb3-8716-491a-b1d1-17a004fd8cad)\r\n\r\n"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693385458.0,
+      "time": "2023-08-30T08:50:58.000Z",
       "title": "coronasafe/leaderboard#124",
       "link": "https://github.com/coronasafe/leaderboard/pull/124#pullrequestreview-1602215314",
       "text": "Migrate to NextJS 13 App Router + Typescript support"
     },
     {
       "type": "pr_reviewed",
-      "time": 1693385458.0,
+      "time": "2023-08-30T08:50:58.000Z",
       "title": "coronasafe/leaderboard#124",
       "link": "https://github.com/coronasafe/leaderboard/pull/124#pullrequestreview-1602215314",
       "text": "Migrate to NextJS 13 App Router + Typescript support"
@@ -130,42 +130,42 @@
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma#272",
-      "time": 1693242551.0,
+      "time": "2023-08-28T17:09:11.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/272#issuecomment-1696047642",
       "text": "Yes; load random 4 "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma#272",
-      "time": 1693060869.0,
+      "time": "2023-08-26T14:41:09.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/272#issuecomment-1694359097",
       "text": "Let the backend store many; on FE show 4"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma#272",
-      "time": 1693048710.0,
+      "time": "2023-08-26T11:18:30.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/272#issuecomment-1694268314",
       "text": "Can we store more question options? It would have been nice if the UI showed different questions."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#54",
-      "time": 1692813599.0,
+      "time": "2023-08-23T17:59:59.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/54#issuecomment-1690399122",
       "text": "@khavinshankar @Ashesh3 do review"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#88",
-      "time": 1692813551.0,
+      "time": "2023-08-23T17:59:11.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/88",
       "text": "Improvements to styling"
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/ayushma_fe#88",
-      "time": 1692813551.0,
+      "time": "2023-08-23T17:59:11.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/88",
       "text": "Improvements to styling",
       "collaborated_with": [
@@ -175,55 +175,55 @@
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#86",
-      "time": 1692813009.0,
+      "time": "2023-08-23T17:50:09.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/86#issuecomment-1690386100",
       "text": "@skks1212 Let's have 1 logo; For admin lets not take another logo; "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma#264",
-      "time": 1692812933.0,
+      "time": "2023-08-23T17:48:53.000Z",
       "link": "https://github.com/coronasafe/ayushma/issues/264#issuecomment-1690384477",
       "text": "Project should have an option to use Ayushma's key"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#88",
-      "time": 1692793100.0,
+      "time": "2023-08-23T12:18:20.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/88#issuecomment-1689860096",
       "text": "I will fix the conflicts "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#88",
-      "time": 1692768112.0,
+      "time": "2023-08-23T05:21:52.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/88#issuecomment-1689298273",
       "text": "@skks1212 @Ashesh3 Do review/make changes where you want and lets get it merged;"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#88",
-      "time": 1692767342.0,
+      "time": "2023-08-23T05:09:02.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/88",
       "text": "Improvements to styling"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#81",
-      "time": 1692625571.0,
+      "time": "2023-08-21T13:46:11.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/81",
       "text": "Use the key from local storage from the env"
     },
     {
       "type": "pr_reviewed",
-      "time": 1692620175.0,
+      "time": "2023-08-21T12:16:15.000Z",
       "title": "coronasafe/care_fe#6126",
       "link": "https://github.com/coronasafe/care_fe/pull/6126#pullrequestreview-1586858656",
       "text": "add devcontainer config"
     },
     {
       "type": "pr_reviewed",
-      "time": 1692619982.0,
+      "time": "2023-08-21T12:13:02.000Z",
       "title": "coronasafe/care#1536",
       "link": "https://github.com/coronasafe/care/pull/1536#pullrequestreview-1586853418",
       "text": "add devcontainer config"
@@ -231,13 +231,13 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4945",
-      "time": 1685272333.0,
+      "time": "2023-05-28T11:12:13.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/4945#issuecomment-1566091547",
       "text": "@rithviknishad can we remove MUI completely? "
     },
     {
       "type": "pr_reviewed",
-      "time": 1683996959.0,
+      "time": "2023-05-13T16:55:59.000Z",
       "title": "coronasafe/leaderboard#118",
       "link": "https://github.com/coronasafe/leaderboard/pull/118#pullrequestreview-1425441092",
       "text": "use `care_eod` slack channel for EOD updates scrapping."
@@ -245,21 +245,21 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma#48",
-      "time": 1681722722.0,
+      "time": "2023-04-17T09:12:02.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/48",
       "text": "Create LICENSE"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma#48",
-      "time": 1681715107.0,
+      "time": "2023-04-17T07:05:07.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/48",
       "text": "Create LICENSE"
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#5343",
-      "time": 1681495829.0,
+      "time": "2023-04-14T18:10:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5343",
       "text": "Production Release; Apr Week 3",
       "collaborated_with": [
@@ -278,35 +278,35 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#5325",
-      "time": 1681295455.0,
+      "time": "2023-04-12T10:30:55.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5325",
       "text": "Update pull_request_template.md"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#5325",
-      "time": 1681295000.0,
+      "time": "2023-04-12T10:23:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5325",
       "text": "Update pull_request_template.md"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5324",
-      "time": 1681294731.0,
+      "time": "2023-04-12T10:18:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5324#issuecomment-1505027011",
       "text": "copilot:summary"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1236",
-      "time": 1680619500.0,
+      "time": "2023-04-04T14:45:00.000Z",
       "link": "https://github.com/coronasafe/care/issues/1236",
       "text": "Support SSO in care "
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard#116",
-      "time": 1679311804.0,
+      "time": "2023-03-20T11:30:04.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/116",
       "text": "Added Env documentation to readme",
       "collaborated_with": [
@@ -315,14 +315,14 @@
     },
     {
       "type": "pr_reviewed",
-      "time": 1679311494.0,
+      "time": "2023-03-20T11:24:54.000Z",
       "title": "coronasafe/leaderboard#116",
       "link": "https://github.com/coronasafe/leaderboard/pull/116#pullrequestreview-1348318888",
       "text": "Added Env documentation to readme"
     },
     {
       "type": "pr_reviewed",
-      "time": 1679311485.0,
+      "time": "2023-03-20T11:24:45.000Z",
       "title": "coronasafe/leaderboard#116",
       "link": "https://github.com/coronasafe/leaderboard/pull/116#pullrequestreview-1348318680",
       "text": "Added Env documentation to readme"
@@ -330,41 +330,41 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#115",
-      "time": 1679310179.0,
+      "time": "2023-03-20T11:02:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/115#issuecomment-1476023088",
-      "text": "The quotes look odd \ud83e\uddd0\r\n![IMG_7739](https://user-images.githubusercontent.com/14979190/226321109-ff96ed43-ef3e-4602-aefd-28182fb907b1.jpeg)\r\n"
+      "text": "The quotes look odd 🧐\r\n![IMG_7739](https://user-images.githubusercontent.com/14979190/226321109-ff96ed43-ef3e-4602-aefd-28182fb907b1.jpeg)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#115",
-      "time": 1679310057.0,
+      "time": "2023-03-20T11:00:57.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/115#issuecomment-1476019588",
-      "text": "@skks1212 you may have to move documentation for the env file into readme. \ud83d\ude05"
+      "text": "@skks1212 you may have to move documentation for the env file into readme. 😅"
     },
     {
       "type": "pr_reviewed",
-      "time": 1679309995.0,
+      "time": "2023-03-20T10:59:55.000Z",
       "title": "coronasafe/leaderboard#115",
       "link": "https://github.com/coronasafe/leaderboard/pull/115#pullrequestreview-1348279196",
       "text": "Added strings to env file"
     },
     {
       "type": "pr_reviewed",
-      "time": 1679309552.0,
+      "time": "2023-03-20T10:52:32.000Z",
       "title": "coronasafe/leaderboard#115",
       "link": "https://github.com/coronasafe/leaderboard/pull/115#pullrequestreview-1348264944",
       "text": "Added strings to env file"
     },
     {
       "type": "pr_reviewed",
-      "time": 1679306086.0,
+      "time": "2023-03-20T09:54:46.000Z",
       "title": "coronasafe/leaderboard#109",
       "link": "https://github.com/coronasafe/leaderboard/pull/109#pullrequestreview-1348159172",
       "text": "Updated linkedin URL"
     },
     {
       "type": "pr_reviewed",
-      "time": 1676899037.0,
+      "time": "2023-02-20T13:17:17.000Z",
       "title": "coronasafe/care#1197",
       "link": "https://github.com/coronasafe/care/pull/1197#pullrequestreview-1305785789",
       "text": "Purge Deprecated Admin Reports"
@@ -372,20 +372,20 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#104",
-      "time": 1675792153.0,
+      "time": "2023-02-07T17:49:13.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/104",
       "text": "Prefix currently working on PR's with `{repo}/{pr-number}`"
     },
     {
       "type": "pr_reviewed",
-      "time": 1675792138.0,
+      "time": "2023-02-07T17:48:58.000Z",
       "title": "coronasafe/leaderboard#114",
       "link": "https://github.com/coronasafe/leaderboard/pull/114#pullrequestreview-1287638838",
       "text": "Adds `repo/pr` prefix for currently working on"
     },
     {
       "type": "pr_reviewed",
-      "time": 1675790134.0,
+      "time": "2023-02-07T17:15:34.000Z",
       "title": "coronasafe/leaderboard#113",
       "link": "https://github.com/coronasafe/leaderboard/pull/113#pullrequestreview-1287567582",
       "text": "Run github scrapper for last 10 days (Feb 7)"
@@ -393,27 +393,27 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#108",
-      "time": 1675787566.0,
+      "time": "2023-02-07T16:32:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/108",
       "text": "Scrapper fails when github email and git local email ID does not match"
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#111",
-      "time": 1675787566.0,
+      "time": "2023-02-07T16:32:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/111",
       "text": "Add `GIT_ACCESS_TOKEN` along with requests"
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#108",
-      "time": 1675787566.0,
+      "time": "2023-02-07T16:32:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/108",
       "text": "Scrapper fails when github email and git local email ID does not match"
     },
     {
       "type": "pr_reviewed",
-      "time": 1675787553.0,
+      "time": "2023-02-07T16:32:33.000Z",
       "title": "coronasafe/leaderboard#112",
       "link": "https://github.com/coronasafe/leaderboard/pull/112#pullrequestreview-1287472592",
       "text": "Update to use `GIT_ACCESS_TOKEN` + wrap fetchs with try catch"
@@ -421,13 +421,13 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#4770",
-      "time": 1675787308.0,
+      "time": "2023-02-07T16:28:28.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/4770",
       "text": "Skills to be visible on Doctor Connect Panel"
     },
     {
       "type": "pr_reviewed",
-      "time": 1675787296.0,
+      "time": "2023-02-07T16:28:16.000Z",
       "title": "coronasafe/care_fe#4772",
       "link": "https://github.com/coronasafe/care_fe/pull/4772#pullrequestreview-1287463643",
       "text": "Added skills in doctor connect"
@@ -435,34 +435,34 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1160",
-      "time": 1675787006.0,
+      "time": "2023-02-07T16:23:26.000Z",
       "link": "https://github.com/coronasafe/care/pull/1160#issuecomment-1421052389",
       "text": "@Ashesh3 if we already have a page then lets not work on this now; I think I missed that part during the call. \n\nI was thinking you where creating a new page just to get around this filter issue. "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1160",
-      "time": 1675786768.0,
+      "time": "2023-02-07T16:19:28.000Z",
       "link": "https://github.com/coronasafe/care/pull/1160#issuecomment-1421046169",
       "text": "@vigneshhari we will want that filter for the page to be functional. "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#514",
-      "time": 1673634700.0,
+      "time": "2023-01-13T18:31:40.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/514#issuecomment-1382230851",
       "text": "Yep; its a good to have feature "
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#106",
-      "time": 1671596349.0,
+      "time": "2022-12-21T04:19:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/106",
       "text": "Workflow: retry scrapper if failed"
     },
     {
       "type": "pr_reviewed",
-      "time": 1671596342.0,
+      "time": "2022-12-21T04:19:02.000Z",
       "title": "coronasafe/leaderboard#107",
       "link": "https://github.com/coronasafe/leaderboard/pull/107#pullrequestreview-1225441547",
       "text": "retry scrapper if failed"
@@ -470,7 +470,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#3798",
-      "time": 1666403359.0,
+      "time": "2022-10-22T01:49:19.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3798",
       "text": "Cypress: Fixes & Refactoring",
       "collaborated_with": [
@@ -485,7 +485,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#3683",
-      "time": 1666327523.0,
+      "time": "2022-10-21T04:45:23.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3683",
       "text": "Use `Inter` font as the sans font",
       "collaborated_with": [
@@ -495,41 +495,41 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#68",
-      "time": 1665460639.0,
+      "time": "2022-10-11T03:57:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/68#issuecomment-1274053473",
       "text": "They are going fully graph, I think we should explore porting it fully into graph. "
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#87",
-      "time": 1665316570.0,
+      "time": "2022-10-09T11:56:10.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/87",
       "text": "Add support for identifying stale prs and issues"
     },
     {
       "type": "pr_reviewed",
-      "time": 1665316563.0,
+      "time": "2022-10-09T11:56:03.000Z",
       "title": "coronasafe/leaderboard#88",
       "link": "https://github.com/coronasafe/leaderboard/pull/88#pullrequestreview-1135338932",
       "text": "Add support for identifying stale prs"
     },
     {
       "type": "pr_reviewed",
-      "time": 1664938300.0,
+      "time": "2022-10-05T02:51:40.000Z",
       "title": "coronasafe/care_fe#3683",
       "link": "https://github.com/coronasafe/care_fe/pull/3683#pullrequestreview-1130829083",
       "text": "Use `Inter` font as the sans font"
     },
     {
       "type": "pr_reviewed",
-      "time": 1664938169.0,
+      "time": "2022-10-05T02:49:29.000Z",
       "title": "coronasafe/care_fe#3683",
       "link": "https://github.com/coronasafe/care_fe/pull/3683#pullrequestreview-1130825040",
       "text": "Use `Inter` font as the sans font"
     },
     {
       "type": "pr_reviewed",
-      "time": 1664938169.0,
+      "time": "2022-10-05T02:49:29.000Z",
       "title": "coronasafe/care_fe#3683",
       "link": "https://github.com/coronasafe/care_fe/pull/3683#pullrequestreview-1130825040",
       "text": "Use `Inter` font as the sans font"
@@ -537,34 +537,34 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#62",
-      "time": 1664259888.0,
+      "time": "2022-09-27T06:24:48.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/62",
       "text": "Removing placeholder text"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#62",
-      "time": 1664259888.0,
+      "time": "2022-09-27T06:24:48.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/62#issuecomment-1259035433",
       "text": "Resolved"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#88",
-      "time": 1664254208.0,
+      "time": "2022-09-27T04:50:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/88#issuecomment-1258975554",
-      "text": "@khavinshankar can we add a date at the end? \r\n\r\n```\r\n-> {issue_name} | x days\r\n```\r\n\r\nAlso I would avoid the blink and make it a filter \ud83d\ude04 "
+      "text": "@khavinshankar can we add a date at the end? \r\n\r\n```\r\n-> {issue_name} | x days\r\n```\r\n\r\nAlso I would avoid the blink and make it a filter 😄 "
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#67",
-      "time": 1664254052.0,
+      "time": "2022-09-27T04:47:32.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/67",
       "text": "Enable reward for collaboration"
     },
     {
       "type": "pr_reviewed",
-      "time": 1664254047.0,
+      "time": "2022-09-27T04:47:27.000Z",
       "title": "coronasafe/leaderboard#84",
       "link": "https://github.com/coronasafe/leaderboard/pull/84#pullrequestreview-1121224219",
       "text": "Added support for collaboration achievement"
@@ -572,13 +572,13 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#73",
-      "time": 1664253987.0,
+      "time": "2022-09-27T04:46:27.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/73",
       "text": "UI Enhancement for Search, Sort and Toggle"
     },
     {
       "type": "pr_reviewed",
-      "time": 1664253982.0,
+      "time": "2022-09-27T04:46:22.000Z",
       "title": "coronasafe/leaderboard#74",
       "link": "https://github.com/coronasafe/leaderboard/pull/74#pullrequestreview-1121223550",
       "text": "UI enhancements for search, sort and toggle"
@@ -586,20 +586,20 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#83",
-      "time": 1664253944.0,
+      "time": "2022-09-27T04:45:44.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/83#issuecomment-1258973237",
-      "text": "Not a fan of that border \ud83e\udd72 "
+      "text": "Not a fan of that border 🥲 "
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#69",
-      "time": 1664253835.0,
+      "time": "2022-09-27T04:43:55.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/69",
       "text": "Capture Autonomy And Responsibility"
     },
     {
       "type": "pr_reviewed",
-      "time": 1664253830.0,
+      "time": "2022-09-27T04:43:50.000Z",
       "title": "coronasafe/leaderboard#81",
       "link": "https://github.com/coronasafe/leaderboard/pull/81#pullrequestreview-1121221235",
       "text": "Capture Autonomy And Responsibility "
@@ -607,27 +607,27 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#50",
-      "time": 1661556277.0,
+      "time": "2022-08-26T23:24:37.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/50",
       "text": "Showing wrong year in profile"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#60",
-      "time": 1661556181.0,
+      "time": "2022-08-26T23:23:01.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/60#issuecomment-1229036481",
       "text": "I missed this PR @khavinshankar, The filter looks really NYC, can you resolve the conflicts, merge it as soon as possible. "
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#71",
-      "time": 1661555976.0,
+      "time": "2022-08-26T23:19:36.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/71",
       "text": "Leaderboard date range is static"
     },
     {
       "type": "pr_reviewed",
-      "time": 1661555957.0,
+      "time": "2022-08-26T23:19:17.000Z",
       "title": "coronasafe/leaderboard#72",
       "link": "https://github.com/coronasafe/leaderboard/pull/72#pullrequestreview-1087585056",
       "text": "Fix leaderboard static date range"
@@ -635,76 +635,76 @@
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#3455",
-      "time": 1661152226.0,
+      "time": "2022-08-22T07:10:26.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/3455",
       "text": "Update the Goal for the project in landing page"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#3377",
-      "time": 1660218598.0,
+      "time": "2022-08-11T11:49:58.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/3377",
       "text": "Setup crowdin for internationalization"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#53",
-      "time": 1659678145.0,
+      "time": "2022-08-05T05:42:25.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1206065880",
       "text": "Looks good. @gigincg can you review and merge?"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#69",
-      "time": 1656540186.0,
+      "time": "2022-06-29T22:03:06.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/69",
       "text": "Capture Autonomy And Responsibility"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#68",
-      "time": 1656540003.0,
+      "time": "2022-06-29T22:00:03.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/68",
       "text": "Enable reward for activity in GitHub discussion"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#67",
-      "time": 1656539808.0,
+      "time": "2022-06-29T21:56:48.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/67",
       "text": "Enable reward for collaboration"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#58",
-      "time": 1656423351.0,
+      "time": "2022-06-28T13:35:51.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/58#issuecomment-1168735054",
       "text": "I thought the data loading service handled it. We should fix it. "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#58",
-      "time": 1656423351.0,
+      "time": "2022-06-28T13:35:51.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/58#issuecomment-1168735054",
       "text": "I thought the data loading service handled it. We should fix it. "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#53",
-      "time": 1655662569.0,
+      "time": "2022-06-19T18:16:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1159787295",
       "text": "Looks good,the number of years on the right should consider the 1st contribution year to compute the available years. "
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#57",
-      "time": 1655624569.0,
+      "time": "2022-06-19T07:42:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/57",
       "text": "Changing cron time to 7:00 PM"
     },
     {
       "type": "pr_reviewed",
-      "time": 1655624564.0,
+      "time": "2022-06-19T07:42:44.000Z",
       "title": "coronasafe/leaderboard#58",
       "link": "https://github.com/coronasafe/leaderboard/pull/58#pullrequestreview-1011486240",
       "text": "change cron time to every 12 hours"
@@ -712,27 +712,27 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#53",
-      "time": 1655662569.0,
+      "time": "2022-06-19T18:16:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1159787295",
       "text": "Looks good,the number of years on the right should consider the 1st contribution year to compute the available years. "
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#57",
-      "time": 1655624569.0,
+      "time": "2022-06-19T07:42:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/57",
       "text": "Changing cron time to 7:00 PM"
     },
     {
       "type": "pr_reviewed",
-      "time": 1655624564.0,
+      "time": "2022-06-19T07:42:44.000Z",
       "title": "coronasafe/leaderboard#58",
       "link": "https://github.com/coronasafe/leaderboard/pull/58#pullrequestreview-1011486240",
       "text": "change cron time to every 12 hours"
     },
     {
       "type": "pr_reviewed",
-      "time": 1655547755.0,
+      "time": "2022-06-18T10:22:35.000Z",
       "title": "coronasafe/leaderboard#61",
       "link": "https://github.com/coronasafe/leaderboard/pull/61#pullrequestreview-1011406668",
       "text": "Update profile description of anuran-roy"
@@ -740,20 +740,20 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#58",
-      "time": 1655547692.0,
+      "time": "2022-06-18T10:21:32.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/58#issuecomment-1159438777",
       "text": "Can we run it twice a day?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#53",
-      "time": 1655547597.0,
+      "time": "2022-06-18T10:19:57.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1159438153",
       "text": "@GokulramGHV nice work. \r\n\r\nFew suggestions.\r\n- by default show last 365 days\r\n- The number of years should be dynamic, you could easily do that by updating the current 5 year function. \r\n- move the years to the right side just like github "
     },
     {
       "type": "pr_reviewed",
-      "time": 1655547755.0,
+      "time": "2022-06-18T10:22:35.000Z",
       "title": "coronasafe/leaderboard#61",
       "link": "https://github.com/coronasafe/leaderboard/pull/61#pullrequestreview-1011406668",
       "text": "Update profile description of anuran-roy"
@@ -761,48 +761,48 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#58",
-      "time": 1655547692.0,
+      "time": "2022-06-18T10:21:32.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/58#issuecomment-1159438777",
       "text": "Can we run it twice a day?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#53",
-      "time": 1655547597.0,
+      "time": "2022-06-18T10:19:57.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1159438153",
       "text": "@GokulramGHV nice work. \r\n\r\nFew suggestions.\r\n- by default show last 365 days\r\n- The number of years should be dynamic, you could easily do that by updating the current 5 year function. \r\n- move the years to the right side just like github "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#55",
-      "time": 1654816060.0,
+      "time": "2022-06-09T23:07:40.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/55#issuecomment-1151699927",
-      "text": "Its a good to have \ud83d\ude03"
+      "text": "Its a good to have 😃"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#53",
-      "time": 1654680996.0,
+      "time": "2022-06-08T09:36:36.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/53#issuecomment-1149690740",
       "text": "@GokulramGHV I missed out on this. We should have a similar setup just like GitHub\r\n\r\nBy default, it shows last 365 days \r\n![image](https://user-images.githubusercontent.com/14979190/172584504-7fb52b95-9e03-40e7-b29a-04df58628d3b.png)\r\n\r\n\r\n Picking a year would show the details of that year. \r\n \r\n![image](https://user-images.githubusercontent.com/14979190/172584624-4898e646-aaa9-4d2b-b242-c2a0255272de.png)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#39",
-      "time": 1654202510.0,
+      "time": "2022-06-02T20:41:50.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/39#issuecomment-1145321920",
       "text": "@Ritesh-Aggarwal can you also verify if the API is responding with the data for the correct week, when I last checked it was passion on last 7 entries "
     },
     {
       "type": "pr_reviewed",
-      "time": 1654202396.0,
+      "time": "2022-06-02T20:39:56.000Z",
       "title": "coronasafe/leaderboard#49",
       "link": "https://github.com/coronasafe/leaderboard/pull/49#pullrequestreview-994167406",
       "text": "update Pranshu1902's bio"
     },
     {
       "type": "pr_reviewed",
-      "time": 1654163233.0,
+      "time": "2022-06-02T09:47:13.000Z",
       "title": "coronasafe/leaderboard#48",
       "link": "https://github.com/coronasafe/leaderboard/pull/48#pullrequestreview-993287331",
       "text": "Updates `rithviknishad`'s bio"
@@ -810,20 +810,20 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#40",
-      "time": 1654152719.0,
+      "time": "2022-06-02T06:51:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/40#issuecomment-1144505379",
-      "text": "Hide the card \ud83d\ude05"
+      "text": "Hide the card 😅"
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#43",
-      "time": 1654121151.0,
+      "time": "2022-06-01T22:05:51.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/43",
       "text": "Remove most number of issues assigned"
     },
     {
       "type": "pr_reviewed",
-      "time": 1654121146.0,
+      "time": "2022-06-01T22:05:46.000Z",
       "title": "coronasafe/leaderboard#44",
       "link": "https://github.com/coronasafe/leaderboard/pull/44#pullrequestreview-992733851",
       "text": "Remove Issue assigned from top contributors"
@@ -831,41 +831,41 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#37",
-      "time": 1654121096.0,
+      "time": "2022-06-01T22:04:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/37#issuecomment-1144187719",
       "text": "@Ritesh-Aggarwal can you merge the main branch?"
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#23",
-      "time": 1654071622.0,
+      "time": "2022-06-01T08:20:22.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/23",
       "text": "Ignore Core team from Leaderboard "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#45",
-      "time": 1654064309.0,
+      "time": "2022-06-01T06:18:29.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/45#issuecomment-1143162647",
       "text": "@rabilrbl can you fix the merge conflicts "
     },
     {
       "type": "pr_reviewed",
-      "time": 1654064230.0,
+      "time": "2022-06-01T06:17:10.000Z",
       "title": "coronasafe/leaderboard#41",
       "link": "https://github.com/coronasafe/leaderboard/pull/41#pullrequestreview-991440392",
       "text": "Include only interns in leaderboard homepage"
     },
     {
       "type": "pr_reviewed",
-      "time": 1654064230.0,
+      "time": "2022-06-01T06:17:10.000Z",
       "title": "coronasafe/leaderboard#41",
       "link": "https://github.com/coronasafe/leaderboard/pull/41#pullrequestreview-991440392",
       "text": "Include only interns in leaderboard homepage"
     },
     {
       "type": "pr_reviewed",
-      "time": 1654064108.0,
+      "time": "2022-06-01T06:15:08.000Z",
       "title": "coronasafe/leaderboard#39",
       "link": "https://github.com/coronasafe/leaderboard/pull/39#pullrequestreview-991438943",
       "text": "change leaderboard week dates dynamically"
@@ -873,48 +873,48 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#45",
-      "time": 1654012883.0,
+      "time": "2022-05-31T16:01:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/45#issuecomment-1142323012",
-      "text": "It should also include github bot right\ud83d\ude05"
+      "text": "It should also include github bot right😅"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#36",
-      "time": 1653995779.0,
+      "time": "2022-05-31T11:16:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/36#issuecomment-1142000261",
       "text": "It's Tuesday to Monday "
     },
     {
       "type": "pr_reviewed",
-      "time": 1653994815.0,
+      "time": "2022-05-31T11:00:15.000Z",
       "title": "coronasafe/leaderboard#38",
       "link": "https://github.com/coronasafe/leaderboard/pull/38#pullrequestreview-990248462",
       "text": "Update rabilrbl bio"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653942401.0,
+      "time": "2022-05-30T20:26:41.000Z",
       "title": "coronasafe/leaderboard#34",
       "link": "https://github.com/coronasafe/leaderboard/pull/34#pullrequestreview-989665911",
       "text": "Added bio for skks1212"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653914780.0,
+      "time": "2022-05-30T12:46:20.000Z",
       "title": "coronasafe/leaderboard#30",
       "link": "https://github.com/coronasafe/leaderboard/pull/30#pullrequestreview-989301033",
       "text": "Remove console output for scrapped data"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653914692.0,
+      "time": "2022-05-30T12:44:52.000Z",
       "title": "coronasafe/leaderboard#30",
       "link": "https://github.com/coronasafe/leaderboard/pull/30#pullrequestreview-989299132",
       "text": "Remove console output for scrapped data"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653914692.0,
+      "time": "2022-05-30T12:44:52.000Z",
       "title": "coronasafe/leaderboard#30",
       "link": "https://github.com/coronasafe/leaderboard/pull/30#pullrequestreview-989299132",
       "text": "Remove console output for scrapped data"
@@ -922,13 +922,13 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#28",
-      "time": 1653909896.0,
+      "time": "2022-05-30T11:24:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/28#issuecomment-1141037972",
       "text": "Lets use yarn"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653909811.0,
+      "time": "2022-05-30T11:23:31.000Z",
       "title": "coronasafe/leaderboard#25",
       "link": "https://github.com/coronasafe/leaderboard/pull/25#pullrequestreview-989201728",
       "text": "Improve Accessibility"
@@ -936,13 +936,13 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#1",
-      "time": 1653898017.0,
+      "time": "2022-05-30T08:06:57.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/1",
       "text": "Add support for markdown rendering"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653898001.0,
+      "time": "2022-05-30T08:06:41.000Z",
       "title": "coronasafe/leaderboard#22",
       "link": "https://github.com/coronasafe/leaderboard/pull/22#pullrequestreview-988946641",
       "text": "Markdown functionality for contributor bio"
@@ -950,20 +950,20 @@
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#24",
-      "time": 1653851113.0,
+      "time": "2022-05-29T19:05:13.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/24",
       "text": "Create static links for leaderboard"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#23",
-      "time": 1653850976.0,
+      "time": "2022-05-29T19:02:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/23",
       "text": "Ignore Core team from Leaderboard "
     },
     {
       "type": "pr_reviewed",
-      "time": 1653850893.0,
+      "time": "2022-05-29T19:01:33.000Z",
       "title": "coronasafe/leaderboard#22",
       "link": "https://github.com/coronasafe/leaderboard/pull/22#pullrequestreview-988653752",
       "text": "Markdown functionality for contributor bio"
@@ -971,20 +971,20 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#2",
-      "time": 1653819941.0,
+      "time": "2022-05-29T10:25:41.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/2",
       "text": "Unify timestamps in exports"
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#7",
-      "time": 1653768049.0,
+      "time": "2022-05-28T20:00:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/7",
       "text": "Hide currently working on when the data is empty"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653768045.0,
+      "time": "2022-05-28T20:00:45.000Z",
       "title": "coronasafe/leaderboard#11",
       "link": "https://github.com/coronasafe/leaderboard/pull/11#pullrequestreview-988551623",
       "text": "Hides \"currently working on\" if data is empty"
@@ -992,13 +992,13 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#8",
-      "time": 1653768026.0,
+      "time": "2022-05-28T20:00:26.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/8",
       "text": "InfoCard content incorrectly aligned in different window size"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653768021.0,
+      "time": "2022-05-28T20:00:21.000Z",
       "title": "coronasafe/leaderboard#9",
       "link": "https://github.com/coronasafe/leaderboard/pull/9#pullrequestreview-988551595",
       "text": "Responsive alignment for InfoCard Content"
@@ -1006,20 +1006,20 @@
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#7",
-      "time": 1653760030.0,
+      "time": "2022-05-28T17:47:10.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/7",
       "text": "Hide currently working on when the data is empty"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653759375.0,
+      "time": "2022-05-28T17:36:15.000Z",
       "title": "coronasafe/leaderboard#5",
       "link": "https://github.com/coronasafe/leaderboard/pull/5#pullrequestreview-988542661",
       "text": "Converted external links to anchor tags and updated Shivank Kacker's details"
     },
     {
       "type": "pr_reviewed",
-      "time": 1653490069.0,
+      "time": "2022-05-25T14:47:49.000Z",
       "title": "coronasafe/care_fe#2518",
       "link": "https://github.com/coronasafe/care_fe/pull/2518#pullrequestreview-984951595",
       "text": "replace \"Doctor Video\" to \"Doctor Connect\""
@@ -1027,14 +1027,14 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2515",
-      "time": 1653489690.0,
+      "time": "2022-05-25T14:41:30.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2515#issuecomment-1137356091",
       "text": "This list now shows users other than doctors, we should limit it to doctors / have another listing for others. \r\n\r\n@aparnacoronasafe "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2160",
-      "time": 1653392393.0,
+      "time": "2022-05-24T11:39:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2160#issuecomment-1135804112",
       "text": "Not sure if we have an application for this anymore. "
     }

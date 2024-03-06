@@ -1,10 +1,10 @@
 {
-  "last_updated": 1701145507.0,
+  "last_updated": "2023-11-28T04:25:07.000Z",
   "activity": [
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6739",
-      "time": 1701145507.0,
+      "time": "2023-11-28T04:25:07.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6739",
       "text": "Production Release Nov Week 4",
       "collaborated_with": [
@@ -27,14 +27,14 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6654",
-      "time": 1700624238.0,
+      "time": "2023-11-22T03:37:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6654",
       "text": "Made Covid Detail section by default collapsed in patient advance filters"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6654",
-      "time": 1700130552.0,
+      "time": "2023-11-16T10:29:12.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6654",
       "text": "Made Covid Detail section by default collapsed in patient advance filters"
     }

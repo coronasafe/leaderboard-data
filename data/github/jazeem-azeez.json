@@ -1,10 +1,10 @@
 {
-  "last_updated": 1674435942.0,
+  "last_updated": "2023-01-23T01:05:42.000Z",
   "activity": [
     {
       "type": "issue_closed",
       "title": "coronasafe/dhaya#14",
-      "time": 1674435942.0,
+      "time": "2023-01-23T01:05:42.000Z",
       "link": "https://github.com/coronasafe/dhaya/issues/14",
       "text": "Credentials Exposed in Code"
     }

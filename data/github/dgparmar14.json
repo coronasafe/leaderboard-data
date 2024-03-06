@@ -1,72 +1,72 @@
 {
-  "last_updated": 1709648862.0,
+  "last_updated": "2024-03-05T14:27:42.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#309",
-      "time": 1709648862.0,
+      "time": "2024-03-05T14:27:42.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1978898235",
       "text": "> Oh yea, makes sense. If you think the `minimal` is not used anywhere, let's remove it and keep `showRank` prop instead\r\n\r\nSo, I need to change my previous commit?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#327",
-      "time": 1709647736.0,
+      "time": "2024-03-05T14:08:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1978854816",
       "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/72081a54-65c1-4667-8f94-ed0504af971e)\r\n\r\nIs it something like this?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#309",
-      "time": 1709644352.0,
+      "time": "2024-03-05T13:12:32.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1978750074",
       "text": "Yes, right but deefault value of minimal in info card is false .\r\nAnd if we pass `miminal=false` than it will create problem for below code in info card?\r\nSo the solution is the change the logic or comment down below unused code because we are not using any where info card's below code like github name, linkedin name, slack id right?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#314",
-      "time": 1709643448.0,
+      "time": "2024-03-05T12:57:28.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/314#issuecomment-1978722078",
       "text": "@rithviknishad Rithvik can you please review it?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#309",
-      "time": 1709643417.0,
+      "time": "2024-03-05T12:56:57.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1978721168",
       "text": "@rithviknishad  If use minimal to show rank it will create logical conflicts in info card page beacause the default value of minimal is true"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#327",
-      "time": 1709614303.0,
+      "time": "2024-03-05T04:51:43.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1977964447",
       "text": "@rithviknishad  Could you please provide the starting date of CoronaSafe?\r\n"
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#307",
-      "time": 1709575374.0,
+      "time": "2024-03-04T18:02:54.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/307",
       "text": "Different logic of Leaderboard"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#327",
-      "time": 1709575225.0,
+      "time": "2024-03-04T18:00:25.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1977159924",
       "text": "I want take this issue can you please assign me."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#309",
-      "time": 1709574595.0,
+      "time": "2024-03-04T17:49:55.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1977142881",
       "text": "I do not remove isRank props because it indicates to show the ranking in the profile page and if we don't add it the ranking will also show in the home page info cards does it right?\r\nOne more thing is that I fetched leaderboard data and use index as ranking only .And for contributor data i don't chnage previous logic."
     },
     {
       "type": "pr_reviewed",
-      "time": 1709543689.0,
+      "time": "2024-03-04T09:14:49.000Z",
       "title": "coronasafe/leaderboard#309",
       "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1913794528",
       "text": "Add rank of contributor on the weeklybasis in profile page"
@@ -74,70 +74,70 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#314",
-      "time": 1709490907.0,
+      "time": "2024-03-03T18:35:07.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/314",
       "text": "fixes-client-side-exception"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#309",
-      "time": 1709407785.0,
+      "time": "2024-03-02T19:29:45.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1974887166",
       "text": "@rithviknishad Hey, Rithvik can you please review it?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#309",
-      "time": 1709407472.0,
+      "time": "2024-03-02T19:24:32.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/309",
       "text": "Add rank of contributor on the weeklybasis in profile page"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#295",
-      "time": 1709401460.0,
+      "time": "2024-03-02T17:44:20.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/295#issuecomment-1974862411",
       "text": "![Screenshot 2024-03-02 223442](https://github.com/coronasafe/leaderboard/assets/99136186/5c5774d7-d7ef-474e-aa09-5379b53fc8b8)\r\n![Screenshot 2024-03-02 224311](https://github.com/coronasafe/leaderboard/assets/99136186/d788d8a7-8116-4d20-979a-2acce701a05e)\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/3a048b41-2187-4554-8393-a840e2e93ca8)\r\n\r\n\r\nWhich one looks better?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#292",
-      "time": 1709398105.0,
+      "time": "2024-03-02T16:48:25.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/292#issuecomment-1974848668",
       "text": "Me and Rithvik already discussed this issue and we reached a solution, Implementation in progress"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#307",
-      "time": 1709375261.0,
+      "time": "2024-03-02T10:27:41.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/307",
       "text": "Different logic of Leaderboard"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#295",
-      "time": 1709318948.0,
+      "time": "2024-03-01T18:49:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/295#issuecomment-1973743245",
       "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/8410b7f5-5b5a-4d60-962f-7650ff78685e)\r\nIs this looks good?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#295",
-      "time": 1709317625.0,
+      "time": "2024-03-01T18:27:05.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/295#issuecomment-1973714555",
       "text": "@rithviknishad What type of rank like? On a weekly basis ?\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#295",
-      "time": 1709311751.0,
+      "time": "2024-03-01T16:49:11.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/295#issuecomment-1973529362",
       "text": "@rithviknishad  \r\nI want to work up on this"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#283",
-      "time": 1709310738.0,
+      "time": "2024-03-01T16:32:18.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/283",
       "text": "Adds support for organisation specific theme",
       "turnaround_time": 72320
@@ -145,7 +145,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard#283",
-      "time": 1709310738.0,
+      "time": "2024-03-01T16:32:18.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/283",
       "text": "Adds support for organisation specific theme",
       "collaborated_with": [
@@ -155,34 +155,34 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#283",
-      "time": 1709307840.0,
+      "time": "2024-03-01T15:44:00.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/283#issuecomment-1973415337",
       "text": "@rithviknishad Hey,rithvik can you verify it?\r\n"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709290379.0,
+      "time": "2024-03-01T10:52:59.000Z",
       "title": "coronasafe/leaderboard#283",
       "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910861809",
       "text": "Adds support for organisation specific theme"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709290160.0,
+      "time": "2024-03-01T10:49:20.000Z",
       "title": "coronasafe/leaderboard#283",
       "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910855400",
       "text": "Adds support for organisation specific theme"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709288879.0,
+      "time": "2024-03-01T10:27:59.000Z",
       "title": "coronasafe/leaderboard#283",
       "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910817218",
       "text": "add a symlink for tailwind.config.js"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709288343.0,
+      "time": "2024-03-01T10:19:03.000Z",
       "title": "coronasafe/leaderboard#283",
       "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910793838",
       "text": "add a symlink for tailwind.config.js"
@@ -190,7 +190,7 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#16",
-      "time": 1709287853.0,
+      "time": "2024-03-01T10:10:53.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
       "text": "tailwind.config.js for organization personalized dashobard color",
       "turnaround_time": 56325
@@ -198,7 +198,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard-data#16",
-      "time": 1709287853.0,
+      "time": "2024-03-01T10:10:53.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
       "text": "tailwind.config.js for organization personalized dashobard color",
       "collaborated_with": [
@@ -208,70 +208,70 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#292",
-      "time": 1709279063.0,
+      "time": "2024-03-01T07:44:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/292#issuecomment-1972681817",
       "text": "@rithviknishad Hey, rithvik I want to take this issue"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#292",
-      "time": 1709279041.0,
+      "time": "2024-03-01T07:44:01.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/292",
       "text": "Client side exception in feed page "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#219",
-      "time": 1709235310.0,
+      "time": "2024-02-29T19:35:10.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/219#issuecomment-1971827541",
       "text": "@rithviknishad  I want to resolve this issue .\r\nAfter fetching issues length from pr . How it will show up in UI?\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#283",
-      "time": 1709226822.0,
+      "time": "2024-02-29T17:13:42.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/283#issuecomment-1971595161",
       "text": "@rithviknishad Hey, Rithvik now check it is it ok?\r\n\r\n![Screenshot 2024-02-29 224137](https://github.com/coronasafe/leaderboard/assets/99136186/f40c945c-dad5-4f31-a8ec-447c39d5a864)\r\n![Screenshot 2024-02-29 224158](https://github.com/coronasafe/leaderboard/assets/99136186/69524277-f9f8-415f-ba1d-52066795e1bd)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#283",
-      "time": 1709152151.0,
+      "time": "2024-02-28T20:29:11.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/283#issuecomment-1969864499",
       "text": "@rithviknishad Hey, rithvik it is right solution or any changes needed?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#283",
-      "time": 1709152019.0,
+      "time": "2024-02-28T20:26:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/283",
       "text": "add a symlink for tailwind.config.js"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard-data#16",
-      "time": 1709145178.0,
+      "time": "2024-02-28T18:32:58.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/16#issuecomment-1969596322",
       "text": "@rithviknishad Hey, rithvik please review it. is it okk ?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#16",
-      "time": 1709145129.0,
+      "time": "2024-02-28T18:32:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
       "text": "tailwind.config.js for organization personalized dashobard color"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1709139184.0,
+      "time": "2024-02-28T16:53:04.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1969418468",
       "text": "@rithviknishad for the updation script \r\n\r\ncan I go for a change in load-fixtures.sh or create a new one?\r\n\r\n: \"${FIXTURES_SOURCE:=https://github.com/coronasafe/leaderboard-data.git}\"\r\n\r\nrm -rf data-repo\r\nmkdir data-repo\r\ncd data-repo\r\n\r\ngit init\r\ngit remote add --mirror=fetch origin ${FIXTURES_SOURCE}\r\ngit config core.sparseCheckout true\r\n\r\necho \"data/\" >> .git/info/sparse-checkout\r\necho \"contributors/\" >> .git/info/sparse-checkout\r\necho \"tailwind.config.js\" >> .git/info/sparse-checkout\r\n\r\ngit pull origin main"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#273",
-      "time": 1709108986.0,
+      "time": "2024-02-28T08:29:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/273",
       "text": "adding navbar feature",
       "turnaround_time": 73376
@@ -279,182 +279,182 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#273",
-      "time": 1709108374.0,
+      "time": "2024-02-28T08:19:34.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/273#issuecomment-1968452319",
       "text": "@rithviknishad Please review it\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#273",
-      "time": 1709108356.0,
+      "time": "2024-02-28T08:19:16.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/273",
       "text": "adding navbar feature"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#266",
-      "time": 1709050902.0,
+      "time": "2024-02-27T16:21:42.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/266#issuecomment-1966939913",
       "text": "@rithviknishad Hey, Rithvik can you review it?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#266",
-      "time": 1709050853.0,
+      "time": "2024-02-27T16:20:53.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/266",
       "text": "New feature navbar added"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1709040846.0,
+      "time": "2024-02-27T13:34:06.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1966563744",
       "text": "@rithviknishad it's now finally done i checked all possible way can you please review if there is still issue then please telll me."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1709009609.0,
+      "time": "2024-02-27T04:53:29.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965783228",
       "text": "Okay, So final decision is to move t.config file in data repo file . what if for future flexibility create there theme folder"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1709008767.0,
+      "time": "2024-02-27T04:39:27.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965773469",
       "text": "Yes  it's almost like that approach, \r\nlet me give you clear view\r\none org try to use our leadrboard tool\r\nthey add their json file for their preferred 2 or 3 themes and we can add that themes selection foe that in our page. "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1709008139.0,
+      "time": "2024-02-27T04:28:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965765605",
       "text": "Okay it is great to move tailwind.config file ,\r\nBut i have one more idea ,  we add theme folder in leaderboard data repo and create there files like theme1.json \r\ntheme2.json theme3.json .?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1709007781.0,
+      "time": "2024-02-27T04:23:01.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965761527",
       "text": "We can implant this using configuration file also \r\n\r\n{\r\n  \"customBlue\": \"#4C8BF5\",\r\n  \"customRed\": \"#F87171\",\r\n  \"customGreen\": \"#34D399\"\r\n}\r\n\r\nconst customColors = require('./customColors.json');\r\n\r\nmodule.exports = {\r\n  theme: {\r\n    extend: {\r\n      colors: {\r\n        ...customColors,\r\n      },\r\n    },\r\n  },\r\n};"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1709007548.0,
+      "time": "2024-02-27T04:19:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965758775",
       "text": "Okay as per my understanding on this Idea ,\r\n\r\n### env file \r\n\r\nNEXT_PUBLIC_CUSTOM_BLUE=#4C8BF5\r\nNEXT_PUBLIC_CUSTOM_RED=#F87171\r\nNEXT_PUBLIC_CUSTOM_GREEN=#34D399\r\n\r\n### tailwind configuration file\r\nmodule.exports = {\r\n  theme: {\r\n    extend: {\r\n      colors: {\r\n        customBlue: process.env.NEXT_PUBLIC_CUSTOM_BLUE,\r\n        customRed: process.env.NEXT_PUBLIC_CUSTOM_RED,\r\n        customGreen: process.env.NEXT_PUBLIC_CUSTOM_GREEN,\r\n        // Add more custom colors as needed\r\n      },\r\n    },\r\n  },\r\n};\r\n\r\nIt is just an example how I understand and how can we do it .Is it right approach?\r\n@rithviknishad "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708973980.0,
+      "time": "2024-02-26T18:59:40.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964943430",
       "text": "> We can make it responsive by simplifying the component event title to be as shown in the example [here](https://tailwindcss.com/docs/display#inline-flex) regardless of what window size it is.\r\n\r\nI already use it but there is also need of flex-wrap so i add it also can you please review and there is still not fixed i will do it \r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708970828.0,
+      "time": "2024-02-26T18:07:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964807668",
       "text": "Okk, Let me clear for clicking link .\r\nIt is an already in main repo code. So whenever link on user name it will navigate to the user's profile\r\n\r\n> > <img alt=\"image\" width=\"1029\" src=\"https://private-user-images.githubusercontent.com/25143503/307890987-45fa83d1-d058-430d-8cb0-72bf6591762f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NzA1NzEsIm5iZiI6MTcwODk3MDI3MSwicGF0aCI6Ii8yNTE0MzUwMy8zMDc4OTA5ODctNDVmYTgzZDEtZDA1OC00MzBkLThjYjAtNzJiZjY1OTE3NjJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDE3NTc1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMzBkYTI3NjA5MjNhMjcwYzZjYWJmOGVjNGY4MDBiMmE1NjU4NGViZTk5OTMxNmJhMzMyNjk5MjZhNTIwN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.snsPE-wV7fWdp5TZA3eMp-RbeiuQI0BBSWTfsSi9lMI\">\r\n> \r\n> This issue is still present\r\n\r\nIn which screen size it occurs because i try all device on chrome for responsive ness and it is working fine"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708969682.0,
+      "time": "2024-02-26T17:48:02.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964745063",
       "text": "@rithviknishad I think now it is done."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708967631.0,
+      "time": "2024-02-26T17:13:51.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964678670",
       "text": "> Yup, revert changes to the link. Not in the scope of this issue/PR\r\n\r\nResponsiveness is done or any changes needed?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708967449.0,
+      "time": "2024-02-26T17:10:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964672701",
       "text": "> Why? shouldn't it open something related to the event?\r\n\r\nI will change it according to the main leader board repo link will be same as per previous?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1708965719.0,
+      "time": "2024-02-26T16:41:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964609836",
       "text": "Okay, you are trying to say that,  rather than creating a GUI for setting up custom color palettes, the system could rely on configuration files or environment variables that the engineer can modify directly. right?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1708965401.0,
+      "time": "2024-02-26T16:36:41.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964594789",
       "text": "@rithviknishad Okay, I think  One way to achieve this is by providing a user interface where organizations can input their custom color values. "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1708965023.0,
+      "time": "2024-02-26T16:30:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964582159",
       "text": "\r\n### Themes suggestion:\r\n\r\n**Techy Blue Theme:**\r\nPrimary Accent Color: #0366d6 (Blue)\r\nSecondary Accent Color: #24292e (Dark Gray)\r\nNeutral Color: #f6f8fa (Light Gray)\r\nText Color: #24292e (Dark Gray)\r\n\r\n**Data-driven Green Theme:**\r\nPrimary Accent Color: #28a745 (Green)\r\nSecondary Accent Color: #6cb2eb (Light Blue)\r\nNeutral Color: #f8f9fa (Off-White)\r\nText Color: #333333 (Dark Gray)\r\n\r\n**Code-friendly Dark Theme:**\r\nPrimary Accent Color: #6f42c1 (Purple)\r\nSecondary Accent Color: #586069 (Gray)\r\nNeutral Color: #1e1e1e (Dark Gray)\r\nText Color: #e1e4e8 (Light Gray)\r\n\r\n**Corporate Navy Theme:**\r\nPrimary Accent Color: #0366d6 (Navy Blue)\r\nSecondary Accent Color: #586069 (Gray)\r\nNeutral Color: #f6f8fa (Light Gray)\r\nText Color: #24292e (Dark Gray)\r\n\r\n**Minimalistic Monochrome Theme:**\r\nPrimary Accent Color: #333333 (Dark Gray)\r\nSecondary Accent Color: #666666 (Medium Gray)\r\nNeutral Color: #f8f9fa (Off-White)\r\nText Color: #24292e (Dark Gray)\r\n\r\n@rithviknishad Hey, I think it is the best theme .5 themes are good number ?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708963662.0,
+      "time": "2024-02-26T16:07:42.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964526700",
       "text": "Okay try to fix it"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708963527.0,
+      "time": "2024-02-26T16:05:27.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964518023",
       "text": "@rithviknishad Yes it will open related repo. "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#248",
-      "time": 1708889414.0,
+      "time": "2024-02-25T19:30:14.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/248#issuecomment-1963037584",
       "text": "@rithviknishad \r\nI already think this and occur same problem and\r\nI think there is no need to use a third party. We can add a pagination feature that will fetch only the necessary feed data to load at a time. and it makes good UX and we can add filters to the filter-out feed data for forked or push or comment etc."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#249",
-      "time": 1708889116.0,
+      "time": "2024-02-25T19:25:16.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1963036334",
       "text": "@rithviknishad  I like to implement this new exciting feature."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708879564.0,
+      "time": "2024-02-25T16:46:04.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1962996399",
       "text": "@rithviknishad In mobile view is it better to below line?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708869543.0,
+      "time": "2024-02-25T13:59:03.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1962950211",
       "text": "> Even though there is enough space for time to be shown in same line, it's going to the next line. Let's keep it in a single line if we have the space\r\n> \r\n> <img alt=\"image\" width=\"1510\" src=\"https://private-user-images.githubusercontent.com/25143503/307595500-884235b8-7e99-49d8-b63d-36f2e945e9ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg4Njk2MDIsIm5iZiI6MTcwODg2OTMwMiwicGF0aCI6Ii8yNTE0MzUwMy8zMDc1OTU1MDAtODg0MjM1YjgtN2U5OS00OWQ4LWI2M2QtMzZmMmU5NDVlOWZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI1VDEzNTUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM2NDA2ZmFhODE5OTRiNDdjZmJjNjc2YzI0MjQxZmZmZDBjNmVjNDg3ZWNkMTY5ZDdiM2U3ODRkOWU0NmQ3NWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.tWoiWcAi0atnLZPEwSBugbcBwRh9OYcs9xNXrh1W-U0\">\r\n\r\nYes,There is a space but I do it because time will be shown below for both Mobile and desktop view .In mobile view there is need to in below line because there is no space.So, I do it same change in the desktop."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#238",
-      "time": 1708868825.0,
+      "time": "2024-02-25T13:47:05.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962946329",
       "text": "@rithviknishad Yup,there is a space so I will do it "
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#241",
-      "time": 1708868192.0,
+      "time": "2024-02-25T13:36:32.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/241",
       "text": "home page users limit till 8 it",
       "turnaround_time": 34780
@@ -462,98 +462,98 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#246",
-      "time": 1708862699.0,
+      "time": "2024-02-25T12:04:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/246#issuecomment-1962913134",
       "text": "Please assign it to me. I love to enhance UI/UX"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#246",
-      "time": 1708862665.0,
+      "time": "2024-02-25T12:04:25.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/246",
       "text": "Nabar for Better UX"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#241",
-      "time": 1708856857.0,
+      "time": "2024-02-25T10:27:37.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962886416",
       "text": "@rithviknishad All done as per your instruction please review ir"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#241",
-      "time": 1708856011.0,
+      "time": "2024-02-25T10:13:31.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962882511",
       "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/41ba575d-33ff-45e8-abbb-f4682a86d58f)\r\n\r\n@rithviknishad Is it okk now?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#243",
-      "time": 1708855065.0,
+      "time": "2024-02-25T09:57:45.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/243",
       "text": "make all icons responsive for mobile and dekstop view"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#241",
-      "time": 1708853474.0,
+      "time": "2024-02-25T09:31:14.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962871154",
       "text": "> No, just a link that'll navigate to the `/people` page.\r\n\r\nOkay understood i will do it"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#241",
-      "time": 1708852786.0,
+      "time": "2024-02-25T09:19:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962868063",
       "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/5b6014af-b1d5-4f1f-9fc5-1fd0c133d4dc)\r\n\r\nThere is already gallery option"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#241",
-      "time": 1708851946.0,
+      "time": "2024-02-25T09:05:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962864175",
       "text": "Sorry, I didn't get it please explain.\r\nAre you talking about to add more button and then load other's on home page?\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#241",
-      "time": 1708798302.0,
+      "time": "2024-02-24T18:11:42.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962443999",
       "text": "@rithviknishad Please check and if there any cahnges suggest . "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#241",
-      "time": 1708798249.0,
+      "time": "2024-02-24T18:10:49.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/241",
       "text": "home page users limit till 8 it"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#237",
-      "time": 1708796817.0,
+      "time": "2024-02-24T17:46:57.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962435176",
       "text": "### Before: it takes 81.5kb Resource size 2.3 MB\r\n![Screenshot 2024-02-24 231113](https://github.com/coronasafe/leaderboard/assets/99136186/1011c28c-73db-4216-ba2f-8895c357ae15)\r\n\r\n### After: It takes 15.5kb and Resource size is 130kb\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/402dccb0-e0af-4c3e-aabd-b6b07bd449b4)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#237",
-      "time": 1708795474.0,
+      "time": "2024-02-24T17:24:34.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962428725",
       "text": "### Before: It fetches all the contributors it will take too much time to load home page.\r\n![Screenshot 2024-02-24 224934](https://github.com/coronasafe/leaderboard/assets/99136186/63c90217-a45a-4dda-83da-d175d344879d)\r\n\r\n### After: Now it will take only 8 contributors' profile info \r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/e7942138-2f0f-4630-9e19-774577e1a1ea)\r\n\r\n@rithviknishad \r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#238",
-      "time": 1708789094.0,
+      "time": "2024-02-24T15:38:14.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962404076",
       "text": "@rithviknishad  Sure, I will do it "
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#236",
-      "time": 1708788069.0,
+      "time": "2024-02-24T15:21:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/236",
       "text": "Change all anchor and img tag with next?Link and next/Image tags",
       "turnaround_time": 70953
@@ -561,48 +561,48 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#236",
-      "time": 1708776335.0,
+      "time": "2024-02-24T12:05:35.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962340862",
       "text": "@rithviknishad Can you please review agai.Thank you."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#238",
-      "time": 1708767195.0,
+      "time": "2024-02-24T09:33:15.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962310915",
       "text": "@gsoc @rithviknishad \r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/28c46e68-3edb-41a7-96a2-3aa1d7364bde)\r\n\r\nSee this is looks good?\r\n\r\nand i have one idea that on mobile size only icons showen and event name will be removed"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#238",
-      "time": 1708765983.0,
+      "time": "2024-02-24T09:13:03.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962306830",
       "text": "Okk i will resolve it i want take this\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#236",
-      "time": 1708765891.0,
+      "time": "2024-02-24T09:11:31.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962306434",
       "text": "Okk, all done as per your instruction. If still any cahnges please guide me."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#236",
-      "time": 1708764536.0,
+      "time": "2024-02-24T08:48:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962301740",
       "text": "it will now merged or any changes reuired?\r\n@rithviknishad "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#236",
-      "time": 1708764114.0,
+      "time": "2024-02-24T08:41:54.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962300373",
       "text": "@rithviknishad @gsoc Okay I push all changes as per your instructions"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708758167.0,
+      "time": "2024-02-24T07:02:47.000Z",
       "title": "coronasafe/leaderboard#236",
       "link": "https://github.com/coronasafe/leaderboard/pull/236#pullrequestreview-1899230487",
       "text": "Change all anchor and img tag with next?Link and next/Image tags"
@@ -610,42 +610,42 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#236",
-      "time": 1708755965.0,
+      "time": "2024-02-24T06:26:05.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962273929",
       "text": "@rithviknishad I removed all eslint errors please review it"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#237",
-      "time": 1708714394.0,
+      "time": "2024-02-23T18:53:14.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1961831263",
       "text": "Could you please assign this issue to me i want to fix this."
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#237",
-      "time": 1708714210.0,
+      "time": "2024-02-23T18:50:10.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/237",
       "text": "Home page users limitation"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#236",
-      "time": 1708710143.0,
+      "time": "2024-02-23T17:42:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1961738601",
       "text": "@rithviknishad please review my pr"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#236",
-      "time": 1708710073.0,
+      "time": "2024-02-23T17:41:13.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/236",
       "text": "Change all anchor and img tag with next?Link and next/Image tags"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708685843.0,
+      "time": "2024-02-23T10:57:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235",
       "text": "Add git icons",
       "turnaround_time": 66917
@@ -653,7 +653,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708685843.0,
+      "time": "2024-02-23T10:57:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235",
       "text": "Add git icons",
       "collaborated_with": [
@@ -663,55 +663,55 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708684901.0,
+      "time": "2024-02-23T10:41:41.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1961096586",
       "text": "@rithviknishad can you tell me how to create symlink i tried many times to undo it but it still remain file now convert in symlink"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708681462.0,
+      "time": "2024-02-23T09:44:22.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1961012526",
       "text": "@rithviknishad Okay all changes are done"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708681329.0,
+      "time": "2024-02-23T09:42:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1961009389",
       "text": "Wait i will do last final commit\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708680437.0,
+      "time": "2024-02-23T09:27:17.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1960988148",
       "text": "Maybe this occurs because I use \"fa\" so it is not available in the older react-icons versions.\r\nI will update the react-icons version and then commit again."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708679232.0,
+      "time": "2024-02-23T09:07:12.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1960961426",
       "text": "@rithviknishad Okk i undo my changes"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708678090.0,
+      "time": "2024-02-23T08:48:10.000Z",
       "title": "coronasafe/leaderboard#235",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897629133",
       "text": "Add git icons"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708676875.0,
+      "time": "2024-02-23T08:27:55.000Z",
       "title": "coronasafe/leaderboard#235",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897595149",
       "text": "Add git icons"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708673803.0,
+      "time": "2024-02-23T07:36:43.000Z",
       "title": "coronasafe/leaderboard#235",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897514507",
       "text": "Add git icons"
@@ -719,35 +719,35 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708673075.0,
+      "time": "2024-02-23T07:24:35.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1960844204",
       "text": "@rithviknishad I create new pull request for issue #163 Please review my pull request."
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#235",
-      "time": 1708672689.0,
+      "time": "2024-02-23T07:18:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/235",
       "text": "Add git icons"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#232",
-      "time": 1708670108.0,
+      "time": "2024-02-23T06:35:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/232#issuecomment-1960801208",
       "text": "Okay i will do it\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#163",
-      "time": 1708665187.0,
+      "time": "2024-02-23T05:13:07.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1960742075",
       "text": "I create one pull request for this issue can the mentor please review and if any changes are required please instruct me."
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#13",
-      "time": 1708664719.0,
+      "time": "2024-02-23T05:05:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/13",
       "text": "Update dgparmar14.md",
       "turnaround_time": 1013
@@ -755,7 +755,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard-data#13",
-      "time": 1708664719.0,
+      "time": "2024-02-23T05:05:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/13",
       "text": "Update dgparmar14.md",
       "collaborated_with": [
@@ -765,98 +765,98 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#13",
-      "time": 1708663707.0,
+      "time": "2024-02-23T04:48:27.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/13",
       "text": "Update dgparmar14.md"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#234",
-      "time": 1708630326.0,
+      "time": "2024-02-22T19:32:06.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/234#issuecomment-1960116969",
       "text": "@Ashesh3 , could you please assign this issue to me? I would like to take ownership of addressing it. Thank you!\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard-data#12",
-      "time": 1708629941.0,
+      "time": "2024-02-22T19:25:41.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/12#issuecomment-1960107360",
       "text": "Sorry for misscunderstanding .I shorten my title. Now is it okk?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#234",
-      "time": 1708629672.0,
+      "time": "2024-02-22T19:21:12.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/234#issuecomment-1960100947",
       "text": "/assign @dgparmar14 \r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard-data#12",
-      "time": 1708629596.0,
+      "time": "2024-02-22T19:19:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/12#issuecomment-1960099257",
       "text": "@sainak  I don't understand what should i do? Create a new pull request or update in this one?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#234",
-      "time": 1708629321.0,
+      "time": "2024-02-22T19:15:21.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/234#issuecomment-1960091694",
       "text": "Assigne this issue to me. I want to fix it"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#234",
-      "time": 1708629182.0,
+      "time": "2024-02-22T19:13:02.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/234",
       "text": "Next/Image and Next/Link feature "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#12",
-      "time": 1708628451.0,
+      "time": "2024-02-22T19:00:51.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/12",
       "text": "Create dgparmar14.md"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#232",
-      "time": 1708625985.0,
+      "time": "2024-02-22T18:19:45.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/232",
       "text": "Add Git icons to the GithubEvent card title"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#163",
-      "time": 1708620799.0,
+      "time": "2024-02-22T16:53:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959861574",
       "text": "![Screenshot 2024-02-22 222010](https://github.com/coronasafe/leaderboard/assets/99136186/69e62de1-db42-4a52-9a6a-0f80c82e8c27)\r\nIcons looks like this? right?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#163",
-      "time": 1708620518.0,
+      "time": "2024-02-22T16:48:38.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959852669",
       "text": "All icons are not available at react-iconscan i add manually?\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#163",
-      "time": 1708619015.0,
+      "time": "2024-02-22T16:23:35.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959803590",
       "text": "@rithviknishad can you please assign task to me?\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#163",
-      "time": 1708617910.0,
+      "time": "2024-02-22T16:05:10.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959767040",
       "text": "I want take this task plese provide me this\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#127",
-      "time": 1708617758.0,
+      "time": "2024-02-22T16:02:38.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1959761969",
       "text": "I want take this task ."
     }

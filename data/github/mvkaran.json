@@ -1,10 +1,10 @@
 {
-  "last_updated": 1705694215.0,
+  "last_updated": "2024-01-19T19:56:55.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#59",
-      "time": 1705694215.0,
+      "time": "2024-01-19T19:56:55.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/59#issuecomment-1901024472",
       "text": "+1 to this. Would be great to see a leaderboard based on custom date range, like a specific start-date/end-date and maybe even something relative, like the Past X days/weeks/months, etc."
     }

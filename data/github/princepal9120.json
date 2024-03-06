@@ -1,24 +1,24 @@
 {
-  "last_updated": 1709493931.0,
+  "last_updated": "2024-03-03T19:25:31.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7309",
-      "time": 1709493931.0,
+      "time": "2024-03-03T19:25:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7309#issuecomment-1975271605",
       "text": "Respected sir,i fix the given issues,please review my issues\r\n![image](https://github.com/coronasafe/care_fe/assets/107296821/cc01baa2-036e-4f9c-b043-92d3871144c3)\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7331",
-      "time": 1709493825.0,
+      "time": "2024-03-03T19:23:45.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7331",
       "text": "\"Set average weekly working hour\" button in user tab is not responsive."
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7330",
-      "time": 1709492672.0,
+      "time": "2024-03-03T19:04:32.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7330",
       "text": "fix mobile view button (Set average weekly working hour) problem."
     }

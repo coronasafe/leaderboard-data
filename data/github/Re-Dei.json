@@ -1,10 +1,10 @@
 {
-  "last_updated": 1709567566.0,
+  "last_updated": "2024-03-04T15:52:46.000Z",
   "activity": [
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#331",
-      "time": 1709567566.0,
+      "time": "2024-03-04T15:52:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/331",
       "text": "refactor: added debounce to search",
       "turnaround_time": 2926
@@ -12,21 +12,21 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#331",
-      "time": 1709564642.0,
+      "time": "2024-03-04T15:04:02.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/331",
       "text": "refactor: added debounce to search"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#323",
-      "time": 1709553497.0,
+      "time": "2024-03-04T11:58:17.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/323#issuecomment-1976419230",
       "text": "can u assign me this issue?"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#308",
-      "time": 1709550163.0,
+      "time": "2024-03-04T11:02:43.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/308",
       "text": "chore: allocated types, consts and utility functions to separate files",
       "turnaround_time": 73765
@@ -34,49 +34,49 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#248",
-      "time": 1709397923.0,
+      "time": "2024-03-02T16:45:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/248#issuecomment-1974847942",
       "text": "Can anyone assign me this issue?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#292",
-      "time": 1709397681.0,
+      "time": "2024-03-02T16:41:21.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/292#issuecomment-1974846993",
       "text": "This issue is linked with issue #248. I have been researching different ways to solve this issue and found that it cause by unauthorized access to the github's api."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#308",
-      "time": 1709390610.0,
+      "time": "2024-03-02T14:43:30.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/308#issuecomment-1974819088",
       "text": "@rithviknishad please review this PR.\r\nRegarding GSOC, I know it's a bit early but I have a favor to ask. Could you check out my project proposal? Just a few minutes will be fine. I heard it was a common practice to get proposals checked by mentors a few weeks before application period begins. I am sorry if its not the case. If its ok by you, I will dm my google docs link to you in slack. Also in how many projects can each contributor apply? I didn't find any information related to it. I just know each contributor can apply to at most 3 organizations."
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#308",
-      "time": 1709389999.0,
+      "time": "2024-03-02T14:33:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/308",
       "text": "chore: allocated types, consts and utility functions to separate files"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#277",
-      "time": 1709127400.0,
+      "time": "2024-02-28T13:36:40.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/277#issuecomment-1969001234",
       "text": "Can anyone assign me this issue?"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#277",
-      "time": 1709127238.0,
+      "time": "2024-02-28T13:33:58.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/277",
       "text": "Allocating a separate file for constants"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#254",
-      "time": 1709126804.0,
+      "time": "2024-02-28T13:26:44.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254",
       "text": "Refactor: made /leaderboard fully SSR",
       "turnaround_time": 9959
@@ -84,63 +84,63 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",
-      "time": 1709126262.0,
+      "time": "2024-02-28T13:17:42.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968966185",
       "text": "@rithviknishad I did not find any difference in the after(filter) image and the layout in the previous push. The top contributors has been fixed.\r\n![Screenshot (46)](https://github.com/coronasafe/leaderboard/assets/97937213/cea3a057-7965-4036-99c3-693b0caa8841)\r\nIs this intentional? When someone is searched the top contributors update based on that result."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",
-      "time": 1709121192.0,
+      "time": "2024-02-28T11:53:12.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968821871",
       "text": "@rithviknishad please review this"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",
-      "time": 1709114539.0,
+      "time": "2024-02-28T10:02:19.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968632896",
       "text": "@rithviknishad I will be merging the latest main branch to this branch right now."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",
-      "time": 1709028693.0,
+      "time": "2024-02-27T10:11:33.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1966208766",
       "text": "Do I need to do anything to handle the merge conflict or will the maintainers handle it?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",
-      "time": 1708957359.0,
+      "time": "2024-02-26T14:22:39.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964263815",
       "text": "@rithviknishad please try deploying again. The new commit should have fixed the previous issue."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",
-      "time": 1708953476.0,
+      "time": "2024-02-26T13:17:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964126018",
       "text": "Thats weird it ran without an issue on development. Is there any more error logs associated with it? @rithviknishad "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",
-      "time": 1708952315.0,
+      "time": "2024-02-26T12:58:35.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964089511",
       "text": "Could you recommend me any changes that reduces the number of merge conflicts?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#254",
-      "time": 1708944045.0,
+      "time": "2024-02-26T10:40:45.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254",
       "text": "Refactor: made /leaderboard fully SSR"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#244",
-      "time": 1708874936.0,
+      "time": "2024-02-25T15:28:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/244",
       "text": "feat!: added typesafe environment variables",
       "turnaround_time": 20190
@@ -148,55 +148,55 @@
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#248",
-      "time": 1708874759.0,
+      "time": "2024-02-25T15:25:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/248",
       "text": "Using a third party fetcher such as tanstack query in /feed route and create an API for it and fix crashing of that page in 4th page"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#247",
-      "time": 1708873907.0,
+      "time": "2024-02-25T15:11:47.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/247#issuecomment-1962970219",
       "text": "could anyone assign me this issue?"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#247",
-      "time": 1708873875.0,
+      "time": "2024-02-25T15:11:15.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/247",
       "text": "Optimizing the /leaderboard route by using Suspense component and fetching the data inside a child component"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708873244.0,
+      "time": "2024-02-25T15:00:44.000Z",
       "title": "coronasafe/leaderboard#244",
       "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899695949",
       "text": "feat!: added typesafe environment variables"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708871632.0,
+      "time": "2024-02-25T14:33:52.000Z",
       "title": "coronasafe/leaderboard#244",
       "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899691075",
       "text": "feat!: added typesafe environment variables"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708871335.0,
+      "time": "2024-02-25T14:28:55.000Z",
       "title": "coronasafe/leaderboard#244",
       "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899690239",
       "text": "feat!: added typesafe environment variables"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708871227.0,
+      "time": "2024-02-25T14:27:07.000Z",
       "title": "coronasafe/leaderboard#244",
       "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899689928",
       "text": "feat!: added typesafe environment variables"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708870926.0,
+      "time": "2024-02-25T14:22:06.000Z",
       "title": "coronasafe/leaderboard#244",
       "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899689053",
       "text": "feat!: added typesafe environment variables"
@@ -204,28 +204,28 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#244",
-      "time": 1708860554.0,
+      "time": "2024-02-25T11:29:14.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/244",
       "text": "feat!: added typesafe environment variables"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#242",
-      "time": 1708854480.0,
+      "time": "2024-02-25T09:48:00.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/242#issuecomment-1962875659",
       "text": "Could anyone assign me this issue?"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#242",
-      "time": 1708854311.0,
+      "time": "2024-02-25T09:45:11.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/242",
       "text": "Creating typesafe environment variables for better developer experience"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6715",
-      "time": 1708596900.0,
+      "time": "2024-02-22T10:15:00.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6715#issuecomment-1959121555",
       "text": "Hi!\nI am Hridaya. Getting straight to the point, I would like to contribute to this open source project by solving this issue for GSOC 2024. I am fairly experienced in Next.js and have more than 1.5 years+ experience working with Next.js and more than 2 years as a web developer. I wouldn't say I am a expert however I am more than an intermediate developer regarding Next.js  and the features such as SSR, SSG, ISR, streaming components as well as optimizing the performance of the website to have at least 90 score on lighthouse which is tough to obtain since Next.js is very heavy on performance in comparison to frameworks like Solid and Astro. So I hope I could get a chance to work on this open source project which aims to contribute towards the health sector."
     }

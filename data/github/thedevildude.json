@@ -1,10 +1,10 @@
 {
-  "last_updated": 1709574817.0,
+  "last_updated": "2024-03-04T17:53:37.000Z",
   "activity": [
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7337",
-      "time": 1709574817.0,
+      "time": "2024-03-04T17:53:37.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7337",
       "text": "Production Release 97 | March week 1 2024",
       "collaborated_with": [
@@ -24,14 +24,14 @@
     },
     {
       "type": "pr_reviewed",
-      "time": 1708314675.0,
+      "time": "2024-02-19T03:51:15.000Z",
       "title": "coronasafe/care_fe#7228",
       "link": "https://github.com/coronasafe/care_fe/pull/7228#pullrequestreview-1887506089",
       "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708311426.0,
+      "time": "2024-02-19T02:57:06.000Z",
       "title": "coronasafe/care_fe#7228",
       "link": "https://github.com/coronasafe/care_fe/pull/7228#pullrequestreview-1887468629",
       "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
@@ -39,98 +39,98 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7228",
-      "time": 1708272689.0,
+      "time": "2024-02-18T16:11:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7228",
       "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7226",
-      "time": 1708249991.0,
+      "time": "2024-02-18T09:53:11.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7226",
       "text": "Patient Gender Display Issue in HL7Monitor and VentilatorPatientVitalsMonitor"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7186",
-      "time": 1708227394.0,
+      "time": "2024-02-18T03:36:34.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7186#issuecomment-1950909096",
       "text": "Can I take up this issue?\r\n@nihal467 @rithviknishad "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7198",
-      "time": 1707444901.0,
+      "time": "2024-02-09T02:15:01.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7198",
       "text": "Improving Doctor Connect UI"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6940",
-      "time": 1707370956.0,
+      "time": "2024-02-08T05:42:36.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6940#issuecomment-1933398650",
       "text": "@aparnacoronasafe \r\n@rithviknishad \r\n\r\nWhat do you think of this mockup for doctor connect? I've also added three filter buttons on top for Doctors, Nurses and TeleICU Hub\r\n\r\n![DoctorConnect](https://github.com/coronasafe/care_fe/assets/63492939/03e0dfd1-0321-4e94-9a16-051a3953446f)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6940",
-      "time": 1707312829.0,
+      "time": "2024-02-07T13:33:49.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6940#issuecomment-1932062774",
       "text": "I'd like to work on the issue"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7136",
-      "time": 1706769568.0,
+      "time": "2024-02-01T06:39:28.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7136",
       "text": "Extend Update Log to bottom of the screen [DRAFT]"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7046",
-      "time": 1706737993.0,
+      "time": "2024-01-31T21:53:13.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7046#issuecomment-1920038462",
       "text": "Hey @younome71 I am currently working on it. Couldn't make a PR due to ongoing exams. Can you look for some other issue?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7046",
-      "time": 1705754319.0,
+      "time": "2024-01-20T12:38:39.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7046#issuecomment-1902084140",
       "text": "@rithviknishad Can you assign this issue to me?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6961",
-      "time": 1705334575.0,
+      "time": "2024-01-15T16:02:55.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6961#issuecomment-1892436483",
       "text": "@rithviknishad understood, I'll try take that up start and working on the mock-up "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6771",
-      "time": 1705334153.0,
+      "time": "2024-01-15T15:55:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6771#issuecomment-1892425641",
       "text": "Yes I've posted one yesterday on slack general channel "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6961",
-      "time": 1705314373.0,
+      "time": "2024-01-15T10:26:13.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6961#issuecomment-1891817467",
       "text": "Can you assign this issue to me?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#170",
-      "time": 1705109893.0,
+      "time": "2024-01-13T01:38:13.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/170",
       "text": "Fixed chat upvote and downvote Feedback UI"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#165",
-      "time": 1704876667.0,
+      "time": "2024-01-10T08:51:07.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/165",
       "text": "Fixed adding question bug | increased Add Question modal width",
       "turnaround_time": 64781
@@ -138,7 +138,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/ayushma_fe#165",
-      "time": 1704876667.0,
+      "time": "2024-01-10T08:51:07.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/165",
       "text": "Fixed adding question bug | increased Add Question modal width",
       "collaborated_with": [
@@ -148,35 +148,35 @@
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#162",
-      "time": 1704552926.0,
+      "time": "2024-01-06T14:55:26.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/162#issuecomment-1879720301",
       "text": "@Ashesh3  Can you assign me this issue?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#165",
-      "time": 1704552686.0,
+      "time": "2024-01-06T14:51:26.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/165",
       "text": "Fixed adding question bug | increased Add Question modal width"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6901",
-      "time": 1703843930.0,
+      "time": "2023-12-29T09:58:50.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6901#issuecomment-1871894183",
       "text": "> We are currently showing time in two places which is redundant.\r\n> \r\n> Also can we improve the wording to something like this instead (just suggesting, feel free to add your creativity)\r\n> \r\n> ```\r\n> - Transferred to <b>{bed_name} in {location_name}</b>   (relative time)\r\n> - Transferred to <b>{bed_name} in {location_name}</b>   (relative time)\r\n> - Occupied <b>{bed_name} in {location_name}</b>         (relative time)\r\n> ```\r\n\r\nI'll be working on some mockups and share them on channel"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#147",
-      "time": 1703600913.0,
+      "time": "2023-12-26T14:28:33.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/147#issuecomment-1869581769",
       "text": "@Ashesh3 Can you assign me the issue?"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#159",
-      "time": 1703600272.0,
+      "time": "2023-12-26T14:17:52.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/159",
       "text": "Added missing \"/\" in chatSidebar",
       "turnaround_time": 38658
@@ -184,42 +184,42 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#159",
-      "time": 1703475215.0,
+      "time": "2023-12-25T03:33:35.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/159",
       "text": "Added missing \"/\" in chatSidebar"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#158",
-      "time": 1703436196.0,
+      "time": "2023-12-24T16:43:16.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/158#issuecomment-1868555718",
       "text": "@skks1212 Can you please assign it to me?"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#158",
-      "time": 1703416716.0,
+      "time": "2023-12-24T11:18:36.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/158",
       "text": "Routing Error | Chats in ChatSidebar leads to 404 page"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6901",
-      "time": 1703410522.0,
+      "time": "2023-12-24T09:35:22.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "text": "Added Timeline UI for Bed Activity"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6771",
-      "time": 1703246862.0,
+      "time": "2023-12-22T12:07:42.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6771#issuecomment-1867611566",
       "text": "@rithviknishad I've started working on the issue. Couldn't work on it due to Semester exams. Can you remove the stale label?"
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6849",
-      "time": 1702307178.0,
+      "time": "2023-12-11T15:06:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6849",
       "text": "Production Release | Dec Week 2",
       "collaborated_with": [
@@ -235,14 +235,14 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6596",
-      "time": 1701849438.0,
+      "time": "2023-12-06T07:57:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6596",
       "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]"
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6596",
-      "time": 1701849438.0,
+      "time": "2023-12-06T07:57:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6596",
       "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]",
       "collaborated_with": [
@@ -253,20 +253,20 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6705",
-      "time": 1701698032.0,
+      "time": "2023-12-04T13:53:52.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6705#issuecomment-1838688407",
       "text": "@rithviknishad I should be able to make a PR by tomorrow for this."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6771",
-      "time": 1701690942.0,
+      "time": "2023-12-04T11:55:42.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6771#issuecomment-1838482616",
       "text": "Hi, can you assign it to me?"
     },
     {
       "type": "pr_reviewed",
-      "time": 1701320561.0,
+      "time": "2023-11-30T05:02:41.000Z",
       "title": "coronasafe/care_fe#6596",
       "link": "https://github.com/coronasafe/care_fe/pull/6596#pullrequestreview-1756636137",
       "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]"
@@ -274,21 +274,21 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6705",
-      "time": 1700824235.0,
+      "time": "2023-11-24T11:10:35.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6705#issuecomment-1825516452",
       "text": "@rithviknishad Got it. Can you assign it to me?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6705",
-      "time": 1700810258.0,
+      "time": "2023-11-24T07:17:38.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6705#issuecomment-1825240195",
       "text": "Which components needs to be changed? Are they related to `Facility/ConsultationDetails`, `Facility/Consultation` , `Patient/PatientNotes`?"
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6600",
-      "time": 1700549196.0,
+      "time": "2023-11-21T06:46:36.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6600",
       "text": "Production Release Mid November",
       "collaborated_with": [
@@ -309,56 +309,56 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6596",
-      "time": 1700139637.0,
+      "time": "2023-11-16T13:00:37.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6596#issuecomment-1814393634",
       "text": "@nihal467 Yeah sure, I'll work on this too"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6596",
-      "time": 1699962977.0,
+      "time": "2023-11-14T11:56:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6596#issuecomment-1810067130",
       "text": "No @rithviknishad it needs few more commits. Should by ready by tomorrow's EOD"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6596",
-      "time": 1699938839.0,
+      "time": "2023-11-14T05:13:59.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6596",
       "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [2 out of 5 components]"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6530",
-      "time": 1698820951.0,
+      "time": "2023-11-01T06:42:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6530#issuecomment-1788491470",
       "text": "@rithviknishad Can you please assign me this issue?"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6530",
-      "time": 1698820697.0,
+      "time": "2023-11-01T06:38:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6530",
       "text": "Replace useDispatch w. useQuery/request: Users (src/Components/Users/**)"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6482",
-      "time": 1698656191.0,
+      "time": "2023-10-30T08:56:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6482",
       "text": "Fixed pressure sore popup not closing after clicking outside"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6482",
-      "time": 1698106416.0,
+      "time": "2023-10-24T00:13:36.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6482",
       "text": "Fixed pressure sore popup not closing after clicking outside"
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6449",
-      "time": 1697362820.0,
+      "time": "2023-10-15T09:40:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6449",
       "text": "Production Release; Oct Week 3",
       "collaborated_with": [
@@ -375,21 +375,21 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6446",
-      "time": 1697202657.0,
+      "time": "2023-10-13T13:10:57.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6446#issuecomment-1761497302",
       "text": "Hi, can you please assign me this issue?"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6405",
-      "time": 1696848036.0,
+      "time": "2023-10-09T10:40:36.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6405",
       "text": "Replaced date-fns utility functions from DateInputV2 component with day.js"
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6405",
-      "time": 1696848036.0,
+      "time": "2023-10-09T10:40:36.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6405",
       "text": "Replaced date-fns utility functions from DateInputV2 component with day.js",
       "collaborated_with": [
@@ -399,112 +399,112 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6405",
-      "time": 1696523257.0,
+      "time": "2023-10-05T16:27:37.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6405",
       "text": "Issue#6305"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#109",
-      "time": 1695287568.0,
+      "time": "2023-09-21T09:12:48.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/109",
       "text": "Added simple load more button and filtering to projects page"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6305",
-      "time": 1695135830.0,
+      "time": "2023-09-19T15:03:50.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6305",
       "text": "Remove date-fns to reduce bundle size"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#109",
-      "time": 1694927867.0,
+      "time": "2023-09-17T05:17:47.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/109",
       "text": "Added simple load more button and filtering to projects page"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma#311",
-      "time": 1694439551.0,
+      "time": "2023-09-11T13:39:11.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/311",
       "text": "Added a filter to retrieve archived projects"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma#311",
-      "time": 1694323908.0,
+      "time": "2023-09-10T05:31:48.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/311",
       "text": "Added a filter to retrieve archived projects"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#95",
-      "time": 1693422073.0,
+      "time": "2023-08-30T19:01:13.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/95",
       "text": "Handles the error when converse api fails"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#95",
-      "time": 1693343920.0,
+      "time": "2023-08-29T21:18:40.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/95",
       "text": "Shows error when converse api fails"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#87",
-      "time": 1693227863.0,
+      "time": "2023-08-28T13:04:23.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/87#issuecomment-1695665208",
       "text": "Hi, can you assign this issue to me?"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#76",
-      "time": 1691580235.0,
+      "time": "2023-08-09T11:23:55.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/76",
       "text": "Search query triggers only after user stops typing and minor UI changes"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#71",
-      "time": 1691387247.0,
+      "time": "2023-08-07T05:47:27.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/71#issuecomment-1667223264",
       "text": "Hi, is this issue being worked upon?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#76",
-      "time": 1691047607.0,
+      "time": "2023-08-03T07:26:47.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/76",
       "text": "Search query triggers only after user stops typing and minor UI changes"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#75",
-      "time": 1690899977.0,
+      "time": "2023-08-01T14:26:17.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/75#issuecomment-1660440733",
       "text": "Hi, can you please assign it to me"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#25",
-      "time": 1690812024.0,
+      "time": "2023-07-31T14:00:24.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/25#issuecomment-1658432181",
       "text": "Solved on PR 74"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#74",
-      "time": 1690775021.0,
+      "time": "2023-07-31T03:43:41.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/74",
       "text": "Added infinite scrolling for chat history"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#74",
-      "time": 1690615616.0,
+      "time": "2023-07-29T07:26:56.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/74",
       "text": "Added infinite scrolling for chat history #25"
     }

@@ -1,38 +1,38 @@
 {
-  "last_updated": 1709305351.0,
+  "last_updated": "2024-03-01T15:02:31.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7319",
-      "time": 1709305351.0,
+      "time": "2024-03-01T15:02:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973351510",
       "text": "Yeah I think you are correct over here, I got it wrong"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7319",
-      "time": 1709304875.0,
+      "time": "2024-03-01T14:54:35.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973340924",
       "text": "I don't have the exact resource to reference it but to put it simple incase of sensitive info there should be a strict type check as if there is XSS , an attacker can inject a diff type of token that might cause any potential security issues. It's not a vulnerability but a measure to avoid potential risks"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7319",
-      "time": 1709301795.0,
+      "time": "2024-03-01T14:03:15.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973262031",
       "text": "You can  assign me this issue if you think this needs to be patched asap"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7319",
-      "time": 1709301372.0,
+      "time": "2024-03-01T13:56:12.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973250577",
       "text": "https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html#any\r\nHere's the official docs explaining why \"any\" shouldn't be used as it simply means turning off safety inside TS. It looses type safety which shouldn't be ideal for sensitive infos like tokens. Here's one more article suggesting it should only used in case of flexibility https://www.totaltypescript.com/concepts/any-type"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7319",
-      "time": 1709300310.0,
+      "time": "2024-03-01T13:38:30.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7319",
       "text": "Change type of token from any to avoid security risks"
     }

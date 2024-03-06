@@ -1,10 +1,10 @@
 {
-  "last_updated": 1709657740.0,
+  "last_updated": "2024-03-05T16:55:40.000Z",
   "activity": [
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7287",
-      "time": 1709657740.0,
+      "time": "2024-03-05T16:55:40.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7287",
       "text": "feat:Inline view of selected options of Multiselect",
       "turnaround_time": 26114
@@ -12,7 +12,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7287",
-      "time": 1709657740.0,
+      "time": "2024-03-05T16:55:40.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7287",
       "text": "feat:Inline view of selected options of Multiselect",
       "collaborated_with": [
@@ -23,21 +23,21 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7287",
-      "time": 1709032574.0,
+      "time": "2024-02-27T11:16:14.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7287#issuecomment-1966323636",
       "text": "@rithviknishad  please review it once \r\n![image](https://github.com/coronasafe/care_fe/assets/72148636/575652ac-888a-486e-a3ea-69d183c2d045)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7287",
-      "time": 1709032358.0,
+      "time": "2024-02-27T11:12:38.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7287#issuecomment-1966317953",
       "text": "@rithviknishad  please review it once i m just fix it padding to look more consistent ui"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7287",
-      "time": 1709026827.0,
+      "time": "2024-02-27T09:40:27.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7287",
       "text": "feat:Inline view of selected options of Multiselect"
     }

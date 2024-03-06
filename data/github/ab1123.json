@@ -1,66 +1,66 @@
 {
-  "last_updated": 1709412034.0,
+  "last_updated": "2024-03-02T20:40:34.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care#1937",
-      "time": 1709412034.0,
+      "time": "2024-03-02T20:40:34.000Z",
       "link": "https://github.com/coronasafe/care/issues/1937#issuecomment-1974903869",
       "text": "I would like to work on this issue, @sainak can you assign me this issue??\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7316",
-      "time": 1709334161.0,
+      "time": "2024-03-01T23:02:41.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1974046980",
       "text": "@sainak @aparnacoronasafe any updates on this issue??\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7321",
-      "time": 1709333669.0,
+      "time": "2024-03-01T22:54:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7321",
       "text": "chores: Fixed responsiveness of the expanded sort dropdown in the patients page "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7317",
-      "time": 1709280975.0,
+      "time": "2024-03-01T08:16:15.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7317#issuecomment-1972718901",
       "text": "Thanks @rithviknishad "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7317",
-      "time": 1709241565.0,
+      "time": "2024-02-29T21:19:25.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7317#issuecomment-1971979666",
       "text": "I would like to work on this issue"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7317",
-      "time": 1709241487.0,
+      "time": "2024-02-29T21:18:07.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7317",
       "text": "VIsual Bug"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7293",
-      "time": 1709233538.0,
+      "time": "2024-02-29T19:05:38.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7293#issuecomment-1971785359",
       "text": "Hello @skks1212 if you haven't already fixed the bug, can I work on the bug??"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7316",
-      "time": 1709232982.0,
+      "time": "2024-02-29T18:56:22.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1971770367",
       "text": "I would like to work on this issue. I will focus on making the header a separate component. In order to make the header reusable I would like to use the concept of barrel export with the header component. If you kindly allow me to work on this issue @sainak @aparnacoronasafe @rithviknishad "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6715",
-      "time": 1708675343.0,
+      "time": "2024-02-23T08:02:23.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6715#issuecomment-1960881170",
       "text": "Hello, Myself Harsheet Sharma, and I am willing to work on this project. "
     }

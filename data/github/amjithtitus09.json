@@ -1,10 +1,10 @@
 {
-  "last_updated": 1705934627.0,
+  "last_updated": "2024-01-22T14:43:47.000Z",
   "activity": [
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1842",
-      "time": 1705934627.0,
+      "time": "2024-01-22T14:43:47.000Z",
       "link": "https://github.com/coronasafe/care/pull/1842",
       "text": "Production Release | January Week 4",
       "collaborated_with": [
@@ -18,7 +18,7 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1809",
-      "time": 1705553891.0,
+      "time": "2024-01-18T04:58:11.000Z",
       "link": "https://github.com/coronasafe/care/pull/1809",
       "text": "Add env variables to toggle summarization tasks",
       "turnaround_time": 61665
@@ -26,7 +26,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1809",
-      "time": 1705553891.0,
+      "time": "2024-01-18T04:58:11.000Z",
       "link": "https://github.com/coronasafe/care/pull/1809",
       "text": "Add env variables to toggle summarization tasks",
       "collaborated_with": [
@@ -36,28 +36,28 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1809",
-      "time": 1704545785.0,
+      "time": "2024-01-06T12:56:25.000Z",
       "link": "https://github.com/coronasafe/care/pull/1809#issuecomment-1879674546",
       "text": "@sainak Made the changes and added Docs"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1800",
-      "time": 1704538402.0,
+      "time": "2024-01-06T10:53:22.000Z",
       "link": "https://github.com/coronasafe/care/issues/1800#issuecomment-1879636152",
       "text": "@sainak Could you please share the link of the doc to be updated?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1809",
-      "time": 1704538298.0,
+      "time": "2024-01-06T10:51:38.000Z",
       "link": "https://github.com/coronasafe/care/pull/1809",
       "text": "Summarization Tasks Disable - Added env variables"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1800",
-      "time": 1704454676.0,
+      "time": "2024-01-05T11:37:56.000Z",
       "link": "https://github.com/coronasafe/care/issues/1800#issuecomment-1878532221",
       "text": "Hey @sainak can you assign me this issue?"
     }

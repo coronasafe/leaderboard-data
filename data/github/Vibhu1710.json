@@ -1,38 +1,38 @@
 {
-  "last_updated": 1709382806.0,
+  "last_updated": "2024-03-02T12:33:26.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7308",
-      "time": 1709382806.0,
+      "time": "2024-03-02T12:33:26.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7308#issuecomment-1974785243",
       "text": "Hey @aeswibon , @nihal467... I have made a PR with necessary changes, not sure if I have added the right reviewers or if the branch is out of sync"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7323",
-      "time": 1709382264.0,
+      "time": "2024-03-02T12:24:24.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7323",
       "text": "#7308 fix : use \"hidden\" css property to toggle b/w Login & Forgot Password"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7308",
-      "time": 1709145771.0,
+      "time": "2024-02-28T18:42:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7308#issuecomment-1969612348",
       "text": "Hi @nihal467, I would like to pick up this bug.. Please assign this to me"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7295",
-      "time": 1709145469.0,
+      "time": "2024-02-28T18:37:49.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1969603926",
       "text": "Hey FE part is quite easy! Ig this requires resolution from BE repo as well. Not confident about BE repo as of now, I guess we can assign it to other contributors.. Would like to keep an eye on any other FE issue however :)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7295",
-      "time": 1709106703.0,
+      "time": "2024-02-28T07:51:43.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1968414254",
       "text": "Hi! If no one else is working on this issue, I can gladly take this up..\r\nI also have a doubt, I think the migration part is BE related, right? whatever comes up from BE we are showing it in \"/facility\" page [specifically in FacilityCard.tsx].. \r\n"
     }

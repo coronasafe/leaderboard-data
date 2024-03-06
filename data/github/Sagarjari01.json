@@ -1,10 +1,10 @@
 {
-  "last_updated": 1709643082.0,
+  "last_updated": "2024-03-05T12:51:22.000Z",
   "activity": [
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7341",
-      "time": 1709643082.0,
+      "time": "2024-03-05T12:51:22.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7341",
       "text": "Redesign create asset modal"
     }

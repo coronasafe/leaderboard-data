@@ -1,17 +1,17 @@
 {
-  "last_updated": 1709483982.0,
+  "last_updated": "2024-03-03T16:39:42.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",
-      "time": 1709483982.0,
+      "time": "2024-03-03T16:39:42.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1975225281",
       "text": "@balaji-sivasakthi that 403 error is because there is no authentication details. I tried to find the method associated with the url in the care backend repo but I'm unable to find it\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7156",
-      "time": 1709181796.0,
+      "time": "2024-02-29T04:43:16.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7156#issuecomment-1970385842",
       "text": "Hello Nihal sir I'm Hritesh Kumar Shanty, a 3rd year student at CBIT hyderabad. I'm interested to contribute to this project...actually Its been a while making projects using react, nextjs and express but recently I explored django and I was really looking for a project like this where I can integrate django and nextjs. I would definitely like to give my 100% to this project idea\r\n"
     }

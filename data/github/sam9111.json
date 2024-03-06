@@ -1,17 +1,17 @@
 {
-  "last_updated": 1657916115.0,
+  "last_updated": "2022-07-15T20:15:15.000Z",
   "activity": [
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#1980",
-      "time": 1657916115.0,
+      "time": "2022-07-15T20:15:15.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/1980",
       "text": "Concentration for Infusions with Flexible Units"
     },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#1981",
-      "time": 1657916060.0,
+      "time": "2022-07-15T20:14:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/1981",
       "text": "Calorie For Feed"
     }

@@ -1,31 +1,31 @@
 {
-  "last_updated": 1701249073.0,
+  "last_updated": "2023-11-29T09:11:13.000Z",
   "activity": [
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6752",
-      "time": 1701249073.0,
+      "time": "2023-11-29T09:11:13.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6752",
       "text": "patient camera feed not showing up"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6393",
-      "time": 1696411145.0,
+      "time": "2023-10-04T09:19:05.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6393",
       "text": "NiBP data is not reflected/updated on care."
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6310",
-      "time": 1695197491.0,
+      "time": "2023-09-20T08:11:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6310",
       "text": "Middleware override feature in location management page."
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#985",
-      "time": 1661041931.0,
+      "time": "2022-08-21T00:32:11.000Z",
       "link": "https://github.com/coronasafe/care/issues/985",
       "text": "No facility data found on time of New user registration."
     }

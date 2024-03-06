@@ -1,52 +1,52 @@
 {
-  "last_updated": 1709561910.0,
+  "last_updated": "2024-03-04T14:18:30.000Z",
   "activity": [
     {
       "type": "issue_opened",
       "title": "coronasafe/metabase_manager#14",
-      "time": 1709561910.0,
+      "time": "2024-03-04T14:18:30.000Z",
       "link": "https://github.com/coronasafe/metabase_manager/issues/14",
       "text": "Embedded views of dashboards from all instances"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/metabase_manager#13",
-      "time": 1709215892.0,
+      "time": "2024-02-29T14:11:32.000Z",
       "link": "https://github.com/coronasafe/metabase_manager/pull/13#issuecomment-1971227462",
       "text": "Completed incorporating the sorting by status feature. Should be good to review in entirety now. @gigincg @Ashesh3 "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/metabase_manager#13",
-      "time": 1709037234.0,
+      "time": "2024-02-27T12:33:54.000Z",
       "link": "https://github.com/coronasafe/metabase_manager/pull/13",
       "text": "Consolidated features from Issue 9"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/metabase_manager#11",
-      "time": 1707798934.0,
+      "time": "2024-02-13T04:35:34.000Z",
       "link": "https://github.com/coronasafe/metabase_manager/issues/11",
       "text": "Authorisation for access"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/metabase_manager#10",
-      "time": 1707798212.0,
+      "time": "2024-02-13T04:23:32.000Z",
       "link": "https://github.com/coronasafe/metabase_manager/issues/10",
       "text": "Changes in Sync Status"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/metabase_manager#9",
-      "time": 1707795484.0,
+      "time": "2024-02-13T03:38:04.000Z",
       "link": "https://github.com/coronasafe/metabase_manager/issues/9",
       "text": "Navigation Limitations for Card Selection"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/metabase_manager#8",
-      "time": 1707794977.0,
+      "time": "2024-02-13T03:29:37.000Z",
       "link": "https://github.com/coronasafe/metabase_manager/issues/8",
       "text": "Log for Failed Syncs"
     }

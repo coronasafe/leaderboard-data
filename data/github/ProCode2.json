@@ -1,10 +1,10 @@
 {
-  "last_updated": 1708960763.0,
+  "last_updated": "2024-02-26T15:19:23.000Z",
   "activity": [
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7271",
-      "time": 1708960763.0,
+      "time": "2024-02-26T15:19:23.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7271",
       "text": "Production Release | February Week 4 2024",
       "collaborated_with": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "pr_reviewed",
-      "time": 1707970991.0,
+      "time": "2024-02-15T04:23:11.000Z",
       "title": "coronasafe/care_fe#7211",
       "link": "https://github.com/coronasafe/care_fe/pull/7211#pullrequestreview-1881730527",
       "text": "Fix edit clipping"
@@ -28,14 +28,14 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7211",
-      "time": 1707879426.0,
+      "time": "2024-02-14T02:57:06.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7211",
       "text": "Fix edit clipping"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1821",
-      "time": 1707557651.0,
+      "time": "2024-02-10T09:34:11.000Z",
       "link": "https://github.com/coronasafe/care/pull/1821",
       "text": "ABDM: Log the errors instead of sending them as a response",
       "turnaround_time": 22079
@@ -43,7 +43,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1821",
-      "time": 1707557651.0,
+      "time": "2024-02-10T09:34:11.000Z",
       "link": "https://github.com/coronasafe/care/pull/1821",
       "text": "ABDM: Log the errors instead of sending them as a response",
       "collaborated_with": [
@@ -53,7 +53,7 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#171",
-      "time": 1705617678.0,
+      "time": "2024-01-18T22:41:18.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/171",
       "text": "Stop Playing Audio When Switched to a Different Chat",
       "turnaround_time": 28003
@@ -61,13 +61,13 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#171",
-      "time": 1705591624.0,
+      "time": "2024-01-18T15:27:04.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/171",
       "text": "Stop Playing Audio When Switched to a Different Chat"
     },
     {
       "type": "pr_reviewed",
-      "time": 1705585642.0,
+      "time": "2024-01-18T13:47:22.000Z",
       "title": "coronasafe/care#1821",
       "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1829719132",
       "text": "ABDM: Log the errors instead of sending them as a response"
@@ -75,35 +75,35 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1821",
-      "time": 1705574929.0,
+      "time": "2024-01-18T10:48:49.000Z",
       "link": "https://github.com/coronasafe/care/pull/1821#issuecomment-1898239678",
       "text": "> @ProCode2 can you handle this issue ([coronasafe/care_fe#7000 (comment)](https://github.com/coronasafe/care_fe/pull/7000#issuecomment-1895353628)) also in this pr.\r\n> \r\n> To replicate the issue, In the front end,\r\n> \r\n> 1. Go to a patient consultation dashboard\r\n> 2. Link an Abha number\r\n> 3. Go to another patient's consultation dashboard\r\n> 4. Link the same Abha number again\r\n> \r\n> That will trigger the error you see in the comment mentioned.\r\n> \r\n> Have a conditional check if the Abha number already exists before creating the Abha number, and return a response with a neat error message.\r\n\r\n\r\n@khavinshankar \r\n by testing on https://care.ohc.network I traced it down to this function thats returning the error:\r\n\r\nThis creates a ABHA object if not exists and then adds ABHA details to patient.\r\n\r\nSince `create_abha` is only creating the abha object if it does not exist it should be the `add_abha_details_to_patient` thats throwing error? So we need to not add abha details to a patient if that abha details is already linked with another patient?\r\n\r\nDo I understand this correctly?\r\n```python\r\ndef confirm_with_mobile_otp(self, request):\r\n        data = request.data\r\n\r\n        if ratelimit(request, \"confirm_with_mobile_otp\", [data[\"txnId\"]]):\r\n            raise CaptchaRequiredException(\r\n                detail={\"status\": 429, \"detail\": \"Too Many Requests Provide Captcha\"},\r\n                code=status.HTTP_429_TOO_MANY_REQUESTS,\r\n            )\r\n\r\n        serializer = VerifyOtpRequestPayloadSerializer(data=data)\r\n        serializer.is_valid(raise_exception=True)\r\n        response = HealthIdGateway().confirm_with_mobile_otp(data)\r\n        abha_profile = HealthIdGateway().get_profile(response)\r\n\r\n        # have a serializer to verify data of abha_profile\r\n        abha_object = self.create_abha(\r\n            abha_profile,\r\n            {\r\n                \"access_token\": response[\"token\"],\r\n                \"refresh_token\": response[\"refreshToken\"],\r\n                \"txn_id\": data[\"txnId\"],\r\n            },\r\n        )\r\n\r\n        if \"patientId\" in data:\r\n            patient_id = data.pop(\"patientId\")\r\n            allowed_patients = get_patient_queryset(request.user)\r\n            patient_obj = allowed_patients.filter(external_id=patient_id).first()\r\n            if not patient_obj:\r\n                raise ValidationError({\"patient\": \"Not Found\"})\r\n\r\n            if not self.add_abha_details_to_patient(\r\n                abha_object,\r\n                patient_obj,\r\n            ):\r\n                return Response(\r\n                    {\"message\": \"Failed to add abha Number to the patient\"},\r\n                    status=status.HTTP_400_BAD_REQUEST,\r\n                )\r\n\r\n        return Response(\r\n            {\"id\": abha_object.external_id, \"abha_profile\": abha_profile},\r\n            status=status.HTTP_200_OK,\r\n        )\r\n```\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#168",
-      "time": 1705500922.0,
+      "time": "2024-01-17T14:15:22.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/issues/168#issuecomment-1895901816",
       "text": "Can I take this up? "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1815",
-      "time": 1705170856.0,
+      "time": "2024-01-13T18:34:16.000Z",
       "link": "https://github.com/coronasafe/care/issues/1815#issuecomment-1890678658",
       "text": "@khavinshankar Can you take a look at #1821 and see if it looks good? "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1821",
-      "time": 1705170648.0,
+      "time": "2024-01-13T18:30:48.000Z",
       "link": "https://github.com/coronasafe/care/pull/1821",
       "text": "ABDM: Log the errors instead of sending them as a response"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1815",
-      "time": 1704968819.0,
+      "time": "2024-01-11T10:26:59.000Z",
       "link": "https://github.com/coronasafe/care/issues/1815#issuecomment-1886807281",
       "text": "Can I take this up? \r\n\r\nSo as I understand the issue, We have to log the error response instead of sending them as response in places like these in the abdm API?:\r\n```python\r\n        try:\r\n            AbdmGateway().init(data[\"resp\"][\"requestId\"])\r\n        except Exception as e:\r\n            return Response({\"error\": str(e)}, status=status.HTTP_400_BAD_REQUEST)\r\n```\r\n\r\n#### Questions:\r\n- What should be sent instead of the `e` object to the client instead?\r\n- This is how we should log instead right?\r\n```python\r\nlogger = logging.getLogger(__nane__)\r\n\r\n\r\ndef post(self, request, *args, **kwargs):\r\n    data = request.data\r\n\r\n    try:\r\n        AbdmGateway().init(data[\"resp\"][\"requestId\"])\r\n    except Exception as e:\r\n        logger.warning(f\"Error while initialising ABDM Gateway: {e}\", exc_info=True)\r\n        return Response({ \"error\": \"Something went wrong.\" }, status=status.HTTP_400_BAD_REQUEST)\r\n\r\n    return Response({}, status=status.HTTP_202_ACCEPTED)\r\n\r\n```\r\n"
     }

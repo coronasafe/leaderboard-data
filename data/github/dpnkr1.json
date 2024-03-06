@@ -1,10 +1,10 @@
 {
-  "last_updated": 1698674508.0,
+  "last_updated": "2023-10-30T14:01:48.000Z",
   "activity": [
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6525",
-      "time": 1698674508.0,
+      "time": "2023-10-30T14:01:48.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6525",
       "text": "Bed number coming up two time in patients page "
     }

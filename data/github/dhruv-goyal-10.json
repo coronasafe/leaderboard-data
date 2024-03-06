@@ -1,10 +1,10 @@
 {
-  "last_updated": 1709558719.0,
+  "last_updated": "2024-03-04T13:25:19.000Z",
   "activity": [
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1908",
-      "time": 1709558719.0,
+      "time": "2024-03-04T13:25:19.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908",
       "text": "Fixed N+1 queries issue in /api/v1/bed/",
       "turnaround_time": 47673
@@ -12,7 +12,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1908",
-      "time": 1709558719.0,
+      "time": "2024-03-04T13:25:19.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908",
       "text": "Fixed N+1 queries issue in /api/v1/bed/",
       "collaborated_with": [
@@ -22,98 +22,98 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1909",
-      "time": 1709302852.0,
+      "time": "2024-03-01T14:20:52.000Z",
       "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1973290377",
       "text": "@sainak But since **Bed** is the related object, how can we annotate the property of Bed while fetching the objects of **ConsultationBed**.\r\nBecause, as per my knowledge, we can only annotate the property of the objects present in the queryset and not of the related object, present in the queryset."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1908",
-      "time": 1709172770.0,
+      "time": "2024-02-29T02:12:50.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1970272008",
       "text": "@sainak I have added the test case for this as suggested by you, Please have a look now!"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1909",
-      "time": 1708978239.0,
+      "time": "2024-02-26T20:10:39.000Z",
       "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1965164606",
       "text": "@sainak In this particular case, although commenting out is_property field of Bed Model will not affect the results of **ConsultationBedSerializer**, as we are going to handle the is_occupied property of Bed in this serializer.\r\n\r\nBut in other serializers like **AssetBedSerializer, PatientAssetBedSerializer**, which are also using **BedSerializer**, since we are not handling the is_occupied property of Bed in these serializers, so it will always correspond to the False (the default value).\r\n\r\nWhat are your thoughts?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1908",
-      "time": 1708976274.0,
+      "time": "2024-02-26T19:37:54.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1965105277",
       "text": "@sainak Made the changes as suggested by you.\r\nAlso, thanks for an insightful discussion."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1908",
-      "time": 1708973950.0,
+      "time": "2024-02-26T18:59:10.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1964907225",
       "text": "@sainak I later realised this, commenting out the is_occupied property will although not affect the results in case of list method, but it will affect the result in case of retrieve method (fetching a particular object using id), coz we aren't annotating is_occupied property in that case and it will always corresponds to False (the default value).\r\nIsn't it?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1908",
-      "time": 1708967256.0,
+      "time": "2024-02-26T17:07:36.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1964666744",
       "text": "Hey @sainak! I have done changes suggested by you. Can you please have a look at my PR now?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1908",
-      "time": 1708956878.0,
+      "time": "2024-02-26T14:14:38.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1964245710",
       "text": "@sainak @rithviknishad @vigneshhari I have completed the changes as suggested by @sainak. Can you review my PR now?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1336",
-      "time": 1708712207.0,
+      "time": "2024-02-23T18:16:47.000Z",
       "link": "https://github.com/coronasafe/care/issues/1336#issuecomment-1961785592",
       "text": "@sainak @rithviknishad @vigneshhari Can you please assign this issue to me?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1909",
-      "time": 1708683869.0,
+      "time": "2024-02-23T10:24:29.000Z",
       "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1961072549",
       "text": "@sainak @rithviknishad @vigneshhari Can you please review this PR?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1908",
-      "time": 1708683862.0,
+      "time": "2024-02-23T10:24:22.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1961072406",
       "text": "@sainak @rithviknishad @vigneshhari Can you please review this PR?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1909",
-      "time": 1708659379.0,
+      "time": "2024-02-23T03:36:19.000Z",
       "link": "https://github.com/coronasafe/care/pull/1909",
       "text": "Fixed N+1 queries issue in /api/v1/consultationbed/"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1339",
-      "time": 1708653705.0,
+      "time": "2024-02-23T02:01:45.000Z",
       "link": "https://github.com/coronasafe/care/issues/1339#issuecomment-1960635266",
       "text": "@sainak @vigneshhari @nikhilagastya I want to work on this issue.\r\nCan you please assign this issue to me?\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1908",
-      "time": 1708647046.0,
+      "time": "2024-02-23T00:10:46.000Z",
       "link": "https://github.com/coronasafe/care/pull/1908",
       "text": "Fixed N+1 queries issue in /api/v1/bed/"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1335",
-      "time": 1708633444.0,
+      "time": "2024-02-22T20:24:04.000Z",
       "link": "https://github.com/coronasafe/care/issues/1335#issuecomment-1960248371",
       "text": "@sainak I would like to work on this issue. Can you please assign this to me?\r\n\r\nThanks!"
     }

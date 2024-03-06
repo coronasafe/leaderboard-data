@@ -1,17 +1,17 @@
 {
-  "last_updated": 1709670546.0,
+  "last_updated": "2024-03-05T20:29:06.000Z",
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care#1940",
-      "time": 1709670546.0,
+      "time": "2024-03-05T20:29:06.000Z",
       "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-1979584252",
       "text": "> initial changes look good, you can proceed with adding created_by updated_by to other models as well\r\n\r\nHey i made the changes at all the places but i realised that perform_update does not need to update created_by field while saving so i have done all the changes will test it locally and then push it for review "
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7320",
-      "time": 1709656805.0,
+      "time": "2024-03-05T16:40:05.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7320",
       "text": "Rearrange tabs in patient dashboard",
       "turnaround_time": 9307
@@ -19,105 +19,105 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7320",
-      "time": 1709584224.0,
+      "time": "2024-03-04T20:30:24.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1977401636",
       "text": "> > as in as far as i know its good to have ids while mapping it in the front end also CONSULTATION_TABS is of type Array so id is a compulsory field so what do you think should we remove it ? thoughts @rithviknishad ?\r\n> \r\n> It doesn't serve any purpose. It's purely a front-end and thing and has nothing to do with backend. Let's drop ID, it's also not being referenced anywhere else. Also you can drop the type `Array<OptionsType>` for CONSULTATION_TABS and simply do `as const` which should take care of the type safety.\r\n\r\nchanges are done ptal"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1697",
-      "time": 1709583547.0,
+      "time": "2024-03-04T20:19:07.000Z",
       "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1977385110",
       "text": "@sainak can you pls take a look at the initial pr just wanted to confirm if im in the right direction or not.\r\nmade the migration field and updated the created_by and updated_by fields for some viewsets, once you approve the approach will do it for all the other viewsets"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1940",
-      "time": 1709583410.0,
+      "time": "2024-03-04T20:16:50.000Z",
       "link": "https://github.com/coronasafe/care/pull/1940",
       "text": "Add created_by and updated_by fields to base model"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1697",
-      "time": 1709468053.0,
+      "time": "2024-03-03T12:14:13.000Z",
       "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1975140709",
       "text": "@sainak will the migrations files be a separate pr ?\r\n "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1697",
-      "time": 1709407021.0,
+      "time": "2024-03-02T19:17:01.000Z",
       "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1974883777",
       "text": "@sainak just wanted to confirm this will have \r\n1) a migration file for the addition of two fields in class BaseModel \r\n2) all the changes where any object of a class extended by BaseModel is either created or modified right ?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1697",
-      "time": 1709399273.0,
+      "time": "2024-03-02T17:07:53.000Z",
       "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1974853770",
       "text": "Hey can i work on this one ?\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1889",
-      "time": 1709399045.0,
+      "time": "2024-03-02T17:04:05.000Z",
       "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1974852603",
       "text": "@DraKen0009 are you working on this one ?\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",
-      "time": 1709398136.0,
+      "time": "2024-03-02T16:48:56.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1974848782",
       "text": "@rithviknishad @balaji-sivasakthi i tried using the same front-end on my local backend it does not show this error. do we have some sort of waf or any firewall this passes through that could be the issue here pls correct me if i am wrong "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7320",
-      "time": 1709392051.0,
+      "time": "2024-03-02T15:07:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1974824752",
       "text": "> Why is `id` required there? What purpose/requirement does it satisfy?\r\n\r\nas in  as far as i know its good to have ids while mapping it in the front end also CONSULTATION_TABS is of type Array<OptionsType>  so id is a compulsory field so what do you think should we remove it ? thoughts @rithviknishad ?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7320",
-      "time": 1709369073.0,
+      "time": "2024-03-02T08:44:33.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1974732651",
       "text": "in ConsultationDetails/index.tsx:423 CONSULTATION_TABS is being mapped there we might need ids ?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7320",
-      "time": 1709368326.0,
+      "time": "2024-03-02T08:32:06.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1974710512",
       "text": "> Correct me if I'm wrong, are the `id` attribute used anywhere?\r\nNope was not able to find"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7320",
-      "time": 1709362654.0,
+      "time": "2024-03-02T06:57:34.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1974510263",
       "text": "@rithviknishad are these test fails due to my change ?\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7320",
-      "time": 1709320879.0,
+      "time": "2024-03-01T19:21:19.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7320",
       "text": "Rearrange tabs in patient dashboard"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7288",
-      "time": 1709220831.0,
+      "time": "2024-02-29T15:33:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971395852",
-      "text": "Yes I am\r\n\r\nOn Thu, 29 Feb 2024, 20:53 Arnit Gupta, ***@***.***> wrote:\r\n\r\n> Hi!\r\n> Is there anyone working on this issue?\r\n> If not may i proceed with the task?\r\n>\r\n> \u2014\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971374292>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/AUPCOKCK6HQAHAMN7GEAOYDYV5DXJAVCNFSM6AAAAABD3Y2NZ2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSNZRGM3TIMRZGI>\r\n> .\r\n> You are receiving this because you were assigned.Message ID:\r\n> ***@***.***>\r\n>\r\n"
+      "text": "Yes I am\r\n\r\nOn Thu, 29 Feb 2024, 20:53 Arnit Gupta, ***@***.***> wrote:\r\n\r\n> Hi!\r\n> Is there anyone working on this issue?\r\n> If not may i proceed with the task?\r\n>\r\n> —\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971374292>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/AUPCOKCK6HQAHAMN7GEAOYDYV5DXJAVCNFSM6AAAAABD3Y2NZ2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSNZRGM3TIMRZGI>\r\n> .\r\n> You are receiving this because you were assigned.Message ID:\r\n> ***@***.***>\r\n>\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7288",
-      "time": 1709031344.0,
+      "time": "2024-02-27T10:55:44.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1966289837",
       "text": "i can work on this issue can you pls assign this to me "
     }

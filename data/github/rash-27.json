@@ -1,10 +1,10 @@
 {
-  "last_updated": 1709644106.0,
+  "last_updated": "2024-03-05T13:08:26.000Z",
   "activity": [
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#26",
-      "time": 1709644106.0,
+      "time": "2024-03-05T13:08:26.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/26",
       "text": "Update rash-27.md",
       "turnaround_time": 53680
@@ -12,7 +12,7 @@
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#337",
-      "time": 1709635246.0,
+      "time": "2024-03-05T10:40:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/337",
       "text": "Fix overflow in home at 1280px",
       "turnaround_time": 4028
@@ -20,7 +20,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/leaderboard#337",
-      "time": 1709635246.0,
+      "time": "2024-03-05T10:40:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/337",
       "text": "Fix overflow in home at 1280px",
       "collaborated_with": [
@@ -30,49 +30,49 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#337",
-      "time": 1709635201.0,
+      "time": "2024-03-05T10:40:01.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/337#issuecomment-1978460771",
       "text": "Okay, just enabled it thank you "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#337",
-      "time": 1709633350.0,
+      "time": "2024-03-05T10:09:10.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/337#issuecomment-1978399655",
       "text": "Ok I'll fix"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#337",
-      "time": 1709631218.0,
+      "time": "2024-03-05T09:33:38.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/337",
       "text": "Fix overflow in home at 1280px"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#333",
-      "time": 1709621436.0,
+      "time": "2024-03-05T06:50:36.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/333#issuecomment-1978072307",
       "text": "i would like to work on this issue "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#239",
-      "time": 1709597101.0,
+      "time": "2024-03-05T00:05:01.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/239#issuecomment-1977701485",
       "text": "I would like to work on this issue "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#26",
-      "time": 1709590426.0,
+      "time": "2024-03-04T22:13:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/26",
       "text": "Update rash-27.md"
     },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7337",
-      "time": 1709574817.0,
+      "time": "2024-03-04T17:53:37.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7337",
       "text": "Production Release 97 | March week 1 2024",
       "collaborated_with": [
@@ -93,41 +93,41 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1937",
-      "time": 1709567041.0,
+      "time": "2024-03-04T15:44:01.000Z",
       "link": "https://github.com/coronasafe/care/issues/1937#issuecomment-1976878949",
       "text": "- for this already the security checks are made in the serializers \r\n- So , my idea is to create a class and use it where presently the s3 bucket is used (i.e the methods of the models that return URL and etc, in case of file storage) so that multiple storage providers can be accessed via it, \r\n- the basic idea of the class : \r\nclass StorageProvider:\r\ndef __init__(self , provider ,bucket_type  ):\r\n if provider == \"s3\":\r\n self.client = boto3.client(\"s3\", **config) \r\n//similarly we can provide the options for remaining storage providers \r\n// Here implementing the methods required ,  like signed_url , put_object , get_object , etc , \r\n- regarding private and public buckets is we can decide with the help of bucket type and we can change the upload url accordingly \r\n@sainak This is the basic idea of my implementation, and mention if I am wrong somewhere or suggest any changes need to done  "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1928",
-      "time": 1709417657.0,
+      "time": "2024-03-02T22:14:17.000Z",
       "link": "https://github.com/coronasafe/care/pull/1928#issuecomment-1974922846",
       "text": "@sainak fixed lint errors but was unable to push (encountering this error), and even the pulling not worked \r\n![Screenshot 2024-03-03 034210](https://github.com/coronasafe/care/assets/146672184/5768f84d-1204-4803-a17a-3c3c525a125e)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1935",
-      "time": 1709364940.0,
+      "time": "2024-03-02T07:35:40.000Z",
       "link": "https://github.com/coronasafe/care/pull/1935#issuecomment-1974665793",
       "text": "Ok I'll update it"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7322",
-      "time": 1709335788.0,
+      "time": "2024-03-01T23:29:48.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7322",
       "text": "Replace age field with DOB while Updating User"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1935",
-      "time": 1709335649.0,
+      "time": "2024-03-01T23:27:29.000Z",
       "link": "https://github.com/coronasafe/care/pull/1935",
       "text": "Replace age field with DOB in users model"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709298523.0,
+      "time": "2024-03-01T13:08:43.000Z",
       "title": "coronasafe/care#1929",
       "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1911094695",
       "text": "Add age validation in PatientDetailSerializer"
@@ -135,27 +135,27 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1929",
-      "time": 1709278357.0,
+      "time": "2024-03-01T07:32:37.000Z",
       "link": "https://github.com/coronasafe/care/pull/1929#issuecomment-1972669177",
       "text": "@sainak here in the tests part I have only considered the case where it gonna fail(dob) , review it and mention if an further changes needed "
     },
     {
       "type": "pr_reviewed",
-      "time": 1709274292.0,
+      "time": "2024-03-01T06:24:52.000Z",
       "title": "coronasafe/care#1929",
       "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1910396110",
       "text": "Add age validation in PatientDetailSerializer"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709223738.0,
+      "time": "2024-02-29T16:22:18.000Z",
       "title": "coronasafe/care#1929",
       "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1909325834",
       "text": "Add age validation in PatientDetailSerializer"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709188774.0,
+      "time": "2024-02-29T06:39:34.000Z",
       "title": "coronasafe/care#1929",
       "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1908077302",
       "text": "Add age validation in PatientDetailSerializer"
@@ -163,20 +163,20 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1929",
-      "time": 1709156786.0,
+      "time": "2024-02-28T21:46:26.000Z",
       "link": "https://github.com/coronasafe/care/pull/1929",
       "text": "Add age validation in PatientDetailSerializer"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1928",
-      "time": 1709156227.0,
+      "time": "2024-02-28T21:37:07.000Z",
       "link": "https://github.com/coronasafe/care/pull/1928",
       "text": "Add validation checks in ResourceRequestSerializer"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709127472.0,
+      "time": "2024-02-28T13:37:52.000Z",
       "title": "coronasafe/care#1925",
       "link": "https://github.com/coronasafe/care/pull/1925#pullrequestreview-1906292983",
       "text": "Add validation checks in Resource Request serializer"
@@ -184,77 +184,77 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1925",
-      "time": 1709124276.0,
+      "time": "2024-02-28T12:44:36.000Z",
       "link": "https://github.com/coronasafe/care/pull/1925",
       "text": "Add validation checks in Resource Request serializer"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7281",
-      "time": 1709028729.0,
+      "time": "2024-02-27T10:12:09.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7281#issuecomment-1966209840",
       "text": "@aparnacoronasafe I have noticed there is no field for date of birth in the user model. There is only the age field. Now, should I convert the date of birth field while creating the user to the age field, or need to change the backend?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7281",
-      "time": 1709018816.0,
+      "time": "2024-02-27T07:26:56.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7281#issuecomment-1965937827",
       "text": "I would like to work on this issue. "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1922",
-      "time": 1709015568.0,
+      "time": "2024-02-27T06:32:48.000Z",
       "link": "https://github.com/coronasafe/care/pull/1922",
       "text": "Add validationCheck in PatientDetailSerializer"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1915",
-      "time": 1708983191.0,
+      "time": "2024-02-26T21:33:11.000Z",
       "link": "https://github.com/coronasafe/care/issues/1915#issuecomment-1965330364",
       "text": "I would like to work on this issue"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1918",
-      "time": 1708982080.0,
+      "time": "2024-02-26T21:14:40.000Z",
       "link": "https://github.com/coronasafe/care/pull/1918",
       "text": "Fix Facility.DoesNotExist error in Resource request"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1914",
-      "time": 1708958089.0,
+      "time": "2024-02-26T14:34:49.000Z",
       "link": "https://github.com/coronasafe/care/issues/1914#issuecomment-1964292975",
       "text": "i would like to work on this issue "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1840",
-      "time": 1708902901.0,
+      "time": "2024-02-25T23:15:01.000Z",
       "link": "https://github.com/coronasafe/care/issues/1840#issuecomment-1963096032",
       "text": "I want to work on this. Can you please provide more information regarding the issue?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7264",
-      "time": 1708698980.0,
+      "time": "2024-02-23T14:36:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7264",
       "text": "Fix Translations in login page"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7260",
-      "time": 1708690878.0,
+      "time": "2024-02-23T12:21:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7260#issuecomment-1961231835",
       "text": "i would like to work on this"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7260",
-      "time": 1708690743.0,
+      "time": "2024-02-23T12:19:03.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7260",
       "text": "Translations are not made properly in some places"
     }
