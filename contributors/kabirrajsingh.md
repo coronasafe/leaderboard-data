@@ -3,7 +3,7 @@ name: Kabir Raj Singh
 title: Contributor
 github: kabirrajsingh
 twitter: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/kabir-raj-singh-602286149/"
 slack: ""
 joining_date: ""
 role : contributor
