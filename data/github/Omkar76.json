@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-16T14:21:16+00:00",
+  "last_updated": "2024-03-22T14:53:22+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7275",
+      "time": "2024-03-22T14:53:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#issuecomment-2015275163",
+      "text": "Hi @nihal467,\r\nI've resolved conflict but the label \"merge conflict\" is still there. Please manually remove it. Thanks."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6993",
@@ -789,6 +796,42 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7275",
+      "title": "create vite plugin to treeshake uniconpaths.json",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "changes required",
+        "Major Code Change"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1907",
+      "title": "track previous consultation",
+      "stale_for": 9,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6993",
+      "title": "Collect postpartum data",
+      "stale_for": 6,
+      "labels": [
+        "changes required",
+        "work-in-progress",
+        "merge conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
+    }
+  ]
 }

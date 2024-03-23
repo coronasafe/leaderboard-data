@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-18T12:23:45+00:00",
+  "last_updated": "2024-03-22T02:46:10+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7416",
+      "time": "2024-03-22T02:46:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7416#issuecomment-2014219765",
+      "text": "Multi-select, if possible would be a nice enhancement to have. \n\nHowever it must be very clear for the user, which consent to be uploaded where. "
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1982",

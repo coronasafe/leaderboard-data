@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-21T09:01:42+00:00",
+  "last_updated": "2024-03-22T11:24:40+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2005",
+      "time": "2024-03-22T11:24:40+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2005",
+      "text": "Add validations for negative values in inventory and min quanityt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7455",
+      "time": "2024-03-22T07:49:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7455",
+      "text": "Don't allow negative values for quantity in Manage Inventory page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7454",
+      "time": "2024-03-22T07:47:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7454",
+      "text": "Manage Inventory allows negative values as well"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7443",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-21T21:49:19+00:00",
+  "last_updated": "2024-03-22T13:14:24+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-03-22T13:14:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#issuecomment-2015078160",
+      "text": "- After changing the age format in dashboard\r\n![image](https://github.com/coronasafe/care_fe/assets/146672184/6b6697a7-028a-4092-befe-b33c979ca988)\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7453",
@@ -617,15 +624,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7453",
-      "title": "Update age format in patientInfoCard",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7411",
       "title": "Add Age field in patient registration",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Backend",
         "test failed",
@@ -635,13 +636,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/374",
       "title": " Adds support for searching in /people page and show short info about user",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7322",
       "title": "Replace age field with DOB while Updating User",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for backend",
         "cypress failed"
@@ -650,13 +651,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1935",
       "title": "Replace age field with DOB in users model",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1929",
       "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     }
   ],

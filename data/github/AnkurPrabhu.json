@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-21T19:31:01+00:00",
+  "last_updated": "2024-03-22T20:10:49+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1840",
+      "time": "2024-03-22T20:10:49+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1840#issuecomment-2015831734",
+      "text": "<img width=\"1192\" alt=\"Screenshot 2024-03-23 at 1 37 58 AM\" src=\"https://github.com/coronasafe/care/assets/85862184/6cc2f7d4-317d-42da-abca-f4ba05ff118f\">\r\n@sainak you are talking about this feed right ?\r\nthis calls operate_assets api from front-end \r\nand in the backend this api sits in AssetViewSet model,\r\nso just adding permissions classes to this model should solve access control right ? pls let me know if I am correct or misunderstood something"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/teleicu_middleware#64",
+      "time": "2024-03-22T16:28:16+00:00",
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/64#issuecomment-2015459728",
+      "text": "hey @gigincg  can you assign me this ?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1840",
+      "time": "2024-03-22T04:28:13+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1840#issuecomment-2014334470",
+      "text": "@sainak i can work on this issue.\nWe need to make the routes available for specific roles right? Also which api is this ? If i can work then pls assign me the issue "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#664",
@@ -319,6 +340,19 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1959",
+      "title": "[BUG] fix Location/ Bed Management issue ( District Lab Admin Account)",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1940",
+      "title": "Add created_by and updated_by fields to base model",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,297 @@
 {
-  "last_updated": "2024-03-21T14:58:38+00:00",
+  "last_updated": "2024-03-22T15:22:26+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7457",
+      "time": "2024-03-22T15:22:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7457",
+      "text": "Removes support for exporting All Patients",
+      "turnaround_time": 1284
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7457",
+      "time": "2024-03-22T15:01:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7457",
+      "text": "Removes support for exporting All Patients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7446",
+      "time": "2024-03-22T14:46:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7446",
+      "text": "Removes support for exporting All Patients",
+      "turnaround_time": 17036
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T13:10:49+00:00",
+      "title": "coronasafe/care_fe#7440",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#pullrequestreview-1954754795",
+      "text": "display CNS on large display"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T13:10:49+00:00",
+      "title": "coronasafe/care_fe#7440",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#pullrequestreview-1954754795",
+      "text": "display CNS on large display"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T12:56:29+00:00",
+      "title": "coronasafe/care_fe#7198",
+      "link": "https://github.com/coronasafe/care_fe/pull/7198#pullrequestreview-1954723490",
+      "text": "Improving Doctor Connect UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#373",
+      "time": "2024-03-22T12:54:31+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/373#issuecomment-2015044705",
+      "text": "Yeah, but is it possible?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#396",
+      "time": "2024-03-22T12:51:10+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#issuecomment-2015039603",
+      "text": "https://vercel.com/docs/functions/og-image-generation/og-image-examples#using-tailwind-css---experimental"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T12:48:38+00:00",
+      "title": "coronasafe/leaderboard#396",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#pullrequestreview-1954706557",
+      "text": "Added contrbutors OG image using genratemetadata"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T12:48:14+00:00",
+      "title": "coronasafe/leaderboard#396",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#pullrequestreview-1954695354",
+      "text": "Added contrbutors OG image using genratemetadata"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T12:48:13+00:00",
+      "title": "coronasafe/leaderboard#396",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#pullrequestreview-1954695354",
+      "text": "Added contrbutors OG image using genratemetadata"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2002",
+      "time": "2024-03-22T12:31:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2002",
+      "text": "fixes issues with patient annotate + distinct not implemented for csv export",
+      "turnaround_time": 17948
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1999",
+      "time": "2024-03-22T12:31:10+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1999",
+      "text": "fixes issues with patient annotate + distinct not implemented for csv export",
+      "turnaround_time": 17911
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7417",
+      "time": "2024-03-22T11:44:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7417#issuecomment-2014909771",
+      "text": "How about having both options?\r\n\r\ncc: @gigincg "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#373",
+      "time": "2024-03-22T11:31:15+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/373#issuecomment-2014888980",
+      "text": "Do events show `PushEvent`s of fork branches? \r\n\r\nIf not, I don't think this will be a great value addition since most of the contributions are from fork branches."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T09:20:28+00:00",
+      "title": "coronasafe/care_fe#7448",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448#pullrequestreview-1954316208",
+      "text": "added toast messages on facility and skills dialog"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T09:19:48+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1954314825",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T09:19:48+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1954314825",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T08:17:50+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1954191798",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T08:17:50+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1954191798",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T08:02:56+00:00",
+      "title": "coronasafe/care_fe#7448",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448#pullrequestreview-1954152028",
+      "text": "added toast messages on facility and skills dialog"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-22T07:41:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2014517948",
+      "text": "Issue is, cypress currently has no way to validate the data being shown inside the charts since it is canvas-rendered.\r\n\r\nSo, the data shown in the canvas needs to be also present as span elements with sr-only."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T06:38:25+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1954042795",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T06:38:11+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1954042795",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-22T06:12:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-2014425904",
+      "text": "Please refer the ref. screenshot in the issue\r\n\r\n<img width=\"857\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/2dea7161-064b-4197-b62d-688b10261126\">\r\n\r\nThe vertical height of the div containing the buttons is limited to the same height as the facility picture. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T06:08:23+00:00",
+      "title": "coronasafe/care_fe#7448",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448#pullrequestreview-1954009963",
+      "text": "added toast messages on facility and skills dialog"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T06:08:23+00:00",
+      "title": "coronasafe/care_fe#7448",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448#pullrequestreview-1954009963",
+      "text": "added toast messages on facility and skills dialog"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T06:04:39+00:00",
+      "title": "coronasafe/care_fe#7449",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449#pullrequestreview-1954008954",
+      "text": "edit padding in shifting board and resource board pages in mobile screen"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T06:03:27+00:00",
+      "title": "coronasafe/care_fe#6901",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#pullrequestreview-1954007865",
+      "text": "Added Timeline UI for Bed Activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T06:00:02+00:00",
+      "title": "coronasafe/care_fe#7440",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#pullrequestreview-1954004726",
+      "text": "display CNS on large display"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T06:00:02+00:00",
+      "title": "coronasafe/care_fe#7440",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#pullrequestreview-1954004726",
+      "text": "display CNS on large display"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T05:58:01+00:00",
+      "title": "coronasafe/care_fe#7440",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#pullrequestreview-1954003000",
+      "text": "display CNS on large display"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T05:58:01+00:00",
+      "title": "coronasafe/care_fe#7440",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#pullrequestreview-1954003000",
+      "text": "display CNS on large display"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7451",
+      "time": "2024-03-22T05:53:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7451#issuecomment-2014407669",
+      "text": "Closing as duplicate of https://github.com/coronasafe/care_fe/issues/7383"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7451",
+      "time": "2024-03-22T05:53:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7451",
+      "text": "Improve the Patient age reflection in the consultation page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T05:51:00+00:00",
+      "title": "coronasafe/care_fe#7453",
+      "link": "https://github.com/coronasafe/care_fe/pull/7453#pullrequestreview-1953996576",
+      "text": "Update age format in patientInfoCard"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7452",
+      "time": "2024-03-22T03:27:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7452#issuecomment-2014281095",
+      "text": "All medicines duplicated twice in staging"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7452",
+      "time": "2024-03-22T03:26:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7452#issuecomment-2014280157",
+      "text": "cc: @sainak "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7452",
+      "time": "2024-03-22T03:25:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7452#issuecomment-2014279969",
+      "text": "We only have one record in the DB however\r\n\r\n<img width=\"1707\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/6ae3410f-3bc4-423f-8539-088ab901479b\">\r\n\r\nUnable to reproduce it in develop. Reproducible only in staging\r\n\r\n<img width=\"692\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/49204288-3e7e-4417-aedb-5a96b81a4795\">\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T03:16:37+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1953863917",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T03:15:58+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1953863917",
+      "text": "E-chart vitals precision problem fixed"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#2002",
@@ -40062,6 +40353,70 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/393",
+      "title": "Implement API endpoints for tasks bot slack app",
+      "stale_for": 4,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1966",
+      "title": "Dropped `age` column from patient registration and annotated age in patient viewset",
+      "stale_for": 3,
+      "labels": [
+        "P2"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7381",
+      "title": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
+      "stale_for": 3,
+      "labels": [
+        "needs review",
+        "stale",
+        "cypress failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5681",
+      "title": "HCX Communication",
+      "stale_for": 32,
+      "labels": [
+        "merge conflict",
+        "stale",
+        "cypress failed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1998",
+      "pr_link": "https://github.com/coronasafe/care/pull/1999"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1998",
+      "pr_link": "https://github.com/coronasafe/care/pull/2002"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7419",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7418"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/382",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/383"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1957",
+      "pr_link": "https://github.com/coronasafe/care/pull/1958"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7356",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7358"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/328",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/339"
+    }
+  ]
 }

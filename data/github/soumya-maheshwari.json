@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-21T14:54:09+00:00",
+  "last_updated": "2024-03-22T08:45:54+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T08:45:54+00:00",
+      "title": "coronasafe/care_fe#7448",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448#pullrequestreview-1954249315",
+      "text": "added toast messages on facility and skills dialog"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T07:55:37+00:00",
+      "title": "coronasafe/care_fe#7448",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448#pullrequestreview-1954140642",
+      "text": "added toast messages on facility and skills dialog"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7449",

@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-03-21T21:31:16+00:00",
+  "last_updated": "2024-03-22T09:40:35+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-22T09:40:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2014711915",
+      "text": "@rithviknishad great \ud83d\udc4d "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-22T08:57:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2014642849",
+      "text": "@rithviknishad check it now the id is unique for all the values in vitals like pulse1,pulse2,pulse3.... and temperature1,temperature2... I think it can be uniquely identified by cypress not just in a canvas but also in the whole vitals section. Any further requirements from your side?? @nihal467 @Ashesh3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-22T08:19:40+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1954197207",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-22T07:48:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2014525173",
+      "text": "@rithviknishad yes so I need to mention all the values starting from the first log update to the last log update right for example for pulse it starts from 97,94,93 so on all the way till latest 98 right... I need to wrap all these values also right in span tags?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-22T07:24:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2014498555",
+      "text": "@rithviknishad or do you mean to say that span tags should be applied to all the previous log update values as well???"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-22T07:03:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2014476250",
+      "text": "> Span tags are required for all the data that is rendered in the canvas and not just the latest values.\r\n> \r\n> cc: @nihal467\r\n\r\n@rithviknishad ohh do you mean that the sr-only tag should be applied to the whole chart again to get the chart DOM for cypress?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-22T03:18:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2014274226",
+      "text": "@rithviknishad fine I will solve them now"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7450",
@@ -254,21 +303,6 @@
       "text": "Hello Nihal sir I'm Hritesh Kumar Shanty, a 3rd year student at CBIT hyderabad. I'm interested to contribute to this project...actually Its been a while making projects using react, nextjs and express but recently I explored django and I was really looking for a project like this where I can integrate django and nextjs. I would definitely like to give my 100% to this project idea\r\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7450",
-      "title": "E-chart vitals precision problem fixed",
-      "stale_for": 0,
-      "labels": [
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1996",
-      "title": "Soft delete assets from deleted facilities/hospitals",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

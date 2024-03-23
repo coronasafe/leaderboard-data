@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-21T21:15:56+00:00",
+  "last_updated": "2024-03-22T14:42:04+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7446",
+      "time": "2024-03-22T14:42:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7446#issuecomment-2015253777",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#2003",
+      "time": "2024-03-22T04:21:00+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2003",
+      "text": "medibase medicines duplicated twice in staging"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7452",

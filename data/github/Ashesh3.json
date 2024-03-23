@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-21T21:18:47+00:00",
+  "last_updated": "2024-03-22T04:36:48+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-22T04:36:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2014340310",
+      "text": "> > Hey, could you recheck? It appears in the files changed tab.\r\n> > https://github.com/coronasafe/care_fe/pull/7450/files#diff-053150b640a7ce75eff69d1a22cae7f0f94ad64ce9a855db544dda0929316519\r\n> > Commit `E-chart preview precision problem fixed ( commit: c126287b4311ad77f5a81e46db9182de05552325 )` [c126287#diff-053150b640a7ce75eff69d1a22cae7f0f94ad64ce9a855db544dda0929316519](https://github.com/coronasafe/care_fe/commit/c126287b4311ad77f5a81e46db9182de05552325#diff-053150b640a7ce75eff69d1a22cae7f0f94ad64ce9a855db544dda0929316519)\r\n> \r\n> @Ashesh3 maybe some version changes occured in my system while running npm install but no package was installed explicitly and there is no change in package.json right\r\n\r\nRight, if there are no changes to package.json - there's no need to push an updated lock file. \ud83d\ude05"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7450",
@@ -18359,74 +18366,5 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7240",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7305"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7239",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7396"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1893",
-      "pr_link": "https://github.com/coronasafe/care/pull/1896"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
-      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1283",
-      "pr_link": "https://github.com/coronasafe/care/pull/1286"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
-    }
-  ]
+  "authored_issue_and_pr": []
 }
