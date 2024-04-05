@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-04-30T07:20:19Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#215",
+      "time": "2021-04-30T07:20:19Z",
+      "link": "https://github.com/coronasafe/life/pull/215",
+      "text": "added key to learn cards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/life#215",
+      "time": "2021-04-30T07:23:47Z",
+      "link": "https://github.com/coronasafe/life/pull/215",
+      "text": "added key to learn cards"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-05-05T07:40:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#268",
+      "time": "2021-05-05T07:40:28Z",
+      "link": "https://github.com/coronasafe/life/pull/268",
+      "text": "Added more params to covidconnect api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/life#268",
+      "time": "2021-05-06T08:08:08Z",
+      "link": "https://github.com/coronasafe/life/pull/268",
+      "text": "Added more params to covidconnect api"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,6 +1,138 @@
 {
-  "last_updated": "2024-03-22T08:45:54+00:00",
+  "last_updated": "2024-04-03T13:18:35+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7529",
+      "time": "2024-04-03T13:18:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7529",
+      "text": "Staging Release for v24.15.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "Ashesh3",
+        "rash-27",
+        "AshrafMd-1",
+        "mohanrajnambe",
+        "aeswibon"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7471",
+      "time": "2024-04-02T16:54:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7471",
+      "text": "Implemented responsive design for approval letter in resource",
+      "turnaround_time": 7770
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7471",
+      "time": "2024-04-02T16:54:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7471",
+      "text": "Implemented responsive design for approval letter in resource",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "Omkar76",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7485",
+      "time": "2024-03-28T05:10:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7485",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "hrit2773",
+        "Omkar76",
+        "Pranshu1902",
+        "khavinshankar",
+        "rash-27",
+        "rithviknishad",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-27T15:37:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449",
+      "text": "edit padding in shifting board and resource board pages in mobile screen",
+      "turnaround_time": 13222
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-27T15:37:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449",
+      "text": "edit padding in shifting board and resource board pages in mobile screen",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-27T15:36:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448",
+      "text": "added toast messages on facility and skills dialog",
+      "turnaround_time": 14681
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-27T15:36:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448",
+      "text": "added toast messages on facility and skills dialog",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7470",
+      "time": "2024-03-25T15:19:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7470#issuecomment-2018255749",
+      "text": "Hi @rithviknishad \r\n\r\nI've created a pull request (https://github.com/coronasafe/care_fe/pull/7471) to address the issue (https://github.com/coronasafe/care_fe/issues/7470)\r\nPlease review the changes and provide any feedback or suggestions. Let me know if there's anything else I can do to help move this forward.\r\nAlso While addressing the current issue, I encountered an error when attempting to update the details within a resource, I'm unable to discern the exact cause of this error at the moment. can u please explain it to me.\r\n\r\n\r\nhttps://github.com/coronasafe/care_fe/assets/104725768/b3fc45fe-cd43-4726-8458-5cac303f1262\r\n\r\n\r\n\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7471",
+      "time": "2024-03-25T15:04:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7471",
+      "text": "Implemented responsive design for approval letter in resource"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7470",
+      "time": "2024-03-25T14:38:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7470#issuecomment-2018155118",
+      "text": "@rithviknishad \r\ni want to work on this issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7470",
+      "time": "2024-03-25T14:38:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7470",
+      "text": " Approval letter on resource page is not responsive"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-22T08:45:54+00:00",

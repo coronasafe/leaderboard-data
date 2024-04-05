@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-05-05T11:20:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#370",
+      "time": "2020-05-05T11:20:59Z",
+      "link": "https://github.com/coronasafe/care/pull/370",
+      "text": "Update README.rst"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#370",
+      "time": "2020-05-11T18:05:50Z",
+      "link": "https://github.com/coronasafe/care/pull/370",
+      "text": "Update README.rst"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

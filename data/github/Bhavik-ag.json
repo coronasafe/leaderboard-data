@@ -554,6 +554,13 @@
       "time": "2023-05-21T04:58:59.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5485#issuecomment-1556083432",
       "text": "@rithviknishad I'm interested to work on this issue, can you assign this to me."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7224",
+      "time": "2024-02-21T07:59:49Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7224",
+      "text": "added warning on doctor notes usage if not subscribed"
     }
   ],
   "open_prs": [],

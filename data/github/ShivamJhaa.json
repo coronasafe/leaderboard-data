@@ -508,6 +508,13 @@
       "time": "2023-05-22T13:47:38.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/4133#issuecomment-1557253346",
       "text": "@nihal467  All the unclaimed tasks depend on the open PRs like adding, and editing consultation can only be done after creating patients, and configuration of the assets page can be done after creating an asset. So can I take those tasks which are already assigned (creating an asset) as the PR seems stale now? "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5632",
+      "time": "2023-06-08T19:30:38Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5632",
+      "text": "Added cypress test for asset creation"
     }
   ],
   "open_prs": [],

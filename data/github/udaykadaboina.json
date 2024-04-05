@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-03-23T04:57:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/coronasafe.in#31",
+      "time": "2020-03-23T04:57:33Z",
+      "link": "https://github.com/coronasafe/coronasafe.in/pull/31",
+      "text": "fixed typo & added details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/coronasafe.in#31",
+      "time": "2020-03-23T05:15:52Z",
+      "link": "https://github.com/coronasafe/coronasafe.in/pull/31",
+      "text": "fixed typo & added details"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

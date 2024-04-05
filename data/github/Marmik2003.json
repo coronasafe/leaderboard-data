@@ -924,6 +924,48 @@
       "time": "2022-05-23T05:39:29.000Z",
       "link": "https://github.com/coronasafe/care/pull/752",
       "text": "added localstack s3 buckets for local environment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2291",
+      "time": "2022-04-30T17:58:53Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2291",
+      "text": "added patient details in investigation report"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#732",
+      "time": "2022-04-30T12:24:30Z",
+      "link": "https://github.com/coronasafe/care/pull/732",
+      "text": "made description for bed optional"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#732",
+      "time": "2022-05-01T14:28:26Z",
+      "link": "https://github.com/coronasafe/care/pull/732",
+      "text": "made description for bed optional"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#791",
+      "time": "2022-07-25T17:33:39Z",
+      "link": "https://github.com/coronasafe/care/pull/791",
+      "text": "Added Facility Cover image API endpoints"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#906",
+      "time": "2022-07-03T19:30:39Z",
+      "link": "https://github.com/coronasafe/care/pull/906",
+      "text": "updated message when token is not valid"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#944",
+      "time": "2022-07-25T18:06:28Z",
+      "link": "https://github.com/coronasafe/care/pull/944",
+      "text": "Added procedure field to consultation model"
     }
   ],
   "open_prs": [

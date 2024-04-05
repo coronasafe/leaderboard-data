@@ -1,6 +1,35 @@
 {
-  "last_updated": "2024-03-19T15:26:57+00:00",
+  "last_updated": "2024-04-03T12:46:19+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#412",
+      "time": "2024-04-03T12:46:19+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/412#issuecomment-2034512139",
+      "text": "hey @bodhish  can you asign me this \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7505",
+      "time": "2024-04-03T12:42:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7505#issuecomment-2034505062",
+      "text": "hey @thedevildude if you are not working on this issue I will take it up because it has been already 2 days.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7487",
+      "time": "2024-04-03T12:31:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7487#issuecomment-2034480835",
+      "text": "hey @rithviknishad  can you assigned me this issue.\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#32",
+      "time": "2024-04-01T03:34:55+00:00",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/32",
+      "text": "add: Readme.md File",
+      "turnaround_time": 58911
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/citizen#43",

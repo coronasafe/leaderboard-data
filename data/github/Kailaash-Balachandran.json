@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-03-23T23:42:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#78",
+      "time": "2020-03-23T23:42:25Z",
+      "link": "https://github.com/coronasafe/care/pull/78",
+      "text": "Disable browser suggestions in user signup form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#78",
+      "time": "2020-03-24T12:43:19Z",
+      "link": "https://github.com/coronasafe/care/pull/78",
+      "text": "Disable browser suggestions in user signup form"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

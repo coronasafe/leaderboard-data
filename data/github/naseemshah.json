@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-08-25T02:30:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#543",
+      "time": "2020-08-25T02:30:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/543",
+      "text": "Added filtered functionality in download button."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#543",
+      "time": "2020-08-25T08:18:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/543",
+      "text": "Added filtered functionality in download button."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

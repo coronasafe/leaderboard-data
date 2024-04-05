@@ -1,6 +1,34 @@
 {
-  "last_updated": "2024-03-01T15:02:31.000Z",
+  "last_updated": "2024-04-02T08:20:48+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7521",
+      "time": "2024-04-02T08:20:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7521#issuecomment-2031369642",
+      "text": "closing the issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7521",
+      "time": "2024-04-02T08:20:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7521",
+      "text": "Optimization :  Using React memo()  for  routes like to avoid unnecssary rerenders for the same page "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7521",
+      "time": "2024-04-02T08:20:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7521#issuecomment-2031369391",
+      "text": "Yeah I ran some test again, the majority time is with the API response and not a rendering issue. Using memo wouldn't enhance it any better. I am hardly getting 50ms faster load time and that too in some case. \r\n\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7521",
+      "time": "2024-04-01T18:36:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7521",
+      "text": "Optimization :  Using React memo()  for  routes like to avoid unnecssary rerenders for the same page "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7319",

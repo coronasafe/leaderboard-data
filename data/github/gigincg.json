@@ -1,6 +1,206 @@
 {
-  "last_updated": "2024-03-22T12:10:39+00:00",
+  "last_updated": "2024-04-04T16:45:15+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2054",
+      "time": "2024-04-04T16:45:15+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2054",
+      "text": "Merge Develop into Staging",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-04T16:45:06+00:00",
+      "title": "coronasafe/care#2054",
+      "link": "https://github.com/coronasafe/care/pull/2054#pullrequestreview-1980547252",
+      "text": "Merge Develop into Staging"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7540",
+      "time": "2024-04-04T16:44:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7540",
+      "text": "Merge Develop into Staging",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-04T16:44:18+00:00",
+      "title": "coronasafe/care_fe#7540",
+      "link": "https://github.com/coronasafe/care_fe/pull/7540#pullrequestreview-1980544719",
+      "text": "Merge Develop into Staging"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7526",
+      "time": "2024-04-03T16:19:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7526",
+      "text": "Added github workflow for automated release",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T16:13:16+00:00",
+      "title": "coronasafe/care#2048",
+      "link": "https://github.com/coronasafe/care/pull/2048#pullrequestreview-1977324115",
+      "text": "Fixed race condition that caused service to be unhealthy and merge migrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T14:18:31+00:00",
+      "title": "coronasafe/care_fe#7526",
+      "link": "https://github.com/coronasafe/care_fe/pull/7526#pullrequestreview-1976985758",
+      "text": "Added github workflow for automated release"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T14:18:12+00:00",
+      "title": "coronasafe/care_fe#7526",
+      "link": "https://github.com/coronasafe/care_fe/pull/7526#pullrequestreview-1976984138",
+      "text": "Added github workflow for automated release"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2045",
+      "time": "2024-04-03T14:17:49+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2045",
+      "text": "Added github workflow for automated release",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T14:17:29+00:00",
+      "title": "coronasafe/care#2045",
+      "link": "https://github.com/coronasafe/care/pull/2045#pullrequestreview-1976981860",
+      "text": "Added github workflow for automated release"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7511",
+      "time": "2024-04-02T15:01:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2032296496",
+      "text": "@NNSiri The presets being deleted seems is being repeatedly reported from the field now. We can work on improving the audit trail for Preset Deletions to track this better.\r\n\r\n@rithviknishad Can you update the issue to improve the AssetBed through table as well as add audit-trail for soft deleted presets"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7510",
+      "time": "2024-04-02T14:37:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7510#issuecomment-2032219071",
+      "text": "@NNSiri The hierarchy in CARE are State, District, Local Body & Wards, And for users we have only State, District & Local Body. Local Body is an optional field when creating Users, therefore a Local Body filter for Users may not work as you would expect.\r\n\r\nCan you tell us what would be the purpose of looking at Users from a certain Taluka? If the purpose is to filter users by a Home Facility, that can be implemented in a better way. "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2042",
+      "time": "2024-04-01T17:51:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2042",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "skks1212",
+        "vigneshhari",
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "Omkar76",
+        "rash-27",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7158",
+      "time": "2024-03-28T17:26:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7158#issuecomment-2025748562",
+      "text": "@nihal467 Can you comment on the relevance of this\n\ncc: @kabirrajsingh "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/teleicu_middleware#24",
+      "time": "2024-03-28T17:25:44+00:00",
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/24#issuecomment-2025745597",
+      "text": "@aryanraj2713 The issue is regarding adding github actions to automatically add issues filed here to the Project Board.\n\nWould you like to take this up?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "nihal467",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "GokulramGHV",
+        "Spiral-Memory",
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-25T15:44:18+00:00",
+      "title": "coronasafe/care#2013",
+      "link": "https://github.com/coronasafe/care/pull/2013#pullrequestreview-1958112022",
+      "text": "Adds support for validating integrity of fixtures in tests workflow"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/teleicu_middleware#64",
+      "time": "2024-03-25T14:33:44+00:00",
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/64#issuecomment-2018144973",
+      "text": "Solved with\r\n\r\nhttps://github.com/coronasafe/teleicu_middleware/pull/115"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7417",
@@ -7101,8 +7301,745 @@
       "time": "2022-05-11T13:57:06.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2295#issuecomment-1123797328",
       "text": "In the Asset Configure Page for Camera Assets, the Patient Presets (AssetBed Records) Are not Paginated\r\n\r\nhttps://care.coronasafe.in/assets/3aa2ebc2-36ea-4e33-b600-de4e13aee37b/configure"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#531",
+      "time": "2020-08-19T05:56:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/531",
+      "text": "Add SLTC; Update Shifting Board"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#531",
+      "time": "2020-08-19T20:06:03Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/531",
+      "text": "Add SLTC; Update Shifting Board"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#719",
+      "time": "2020-09-23T17:42:12Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/719",
+      "text": "Minor Updates and Fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#719",
+      "time": "2020-09-23T17:44:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/719",
+      "text": "Minor Updates and Fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1063",
+      "time": "2021-05-14T07:12:03Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1063",
+      "text": "Update bedtypes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1063",
+      "time": "2021-05-14T07:12:50Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1063",
+      "text": "Update bedtypes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1195",
+      "time": "2021-05-24T20:05:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1195",
+      "text": "Updates for Resource"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1195",
+      "time": "2021-05-24T20:06:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1195",
+      "text": "Updates for Resource"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1286",
+      "time": "2021-05-31T04:08:50Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1286",
+      "text": "Fix Permanent Address Validation #1285"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1286",
+      "time": "2021-05-31T04:10:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1286",
+      "text": "Fix Permanent Address Validation #1285"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1352",
+      "time": "2021-06-06T14:24:14Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1352",
+      "text": "Production Merge June "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1352",
+      "time": "2021-06-13T19:12:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1352",
+      "text": "Production Merge June "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1807",
+      "time": "2021-09-11T17:58:09Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1807",
+      "text": "Production Release | Sample Mangement; Other Updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1849",
+      "time": "2021-09-24T08:41:36Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1849",
+      "text": "Weekly Production Release 24 Sep"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1849",
+      "time": "2021-09-24T17:37:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1849",
+      "text": "Weekly Production Release 24 Sep"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1870",
+      "time": "2021-09-29T14:41:06Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1870",
+      "text": "Production Release; Whitelabeling with env"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1870",
+      "time": "2021-10-05T15:07:58Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1870",
+      "text": "Production Release; Whitelabeling with env"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1884",
+      "time": "2021-10-06T06:46:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1884",
+      "text": "Production bugfix; Fix Consultation Default Values"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1884",
+      "time": "2021-10-06T07:27:08Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1884",
+      "text": "Production bugfix; Fix Consultation Default Values"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1906",
+      "time": "2021-10-09T15:47:04Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1906",
+      "text": "Production Release; Features & Bugfixes; Early October Minor Release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1906",
+      "time": "2021-10-11T16:57:48Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1906",
+      "text": "Production Release; Features & Bugfixes; Early October Minor Release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1947",
+      "time": "2021-10-30T07:05:03Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1947",
+      "text": "Production Release; October End"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1947",
+      "time": "2021-10-31T15:54:20Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1947",
+      "text": "Production Release; October End"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1985",
+      "time": "2021-12-10T04:16:00Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1985",
+      "text": "TeleICU Live Feed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1985",
+      "time": "2022-02-10T12:58:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1985",
+      "text": "TeleICU Live Feed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1991",
+      "time": "2021-12-18T14:23:56Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1991",
+      "text": "Production Release | January "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1991",
+      "time": "2022-01-27T20:37:41Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1991",
+      "text": "Production Release | January "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2085",
+      "time": "2022-02-10T13:12:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2085",
+      "text": "Production Release; Week 2 February "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2085",
+      "time": "2022-02-12T18:10:16Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2085",
+      "text": "Production Release; Week 2 February "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2092",
+      "time": "2022-02-12T07:12:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2092",
+      "text": "Fix LiveFeed Stream Credentials"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2092",
+      "time": "2022-02-12T07:30:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2092",
+      "text": "Fix LiveFeed Stream Credentials"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2112",
+      "time": "2022-02-19T03:55:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2112",
+      "text": "Production Release Feb Week 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2112",
+      "time": "2022-02-19T03:56:14Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2112",
+      "text": "Production Release Feb Week 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2135",
+      "time": "2022-02-26T05:48:08Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2135",
+      "text": "Production Release Feb Week 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2135",
+      "time": "2022-03-01T15:05:44Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2135",
+      "text": "Production Release Feb Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2152",
+      "time": "2022-03-03T12:51:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2152",
+      "text": "March Week 1 Production Release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2152",
+      "time": "2022-03-05T23:22:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2152",
+      "text": "March Week 1 Production Release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2165",
+      "time": "2022-03-10T12:30:49Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2165",
+      "text": "Production Release March Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2165",
+      "time": "2022-03-18T05:32:40Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2165",
+      "text": "Production Release March Week 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2207",
+      "time": "2022-04-04T11:07:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2207",
+      "text": "Fix Crash #2206"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2207",
+      "time": "2022-04-07T15:13:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2207",
+      "text": "Fix Crash #2206"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2235",
+      "time": "2022-04-19T14:17:42Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2235",
+      "text": "Production Release - Merge after merging #2269"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2235",
+      "time": "2022-04-26T00:34:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2235",
+      "text": "Production Release - Merge after merging #2269"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2237",
+      "time": "2022-04-21T02:45:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2237",
+      "text": "Filter Presets by Bed #2220"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2237",
+      "time": "2022-04-21T03:50:07Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2237",
+      "text": "Filter Presets by Bed #2220"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2239",
+      "time": "2022-04-21T13:59:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2239",
+      "text": "Bed Revision V1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2239",
+      "time": "2022-04-23T00:34:32Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2239",
+      "text": "Bed Revision V1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2248",
+      "time": "2022-04-24T08:28:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2248",
+      "text": " CARE: Fixes for Production Release #2246 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2248",
+      "time": "2022-04-24T17:50:41Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2248",
+      "text": " CARE: Fixes for Production Release #2246 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2265",
+      "time": "2022-04-24T22:15:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2265",
+      "text": "Refactor Patient/TeleICU UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2265",
+      "time": "2022-04-24T22:15:15Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2265",
+      "text": "Refactor Patient/TeleICU UI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2274",
+      "time": "2022-04-27T02:53:14Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2274",
+      "text": "Access Control; Exception to allow Staff to Create Doctors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2274",
+      "time": "2022-04-27T04:48:31Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2274",
+      "text": "Access Control; Exception to allow Staff to Create Doctors"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2293",
+      "time": "2022-05-01T17:36:45Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2293",
+      "text": "Precsion Camera Controls; Update Presets Issue#2247"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2293",
+      "time": "2022-05-02T02:00:31Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2293",
+      "text": "Precsion Camera Controls; Update Presets Issue#2247"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2312",
+      "time": "2022-05-11T11:07:40Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2312",
+      "text": "Production Release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2312",
+      "time": "2022-05-11T11:07:50Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2312",
+      "text": "Production Release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6670",
+      "time": "2023-11-20T09:17:08Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6670",
+      "text": "Add Medispeak for Preview on Care"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7047",
+      "time": "2024-01-16T15:22:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7047",
+      "text": "Production Release | January Week 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7047",
+      "time": "2024-01-16T15:22:36Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7047",
+      "text": "Production Release | January Week 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7238",
+      "time": "2024-02-20T18:20:27Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7238",
+      "text": "Production Release | February Week 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7238",
+      "time": "2024-02-20T18:20:37Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7238",
+      "text": "Production Release | February Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#625",
+      "time": "2021-09-24T08:45:35Z",
+      "link": "https://github.com/coronasafe/care/pull/625",
+      "text": "Production Release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#625",
+      "time": "2021-09-24T17:37:21Z",
+      "link": "https://github.com/coronasafe/care/pull/625",
+      "text": "Production Release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#632",
+      "time": "2021-10-11T16:31:04Z",
+      "link": "https://github.com/coronasafe/care/pull/632",
+      "text": "Production Release; Early October Minor Release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#632",
+      "time": "2021-10-11T16:57:27Z",
+      "link": "https://github.com/coronasafe/care/pull/632",
+      "text": "Production Release; Early October Minor Release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#641",
+      "time": "2021-10-30T07:05:58Z",
+      "link": "https://github.com/coronasafe/care/pull/641",
+      "text": "Production Release; End of October"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#641",
+      "time": "2021-10-31T15:54:14Z",
+      "link": "https://github.com/coronasafe/care/pull/641",
+      "text": "Production Release; End of October"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#670",
+      "time": "2022-01-25T16:50:11Z",
+      "link": "https://github.com/coronasafe/care/pull/670",
+      "text": "Create Asset Integrations Classes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#670",
+      "time": "2022-02-17T12:16:18Z",
+      "link": "https://github.com/coronasafe/care/pull/670",
+      "text": "Create Asset Integrations Classes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#686",
+      "time": "2022-02-26T12:01:58Z",
+      "link": "https://github.com/coronasafe/care/pull/686",
+      "text": "Fix LastDailyRound Alias"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#686",
+      "time": "2022-02-26T12:02:36Z",
+      "link": "https://github.com/coronasafe/care/pull/686",
+      "text": "Fix LastDailyRound Alias"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#687",
+      "time": "2022-02-26T12:06:58Z",
+      "link": "https://github.com/coronasafe/care/pull/687",
+      "text": "Add Alt Phone Number to Consultation Assigned User"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#687",
+      "time": "2022-02-26T12:07:07Z",
+      "link": "https://github.com/coronasafe/care/pull/687",
+      "text": "Add Alt Phone Number to Consultation Assigned User"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#688",
+      "time": "2022-02-26T12:42:07Z",
+      "link": "https://github.com/coronasafe/care/pull/688",
+      "text": "Switch Serializer in LastConsultation AssignedTo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#688",
+      "time": "2022-02-26T12:42:17Z",
+      "link": "https://github.com/coronasafe/care/pull/688",
+      "text": "Switch Serializer in LastConsultation AssignedTo"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#690",
+      "time": "2022-03-01T14:57:42Z",
+      "link": "https://github.com/coronasafe/care/pull/690",
+      "text": "Production Release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#690",
+      "time": "2022-03-01T14:59:13Z",
+      "link": "https://github.com/coronasafe/care/pull/690",
+      "text": "Production Release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#699",
+      "time": "2022-03-02T21:24:43Z",
+      "link": "https://github.com/coronasafe/care/pull/699",
+      "text": "Add Concept Diagram V1; Concept Document; Fix #698 #697"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#699",
+      "time": "2022-03-02T21:30:04Z",
+      "link": "https://github.com/coronasafe/care/pull/699",
+      "text": "Add Concept Diagram V1; Concept Document; Fix #698 #697"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1825",
+      "time": "2024-01-16T15:20:53Z",
+      "link": "https://github.com/coronasafe/care/pull/1825",
+      "text": "Production Release | January Week 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1825",
+      "time": "2024-01-16T15:21:08Z",
+      "link": "https://github.com/coronasafe/care/pull/1825",
+      "text": "Production Release | January Week 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#131",
+      "time": "2021-04-26T19:22:38Z",
+      "link": "https://github.com/coronasafe/life/pull/131",
+      "text": "Add Tab for Searching through all Life Resources"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/life#131",
+      "time": "2021-04-26T22:47:45Z",
+      "link": "https://github.com/coronasafe/life/pull/131",
+      "text": "Add Tab for Searching through all Life Resources"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#108",
+      "time": "2021-05-13T14:24:30Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/108",
+      "text": "Updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#108",
+      "time": "2021-05-13T18:44:16Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/108",
+      "text": "Updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#110",
+      "time": "2021-05-14T05:40:22Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/110",
+      "text": "Update legends #104"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#110",
+      "time": "2021-05-14T05:40:35Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/110",
+      "text": "Update legends #104"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#111",
+      "time": "2021-05-14T07:59:38Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/111",
+      "text": "Production"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#111",
+      "time": "2021-05-14T08:03:17Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/111",
+      "text": "Production"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#125",
+      "time": "2021-05-19T13:07:50Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/125",
+      "text": "Fix Oxygen Sort Filtering Issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#125",
+      "time": "2021-05-19T18:48:01Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/125",
+      "text": "Fix Oxygen Sort Filtering Issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#127",
+      "time": "2021-05-20T05:36:40Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/127",
+      "text": "Fix Govt/Pvt in Export"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#127",
+      "time": "2021-05-20T05:38:43Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/127",
+      "text": "Fix Govt/Pvt in Export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/stay_fe#43",
+      "time": "2020-04-17T06:10:56Z",
+      "link": "https://github.com/coronasafe/stay_fe/pull/43",
+      "text": "Tailwind"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/stay_fe#43",
+      "time": "2020-04-17T08:25:42Z",
+      "link": "https://github.com/coronasafe/stay_fe/pull/43",
+      "text": "Tailwind"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/stay_fe#50",
+      "time": "2020-04-18T16:18:17Z",
+      "link": "https://github.com/coronasafe/stay_fe/pull/50",
+      "text": "Tailwind"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/stay_fe#50",
+      "time": "2020-04-18T16:18:28Z",
+      "link": "https://github.com/coronasafe/stay_fe/pull/50",
+      "text": "Tailwind"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/india-maps#28",
+      "time": "2020-06-13T11:54:47Z",
+      "link": "https://github.com/coronasafe/india-maps/pull/28",
+      "text": "Complete Rebuild"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/india-maps#28",
+      "time": "2020-08-01T03:38:30Z",
+      "link": "https://github.com/coronasafe/india-maps/pull/28",
+      "text": "Complete Rebuild"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/stay_be#55",
+      "time": "2020-05-06T11:27:54Z",
+      "link": "https://github.com/coronasafe/stay_be/pull/55",
+      "text": "Merge to Master"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/stay_be#55",
+      "time": "2020-05-06T11:28:22Z",
+      "link": "https://github.com/coronasafe/stay_be/pull/55",
+      "text": "Merge to Master"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/tracker#34",
+      "time": "2020-04-20T09:56:27Z",
+      "link": "https://github.com/coronasafe/tracker/pull/34",
+      "text": "UI Updates Dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/tracker#34",
+      "time": "2020-04-20T12:06:46Z",
+      "link": "https://github.com/coronasafe/tracker/pull/34",
+      "text": "UI Updates Dashboard"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6670",
+      "title": "Add Medispeak for Preview on Care",
+      "stale_for": 114,
+      "labels": [
+        "In Progress"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

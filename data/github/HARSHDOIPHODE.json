@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-17T16:09:13+00:00",
+  "last_updated": "2024-03-24T08:16:25+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#390",
+      "time": "2024-03-24T08:16:25+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/390#issuecomment-2016731305",
+      "text": "@rithviknishad please review \r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#317",
@@ -133,13 +140,6 @@
       "text": "Can anyone assign me this issue?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/390",
-      "title": "Enhancements to size of filters in Leaderboard page",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

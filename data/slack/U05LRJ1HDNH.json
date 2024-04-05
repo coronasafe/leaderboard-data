@@ -4240,5 +4240,255 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-04-01 00:00:00": [
+        {
+            "user": "U05LRJ1HDNH",
+            "type": "message",
+            "ts": "1711988704.268989",
+            "client_msg_id": "8baf78bf-9b04-4eba-842e-6156d5dc318e",
+            "text": "*EOD 29/03/2024 - 01/04/2024*\n\n*How did the day go?*\n\u2022 Worked on issues in coronasafe/care-fe <https://github.com/coronasafe/care_fe/issues/6783|#7086> <https://github.com/coronasafe/care_fe/issues/7464|#7464> <https://github.com/coronasafe/care_fe/issues/7244|#7244> \n    \u25e6 <https://github.com/coronasafe/care_fe/issues/6783|#7086> - Fixed cypress test for patient upload\n    \u25e6 <https://github.com/coronasafe/care_fe/issues/7464|#7464> - Fixed scroll issue in the medicine dashboard \n    \u25e6 <https://github.com/coronasafe/care_fe/issues/6837|#7244 >- Changed script to only allow authorized users to open the patient registration page\n\u2022 Made PR in coronasafe/care <https://github.com/coronasafe/care/pull/1985|#1985> <https://github.com/coronasafe/care/pull/2012|#2012> [ *merged* ]\n    \u25e6 <https://github.com/coronasafe/care/pull/1985|#1985> <https://github.com/coronasafe/care/pull/2012|#2012> - Added nurse logins for cypress testing [ *issue - <https://github.com/coronasafe/care_fe/issues/6783|#7086>* ]\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "40Go6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 29/03/2024 - 01/04/2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issues in coronasafe/care-fe "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6783",
+                                            "text": "#7086",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/7464",
+                                            "text": "#7464",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/7244",
+                                            "text": "#7244",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6783",
+                                            "text": "#7086",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Fixed cypress test for patient upload"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/7464",
+                                            "text": "#7464",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Fixed scroll issue in the medicine dashboard "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6837",
+                                            "text": "#7244 ",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "- Changed script to only allow authorized users to open the patient registration page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR in coronasafe/care "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care/pull/1985",
+                                            "text": "#1985",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care/pull/2012",
+                                            "text": "#2012",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " [ "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "merged",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ]"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care/pull/1985",
+                                            "text": "#1985",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care/pull/2012",
+                                            "text": "#2012",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Added nurse logins for cypress testing [ "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "issue - ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6783",
+                                            "text": "#7086",
+                                            "style": {
+                                                "bold": true
+                                            },
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ]"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

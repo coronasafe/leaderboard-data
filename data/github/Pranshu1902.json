@@ -1,6 +1,100 @@
 {
-  "last_updated": "2024-03-22T11:24:40+00:00",
+  "last_updated": "2024-04-03T13:18:29+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2046",
+      "time": "2024-04-03T13:18:29+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2046",
+      "text": "Staging Release for v24.15.0",
+      "collaborated_with": [
+        "sainak",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2005",
+      "time": "2024-04-03T08:35:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2005",
+      "text": "Add validations for negative values in inventory and min quanityt",
+      "turnaround_time": 76248
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2005",
+      "time": "2024-04-03T08:35:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2005",
+      "text": "Add validations for negative values in inventory and min quanityt",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "Omkar76",
+        "rash-27",
+        "gigincg",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7485",
+      "time": "2024-03-28T05:10:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7485",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "hrit2773",
+        "Omkar76",
+        "khavinshankar",
+        "rash-27",
+        "soumya-maheshwari",
+        "rithviknishad",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7455",
+      "time": "2024-03-27T15:38:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7455",
+      "text": "Don't allow negative values for quantity in Manage Inventory and Minimum Quantity Required page",
+      "turnaround_time": 28288
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7443",
+      "time": "2024-03-27T15:36:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7443",
+      "text": "Show asset down on assets manage page",
+      "turnaround_time": 23843
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7459",
+      "time": "2024-03-23T09:59:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7459#issuecomment-2016432790",
+      "text": "@rithviknishad @khavinshankar what are your thoughts on this?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7459",
+      "time": "2024-03-23T09:58:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7459",
+      "text": "Add option to mark notification as unread"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#2005",
@@ -7328,6 +7422,335 @@
       "time": "2022-05-10T21:34:33.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2308",
       "text": "Issue#2046"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2734",
+      "time": "2022-06-23T07:56:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2734",
+      "text": "Added \"No Data Found\" under Corona triage on facility page Issue#2733"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2995",
+      "time": "2022-07-03T10:03:55Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2995",
+      "text": "Improved styling on Consultation Page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2996",
+      "time": "2022-07-03T10:29:42Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2996",
+      "text": "Restyled discharge patient popup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3035",
+      "time": "2022-07-07T08:29:50Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3035",
+      "text": "Autofill input field of file upload name on Patients page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3037",
+      "time": "2022-07-07T08:55:16Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3037",
+      "text": "Added Add Doctor and Exit button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3054",
+      "time": "2022-07-27T15:13:13Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3054",
+      "text": "Added Add Bed Capacity and Exit button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3178",
+      "time": "2022-07-27T15:00:56Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3178",
+      "text": "Revamped assets page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3223",
+      "time": "2022-07-25T07:44:44Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3223",
+      "text": "Reduced white spaces on create new Assets page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3258",
+      "time": "2022-08-25T06:20:24Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3258",
+      "text": "Revamped Patients page in mobie view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3314",
+      "time": "2022-08-25T03:25:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3314",
+      "text": "Revamped Shifting Details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3381",
+      "time": "2022-08-25T02:24:17Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3381",
+      "text": "Revamped Update Info page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3415",
+      "time": "2022-08-25T01:46:19Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3415",
+      "text": "Minor UI Fixes in Sample Management, Asset & Facility Pages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3422",
+      "time": "2022-08-25T01:45:54Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3422",
+      "text": "Revamped buttons in Add corona triage form in mobile view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3462",
+      "time": "2022-09-01T08:05:15Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3462",
+      "text": "Revamped Patients home Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3466",
+      "time": "2022-08-25T02:10:08Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3466",
+      "text": "Revamped Add user page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3472",
+      "time": "2022-09-01T08:34:30Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3472",
+      "text": "Fixed UI issues on Assets and External Results page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3510",
+      "time": "2022-09-01T08:24:06Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3510",
+      "text": "Improved UI on Patients page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3516",
+      "time": "2022-09-08T09:25:54Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3516",
+      "text": "Revamped Delete facility dialog"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3524",
+      "time": "2022-09-08T09:24:53Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3524",
+      "text": "Revamped Delete Shifting details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3547",
+      "time": "2022-09-21T14:49:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3547",
+      "text": "Revamped Create Resource Request page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3595",
+      "time": "2022-09-21T14:51:53Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3595",
+      "text": "Revamped Location Management page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3601",
+      "time": "2022-09-21T15:05:51Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3601",
+      "text": "Revamped No Data Found pages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3633",
+      "time": "2022-09-28T08:04:40Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3633",
+      "text": "Resolved UI issue on Inventory management page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3662",
+      "time": "2022-10-04T14:14:51Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3662",
+      "text": "Resolved loader not working on External Results page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3685",
+      "time": "2022-10-04T13:38:26Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3685",
+      "text": "Improved buttons on Update Assets page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3837",
+      "time": "2022-10-27T09:07:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3837",
+      "text": "Fixed Phone url on Assets Waranty Card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3837",
+      "time": "2022-10-27T13:06:56Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3837",
+      "text": "Fixed Phone url on Assets Waranty Card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3918",
+      "time": "2022-11-03T05:13:13Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3918",
+      "text": "Added create more button in the asset creation form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3922",
+      "time": "2022-11-03T09:43:20Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3922",
+      "text": "Added same loader on Patients page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4241",
+      "time": "2022-12-08T12:58:36Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4241",
+      "text": "Resolved crashing Edit Triage page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4268",
+      "time": "2022-12-15T13:48:23Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4268",
+      "text": "Phone Number filter malfunction resolved and minor UI fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4283",
+      "time": "2022-12-15T09:12:40Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4283",
+      "text": "Disable proceed button for edit patient file name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4313",
+      "time": "2022-12-15T08:47:57Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4313",
+      "text": "Emergency Number filter malfunction resolved and minor UI fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4632",
+      "time": "2023-02-02T03:14:24Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4632",
+      "text": "Added max height limit on facility card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4675",
+      "time": "2023-02-02T03:23:13Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4675",
+      "text": "Improved sample test history section on patients page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4677",
+      "time": "2023-01-29T07:44:55Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4677",
+      "text": "Resolve crashing Sample Details page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4712",
+      "time": "2023-01-31T09:35:09Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4712",
+      "text": "Removed MUI buttons from VoiceRecorder component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4733",
+      "time": "2023-02-02T08:49:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4733",
+      "text": "Resolved crashing patient consultation page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4738",
+      "time": "2023-02-02T17:25:48Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4738",
+      "text": "Added Total Doctors Count card on Facility home page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4794",
+      "time": "2023-02-10T13:18:10Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4794",
+      "text": "Debug Total Doctors count on Facility page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4798",
+      "time": "2023-02-10T07:13:17Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4798",
+      "text": "Resolved overlapping Icon and Goal content"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6172",
+      "time": "2023-08-29T08:38:20Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6172",
+      "text": "Minor UI Fix: Button background should not appear when loading"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6253",
+      "time": "2023-09-09T08:36:16Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6253",
+      "text": " Show only those facilties that aren't linked to user"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6996",
+      "time": "2024-02-21T13:25:29Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1588",
+      "time": "2023-09-09T08:31:40Z",
+      "link": "https://github.com/coronasafe/care/pull/1588",
+      "text": "Filter out those facilities that are already linked to user"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2005",
+      "time": "2024-04-03T08:35:27Z",
+      "link": "https://github.com/coronasafe/care/pull/2005",
+      "text": "Add validations for negative values in inventory and min quanityt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#32",
+      "time": "2023-04-11T18:29:39Z",
+      "link": "https://github.com/coronasafe/ayushma/pull/32",
+      "text": "store text at /converse endpoint"
     }
   ],
   "open_prs": [],

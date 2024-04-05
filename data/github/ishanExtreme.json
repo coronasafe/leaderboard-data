@@ -1321,6 +1321,55 @@
       "time": "2022-05-17T15:09:13.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2341",
       "text": "Added spinner feedback after pressing login button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3485",
+      "time": "2022-09-01T08:07:07Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3485",
+      "text": "Completed patient details section for read-only user(Updated)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3926",
+      "time": "2022-11-03T14:44:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3926",
+      "text": "Patient's dashboard breadcrumbs 🍞 fixed ✅"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#27",
+      "time": "2023-05-30T18:44:57Z",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/27",
+      "text": "delete added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#179",
+      "time": "2024-02-20T09:22:14Z",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/179",
+      "text": "immediate display transcribed text added: frontend changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#180",
+      "time": "2024-02-20T14:55:28Z",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/180",
+      "text": "Feat/stt immediate display fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#24",
+      "time": "2023-04-07T13:53:51Z",
+      "link": "https://github.com/coronasafe/ayushma/pull/24",
+      "text": "conversation endpoin to give answer added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#472",
+      "time": "2024-02-20T08:09:01Z",
+      "link": "https://github.com/coronasafe/ayushma/pull/472",
+      "text": "immediate display transcribed text added"
     }
   ],
   "open_prs": [

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-03-28T11:54:40Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#109",
+      "time": "2020-03-28T11:54:40Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/109",
+      "text": "Checkbox wasn't selected if clicked/tapped the label, it's fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#110",
+      "time": "2020-03-28T12:54:55Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/110",
+      "text": "Checkbox wasn't selected if clicked/tapped the label, it's fixed"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

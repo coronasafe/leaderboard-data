@@ -1,6 +1,124 @@
 {
-  "last_updated": "2024-03-20T18:46:09+00:00",
+  "last_updated": "2024-04-03T13:07:54+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1991",
+      "time": "2024-04-03T13:07:54+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1991#issuecomment-2034559252",
+      "text": "can you approve this also"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7438",
+      "time": "2024-04-03T06:38:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7438#issuecomment-2033672171",
+      "text": "so for that I need to make changes in consultationModel interface and I also need to create an interface for mewFields with all the required attribute, could I make changes in model interface"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7438",
+      "time": "2024-04-03T03:39:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7438#issuecomment-2033471519",
+      "text": "@nihal467 solved the typeError now you can test it, sorry for inconvenience"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7438",
+      "time": "2024-04-03T03:06:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7438#issuecomment-2033447184",
+      "text": "@rash-27 yeah, sorry I didn't see ss"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7438",
+      "time": "2024-04-03T02:50:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7438#issuecomment-2033435549",
+      "text": "@nihal467 first need to merge the backend then the test will be passed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T10:44:59+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1968287485",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T10:10:51+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1968243292",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T10:04:03+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1968235492",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:57:07+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1968225246",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:52:40+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1968214053",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:13:23+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1968161724",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7438",
+      "time": "2024-03-28T05:35:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7438#issuecomment-2024442912",
+      "text": "@rithviknishad, please remove stale label"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "nihal467",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "GokulramGHV",
+        "Spiral-Memory",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1991",
+      "time": "2024-03-23T13:00:51+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1991#issuecomment-2016488780",
+      "text": "@rithviknishad , \r\n![Screenshot (119)](https://github.com/coronasafe/care/assets/91010142/53d868cf-3615-48f7-b488-80580b36f910)\r\n\r\nI added a test case, here I submitted 3 data files, one with automated because main goal is for automated round type too and rest are non-automated, and its working fine\r\n\r\nhere is the result\r\n![image](https://github.com/coronasafe/care/assets/91010142/e8d00182-46fc-4c3b-8466-b88c7cc03dc6)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-23T10:48:19+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1956360626",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1991",
@@ -318,23 +436,15 @@
       "time": "2024-03-06T15:44:13+00:00",
       "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1981171815",
       "text": "please assign this issues to me, I want to contribute here"
-    }
-  ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1991",
-      "title": "Enhance MEWS calculation by fetching data from last 5 log updates",
-      "stale_for": 0,
-      "labels": []
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7438",
-      "title": "Solved issue \"Enhancement to MEWS Score\"",
-      "stale_for": 0,
-      "labels": [
-        "waiting for backend"
-      ]
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7391",
+      "time": "2024-03-12T04:09:10Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7391",
+      "text": "Issue resolved \"Handle the 0 Input in the Pressure sore and Pain Scale component\""
     }
   ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

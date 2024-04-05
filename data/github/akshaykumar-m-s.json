@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-03-23T09:33:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#20",
+      "time": "2020-03-23T09:33:03Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/20",
+      "text": "Feature/onboard ambulance"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#20",
+      "time": "2020-03-23T09:49:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/20",
+      "text": "Feature/onboard ambulance"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

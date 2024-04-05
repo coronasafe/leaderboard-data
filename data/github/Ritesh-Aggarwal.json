@@ -1025,6 +1025,41 @@
       "time": "2022-05-17T18:43:22.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2371",
       "text": "fix - scroll restoration to top on page load"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3040",
+      "time": "2022-07-07T09:38:29Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3040",
+      "text": "Grid layout on lg screen devices for sample test cards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3342",
+      "time": "2022-08-25T03:23:41Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3342",
+      "text": "move slider input to next line on mobile devices"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3731",
+      "time": "2022-10-08T14:37:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3731",
+      "text": "Issue 2962 - scroll to top if in whitelist"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3823",
+      "time": "2022-10-25T10:13:49Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3823",
+      "text": "Remove history of present illness card from medicine tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3909",
+      "time": "2022-11-03T09:42:42Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3909",
+      "text": "update notification card UI"
     }
   ],
   "open_prs": [

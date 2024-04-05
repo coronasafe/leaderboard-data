@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-03-25T07:03:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#63",
+      "time": "2020-03-25T07:03:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/63",
+      "text": "#49 Added type definitions for Common components"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#63",
+      "time": "2020-03-25T08:01:32Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/63",
+      "text": "#49 Added type definitions for Common components"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

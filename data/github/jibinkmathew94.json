@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-07-12T05:54:56Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#424",
+      "time": "2020-07-12T05:54:56Z",
+      "link": "https://github.com/coronasafe/care/pull/424",
+      "text": "Implement test summarization api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#424",
+      "time": "2020-07-12T18:21:16Z",
+      "link": "https://github.com/coronasafe/care/pull/424",
+      "text": "Implement test summarization api"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

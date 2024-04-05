@@ -288,6 +288,34 @@
       "time": "2023-05-29T19:38:43.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5492#issuecomment-1567457492",
       "text": "@rithviknishad Hi! Sir, I have successfully set up the working environment. To better analyse the joins I was looking forward to use the django_debug_toolbar, it seems to be already present in the settings.\r\n\r\nCould you guide me as how I would be able to get it running?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1358",
+      "time": "2023-06-08T00:05:41Z",
+      "link": "https://github.com/coronasafe/care/pull/1358",
+      "text": "Fix: Add get_object_or_404 to resolve 500 DoesNotExist Error and added tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1358",
+      "time": "2023-06-08T13:59:46Z",
+      "link": "https://github.com/coronasafe/care/pull/1358",
+      "text": "Fix: Add get_object_or_404 to resolve 500 DoesNotExist Error and added tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1548",
+      "time": "2023-08-22T21:37:40Z",
+      "link": "https://github.com/coronasafe/care/pull/1548",
+      "text": "Add test and detail serializer to resources module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1549",
+      "time": "2023-08-22T23:58:15Z",
+      "link": "https://github.com/coronasafe/care/pull/1549",
+      "text": "Add list and detail serializer with tests for shifting module"
     }
   ],
   "open_prs": [

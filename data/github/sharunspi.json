@@ -1,0 +1,14 @@
+{
+  "last_updated": "2020-10-04T13:05:27Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#46",
+      "time": "2020-10-04T13:05:27Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/46",
+      "text": "chaged the readme and added serve as dev dependency to package.json file"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

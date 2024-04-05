@@ -1,0 +1,35 @@
+{
+  "last_updated": "2021-04-27T14:03:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#161",
+      "time": "2021-04-27T14:03:03Z",
+      "link": "https://github.com/coronasafe/life/pull/161",
+      "text": "Gujarati translations for stateSlug.js, about.js"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/life#161",
+      "time": "2021-04-28T07:08:39Z",
+      "link": "https://github.com/coronasafe/life/pull/161",
+      "text": "Gujarati translations for stateSlug.js, about.js"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#229",
+      "time": "2021-04-30T17:32:01Z",
+      "link": "https://github.com/coronasafe/life/pull/229",
+      "text": "Remove console.log"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/life#229",
+      "time": "2021-04-30T17:38:09Z",
+      "link": "https://github.com/coronasafe/life/pull/229",
+      "text": "Remove console.log"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

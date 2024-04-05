@@ -1,0 +1,28 @@
+{
+  "last_updated": "2021-04-23T19:47:17Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#34",
+      "time": "2021-04-23T19:47:17Z",
+      "link": "https://github.com/coronasafe/life/pull/34",
+      "text": "Text Color Fix for State's districts list page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/life#34",
+      "time": "2021-04-24T11:56:38Z",
+      "link": "https://github.com/coronasafe/life/pull/34",
+      "text": "Text Color Fix for State's districts list page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#54",
+      "time": "2021-04-24T08:05:45Z",
+      "link": "https://github.com/coronasafe/life/pull/54",
+      "text": "Merge pull request #1 from coronasafe/main"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

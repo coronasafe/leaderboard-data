@@ -406,6 +406,13 @@
       "time": "2023-05-25T10:37:19.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5524#issuecomment-1562676263",
       "text": "I would like to work on this issue @nihal467 Can you assign this issue to me?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5647",
+      "time": "2023-06-28T05:14:30Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5647",
+      "text": "Migrating to CareUI components in ResourceDetailsUpdate.tsx component"
     }
   ],
   "open_prs": [],

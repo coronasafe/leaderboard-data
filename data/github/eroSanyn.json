@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-03-23T10:43:27Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/telugu#2",
+      "time": "2020-03-23T10:43:27Z",
+      "link": "https://github.com/coronasafe/telugu/pull/2",
+      "text": "Updated Readme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/telugu#2",
+      "time": "2020-03-24T09:51:53Z",
+      "link": "https://github.com/coronasafe/telugu/pull/2",
+      "text": "Updated Readme"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

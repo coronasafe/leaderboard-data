@@ -5303,6 +5303,223 @@
       "time": "2022-05-12T06:31:57.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2303",
       "text": "changed title to  Treatment Plan / Treatment Summary"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2689",
+      "time": "2022-07-07T07:22:56Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2689",
+      "text": "Added an alert when no CSV file is uploaded in Upload External Results Page."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2746",
+      "time": "2022-06-23T07:51:11Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2746",
+      "text": "Added Loader in Patient Notes removed the text Loading"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2930",
+      "time": "2022-06-30T13:23:35Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2930",
+      "text": "Made Resource page responsive in Ipad"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2986",
+      "time": "2022-07-03T06:51:09Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2986",
+      "text": "Now discharged patients can not be assigned bed enabled bed history for preview "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3009",
+      "time": "2022-07-07T07:11:31Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3009",
+      "text": "Made the Ui of investigation tab responsive in mobile devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3110",
+      "time": "2022-09-08T13:36:54Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3110",
+      "text": "added seperate HL7 Monitor and ONVIF CAMERA  condiguration page "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3206",
+      "time": "2022-10-06T06:11:58Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3206",
+      "text": "Made all focus of input to green color in Critical Care Recorders"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3226",
+      "time": "2022-07-25T18:18:42Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3226",
+      "text": "Cannot use stock now before having sufficient stock in inventory management page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3322",
+      "time": "2022-09-25T03:35:55Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3322",
+      "text": "Made all graph of Patient Dashboard responsive in mobile devices "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3451",
+      "time": "2022-08-25T01:44:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3451",
+      "text": "made the search boxes aligned in patients page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3529",
+      "time": "2022-09-08T09:23:34Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3529",
+      "text": "Increased download button size in Patients page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3530",
+      "time": "2022-09-08T09:23:06Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3530",
+      "text": "Added a heading for Treatment section in Treatment summary"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3549",
+      "time": "2022-09-14T13:52:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3549",
+      "text": "Added a message while connecting through Doctor Connect through Whatsapp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3578",
+      "time": "2022-09-14T13:40:15Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3578",
+      "text": "Added icons to asset card in assetList"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3648",
+      "time": "2022-09-28T07:51:41Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3648",
+      "text": "Made the live feed responsive in samsung fold device"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3651",
+      "time": "2022-09-29T03:37:41Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3651",
+      "text": "added bell icon to Notification modal subscribe button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3680",
+      "time": "2022-10-04T13:40:46Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3680",
+      "text": "Made asset warranty card responsive in extreme small devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3691",
+      "time": "2022-10-03T04:37:41Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3691",
+      "text": "Added screen for extreme small devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3701",
+      "time": "2022-10-04T14:02:35Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3701",
+      "text": "Added a global hook to give screen width and height at any component and remove usage of useMediaquery hook"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3892",
+      "time": "2022-10-30T22:33:03Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3892",
+      "text": "Enhanced the Ui in Updates tab of a particular patient in tab devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3901",
+      "time": "2022-11-03T14:44:53Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3901",
+      "text": "Now facility icons are visible in mobile devices"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4149",
+      "time": "2022-11-29T12:59:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4149",
+      "text": "Made the adding cover image feature visible in mobile devices when there is no cover image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4149",
+      "time": "2022-12-08T18:36:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4149",
+      "text": "Made the adding cover image feature visible in mobile devices when there is no cover image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4281",
+      "time": "2022-12-15T13:51:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4281",
+      "text": "Added user details and time of archive in the more details modal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4426",
+      "time": "2023-02-08T13:12:00Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4426",
+      "text": "Migrated all Multilineinput component to textareaform field and inputlabel to field label in Daily Rounds component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4698",
+      "time": "2023-01-30T11:55:19Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4698",
+      "text": "Made neurological monitoring tab ui responsive in tab devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4698",
+      "time": "2023-02-02T03:23:51Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4698",
+      "text": "Made neurological monitoring tab ui responsive in tab devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5150",
+      "time": "2023-03-28T10:37:12Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5150",
+      "text": "added facility name in asset card"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5242",
+      "time": "2023-04-05T11:12:15Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5242",
+      "text": "Disabled Auto-copy of medicines to recovered patient discharge pop-up"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5274",
+      "time": "2023-04-07T15:01:26Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5274",
+      "text": "Fixed Malfunctioning of Patient category advance filter in patient tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5680",
+      "time": "2023-06-21T05:58:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5680",
+      "text": "Fixed the minor bug in CNS Filter location field"
     }
   ],
   "open_prs": [

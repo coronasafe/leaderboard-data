@@ -1,0 +1,42 @@
+{
+  "last_updated": "2020-04-02T19:37:41Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#229",
+      "time": "2020-04-02T19:37:41Z",
+      "link": "https://github.com/coronasafe/care/pull/229",
+      "text": "Update PatientConsultation model, Add migration file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#255",
+      "time": "2020-04-04T11:59:30Z",
+      "link": "https://github.com/coronasafe/care/pull/255",
+      "text": "Add ongoing medication field to PatientRegistration model"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#255",
+      "time": "2020-04-04T17:04:16Z",
+      "link": "https://github.com/coronasafe/care/pull/255",
+      "text": "Add ongoing medication field to PatientRegistration model"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#266",
+      "time": "2020-04-04T18:52:17Z",
+      "link": "https://github.com/coronasafe/care/pull/266",
+      "text": "Add filter for Patient List"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#266",
+      "time": "2020-04-06T06:05:10Z",
+      "link": "https://github.com/coronasafe/care/pull/266",
+      "text": "Add filter for Patient List"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

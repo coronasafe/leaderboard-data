@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-04-08T00:36:31Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2223",
+      "time": "2022-04-08T00:36:31Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2223",
+      "text": "Improve Login Redirect, issue #2222"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2223",
+      "time": "2022-04-11T16:59:36Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2223",
+      "text": "Improve Login Redirect, issue #2222"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-12-29T10:58:41Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/fizzbuzz#1",
+      "time": "2021-12-29T10:58:41Z",
+      "link": "https://github.com/coronasafe/fizzbuzz/pull/1",
+      "text": "create fizzbizz program"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/fizzbuzz#1",
+      "time": "2021-12-29T11:03:37Z",
+      "link": "https://github.com/coronasafe/fizzbuzz/pull/1",
+      "text": "create fizzbizz program"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

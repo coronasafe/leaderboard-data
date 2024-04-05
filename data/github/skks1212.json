@@ -1,6 +1,239 @@
 {
-  "last_updated": "2024-03-22T12:49:11+00:00",
+  "last_updated": "2024-04-04T14:18:21+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma#430",
+      "time": "2024-04-04T14:18:21+00:00",
+      "link": "https://github.com/coronasafe/ayushma/issues/430",
+      "text": "Enhance Error Messaging by Specifying Failure in STT, TTS, or LLM Components"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2042",
+      "time": "2024-04-01T17:51:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2042",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "vigneshhari",
+        "rithviknishad",
+        "gigincg",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2041",
+      "time": "2024-04-01T17:51:04+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2041",
+      "text": "Staging release for v24.14.0",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "vigneshhari",
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "Omkar76",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#404",
+      "time": "2024-03-30T10:18:02+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/404",
+      "text": "Updated symlinks, added scripts, updated readme",
+      "turnaround_time": 85823
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#404",
+      "time": "2024-03-30T09:59:49+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/404#issuecomment-2027997558",
+      "text": "@bodhish @rithviknishad ready to review"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7489",
+      "time": "2024-03-28T16:56:32+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7489",
+      "text": "Hotfix: Staging Release for v24.14.0",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2032",
+      "time": "2024-03-28T16:56:21+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2032",
+      "text": "Hotfix: Staging Release for v24.14.0",
+      "collaborated_with": [
+        "sainak",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7461",
+      "time": "2024-03-28T16:45:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7461",
+      "text": "Added consent form to patient consultation",
+      "turnaround_time": 23426
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7461",
+      "time": "2024-03-28T16:45:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7461",
+      "text": "Added consent form to patient consultation",
+      "collaborated_with": [
+        "khavinshankar",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-28T14:16:27+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006",
+      "text": "Added consent records to patient consultation",
+      "turnaround_time": 14540
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-28T14:16:27+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006",
+      "text": "Added consent records to patient consultation",
+      "collaborated_with": [
+        "sainak",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7461",
+      "time": "2024-03-28T10:49:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7461#issuecomment-2024897695",
+      "text": "@Ashesh3 Fixed the vite issue\r\nFor some reason husky just fails on my machine, thus the linting issues. Can you run the lint for me if it fails again \ud83d\ude05"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-28T09:26:28+00:00",
+      "title": "coronasafe/ayushma#493",
+      "link": "https://github.com/coronasafe/ayushma/pull/493#pullrequestreview-1965582574",
+      "text": "Add Support for Care Scribe Transcription and AI Completion Routes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#262",
+      "time": "2024-03-27T12:19:17+00:00",
+      "link": "https://github.com/coronasafe/ayushma/issues/262#issuecomment-2022631280",
+      "text": "@Ashesh3 @mukul-oo7 yes this has to be done in the Readme file. Some have already been included"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-26T16:49:20+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006#issuecomment-2020969044",
+      "text": "@sainak can you review"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T16:49:07+00:00",
+      "title": "coronasafe/care#2006",
+      "link": "https://github.com/coronasafe/care/pull/2006#pullrequestreview-1961121000",
+      "text": "Added consent records to patient consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T16:44:34+00:00",
+      "title": "coronasafe/care#2006",
+      "link": "https://github.com/coronasafe/care/pull/2006#pullrequestreview-1961110046",
+      "text": "Added consent records to patient consultation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#404",
+      "time": "2024-03-26T10:27:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/404",
+      "text": "Updated symlinks, added scripts, updated markdown"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7460",
+      "time": "2024-03-24T09:57:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7460#issuecomment-2016755806",
+      "text": "@saloni0419 I stumbled upon this trying to commit to my PR. Don't remember any special steps I took"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7460",
+      "time": "2024-03-23T10:53:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7460#issuecomment-2016448483",
+      "text": "@saloni0419 Sure. See if you can replicate it first"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7461",
+      "time": "2024-03-23T10:23:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7461",
+      "text": "Added consent form to patient consultation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7460",
+      "time": "2024-03-23T10:17:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7460",
+      "text": "Eslint error in husky"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-23T10:14:06+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006",
+      "text": "Added consent records to patient consultation"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#2004",
@@ -7155,8 +7388,246 @@
       "time": "2022-05-17T18:04:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2313",
       "text": "Updated Rhythm View to table for easy access and efficiency"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2758",
+      "time": "2022-07-07T07:12:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2758",
+      "text": "Change in camera UI, is now inside the player"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2793",
+      "time": "2022-07-07T07:10:31Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2793",
+      "text": "Replaced existing medication with history of present illness "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3026",
+      "time": "2022-07-07T06:19:14Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3026",
+      "text": "Added pointer cursor to inventory list item and changed name to inventory manager"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3028",
+      "time": "2022-07-07T06:37:55Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3028",
+      "text": "Added icons for facility features"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3031",
+      "time": "2022-07-07T07:35:00Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3031",
+      "text": "remove profile button, shifted link to user at bottom"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3033",
+      "time": "2022-07-07T08:05:34Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3033",
+      "text": "Made layout margins consistent"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3109",
+      "time": "2022-08-25T03:45:08Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3109",
+      "text": "Fix Help Button in User create page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3352",
+      "time": "2022-08-25T04:15:34Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3352",
+      "text": "Made waveform smoother"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3363",
+      "time": "2022-08-25T03:49:20Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3363",
+      "text": "Made upload button responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3364",
+      "time": "2022-09-21T14:50:07Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3364",
+      "text": "Made preview buttons look better"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3431",
+      "time": "2022-08-25T01:45:40Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3431",
+      "text": "Change heading from Hemodynamic Parameters to Vitals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3434",
+      "time": "2022-08-25T01:45:18Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3434",
+      "text": "Renamed \"create investigation button\" to \"log lab result\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3439",
+      "time": "2022-09-21T16:25:41Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3439",
+      "text": "Added new dosage units"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3440",
+      "time": "2022-09-01T08:37:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3440",
+      "text": "Renamed Advice to General Instructions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3487",
+      "time": "2022-09-08T09:33:57Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3487",
+      "text": "Fixed badge gaps and padding, also made changes to assets block"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3500",
+      "time": "2022-09-08T10:08:55Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3500",
+      "text": "Added Investigation Suggestions to Consultation Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3622",
+      "time": "2022-09-27T07:45:58Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3622",
+      "text": "Fixed patient buttons"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3771",
+      "time": "2022-10-27T05:13:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3771",
+      "text": "Changed asset page layout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3853",
+      "time": "2022-11-03T15:54:26Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3853",
+      "text": "Login page revamp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4635",
+      "time": "2023-02-02T03:15:36Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4635",
+      "text": "Revised sidebar indicator animation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4706",
+      "time": "2023-01-31T07:31:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4706",
+      "text": "Added more search parameters for asset list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5261",
+      "time": "2023-04-07T09:04:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5261",
+      "text": "Fixed oxygen support option in respiratory support"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5317",
+      "time": "2023-04-11T03:23:00Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5317",
+      "text": "Added Medicine Administration Record"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#874",
+      "time": "2022-07-03T19:22:25Z",
+      "link": "https://github.com/coronasafe/care/pull/874",
+      "text": "Added features for facilities"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#901",
+      "time": "2022-07-07T14:51:29Z",
+      "link": "https://github.com/coronasafe/care/pull/901",
+      "text": "Added facility tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#942",
+      "time": "2022-07-25T18:00:49Z",
+      "link": "https://github.com/coronasafe/care/pull/942",
+      "text": "Added field for prn prescription"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1169",
+      "time": "2023-01-30T05:56:39Z",
+      "link": "https://github.com/coronasafe/care/pull/1169",
+      "text": "Fixed errors in asset config validation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1171",
+      "time": "2023-01-31T06:08:59Z",
+      "link": "https://github.com/coronasafe/care/pull/1171",
+      "text": "Added new search fields to asset viewset"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1171",
+      "time": "2023-02-01T19:24:59Z",
+      "link": "https://github.com/coronasafe/care/pull/1171",
+      "text": "Added new search fields to asset viewset"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1238",
+      "time": "2023-04-07T06:19:45Z",
+      "link": "https://github.com/coronasafe/care/pull/1238",
+      "text": "Added enum value for oxygen support in critical care"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#193",
+      "time": "2023-06-25T08:19:44Z",
+      "link": "https://github.com/coronasafe/ayushma/pull/193",
+      "text": "Adds a noonce to chat message to prevent duplication on failure"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1967",
+      "title": "Painscale changed from 0 - 5 to 0 - 10",
+      "stale_for": 5,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7380",
+      "title": "Updated Preview UIs and Changes to Painscale",
+      "stale_for": 2,
+      "labels": [
+        "waiting for backend",
+        "merge conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/2004",
+      "pr_link": "https://github.com/coronasafe/care/pull/2006"
+    }
+  ]
 }

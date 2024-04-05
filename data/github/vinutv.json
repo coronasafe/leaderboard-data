@@ -24,6 +24,20 @@
       "time": "2022-06-28T13:16:35.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/65",
       "text": "start styling graduate attribute profile card"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#281",
+      "time": "2020-05-16T21:50:08Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/281",
+      "text": "Sticky searchbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#281",
+      "time": "2020-05-17T07:34:54Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/281",
+      "text": "Sticky searchbar"
     }
   ],
   "open_prs": [],

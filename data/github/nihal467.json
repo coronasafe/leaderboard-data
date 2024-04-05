@@ -1,6 +1,510 @@
 {
-  "last_updated": "2024-03-22T14:42:04+00:00",
+  "last_updated": "2024-04-04T18:53:08+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7542",
+      "time": "2024-04-04T18:53:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7542",
+      "text": "Add subheading for user type in doctor connect"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7539",
+      "time": "2024-04-04T14:31:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7539",
+      "text": "fix date of birth responsiveness and age not shown in death report",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-04T14:29:48+00:00",
+      "title": "coronasafe/care_fe#7539",
+      "link": "https://github.com/coronasafe/care_fe/pull/7539#pullrequestreview-1980097060",
+      "text": "fix date of birth responsiveness and age not shown in death report"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#2052",
+      "time": "2024-04-04T13:46:15+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2052",
+      "text": "DOB and Age are missing in patient discharge summary"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7538",
+      "time": "2024-04-04T13:39:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7538",
+      "text": "Date of Domiciliary Care Commenced is missing in Treatment Summary"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7536",
+      "time": "2024-04-04T11:17:55+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7536",
+      "text": "Replace \"_\" in patient registration form for age field"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7535",
+      "time": "2024-04-04T10:45:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7535",
+      "text": "Add highlight for in-use preset in asset configure page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7534",
+      "time": "2024-04-04T10:39:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7534",
+      "text": "HL7 Vital Monitor error message is clipping out"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7345",
+      "time": "2024-04-03T10:35:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7345",
+      "text": "fix: Events(Beta) improvement",
+      "collaborated_with": [
+        "aeswibon"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7345",
+      "time": "2024-04-03T10:32:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7345#issuecomment-2034196931",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7528",
+      "time": "2024-04-03T09:28:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7528#issuecomment-2034034798",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7499",
+      "time": "2024-04-03T08:18:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7499",
+      "text": "Add Cypress test to patient file upload",
+      "collaborated_with": [
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-04-03T02:13:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411",
+      "text": "Add Age field in patient registration",
+      "collaborated_with": [
+        "rash-27",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T21:11:35+00:00",
+      "title": "coronasafe/care_fe#7499",
+      "link": "https://github.com/coronasafe/care_fe/pull/7499#pullrequestreview-1975038361",
+      "text": "Add Cypress test to patient file upload"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7492",
+      "time": "2024-04-02T19:08:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7492#issuecomment-2032854992",
+      "text": "@MjStar24 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/8d5506d7-f069-4c0d-bfe8-68dd758f9869)\r\n\r\n- [ ] This pop-up should be in the middle of the page as current behavior \r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T18:18:02+00:00",
+      "title": "coronasafe/care_fe#7411",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#pullrequestreview-1974596962",
+      "text": "Add Age field in patient registration"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7471",
+      "time": "2024-04-02T16:54:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7471",
+      "text": "Implemented responsive design for approval letter in resource",
+      "collaborated_with": [
+        "soumya-maheshwari"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7471",
+      "time": "2024-04-02T16:52:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7471#issuecomment-2032569163",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7438",
+      "time": "2024-04-02T16:47:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7438#issuecomment-2032560430",
+      "text": "@r-nikhilkumar \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/9abb0374-e25c-4fdc-8e2c-a7eff2aeaec0)\r\n\r\nthe deploy build is failing fix it"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7381",
+      "time": "2024-04-02T16:40:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7381",
+      "text": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7381",
+      "time": "2024-04-02T15:54:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7381#issuecomment-2032438220",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-04-02T15:46:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#issuecomment-2032421538",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/89fb5457-c8bd-48c0-9382-943c670551b0)\r\n\r\n@UdaySagar-Git the build is failing due to type error , fix it"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7469",
+      "time": "2024-04-02T13:43:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7469",
+      "text": "Perform type checks during build and fix all errors",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7469",
+      "time": "2024-04-02T11:12:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7469#issuecomment-2031728278",
+      "text": "lgtm"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7321",
+      "time": "2024-04-02T10:09:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7321#issuecomment-2031599670",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/7aaea14a-8d2c-4db8-b623-d6cd1e23a985)\r\n\r\n@ab1123 the switching tab UI is breaking in normal desktop view"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7359",
+      "time": "2024-04-02T10:00:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7359#issuecomment-2031579527",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7515",
+      "time": "2024-04-01T11:36:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7515",
+      "text": "Fix invalid page title while rendering consent form",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7514",
+      "time": "2024-04-01T11:36:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7514",
+      "text": "Fix invalid page title while rendering consent form",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T11:34:39+00:00",
+      "title": "coronasafe/care_fe#7515",
+      "link": "https://github.com/coronasafe/care_fe/pull/7515#pullrequestreview-1971116510",
+      "text": "Fix invalid page title while rendering consent form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T11:34:36+00:00",
+      "title": "coronasafe/care_fe#7514",
+      "link": "https://github.com/coronasafe/care_fe/pull/7514#pullrequestreview-1971116451",
+      "text": "Fix invalid page title while rendering consent form"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7515",
+      "time": "2024-04-01T10:19:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7515#issuecomment-2029535696",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7504",
+      "time": "2024-04-01T09:12:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7504#issuecomment-2029454893",
+      "text": "@MjStar24 I am closing this PR for the following reasons:\r\n\r\n- It's an EPIC issue, intended for creating sub-issues to be assigned to individuals.\r\n- You've submitted a PR that only covers the headings of the sub-issues without addressing any related activities.\r\n- The Cypress tests themselves are failing.\r\n\r\n**Recommended Method**: Comment on the issue specifying which part of the EPIC issue you want to work on, have the core team create the sub-issue, and only then proceed with your work on the PR."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2003",
+      "time": "2024-03-31T21:58:40+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2003#issuecomment-2028918572",
+      "text": "it is resolved"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#2003",
+      "time": "2024-03-31T21:58:40+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2003",
+      "text": "Clear entries from the search index if they are not in db anymore"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7461",
+      "time": "2024-03-28T16:45:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7461",
+      "text": "Added consent form to patient consultation",
+      "collaborated_with": [
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-27T17:57:25+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006#issuecomment-2023436762",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7136",
+      "time": "2024-03-27T15:43:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136",
+      "text": "Extend Update Log to bottom of the screen",
+      "collaborated_with": [
+        "thedevildude",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-27T15:37:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449",
+      "text": "edit padding in shifting board and resource board pages in mobile screen",
+      "collaborated_with": [
+        "soumya-maheshwari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-27T15:36:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448",
+      "text": "added toast messages on facility and skills dialog",
+      "collaborated_with": [
+        "soumya-maheshwari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7198",
+      "time": "2024-03-27T15:35:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7198",
+      "text": "Improving Doctor Connect UI",
+      "collaborated_with": [
+        "rithviknishad",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-27T10:58:40+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006#issuecomment-2022480690",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care/assets/57055998/d3cd17ca-b243-43ac-88ed-ff4446ad9f5f)\r\n\r\nthe still exist when we are creating a new consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7461",
+      "time": "2024-03-27T08:09:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7461#issuecomment-2022170356",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/31677bca-1b42-4503-8b19-509b3c31dde2)\r\n\r\nunable to upload the consent file in the patient consultation file"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-27T08:08:36+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006#issuecomment-2022169147",
+      "text": "![image](https://github.com/coronasafe/care/assets/57055998/fdbca5fb-9d02-4b2c-86d4-d681a76c500a)\r\n\r\nthe PR is not working , unable to upload the consent file"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-26T21:49:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2021532618",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7440",
+      "time": "2024-03-26T21:45:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#issuecomment-2021527839",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/da635c75-85b6-46da-9cca-e5544d08d883)\r\n\r\n@MjStar24 when we are viewing the cns page of a facility, its crashing and showing a white page."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-26T21:43:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449#issuecomment-2021525656",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-26T21:42:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2021523974",
+      "text": "@Spiral-Memory \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/39a04fde-61f3-45e0-a6b5-1c6a7900d34d)\r\n\r\n- [ ] When you go to a patient consultation page and click on the \"Files\" options in the navigation bar, you will see Chrome asking the user to allow the use of the mic. This shouldn't be the case. It is expected to ask the user for mic permission only when they click on the record button in the \"Files\" section."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1966",
+      "time": "2024-03-26T21:36:32+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1966#issuecomment-2021516397",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-26T18:52:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448#issuecomment-2021234929",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7198",
+      "time": "2024-03-26T18:40:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7198#issuecomment-2021210255",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7136",
+      "time": "2024-03-26T18:35:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136#issuecomment-2021198845",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T18:26:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322",
+      "text": "Replace age field with DOB while Updating User",
+      "collaborated_with": [
+        "khavinshankar",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "GokulramGHV",
+        "Spiral-Memory",
+        "gigincg",
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6901",
+      "time": "2024-03-26T17:08:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#issuecomment-2021009958",
+      "text": "@thedevildude \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/856af797-afbf-4289-9caa-4eb684aa9aa1)\r\n\r\nhide the \"No asset linked\" , only show details about asset, if anything is linked"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7443",
+      "time": "2024-03-26T17:00:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7443#issuecomment-2020991845",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:59:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020504879",
+      "text": "@rash-27 dont push the changes, @rithviknishad is pushing it\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:54:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020493863",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/bd303821-a713-43d8-84c7-b5d73295c405)\r\n\r\nkeep the reflection in DD/MM/YYYY"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:50:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020484370",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/acda954d-7064-45bd-a456-42a87b1c786b)\r\n\r\nadd a '*' to the DOB field"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:49:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020482672",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/dd2cae45-30db-4820-985f-aa8e8967ac11)\r\n\r\n@rithviknishad keep the same error same, don't change it, as it is more specific "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T13:48:51+00:00",
+      "title": "coronasafe/care_fe#7322",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#pullrequestreview-1960461538",
+      "text": "Replace age field with DOB while Updating User"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7476",
+      "time": "2024-03-26T11:52:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7476",
+      "text": "Cypress Test | Critical Care"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7275",
+      "time": "2024-03-26T07:20:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#issuecomment-2019549743",
+      "text": "LGTM and cypress is also passing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7472",
+      "time": "2024-03-25T15:11:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7472#issuecomment-2018235101",
+      "text": "LGTM, the cypress is excepted due to baclend failure"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7446",
@@ -32537,8 +33041,94 @@
       "time": "2022-05-25T15:18:16.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2402#issuecomment-1137427126",
       "text": "@cp-Coder @gigincg can you the conflicting file "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5603",
+      "time": "2023-06-06T07:16:46Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5603",
+      "text": "Cypress Test - Create Consultation For a new patient "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5643",
+      "time": "2023-06-10T02:11:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5643",
+      "text": "Fix Cypress Random Failure"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5738",
+      "time": "2023-06-27T02:13:17Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5738",
+      "text": "Asset Cypress : POM Approach"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5787",
+      "time": "2023-06-27T16:18:38Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5787",
+      "text": "Cypress Test | Facility Creation & Updation | POM Approach"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5787",
+      "time": "2023-06-27T17:32:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5787",
+      "text": "Cypress Test | Facility Creation & Updation | POM Approach"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6589",
+      "time": "2023-11-11T06:19:08Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6589",
+      "text": "Syncing package-lock with package.json for cypress"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6589",
+      "time": "2023-11-11T06:30:12Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6589",
+      "text": "Syncing package-lock with package.json for cypress"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6979",
+      "time": "2024-01-09T05:41:13Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6979",
+      "text": "New Cypress Test | Facility Inventory Management | Facility Module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7246",
+      "time": "2024-02-21T19:07:23Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7246",
+      "text": "New Cypress Test | All Combination of Patient Consultation Creation | Patient Consultation Module (#7165)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7246",
+      "time": "2024-02-26T04:02:04Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7246",
+      "text": "New Cypress Test | All Combination of Patient Consultation Creation | Patient Consultation Module (#7165)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7279",
+      "time": "2024-02-27T02:08:42Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7279",
+      "text": "Modified Cypress Test | Facility delete test | Facility Module "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7476",
+      "title": "Cypress Test | Critical Care",
+      "stale_for": 1,
+      "labels": [
+        "stale"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

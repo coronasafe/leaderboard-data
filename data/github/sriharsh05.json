@@ -335,7 +335,7 @@
       "title": "coronasafe/care_fe#7036",
       "time": "2024-01-15T14:08:54.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7036",
-      "text": "\ud83d\udee0\ufe0f Replace useDispatch w. useQuery/request: Facility (Part 3, I-Z) (src/Components/Facility/[I-Z]*.tsx)"
+      "text": "🛠️ Replace useDispatch w. useQuery/request: Facility (Part 3, I-Z) (src/Components/Facility/[I-Z]*.tsx)"
     },
     {
       "type": "comment_created",
@@ -1011,6 +1011,62 @@
       "time": "2023-09-29T14:15:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6371#issuecomment-1740965721",
       "text": "I want to work on this issue."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6479",
+      "time": "2023-11-07T11:24:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6479",
+      "text": "change the NIBP display from last 30 mins to current bed assignment date"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6535",
+      "time": "2023-11-07T03:58:01Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6535",
+      "text": "Remove redundant facility selection pop-up for single facility users"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7041",
+      "time": "2024-01-16T04:26:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7216",
+      "time": "2024-02-28T04:16:35Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7216",
+      "text": "Replace useDispatch with useQuery and request in PatientRegistration form."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#201",
+      "time": "2024-01-09T18:11:07Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/201",
+      "text": "Fixed commit message overflow in feed."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#202",
+      "time": "2024-01-09T12:35:42Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/202",
+      "text": "Made last week highlights of a contributor visible in light theme."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#202",
+      "time": "2024-01-09T18:10:37Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/202",
+      "text": "Made last week highlights of a contributor visible in light theme."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1808",
+      "time": "2024-01-16T14:49:47Z",
+      "link": "https://github.com/coronasafe/care/pull/1808",
+      "text": "Added new routes in prescription"
     }
   ],
   "open_prs": [],

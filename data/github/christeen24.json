@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-10-02T07:57:30Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#753",
+      "time": "2020-10-02T07:57:30Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/753",
+      "text": "Rename \"Contact person name\" to \"Contact person at the facility\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#753",
+      "time": "2020-10-02T11:39:51Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/753",
+      "text": "Rename \"Contact person name\" to \"Contact person at the facility\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

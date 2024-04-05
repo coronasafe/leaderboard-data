@@ -91,6 +91,13 @@
       "time": "2023-10-04T05:41:11.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6392#issuecomment-1746172400",
       "text": "Hi can you please assign me this issue?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6543",
+      "time": "2023-11-07T11:27:36Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6543",
+      "text": "Replace useDispatch w. useQuery/request: Notifications (src/Components/Notifications/**) #6392"
     }
   ],
   "open_prs": [],

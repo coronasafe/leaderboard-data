@@ -1,6 +1,68 @@
 {
-  "last_updated": "2024-03-20T08:30:00+00:00",
+  "last_updated": "2024-04-01T17:04:28+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2025",
+      "time": "2024-03-28T05:10:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2025",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "Omkar76",
+        "sainak",
+        "rash-27",
+        "itxsoumya",
+        "aeswibon",
+        "vigneshhari",
+        "krassowska",
+        "AnkurPrabhu",
+        "Ashesh3",
+        "rithviknishad",
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "nihal467",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "Spiral-Memory",
+        "gigincg",
+        "r-nikhilkumar"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7441",
@@ -668,7 +730,7 @@
       "title": "coronasafe/ayushma#299",
       "time": "2023-09-04T12:55:45.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/299#issuecomment-1705227256",
-      "text": "@Ashesh3 Also thanks for making this PR. I didn't see bodhi's review on my PR \ud83d\ude05"
+      "text": "@Ashesh3 Also thanks for making this PR. I didn't see bodhi's review on my PR 😅"
     },
     {
       "type": "comment_created",
@@ -1425,7 +1487,7 @@
       "title": "coronasafe/care_fe#5061",
       "time": "2023-03-13T08:41:28.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5061",
-      "text": "Replaced MUI modal with custom DialogModal Component in AssetImportMo\u2026"
+      "text": "Replaced MUI modal with custom DialogModal Component in AssetImportMo…"
     },
     {
       "type": "pr_merged",
@@ -1439,7 +1501,7 @@
       "title": "coronasafe/care_fe#5058",
       "time": "2023-03-13T08:31:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5058",
-      "text": "Removed material UI Icons and replaced with Care Icons in GLocationPi\u2026"
+      "text": "Removed material UI Icons and replaced with Care Icons in GLocationPi…"
     },
     {
       "type": "pr_collaborated",
@@ -1471,7 +1533,7 @@
       "title": "coronasafe/care_fe#5061",
       "time": "2023-03-08T05:32:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5061",
-      "text": "Replaced MUI modal with custom DialogModal Component in AssetImportMo\u2026"
+      "text": "Replaced MUI modal with custom DialogModal Component in AssetImportMo…"
     },
     {
       "type": "pr_opened",
@@ -1485,7 +1547,7 @@
       "title": "coronasafe/care_fe#5058",
       "time": "2023-03-08T04:24:21.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5058",
-      "text": "Removed material UI Icons and replaced with Care Icons in GLocationPi\u2026"
+      "text": "Removed material UI Icons and replaced with Care Icons in GLocationPi…"
     },
     {
       "type": "pr_collaborated",
@@ -1954,7 +2016,7 @@
       "title": "coronasafe/care_fe#3819",
       "time": "2022-11-05T17:13:27.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3819#issuecomment-1304593360",
-      "text": "> @GokulramGHV I meant for the DropdownItem, not the menu button \ud83d\ude05. \n> ![image](https://user-images.githubusercontent.com/25143503/200132087-ea70f2d2-5151-43c1-8714-8c55b349d42b.png)\n> \n\nOh sorry my bad \ud83d\ude05"
+      "text": "> @GokulramGHV I meant for the DropdownItem, not the menu button 😅. \n> ![image](https://user-images.githubusercontent.com/25143503/200132087-ea70f2d2-5151-43c1-8714-8c55b349d42b.png)\n> \n\nOh sorry my bad 😅"
     },
     {
       "type": "comment_created",
@@ -2936,8 +2998,189 @@
       "time": "2022-05-17T18:05:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2328",
       "text": "Renamed the page heading  from 'Covid Suspect Details' to 'Patient Details'"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2488",
+      "time": "2022-09-01T09:00:17Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2488",
+      "text": "Fixed improper pagination padding in external results page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2767",
+      "time": "2022-06-23T07:48:03Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2767",
+      "text": "Removed the Tracing and Testing sections from the 'Patient Details' Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3008",
+      "time": "2022-07-07T07:11:04Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3008",
+      "text": "Made the features field non mandatory in facility create"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3020",
+      "time": "2022-07-06T07:04:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3020",
+      "text": "Renamed the page title from 'Covid Suspect Details' to 'Patient Details'."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3225",
+      "time": "2022-07-25T16:06:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3225",
+      "text": "Improved UX in file upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3295",
+      "time": "2022-09-08T10:39:19Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3295",
+      "text": "Fix: Patient Tab Unresponsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3490",
+      "time": "2022-09-08T09:31:34Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3490",
+      "text": "Made Bed No. Badges Consistent"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3533",
+      "time": "2022-09-21T14:49:52Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3533",
+      "text": "Redesigned minQtyList"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3611",
+      "time": "2022-09-21T14:46:47Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3611",
+      "text": "Fixed User Management Pagination"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3613",
+      "time": "2022-10-06T03:21:54Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3613",
+      "text": "Revamped medicines section of the patient dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3643",
+      "time": "2022-10-04T12:28:40Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3643",
+      "text": "Made 'Treatment Summary' page responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3707",
+      "time": "2022-10-04T13:45:14Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3707",
+      "text": "Fix: audit log alignment on shifting details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5166",
+      "time": "2023-03-28T10:39:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5166",
+      "text": "Replaced MUI components in `src/Components/Shifting/ListView.tsx.tsx`"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5267",
+      "time": "2023-04-07T10:39:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5267",
+      "text": "Removed respiratory support badge when it is none"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5267",
+      "time": "2023-04-07T13:05:53Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5267",
+      "text": "Removed respiratory support badge when it is none"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5760",
+      "time": "2023-06-28T06:43:55Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5760",
+      "text": "Fixed: Use stock adds to stock quantity instead of subracting from quantity"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5794",
+      "time": "2023-06-28T08:03:50Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5794",
+      "text": "Fixed overflow and wrapping in vitals monitor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6565",
+      "time": "2024-03-19T06:47:12Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6565",
+      "text": "Add titrated prescription dosage type"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6674",
+      "time": "2023-11-20T15:08:11Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6674",
+      "text": "Rearranging buttons in the Patient consultation page"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1742",
+      "title": "Display users list based on user access limitation",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6656",
+      "title": "Remove default ordering value",
+      "stale_for": 69,
+      "labels": [
+        "tested",
+        "waiting for backend",
+        "reviewed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1718",
+      "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
+      "stale_for": 2,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1208",
+      "pr_link": "https://github.com/coronasafe/care/pull/1209"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4534",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4535"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4375",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4796"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3705",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3707"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/2486",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/2488"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/2403",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/2474"
+    }
+  ]
 }

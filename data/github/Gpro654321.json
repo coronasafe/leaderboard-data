@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-22T06:02:57+00:00",
+  "last_updated": "2024-03-26T07:46:26+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1388",
+      "time": "2024-03-26T07:46:26+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1388#issuecomment-2019609086",
+      "text": "Hi,\r\nI am new to open source contributions, But have made small django pet projects. \r\nCan I work on adding tests ? Could you please guide on the way?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#664",

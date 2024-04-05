@@ -1,6 +1,126 @@
 {
-  "last_updated": "2024-03-22T20:10:49+00:00",
+  "last_updated": "2024-04-01T17:04:28+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2031",
+      "time": "2024-03-28T15:04:09+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2031#issuecomment-2025447248",
+      "text": "Can o work on this?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2025",
+      "time": "2024-03-28T05:10:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2025",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "Omkar76",
+        "sainak",
+        "rash-27",
+        "itxsoumya",
+        "aeswibon",
+        "vigneshhari",
+        "krassowska",
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV",
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2024",
+      "time": "2024-03-27T19:22:46+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2024#issuecomment-2023794443",
+      "text": "@sainak ptal, shoud i add tests for other places as well ?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2024",
+      "time": "2024-03-27T19:21:59+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2024",
+      "text": "adding configurable backend"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-26T20:09:04+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2021371940",
+      "text": "@sainak i have made the custom backend for sns, you want me to add tests as well and replace current send_sms also ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-03-26T15:57:17+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-2020823670",
+      "text": "@sainak @nihal467  there were some merge conflicts due to recent db changes made by @rithviknishad I have now rebased it but can we get this tested ?\r\nas the changes are in a lot of models and can conflict frequently with other branches  \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-25T16:04:36+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2018358942",
+      "text": "can you also assign it to me \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-25T16:04:10+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2018358007",
+      "text": "@sainak i want to know what is the expected output here "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-25T06:21:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-2017307995",
+      "text": "lets close this issue @rithviknishad "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-24T16:30:33+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959",
+      "text": "[BUG] fix Location/ Bed Management issue ( District Lab Admin Account)",
+      "turnaround_time": 313
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-23T09:05:09+00:00",
+      "title": "coronasafe/care#1940",
+      "link": "https://github.com/coronasafe/care/pull/1940#pullrequestreview-1956347630",
+      "text": "Add created_by and updated_by fields to base model"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/teleicu_middleware#64",
+      "time": "2024-03-23T05:44:32+00:00",
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/64#issuecomment-2016363827",
+      "text": "@gigincg  can you explain the issue as in what kind of data. \r\nwe currently have a scheduled job for storing observation data so what do we want to store here ?\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1840",
@@ -330,7 +450,7 @@
       "title": "coronasafe/care_fe#7288",
       "time": "2024-02-29T15:33:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971395852",
-      "text": "Yes I am\r\n\r\nOn Thu, 29 Feb 2024, 20:53 Arnit Gupta, ***@***.***> wrote:\r\n\r\n> Hi!\r\n> Is there anyone working on this issue?\r\n> If not may i proceed with the task?\r\n>\r\n> \u2014\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971374292>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/AUPCOKCK6HQAHAMN7GEAOYDYV5DXJAVCNFSM6AAAAABD3Y2NZ2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSNZRGM3TIMRZGI>\r\n> .\r\n> You are receiving this because you were assigned.Message ID:\r\n> ***@***.***>\r\n>\r\n"
+      "text": "Yes I am\r\n\r\nOn Thu, 29 Feb 2024, 20:53 Arnit Gupta, ***@***.***> wrote:\r\n\r\n> Hi!\r\n> Is there anyone working on this issue?\r\n> If not may i proceed with the task?\r\n>\r\n> —\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971374292>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/AUPCOKCK6HQAHAMN7GEAOYDYV5DXJAVCNFSM6AAAAABD3Y2NZ2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSNZRGM3TIMRZGI>\r\n> .\r\n> You are receiving this because you were assigned.Message ID:\r\n> ***@***.***>\r\n>\r\n"
     },
     {
       "type": "comment_created",
@@ -342,15 +462,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1959",
-      "title": "[BUG] fix Location/ Bed Management issue ( District Lab Admin Account)",
-      "stale_for": 0,
+      "link": "https://github.com/coronasafe/care/pull/2024",
+      "title": "add support for configurable sms backend",
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1940",
       "title": "Add created_by and updated_by fields to base model",
-      "stale_for": 0,
+      "stale_for": 6,
       "labels": []
     }
   ],

@@ -1,6 +1,34 @@
 {
-  "last_updated": "2024-03-22T13:32:52+00:00",
+  "last_updated": "2024-04-01T16:27:29+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#387",
+      "time": "2024-04-01T16:27:29+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/387#issuecomment-2030104396",
+      "text": "@rithviknishad fixed conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#387",
+      "time": "2024-03-30T13:56:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/387#issuecomment-2028078056",
+      "text": "@bodhish I have already added this change in preivious commit [9fbcd78](https://github.com/coronasafe/leaderboard/pull/387/commits/9fbcd78dbdd0e5cddf0c5afed410f3850a80bd7d)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#387",
+      "time": "2024-03-29T17:47:42+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/387#issuecomment-2027541811",
+      "text": "@rithviknishad Is this fine?\r\n\r\n![Screenshot from 2024-03-29 23-14-32](https://github.com/coronasafe/leaderboard/assets/101321276/7022d8f6-6dff-4207-a7fb-0d9f0be8103f)\r\n\r\n![Screenshot from 2024-03-29 23-14-39](https://github.com/coronasafe/leaderboard/assets/101321276/b786b07b-ff8b-486f-8123-a0dc05a94859)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-23T07:22:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-2016392615",
+      "text": "@rithviknishad tooltip shows when you hover on top part of image\r\n\r\n![Screenshot from 2024-03-23 12-46-50](https://github.com/coronasafe/care_fe/assets/101321276/9dcd4c21-2e76-47aa-b046-1c1edbc9ea38)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7315",
@@ -348,7 +376,7 @@
       "title": "coronasafe/care_fe#6876",
       "time": "2023-12-19T15:26:26.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6876#issuecomment-1862979545",
-      "text": "Sure, no problem \ud83d\ude42"
+      "text": "Sure, no problem 🙂"
     },
     {
       "type": "comment_created",
@@ -1188,27 +1216,52 @@
       "time": "2023-07-15T17:39:37.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5877#issuecomment-1636837919",
       "text": "Is someone already working on this issue?, if not can you assign it to me"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6497",
+      "time": "2023-11-07T11:28:49Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6497",
+      "text": "Added LiveFeedScreen page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6675",
+      "time": "2023-11-20T18:09:30Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6675",
+      "text": "showing errors on wrong numbers in PhoneNumberFormField"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7235",
+      "time": "2024-02-28T04:14:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7235",
+      "text": "removed unused filters from notifications slideover"
     }
   ],
   "open_prs": [
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/387",
       "title": "hidden leaderboard filters in mobile view",
-      "stale_for": 8,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "changes required",
+        "merge conflict"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7315",
       "title": "Rearranged facility home layout",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "changes required"
+        "changes required",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1868",
       "title": "added user type check before creating new asset",
-      "stale_for": 9,
+      "stale_for": 19,
       "labels": []
     }
   ],

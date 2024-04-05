@@ -443,6 +443,13 @@
       "time": "2023-05-23T11:03:07.000Z",
       "link": "https://github.com/coronasafe/care/pull/1310",
       "text": "optimized the query performed to fetch skills in UserAssignedSerializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1328",
+      "time": "2023-06-08T23:43:06Z",
+      "link": "https://github.com/coronasafe/care/pull/1328",
+      "text": "Delete notifications older than 90 days"
     }
   ],
   "open_prs": [],

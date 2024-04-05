@@ -1,6 +1,104 @@
 {
-  "last_updated": "2024-03-21T10:04:27+00:00",
+  "last_updated": "2024-04-03T03:40:58+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-04-03T03:40:58+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2033472561",
+      "text": "Ok i will try when i am free"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#421",
+      "time": "2024-04-03T01:24:35+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/421#issuecomment-2033374367",
+      "text": "I am busy for 2 weeks and will only be available to solve this issue after these 2 weeks. So anyone who is willing to solve this issue in these 2 weeks are welcome."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#421",
+      "time": "2024-04-03T01:22:33+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/421",
+      "text": "Optimizing /people route"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-04-03T01:12:11+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2033364876",
+      "text": "Also in the new feature added to people the image is being fetched twice once for page and once for hover card. Since hover card is only required when hovered, dynamic loading can be used to solve this issue. I am busy for 2 weeks so i can only work on this after 2 weeks. If anyone will be willing to do this, this issue is up for grabs."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-04-03T01:05:18+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2033359650",
+      "text": "I tried to merge this branch with main but i am getting this error\n\u2a2f The requested resource isn't a valid image for /logo.webp received text/html; charset=utf-8\nImageError: The requested resource isn't a valid image.\nat imageOptimizer (/workspaces/leaderboard/node_modules/.pnpm/next@14.1.3_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/image-optimizer.js:635:19)\nat DevServer.imageOptimizer (/workspaces/leaderboard/node_modules/.pnpm/next@14.1.3_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:605:20)\nat processTicksAndRejections (node:internal/process/task_queues:95:5)\nat runNextTicks (node:internal/process/task_queues:64:3)\nat listOnTimeout (node:internal/timers:540:9)\nat process.processTimers (node:internal/timers:514:7)\nat async cacheEntry.imageResponseCache.get.incrementalCache (/workspaces/leaderboard/node_modules/.pnpm/next@14.1.3_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:179:65)\nat async /workspaces/leaderboard/node_modules/.pnpm/next@14.1.3_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/response-cache/index.js:90:36\nat async /workspaces/leaderboard/node_modules/.pnpm/next@14.1.3_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/lib/batcher.js:41:32 {\nstatusCode: 400\n}"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T16:25:37+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974332843",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T16:14:54+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974306642",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T15:49:17+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974246655",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T15:46:58+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974240928",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-04-01T07:18:25+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2029295840",
+      "text": "As long as the page is not generate using ISR or the page is static, this can be implemented."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-04-01T07:17:36+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2029294876",
+      "text": "As long as the page is not generate using ISR or the page is static, this can be implemented."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-03-30T14:30:18+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2028088499",
+      "text": "@rithviknishad the new commit should have fixed the issue. I have tested by deploying in vercel. \r\n![Screenshot (49)](https://github.com/coronasafe/leaderboard/assets/97937213/576de474-d7dd-4cb0-baa3-fbb41ac0b807)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-03-29T16:03:49+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2027424987",
+      "text": "@rithviknishad did it deploy successfully? Are any changes required?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-03-29T12:26:13+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2027178210",
+      "text": "@rithviknishad yes the nextjs image component does support blur itself but only for images inside the public folder(static images). For dynamic images, such as the github profile pictures, the documentation recommends using plaiceholder to generate the base64url for the blurDataUrl. If i am wrong, please let me know. As for the error, I am currently searching for a solution. Some github issues recommend redeploying without cache to remove the old sharp modules. This error did not exists while running a production build in my local machine."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#398",

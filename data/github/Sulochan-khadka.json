@@ -1,6 +1,293 @@
 {
-  "last_updated": "2024-03-21T01:48:30+00:00",
+  "last_updated": "2024-04-03T19:40:38+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7496",
+      "time": "2024-04-03T19:40:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7496#issuecomment-2035436623",
+      "text": "> Hey @Sulochan-khadka Could you resolve the merge conflict?\r\n\r\nYeah sure... I will do..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7531",
+      "time": "2024-04-03T12:50:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7531#issuecomment-2034519352",
+      "text": "hey @FarhanMig24 , a PR is already in review for this issue, thus . I guess you need to close this. As mentioned by @nihal467 , to avoid multiple PRs for the same issue, we are following the convention of \"getting assigned and then opening PR\". "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T12:29:42+00:00",
+      "title": "coronasafe/care_fe#7502",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#pullrequestreview-1976652221",
+      "text": "Issues/7501/adds-info-to-empty-records"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T12:26:10+00:00",
+      "title": "coronasafe/care_fe#7502",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#pullrequestreview-1976641311",
+      "text": "Issues/7501/empty list"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T12:19:05+00:00",
+      "title": "coronasafe/care_fe#7502",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#pullrequestreview-1976623356",
+      "text": "Issues/7501/empty list"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7525",
+      "time": "2024-04-02T12:54:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7525#issuecomment-2031969379",
+      "text": "Some of the features missing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7525",
+      "time": "2024-04-02T12:33:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7525",
+      "text": "Issues/7382/inline autocomplete"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T11:28:12+00:00",
+      "title": "coronasafe/care_fe#7502",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#pullrequestreview-1973479557",
+      "text": "Issues/7501/empty list"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7382",
+      "time": "2024-04-01T04:47:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7382#issuecomment-2029151858",
+      "text": "> > > > Dear @Shahbaz898414 , kindly do not halt the solution to this issue. If you are stuck somewhere, let me know if I can help. Also if you want , I can give you the idea or rather the initial approach to solve this issue.\r\n> > > \r\n> > > \r\n> > > I apologize for the delay. Please grant me some additional time to work on this.\r\n> > \r\n> > \r\n> > Sure... No issues . Just let me know if you get stuck somewhere.\r\n> \r\n> bro can you provide your linkedin plz ?\r\n\r\nsure... www.linkedin.com/in/sulochan-khadka here you go..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7382",
+      "time": "2024-03-31T22:00:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7382#issuecomment-2028919686",
+      "text": "> > Dear @Shahbaz898414 , kindly do not halt the solution to this issue. If you are stuck somewhere, let me know if I can help. Also if you want , I can give you the idea or rather the initial approach to solve this issue.\r\n> \r\n> I apologize for the delay. Please grant me some additional time to work on this.\r\n\r\nSure... No issues . Just let me know if you get stuck somewhere."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7382",
+      "time": "2024-03-31T19:32:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7382#issuecomment-2028884495",
+      "text": "Dear @Shahbaz898414 , kindly do not halt the solution to this issue. If you are stuck somewhere, let me know if I can help. Also if you want , I can give you the idea or rather the initial approach to solve this issue."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-31T19:01:56+00:00",
+      "title": "coronasafe/care_fe#7494",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#pullrequestreview-1970392147",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7501",
+      "time": "2024-03-31T18:02:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7501#issuecomment-2028846649",
+      "text": "@rithviknishad Kindly review the bug if it is previously addressed and if not, then review the PR. Thankyou."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-03-31T18:01:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500#issuecomment-2028846374",
+      "text": "@kabirrajsingh Yeah I guess this issue will be addressed once it comes to the attention of the contributors."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7502",
+      "time": "2024-03-31T17:58:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502",
+      "text": "Issues/7501/empty list"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7501",
+      "time": "2024-03-31T17:55:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7501",
+      "text": "No Information if list is empty."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-03-31T17:17:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500#issuecomment-2028830189",
+      "text": "@kabirrajsingh if your PR solves multiple issues, then I guess you should go ahead with my issue as well... But first get the conformation ."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-03-31T17:08:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500#issuecomment-2028825702",
+      "text": "Actually I as well encountered the issue, but am not sure whether this is an actual issue or some role-based feature.\r\nIt would be better if @rithviknishad confirm this..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7497",
+      "time": "2024-03-30T11:28:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7497#issuecomment-2028019821",
+      "text": "@rithviknishad if this issue hasn't been addressed yet, let me know."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7497",
+      "time": "2024-03-30T11:24:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7497#issuecomment-2028019067",
+      "text": "@rithviknishad if this issue hasn't been addressed yet, let me work on it."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7497",
+      "time": "2024-03-30T11:24:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7497",
+      "text": "Linked Skill Issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7494",
+      "time": "2024-03-30T10:28:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#issuecomment-2028005721",
+      "text": "> please assign me this issue as i am willing to work on this.\r\n\r\nHey mate, sadly this is a PR and not an issue, therefore if you want to solve an issue, kindly explore the issue tab."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T04:02:01+00:00",
+      "title": "coronasafe/care_fe#7494",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#pullrequestreview-1969761460",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7495",
+      "time": "2024-03-29T18:42:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7495#issuecomment-2027593628",
+      "text": "@rithviknishad kindly have a look at PR ."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7496",
+      "time": "2024-03-29T18:18:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7496",
+      "text": "Icon overlapping with text in text-box of Doctor's Notes. #7495"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7495",
+      "time": "2024-03-29T18:14:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7495#issuecomment-2027566813",
+      "text": "@nihal467 @rithviknishad  let me know if this is not solved. Am raising PR for while , if it is previously solved, I will close it."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7495",
+      "time": "2024-03-29T18:12:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7495",
+      "text": "Icon overlapping with text in text-box of Doctor's Notes."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T17:31:05+00:00",
+      "title": "coronasafe/care_fe#7494",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#pullrequestreview-1969141095",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7473",
+      "time": "2024-03-29T12:38:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7473#issuecomment-2027187882",
+      "text": "@rithviknishad did you solve this issue in your PR or shall I raise one?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7159",
+      "time": "2024-03-29T11:18:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7159#issuecomment-2027097461",
+      "text": "> The backend currently uses a package that supports uploading to any services and is not specific to S3. You can look at how patient file uploads are done by exploring the platform. We could do something similar to patient file uploads. (Or maybe upload it to patient files itself and add support to reference those files in the doctor notes)\r\n\r\nThanks for the response. Also since I was busy finding the bugs and reporting, I did not get time for pre-proposal. So May you provide me just an overview that might increase the chances of my selection as s GSOC contributor (what is must to include and what is plus to include )!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-29T11:06:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2027084362",
+      "text": "Pr number is #7494 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-29T11:06:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2027083821",
+      "text": "@rithviknishad I have raised a PR for this. Kindly review it and merge! Also let me know if there are improvements needed."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7494",
+      "time": "2024-03-29T11:01:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:54:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2018796771",
+      "text": "@nihal467 @rithviknishad Kindly assign this issue to me to start working on it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:53:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2018795737",
+      "text": "\r\nhttps://github.com/coronasafe/care_fe/assets/122200551/418971b4-c8f1-451a-b0ef-5e2bff8295a2\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:50:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2018788770",
+      "text": "Kindly ignore the above video since the OBS freezed in-between. I will be uploading the video here."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:48:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474",
+      "text": "Facilities added but not displayed in Users."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:47:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474",
+      "text": "Facilities added but not displayed in Users."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:44:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474",
+      "text": "Facilities added but not displayed in Users."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7473",
+      "time": "2024-03-25T19:26:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7473#issuecomment-2018750079",
+      "text": "@nihal467, @rithviknishad  is this issue not addressed till now? if so, may you assign this to me to work?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7473",
+      "time": "2024-03-25T19:25:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7473",
+      "text": "\"Undefined\" is not a valid UUID : response while updating patient notes."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7382",
@@ -58,6 +345,33 @@
       "text": "Hey where do I store the uploaded image ? in S3? Kindly do specify... Working on it."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7502",
+      "title": "Issues/7501/adds-info-to-empty-records",
+      "stale_for": 0,
+      "labels": [
+        "changes required",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7496",
+      "title": "Icon overlapping with text in text-box of Doctor's Notes. #7495",
+      "stale_for": 0,
+      "labels": [
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7494",
+      "title": "\"Solved facility linking issue under manage facilities/view users\"#7474",
+      "stale_for": 1,
+      "labels": [
+        "changes required",
+        "merge conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

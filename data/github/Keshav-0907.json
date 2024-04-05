@@ -77,6 +77,13 @@
       "time": "2024-02-22T04:41:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2588#issuecomment-1958688527",
       "text": "@nihal467 I want to work on this, can you please assign this to me\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7273",
+      "time": "2024-02-26T06:50:54Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7273",
+      "text": "Fix : Minimum value in forms should be greater than 0"
     }
   ],
   "open_prs": [],

@@ -90,6 +90,13 @@
       "time": "2023-06-07T05:11:19.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/4943#issuecomment-1579905148",
       "text": "I would love to work on this issue please assign me issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5623",
+      "time": "2023-06-08T09:34:57Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5623",
+      "text": "Replace material component in Add Inventory form"
     }
   ],
   "open_prs": [],

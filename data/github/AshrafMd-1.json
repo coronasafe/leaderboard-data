@@ -1,6 +1,314 @@
 {
-  "last_updated": "2024-03-20T15:58:50+00:00",
+  "last_updated": "2024-04-03T13:18:35+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7529",
+      "time": "2024-04-03T13:18:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7529",
+      "text": "Staging Release for v24.15.0",
+      "collaborated_with": [
+        "soumya-maheshwari",
+        "rithviknishad",
+        "Ashesh3",
+        "rash-27",
+        "mohanrajnambe",
+        "aeswibon"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7499",
+      "time": "2024-04-03T08:18:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7499",
+      "text": "Add Cypress test to patient file upload",
+      "turnaround_time": 52133
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7499",
+      "time": "2024-04-03T08:18:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7499",
+      "text": "Add Cypress test to patient file upload",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-04-02T15:01:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#issuecomment-2032294998",
+      "text": "@rithviknishad can you remove the merge conflict "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": "2024-04-01T18:49:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-2030348325",
+      "text": "@Ashesh3 okay \r\n\r\nalso i feel instead of this UI changing the care tick icon color is better as ona  smaller screen we dont need to redesign it\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/235c9e00-b635-45b9-a797-a42fe5e2b71c)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": "2024-04-01T18:41:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-2030336684",
+      "text": "@Ashesh3 is this UI okay if yes i will start working on the logic \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/4c56916b-5a36-48d2-891d-e5c395654d0f)\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2042",
+      "time": "2024-04-01T17:51:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2042",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "skks1212",
+        "vigneshhari",
+        "rithviknishad",
+        "gigincg",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2041",
+      "time": "2024-04-01T17:51:04+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2041",
+      "text": "Staging release for v24.14.0",
+      "collaborated_with": [
+        "skks1212",
+        "vigneshhari",
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7499",
+      "time": "2024-04-01T16:28:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7499#issuecomment-2030106340",
+      "text": "@nihal467 the `patient_detailpage.cy.ts` passes all tests the one failing is `patient_consultation.cy.ts`\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/316ad886-f048-4da5-9031-f5cc4c33f4b4)\r\n\r\nThe test failing is `OP Patient with admission consultation:`\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/ce0fe847-6973-40ff-99a2-0bca5587d36f)\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": "2024-04-01T16:16:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-2030081245",
+      "text": "@rithviknishad it seems like @Keshav-0907 is inactive \r\ncan you assign me this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7517",
+      "time": "2024-04-01T16:12:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7517#issuecomment-2030074369",
+      "text": "@rithviknishad can you check once "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7517",
+      "time": "2024-04-01T16:12:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7517",
+      "text": "Fixed scroll overlay in medicine dashboard "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2012",
+      "time": "2024-04-01T08:22:11+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2012",
+      "text": "Map nurse logins to facility.",
+      "turnaround_time": 78186
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2012",
+      "time": "2024-04-01T08:22:11+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2012",
+      "text": "Map nurse logins to facility.",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7499",
+      "time": "2024-03-31T07:24:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7499",
+      "text": "Add Cypress test to patient file upload"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7499",
+      "time": "2024-03-31T07:22:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7499#issuecomment-2028584313",
+      "text": "@nihal467 once this PR https://github.com/coronasafe/care/pull/2012 gets merged in care I will run the tests again "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-31T07:20:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-2028583960",
+      "text": "Add this PR has many test commits I will close and open a new PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-03-31T06:53:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#issuecomment-2028578378",
+      "text": "@rithviknishad can you check once "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-03-31T06:42:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498",
+      "text": "Restrict Unauthorized Users from Accessing Facility's Patient Registration"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7268",
+      "time": "2024-03-29T12:41:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#issuecomment-2027189714",
+      "text": "There seem to be some errors so I will reopen a new PR"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2025",
+      "time": "2024-03-28T05:10:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2025",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "Omkar76",
+        "sainak",
+        "rash-27",
+        "itxsoumya",
+        "aeswibon",
+        "vigneshhari",
+        "krassowska",
+        "AnkurPrabhu",
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#403",
+      "time": "2024-03-26T17:30:17+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/403",
+      "text": "The footer is showing no image "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#403",
+      "time": "2024-03-26T17:30:17+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/403#issuecomment-2021058564",
+      "text": "As this issue is already fixed I am gonna close this Issue"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "nihal467",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "GokulramGHV",
+        "Spiral-Memory",
+        "gigincg",
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-25T13:44:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-2018039681",
+      "text": "@nihal467 once this PR https://github.com/coronasafe/care/pull/2012 is merged i will  test it again \r\n\r\nAlso I will create a new PR as there are test commits here "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#403",
+      "time": "2024-03-25T13:18:37+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/403#issuecomment-2017992486",
+      "text": "@rithviknishad once can you check the deployment \r\nbecause locally its getting displayed locally\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7464",
+      "time": "2024-03-25T12:58:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7464#issuecomment-2017945268",
+      "text": "@rithviknishad I want to work on this issue can you assign me this "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2012",
+      "time": "2024-03-25T12:57:07+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2012#issuecomment-2017943528",
+      "text": "@rithviknishad can you check once"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#403",
+      "time": "2024-03-25T10:52:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/403#issuecomment-2017720418",
+      "text": "@rithviknishad i want to work on this issue can you assign me this "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#403",
+      "time": "2024-03-25T10:51:54+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/403",
+      "text": "The footer is showing no image "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2012",
+      "time": "2024-03-25T10:39:06+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2012",
+      "text": "Map nurse logins to facility."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": "2024-03-25T07:17:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-2017367134",
+      "text": "@rithviknishad i want to work on this issue can you assign me this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": "2024-03-25T06:58:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-2017344832",
+      "text": "@Keshav-0907 are you still working on this issue?\r\nIf not I would like to work on this"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7197",
@@ -1824,6 +2132,13 @@
       "time": "2023-09-29T15:55:05.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6360#issuecomment-1741113169",
       "text": "I would like to work on this issue.  "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7499",
+      "time": "2024-04-03T08:18:26Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7499",
+      "text": "Add Cypress test to patient file upload"
     }
   ],
   "open_prs": [],

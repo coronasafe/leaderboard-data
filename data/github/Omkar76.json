@@ -1,6 +1,109 @@
 {
-  "last_updated": "2024-03-22T14:53:22+00:00",
+  "last_updated": "2024-04-01T17:04:41+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7485",
+      "time": "2024-03-28T05:10:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7485",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "hrit2773",
+        "Pranshu1902",
+        "khavinshankar",
+        "rash-27",
+        "soumya-maheshwari",
+        "rithviknishad",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2025",
+      "time": "2024-03-28T05:10:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2025",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "sainak",
+        "rash-27",
+        "itxsoumya",
+        "aeswibon",
+        "vigneshhari",
+        "krassowska",
+        "AnkurPrabhu",
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV",
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7275",
+      "time": "2024-03-26T07:33:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275",
+      "text": "create vite plugin to treeshake uniconpaths.json",
+      "turnaround_time": 19785
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1907",
+      "time": "2024-03-24T16:31:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1907",
+      "text": "track previous consultation",
+      "turnaround_time": 4249
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1907",
+      "time": "2024-03-24T16:31:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1907",
+      "text": "track previous consultation",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7275",
@@ -794,29 +897,20 @@
       "time": "2023-09-30T08:41:02.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6373#issuecomment-1741716463",
       "text": "You can assign this issue to me."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7118",
+      "time": "2024-02-21T08:00:53Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7118",
+      "text": "Replace font-awesome icons by CareIcon component"
     }
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7275",
-      "title": "create vite plugin to treeshake uniconpaths.json",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "changes required",
-        "Major Code Change"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1907",
-      "title": "track previous consultation",
-      "stale_for": 9,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 6,
+      "stale_for": 16,
       "labels": [
         "changes required",
         "work-in-progress",
@@ -825,6 +919,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7270",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7275"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"

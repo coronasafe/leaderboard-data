@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-18T15:57:39+00:00",
+  "last_updated": "2024-03-24T18:14:37+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7459",
+      "time": "2024-03-24T18:14:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7459#issuecomment-2016891597",
+      "text": "Hello @Pranshu1902 , I suggest that instead of adding a feature of marking the notification as unread, I think we should add a feature of star marking a notification or pinning that notification. In this way users can differentiate between important and unimportant notifications."
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7433",

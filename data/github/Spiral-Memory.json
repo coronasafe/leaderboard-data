@@ -1,6 +1,33 @@
 {
-  "last_updated": "2024-03-20T16:30:47+00:00",
+  "last_updated": "2024-03-27T07:49:25+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-27T07:49:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2022143955",
+      "text": "@nihal467 , I tried using the query now instead of getUserMedia to avoid the permission popup. Please verify if it works fine now.\r\n\r\nThe following are the behaviors now:\r\n\r\n1. If mic permission is not there or blocked, the span will be visible to allow mic permission.\r\n2. In case permission is not there and only when the user clicks on 'Start Record', the popup will appear asking for mic permission.\r\n3. In case permission is blocked, the popup won't appear, and the span warning plus a toast message will be displayed.\r\n4. If mic permission is allowed, there won't be such a span warning.\""
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "nihal467",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "GokulramGHV",
+        "gigincg",
+        "r-nikhilkumar"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7404",
@@ -137,6 +164,21 @@
       "text": "[BUG]: Unnecessary rendering Mic Permission warning even if mic permission is enabled"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7404",
+      "title": "fix: Removed unnecessary rendering of microphone permission warning info.",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7407",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7408"
+    }
+  ]
 }

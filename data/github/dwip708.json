@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-11T19:26:31+00:00",
+  "last_updated": "2024-04-03T09:17:25+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T09:17:25+00:00",
+      "title": "coronasafe/care_fe#7491",
+      "link": "https://github.com/coronasafe/care_fe/pull/7491#pullrequestreview-1976119687",
+      "text": "Solving the scroll issue in Shifting"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7491",
+      "time": "2024-03-28T19:58:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7491",
+      "text": "Scroll2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7490",
+      "time": "2024-03-28T18:53:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7490",
+      "text": "Solved the scroll issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7487",
+      "time": "2024-03-28T12:31:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7487",
+      "text": "Scroll issue in shifting in facilities."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6609",
+      "time": "2024-03-26T14:22:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6609#issuecomment-2020569180",
+      "text": "I would like to work on this issue and update the styles and make it responsive for various screen-sizes. \r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7383",

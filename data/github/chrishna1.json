@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-04-04T15:57:15Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#265",
+      "time": "2020-04-04T15:57:15Z",
+      "link": "https://github.com/coronasafe/care/pull/265",
+      "text": "Improve readme and add support for Windows and remove Python3.7 dependencies."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#265",
+      "time": "2020-04-04T16:52:58Z",
+      "link": "https://github.com/coronasafe/care/pull/265",
+      "text": "Improve readme and add support for Windows and remove Python3.7 dependencies."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

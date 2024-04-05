@@ -1277,6 +1277,48 @@
       "time": "2022-05-17T18:42:07.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2368",
       "text": "Log Update/Daily Round (Normal) Vitals be typeable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3167",
+      "time": "2022-09-01T07:25:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3167",
+      "text": "Introduce updated cypress test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3475",
+      "time": "2022-09-01T07:48:07Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3475",
+      "text": "Make camera feed focus on load"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3560",
+      "time": "2022-09-14T09:37:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3560",
+      "text": "Add cypress guide to README"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4748",
+      "time": "2023-02-04T20:41:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4748",
+      "text": "Camera Feed: Optimize for mobile usage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/10bedicu#34",
+      "time": "2022-01-14T17:48:06Z",
+      "link": "https://github.com/coronasafe/10bedicu/pull/34",
+      "text": "Fixed Navbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/10bedicu#34",
+      "time": "2022-01-15T17:06:22Z",
+      "link": "https://github.com/coronasafe/10bedicu/pull/34",
+      "text": "Fixed Navbar"
     }
   ],
   "open_prs": [

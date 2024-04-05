@@ -1,6 +1,163 @@
 {
-  "last_updated": "2024-03-21T00:01:43+00:00",
+  "last_updated": "2024-04-04T13:24:48+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7535",
+      "time": "2024-04-04T13:24:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7535#issuecomment-2037218171",
+      "text": "I'd like to work on this issue, it can be fixed with issue #7342 if applicable"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7505",
+      "time": "2024-04-04T13:17:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7505#issuecomment-2037197967",
+      "text": "@rithviknishad The suggested package produces this error \r\n![image](https://github.com/coronasafe/care_fe/assets/63492939/1c1c821f-5109-461c-b267-7771c89044cc)\r\n\r\nSwitching to bundler breaks other modules"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7537",
+      "time": "2024-04-04T12:38:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7537",
+      "text": "Replace react-qr-reader with reactjs-qr-code-reader package"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-04-04T07:07:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-2036355725",
+      "text": "@rithviknishad When using `devdistrictadmin` on staging deployment, the default presets doesn't update for some reason. When we refresh the page, the last location of camera is available however on selecting the same default preset again, we are sent back to old position. The patient presets seems to work fine. Is it supposed to happen?\r\n\r\nhttps://github.com/coronasafe/care_fe/assets/63492939/af4d8ffc-1287-4c41-ba04-0f10de3c8c5a\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-04-03T08:05:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-2033840010",
+      "text": "@Ashesh3 it does seem to work fine in my case.  After updating a preset, I switched to a different preset, and then switched back to the updated preset, the updated preset was as expected without refreshing the page."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-04-02T12:05:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-2031863972",
+      "text": "I'd like to work on this issue if it's still relevant"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "soumya-maheshwari",
+        "Omkar76",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7505",
+      "time": "2024-04-01T05:16:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7505#issuecomment-2029174007",
+      "text": "I'd like to work on it. Can you please assign?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7485",
+      "time": "2024-03-28T05:10:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7485",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "hrit2773",
+        "Omkar76",
+        "Pranshu1902",
+        "khavinshankar",
+        "rash-27",
+        "soumya-maheshwari",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7231",
+      "time": "2024-03-27T16:16:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7231#issuecomment-2023173576",
+      "text": "@rithviknishad Got it, I'd like to work on if it's unblocked"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7136",
+      "time": "2024-03-27T15:43:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136",
+      "text": "Extend Update Log to bottom of the screen",
+      "turnaround_time": 5054
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7136",
+      "time": "2024-03-27T15:43:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136",
+      "text": "Extend Update Log to bottom of the screen",
+      "collaborated_with": [
+        "nihal467",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7198",
+      "time": "2024-03-27T15:35:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7198",
+      "text": "Improving Doctor Connect UI",
+      "turnaround_time": 6834
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7198",
+      "time": "2024-03-27T15:35:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7198",
+      "text": "Improving Doctor Connect UI",
+      "collaborated_with": [
+        "rithviknishad",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7231",
+      "time": "2024-03-27T14:47:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7231#issuecomment-2022963209",
+      "text": "@rithviknishad We can store the output from the stale bot and then use github-scripts actions to run a script that loops on the output and calls `github.issues.removeAssignees()`?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7231",
+      "time": "2024-03-27T13:47:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7231#issuecomment-2022815322",
+      "text": "@nihal467 I found this workflow which can be used with our existing stale workflow to solve this issue. Do you take a look at it. https://github.com/BoundfoxStudios/action-unassign-contributor-after-days-of-inactivity\r\n\r\nOther approach I could think of was writing manual CLI commands to unassign issues."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7382",
+      "time": "2024-03-26T07:12:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7382#issuecomment-2019540422",
+      "text": "@rithviknishad I'd like to work on it if it's still open"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7343",
+      "time": "2024-03-26T07:05:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-2019531193",
+      "text": "@rithviknishad if this is not solved, can I work on it?"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-21T00:01:43+00:00",
@@ -571,8 +728,54 @@
       "time": "2023-07-29T07:26:56.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/74",
       "text": "Added infinite scrolling for chat history #25"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7228",
+      "time": "2024-02-28T04:16:00Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7228",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#170",
+      "time": "2024-01-16T14:14:12Z",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/170",
+      "text": "Fixed chat upvote and downvote Feedback UI"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7537",
+      "title": "Replace react-qr-reader with reactjs-qr-code-reader package",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6901",
+      "title": "Added Timeline UI for Bed Activity",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7226",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7228"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/158",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/159"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6530",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6596"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6305",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6405"
+    }
+  ]
 }

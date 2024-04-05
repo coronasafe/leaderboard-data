@@ -158,6 +158,13 @@
       "time": "2024-02-22T16:21:05.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959798949",
       "text": "@rithviknishad  how can I get  the icon links."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#252",
+      "time": "2024-02-26T09:55:31Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/252",
+      "text": "fixes text overflow issue  fixes #251"
     }
   ],
   "open_prs": [

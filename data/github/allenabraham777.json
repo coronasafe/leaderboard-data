@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-03-22T05:36:14Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/infographics-frontend#5",
+      "time": "2020-03-22T05:36:14Z",
+      "link": "https://github.com/coronasafe/infographics-frontend/pull/5",
+      "text": "Basic Share Url added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/infographics-frontend#5",
+      "time": "2020-03-22T05:38:05Z",
+      "link": "https://github.com/coronasafe/infographics-frontend/pull/5",
+      "text": "Basic Share Url added"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

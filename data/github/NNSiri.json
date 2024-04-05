@@ -1,0 +1,49 @@
+{
+  "last_updated": "2024-04-02T06:33:16+00:00",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7511",
+      "time": "2024-04-02T06:33:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2031180212",
+      "text": "@rithviknishad We understood, that the issue is observed when the presets are deleted. but we do not know who deleted the presets. can we restrict the delete option, and keep only edit preset option. ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7511",
+      "time": "2024-04-01T10:34:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2029554040",
+      "text": "@rithviknishad \r\n- Bed is assigned to the patient\r\n- Camera was configured to the patient (later we found that the presets were getting deleted) this is observed in many hospitals . So may be we should restrict who deletes the Camera Presets.\r\n- The consultation was not ended. Patient is not yet discharged\r\n- User : State Admin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7516",
+      "time": "2024-04-01T10:29:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7516",
+      "text": "In the Patient registration page: Occupation dropdown is not suffecient."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7511",
+      "time": "2024-04-01T09:26:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7511",
+      "text": "Camera feed feature do not appear for all patients."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7510",
+      "time": "2024-04-01T09:11:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7510",
+      "text": "Advance filter for Users"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7509",
+      "time": "2024-04-01T09:00:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7509",
+      "text": "Number of Users under each facility"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

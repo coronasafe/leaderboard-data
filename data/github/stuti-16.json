@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-04-30T08:40:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#218",
+      "time": "2021-04-30T08:40:07Z",
+      "link": "https://github.com/coronasafe/life/pull/218",
+      "text": "Improve state list ui in home page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/life#218",
+      "time": "2021-04-30T10:34:39Z",
+      "link": "https://github.com/coronasafe/life/pull/218",
+      "text": "Improve state list ui in home page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

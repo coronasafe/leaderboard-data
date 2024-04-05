@@ -351,6 +351,34 @@
         "mathew-alex",
         "Ashesh3"
       ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5263",
+      "time": "2023-04-07T04:56:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5263",
+      "text": "Replaced Material UI circular progress with tailwind custom component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5263",
+      "time": "2023-04-11T10:58:29Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5263",
+      "text": "Replaced Material UI circular progress with tailwind custom component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5269",
+      "time": "2023-04-07T12:05:09Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5269",
+      "text": "Added Custom Tailwind ToolTip in place of Material UI's tool tip"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5269",
+      "time": "2023-04-11T10:55:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5269",
+      "text": "Added Custom Tailwind ToolTip in place of Material UI's tool tip"
     }
   ],
   "open_prs": [

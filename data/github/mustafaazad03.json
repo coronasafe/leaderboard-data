@@ -144,6 +144,27 @@
       "time": "2023-07-18T08:16:13.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5695#issuecomment-1639737767",
       "text": "Yes, I have build full frontend but not able to make the functionality.\nCan I raised the PR for frontend !?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5645",
+      "time": "2023-06-10T06:21:35Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5645",
+      "text": "wrapping of text patient note bug fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5671",
+      "time": "2023-06-14T05:20:52Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5671",
+      "text": "Issue wordwrap solved"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5671",
+      "time": "2023-06-21T05:57:23Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5671",
+      "text": "Issue wordwrap solved"
     }
   ],
   "open_prs": [],

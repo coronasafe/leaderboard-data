@@ -63,6 +63,20 @@
       "time": "2023-05-29T04:53:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5557#issuecomment-1566535462",
       "text": "Hey! i would like to work on this issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5560",
+      "time": "2023-06-06T06:47:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5560",
+      "text": "fixed width of patient bed select dialog box in patient dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5578",
+      "time": "2023-06-06T06:46:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5578",
+      "text": "fixed space between space between the KASP and View CNS button in facility card"
     }
   ],
   "open_prs": [],

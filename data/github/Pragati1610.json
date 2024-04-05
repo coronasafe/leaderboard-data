@@ -759,6 +759,20 @@
       "time": "2022-05-18T13:16:33.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2285#issuecomment-1130005149",
       "text": "Can I take up this issue?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3696",
+      "time": "2022-10-04T13:42:40Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3696",
+      "text": "fix: fetch only manual entries of daily rounds"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3865",
+      "time": "2022-10-30T16:00:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3865",
+      "text": "fix: patient creation form back button"
     }
   ],
   "open_prs": [

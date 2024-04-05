@@ -196,6 +196,13 @@
       "time": "2022-05-17T03:57:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2337",
       "text": "Added field cover_image_url to FacilityModel type in facility models"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2994",
+      "time": "2022-07-03T09:21:42Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2994",
+      "text": "Revamped shifting UI"
     }
   ],
   "open_prs": [

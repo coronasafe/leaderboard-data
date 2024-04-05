@@ -1,0 +1,14 @@
+{
+  "last_updated": "2021-06-28T13:34:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/kerala-stats#2",
+      "time": "2021-06-28T13:34:46Z",
+      "link": "https://github.com/coronasafe/kerala-stats/pull/2",
+      "text": "Updated data origin to reflect change in hierarchy at dashboard website"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

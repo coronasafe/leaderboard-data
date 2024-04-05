@@ -47,6 +47,20 @@
       "time": "2023-04-05T17:36:05.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5232#issuecomment-1497871800",
       "text": "I am working on this issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5264",
+      "time": "2023-04-07T07:03:01Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5264",
+      "text": "Fix for the session expired page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5264",
+      "time": "2023-04-11T10:57:58Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5264",
+      "text": "Fix for the session expired page"
     }
   ],
   "open_prs": [],

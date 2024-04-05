@@ -854,6 +854,27 @@
       "time": "2022-05-17T18:24:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2345",
       "text": "add: hover action on patient home page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2029",
+      "time": "2022-01-13T11:58:46Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2029",
+      "text": "Improved the responsive UI for ResourceBoardView and Shifting boardView"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2439",
+      "time": "2022-07-07T07:23:16Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2439",
+      "text": "add: cancel button on update/create of assets"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/10bedicu#50",
+      "time": "2022-07-07T07:48:32Z",
+      "link": "https://github.com/coronasafe/10bedicu/pull/50",
+      "text": "improved UI for image gallery"
     }
   ],
   "open_prs": [

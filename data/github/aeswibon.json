@@ -1,6 +1,190 @@
 {
-  "last_updated": "2024-03-21T04:57:17+00:00",
+  "last_updated": "2024-04-04T14:18:21+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#491",
+      "time": "2024-04-04T14:18:21+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/491",
+      "text": "fix(error): added more specific errors",
+      "turnaround_time": 30642
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#168",
+      "time": "2024-04-04T09:59:49+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/168#issuecomment-2036736765",
+      "text": "Is this issue still valid? If it is, then I would like to work on it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#994",
+      "time": "2024-04-04T05:40:21+00:00",
+      "link": "https://github.com/coronasafe/care/issues/994#issuecomment-2036230207",
+      "text": "Closed in favour of https://github.com/coronasafe/care/issues/1372"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#994",
+      "time": "2024-04-04T05:40:20+00:00",
+      "link": "https://github.com/coronasafe/care/issues/994",
+      "text": "Create new tests for New APIs"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7529",
+      "time": "2024-04-03T13:18:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7529",
+      "text": "Staging Release for v24.15.0",
+      "collaborated_with": [
+        "soumya-maheshwari",
+        "rithviknishad",
+        "Ashesh3",
+        "rash-27",
+        "AshrafMd-1",
+        "mohanrajnambe"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7345",
+      "time": "2024-04-03T10:35:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7345",
+      "text": "fix: Events(Beta) improvement",
+      "turnaround_time": 9886
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7345",
+      "time": "2024-04-03T10:35:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7345",
+      "text": "fix: Events(Beta) improvement",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#497",
+      "time": "2024-04-02T07:31:22+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/497",
+      "text": "fix: Adds Linter CI and maintains formatting across codebase",
+      "turnaround_time": 85376
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#497",
+      "time": "2024-04-01T07:48:26+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/497",
+      "text": "fix: Adds Linter CI and maintains formatting across codebase"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2025",
+      "time": "2024-03-28T05:10:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2025",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "Omkar76",
+        "sainak",
+        "rash-27",
+        "itxsoumya",
+        "vigneshhari",
+        "krassowska",
+        "AnkurPrabhu",
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV",
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1388",
+      "time": "2024-03-26T08:06:14+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1388#issuecomment-2019768742",
+      "text": "Sure, you can first familiarise yourself with the test that are already there in the codebase. We basically need to add various tests for all the endpoints that are there in the consultation group. You can see the swagger documentation of our APIs."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2013",
+      "time": "2024-03-25T15:44:42+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2013",
+      "text": "Adds support for validating integrity of fixtures in tests workflow",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2014",
+      "time": "2024-03-25T15:24:34+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2014",
+      "text": "fix(facility): fixed error in dummy data",
+      "turnaround_time": 2749
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2014",
+      "time": "2024-03-25T15:24:34+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2014",
+      "text": "fix(facility): fixed error in dummy data",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2014",
+      "time": "2024-03-25T14:51:58+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2014#issuecomment-2018186334",
+      "text": "@sainak Can you check the PR? The `load_dummy_data` command is failing because the cypress tests are failing in the frontend. The errors are:\r\n> CommandError: Problem installing fixture '/app/data/dummy/facility.json': Could not load facility.PatientConsultation(pk=19): duplicate key value violates unique constraint \"unique_patient_no_within_facility\"\r\n\r\n> CommandError: Problem installing fixture '/app/data/dummy/facility.json': Could not load facility.PatientConsultation(pk=20): duplicate key value violates unique constraint \"unique_patient_no_within_facility\"\r\nDETAIL:  Key (patient_no, facility_id)=(IP009, 1) already exists.\r\n\r\n> CommandError: Problem installing fixture '/app/data/dummy/users.json': Could not load users.User(pk=1): column \"video_connect_link\" of relation \"users_user\" does not exist\r\nLINE 1: ...er\" = '+919696969696', \"alt_phone_number\" = NULL, \"video_con...\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2014",
+      "time": "2024-03-25T14:38:46+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2014",
+      "text": "fix(facility): fixed error in dummy data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6420",
+      "time": "2024-03-25T09:35:55+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6420#issuecomment-2017581216",
+      "text": "@rithviknishad Is there by solution discussed for this?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#491",
+      "time": "2024-03-24T16:44:25+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/491",
+      "text": "fix(error): added more specific errors"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma#430",
@@ -7153,8 +7337,361 @@
       "time": "2022-05-17T18:15:33.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2335",
       "text": "added pagination in patient preset"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2755",
+      "time": "2022-06-23T07:49:38Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2755",
+      "text": "Removed Diagnosis section from Notes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2836",
+      "time": "2022-07-15T08:22:03Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2836",
+      "text": "Alignment issue of Patient Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2924",
+      "time": "2022-07-07T07:14:01Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2924",
+      "text": "Added ImageCompression for FileUpload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2987",
+      "time": "2022-07-03T08:00:10Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2987",
+      "text": "Fixed malfunction in patient file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2989",
+      "time": "2022-07-03T08:41:47Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2989",
+      "text": "Fixed styling issue in consultation page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3019",
+      "time": "2022-07-06T06:42:31Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3019",
+      "text": "Removed bed number for discharged patient"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3266",
+      "time": "2022-08-25T01:47:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3266",
+      "text": "Fixed: Asset Page Malfunction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3682",
+      "time": "2022-10-04T13:49:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3682",
+      "text": "Revamped Download option in Facility Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3801",
+      "time": "2022-11-03T09:33:48Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3801",
+      "text": "fix: misalignment of No Assets Found text"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3882",
+      "time": "2022-10-30T08:55:04Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3882",
+      "text": "fix(asset): droplist is stretching the asset page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3883",
+      "time": "2022-10-30T09:17:10Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3883",
+      "text": "fix(patient): patient page alignment is off"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3977",
+      "time": "2022-11-30T11:32:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3977",
+      "text": "fix: replaced multiselect with new tailwind component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4063",
+      "time": "2022-12-08T12:30:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4063",
+      "text": "fix(UserProfile): Unable to update user details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4214",
+      "time": "2022-12-08T12:24:42Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4214",
+      "text": "fix(facility): cancel button is malfunction in facility update page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4215",
+      "time": "2022-12-08T12:24:07Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4215",
+      "text": "fix(patient): re-admission is using existing consultation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4245",
+      "time": "2022-12-08T12:22:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4245",
+      "text": "feat(prescription): add new medicines to the prescription module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4260",
+      "time": "2022-12-08T16:26:46Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4260",
+      "text": "Added middleware update feature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4288",
+      "time": "2022-12-15T09:10:16Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4288",
+      "text": "fix(asset): Modified breadcrumbs in asset page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4315",
+      "time": "2022-12-15T15:00:20Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4315",
+      "text": "fix: upgrade the facility creation component to tailwind components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4378",
+      "time": "2022-12-20T19:01:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4378",
+      "text": "fix: Tailwind the Add User page + cypress tests for user feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4730",
+      "time": "2023-02-01T17:56:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4730",
+      "text": "fix: Bed Assignment necessary before filing log update for patients admitted"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4730",
+      "time": "2023-02-02T15:02:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4730",
+      "text": "fix: Bed Assignment necessary before filing log update for patients admitted"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5052",
+      "time": "2023-04-11T11:03:01Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5052",
+      "text": "fix: reorder and group the patient filters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7257",
+      "time": "2024-03-04T05:24:23Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7257",
+      "text": "fix: Limit number of facilities a single user can be linked to"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7345",
+      "time": "2024-04-03T10:34:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7345",
+      "text": "fix: Events(Beta) improvement"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1058",
+      "time": "2022-10-09T04:47:24Z",
+      "link": "https://github.com/coronasafe/care/pull/1058",
+      "text": "Fixed: Added occupation field for text support"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1059",
+      "time": "2022-10-09T05:05:36Z",
+      "link": "https://github.com/coronasafe/care/pull/1059",
+      "text": "Fixes: Permission Error during Facility Delete"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1076",
+      "time": "2022-10-25T08:41:35Z",
+      "link": "https://github.com/coronasafe/care/pull/1076",
+      "text": "fix(Patient): Updated review_time logic"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1081",
+      "time": "2022-10-27T13:00:15Z",
+      "link": "https://github.com/coronasafe/care/pull/1081",
+      "text": "fix: update of last_daily_round on auto log update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1115",
+      "time": "2022-12-08T14:44:11Z",
+      "link": "https://github.com/coronasafe/care/pull/1115",
+      "text": "Add middleware_address field to the serializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1115",
+      "time": "2022-12-08T18:48:15Z",
+      "link": "https://github.com/coronasafe/care/pull/1115",
+      "text": "Add middleware_address field to the serializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1165",
+      "time": "2023-01-30T14:03:19Z",
+      "link": "https://github.com/coronasafe/care/pull/1165",
+      "text": "fix: Error during creating new asset"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1167",
+      "time": "2023-01-29T09:30:51Z",
+      "link": "https://github.com/coronasafe/care/pull/1167",
+      "text": "fix: Predated Log Updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1288",
+      "time": "2023-06-06T14:12:06Z",
+      "link": "https://github.com/coronasafe/care/pull/1288",
+      "text": "fix: centralise linting across the project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1589",
+      "time": "2023-09-09T17:38:30Z",
+      "link": "https://github.com/coronasafe/care/pull/1589",
+      "text": "Adds Nurse user type and promote existing staffs to nurse"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#175",
+      "time": "2023-06-10T08:26:24Z",
+      "link": "https://github.com/coronasafe/ayushma/pull/175",
+      "text": "fix: Profile not updating"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#176",
+      "time": "2023-06-10T16:50:08Z",
+      "link": "https://github.com/coronasafe/ayushma/pull/176",
+      "text": "feat: Adds test"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1898",
+      "title": "fix: Update validation for Daily Round form",
+      "stale_for": 22,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6512",
+      "title": "fix(location): duty doctors and staff for each location in a facility",
+      "stale_for": 27,
+      "labels": [
+        "do not merge",
+        "hold",
+        "waiting for backend",
+        "merge conflict",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1689",
+      "title": "fix(asset_location): added duty_staff endpoint",
+      "stale_for": 22,
+      "labels": [
+        "do-not-merge",
+        "waiting-for-review",
+        "Hold"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1376",
+      "pr_link": "https://github.com/coronasafe/care/pull/1431"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1217",
+      "pr_link": "https://github.com/coronasafe/care/pull/1218"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1164",
+      "pr_link": "https://github.com/coronasafe/care/pull/1165"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1154",
+      "pr_link": "https://github.com/coronasafe/care/pull/1155"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1142",
+      "pr_link": "https://github.com/coronasafe/care/pull/1143"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4322",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4321",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4320",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1111",
+      "pr_link": "https://github.com/coronasafe/care/pull/1112"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3968",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3974"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1089",
+      "pr_link": "https://github.com/coronasafe/care/pull/1090"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/936",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3217"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/930",
+      "pr_link": "https://github.com/coronasafe/care/pull/931"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3145",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3146"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3114",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3115"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/2907",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/2908"
+    }
+  ]
 }

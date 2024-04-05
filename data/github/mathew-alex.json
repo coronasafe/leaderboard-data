@@ -4376,6 +4376,566 @@
       "title": "coronasafe/care_fe#2527",
       "link": "https://github.com/coronasafe/care_fe/pull/2527#pullrequestreview-986959085",
       "text": "React 18; Tailwind v3; Minor Refactoring"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#1990",
+      "time": "2021-12-18T07:15:27Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1990",
+      "text": "updated eks orb version from 0.2.6 to 1.2.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#1990",
+      "time": "2021-12-18T14:25:48Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/1990",
+      "text": "updated eks orb version from 0.2.6 to 1.2.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2301",
+      "time": "2022-05-09T08:27:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2301",
+      "text": "production release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2301",
+      "time": "2022-05-09T08:37:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2301",
+      "text": "production release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2392",
+      "time": "2022-05-17T12:17:06Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2392",
+      "text": "updated action for manipur deploy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2392",
+      "time": "2022-05-17T12:22:58Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2392",
+      "text": "updated action for manipur deploy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2394",
+      "time": "2022-05-17T13:32:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2394",
+      "text": "testing with branch filter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2394",
+      "time": "2022-05-17T13:33:06Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2394",
+      "text": "testing with branch filter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2494",
+      "time": "2022-05-23T08:26:51Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2494",
+      "text": "added manipur CD pipeline; enabled test for PR only"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2494",
+      "time": "2022-05-23T10:34:26Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2494",
+      "text": "added manipur CD pipeline; enabled test for PR only"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2496",
+      "time": "2022-05-23T10:53:20Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2496",
+      "text": "production deploy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2496",
+      "time": "2022-05-23T10:53:30Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2496",
+      "text": "production deploy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2502",
+      "time": "2022-05-24T10:21:13Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2502",
+      "text": "minor naming correction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2502",
+      "time": "2022-05-24T10:21:26Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2502",
+      "text": "minor naming correction"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2997",
+      "time": "2022-07-03T14:45:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2997",
+      "text": "Production Release July Week 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3827",
+      "time": "2022-10-25T17:33:33Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3827",
+      "text": "Production Release; Oct Week 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3827",
+      "time": "2022-10-25T18:41:05Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3827",
+      "text": "Production Release; Oct Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3891",
+      "time": "2022-10-30T19:29:51Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3891",
+      "text": "Production Release; Oct Week 5"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3891",
+      "time": "2022-10-30T23:10:17Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3891",
+      "text": "Production Release; Oct Week 5"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4088",
+      "time": "2022-11-20T16:39:32Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4088",
+      "text": "Production Release; Nov Week 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4088",
+      "time": "2022-11-20T16:49:04Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4088",
+      "text": "Production Release; Nov Week 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4702",
+      "time": "2023-01-30T14:56:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4702",
+      "text": "Production Release; Jan Week 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4702",
+      "time": "2023-01-30T19:11:52Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4702",
+      "text": "Production Release; Jan Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4807",
+      "time": "2023-02-12T17:37:34Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4807",
+      "text": "Production Release; Fed Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4807",
+      "time": "2023-02-12T17:46:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4807",
+      "text": "Production Release; Fed Week 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5282",
+      "time": "2023-04-07T18:59:34Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5282",
+      "text": "Production Release; Apr Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5282",
+      "time": "2023-04-07T19:06:17Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5282",
+      "text": "Production Release; Apr Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5462",
+      "time": "2023-05-12T18:19:01Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5462",
+      "text": "Production Release; May Week 3 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5644",
+      "time": "2023-06-10T02:47:32Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5644",
+      "text": "Production Release; June Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5644",
+      "time": "2023-06-10T02:54:30Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5644",
+      "text": "Production Release; June Week 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5781",
+      "time": "2023-06-25T07:57:08Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5781",
+      "text": "Production Release; Jun Week 4; Hotfix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5781",
+      "time": "2023-06-25T08:09:26Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5781",
+      "text": "Production Release; Jun Week 4; Hotfix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6252",
+      "time": "2023-09-09T04:02:20Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6252",
+      "text": "Production Release; Sep Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6252",
+      "time": "2023-09-09T04:37:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6252",
+      "text": "Production Release; Sep Week 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6480",
+      "time": "2023-10-22T19:49:51Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6480",
+      "text": "Production Release; Oct Week 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6480",
+      "time": "2023-10-22T20:08:10Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6480",
+      "text": "Production Release; Oct Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#654",
+      "time": "2021-12-18T07:09:04Z",
+      "link": "https://github.com/coronasafe/care/pull/654",
+      "text": "updated eks orb version from 0.2.6 to 1.2.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#654",
+      "time": "2021-12-18T14:45:31Z",
+      "link": "https://github.com/coronasafe/care/pull/654",
+      "text": "updated eks orb version from 0.2.6 to 1.2.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#760",
+      "time": "2022-05-19T06:16:13Z",
+      "link": "https://github.com/coronasafe/care/pull/760",
+      "text": "Create issue-automation.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#760",
+      "time": "2022-05-19T06:20:23Z",
+      "link": "https://github.com/coronasafe/care/pull/760",
+      "text": "Create issue-automation.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#783",
+      "time": "2022-05-24T10:14:32Z",
+      "link": "https://github.com/coronasafe/care/pull/783",
+      "text": "added Manipur CD"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#783",
+      "time": "2022-05-24T10:22:49Z",
+      "link": "https://github.com/coronasafe/care/pull/783",
+      "text": "added Manipur CD"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#908",
+      "time": "2022-07-03T14:46:14Z",
+      "link": "https://github.com/coronasafe/care/pull/908",
+      "text": "Production Release July Week 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1077",
+      "time": "2022-10-25T17:33:17Z",
+      "link": "https://github.com/coronasafe/care/pull/1077",
+      "text": "Production Release; Oct Week 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1077",
+      "time": "2022-10-25T18:41:08Z",
+      "link": "https://github.com/coronasafe/care/pull/1077",
+      "text": "Production Release; Oct Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1087",
+      "time": "2022-10-30T19:30:08Z",
+      "link": "https://github.com/coronasafe/care/pull/1087",
+      "text": "Production Release; Oct Week 5"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1087",
+      "time": "2022-10-30T23:10:10Z",
+      "link": "https://github.com/coronasafe/care/pull/1087",
+      "text": "Production Release; Oct Week 5"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1104",
+      "time": "2022-11-20T16:39:11Z",
+      "link": "https://github.com/coronasafe/care/pull/1104",
+      "text": "Production Release; Nov Week 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1104",
+      "time": "2022-11-20T16:49:08Z",
+      "link": "https://github.com/coronasafe/care/pull/1104",
+      "text": "Production Release; Nov Week 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1170",
+      "time": "2023-01-30T14:57:15Z",
+      "link": "https://github.com/coronasafe/care/pull/1170",
+      "text": "Production Release; Jan Week 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1170",
+      "time": "2023-01-30T19:11:35Z",
+      "link": "https://github.com/coronasafe/care/pull/1170",
+      "text": "Production Release; Jan Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1190",
+      "time": "2023-02-12T17:37:13Z",
+      "link": "https://github.com/coronasafe/care/pull/1190",
+      "text": "Production Release; Fed Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1190",
+      "time": "2023-02-12T17:46:29Z",
+      "link": "https://github.com/coronasafe/care/pull/1190",
+      "text": "Production Release; Fed Week 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1242",
+      "time": "2023-04-07T18:59:15Z",
+      "link": "https://github.com/coronasafe/care/pull/1242",
+      "text": "Production Release; Apr Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1242",
+      "time": "2023-04-07T19:06:08Z",
+      "link": "https://github.com/coronasafe/care/pull/1242",
+      "text": "Production Release; Apr Week 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1364",
+      "time": "2023-06-10T02:47:00Z",
+      "link": "https://github.com/coronasafe/care/pull/1364",
+      "text": "Production Release; June Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1364",
+      "time": "2023-06-10T02:52:59Z",
+      "link": "https://github.com/coronasafe/care/pull/1364",
+      "text": "Production Release; June Week 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1366",
+      "time": "2023-06-10T09:40:05Z",
+      "link": "https://github.com/coronasafe/care/pull/1366",
+      "text": "Production Release; June Week 2; fix server issue on token refresh (#1365)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1366",
+      "time": "2023-06-10T09:44:10Z",
+      "link": "https://github.com/coronasafe/care/pull/1366",
+      "text": "Production Release; June Week 2; fix server issue on token refresh (#1365)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1587",
+      "time": "2023-09-09T04:01:58Z",
+      "link": "https://github.com/coronasafe/care/pull/1587",
+      "text": "Production Release; Sep Week 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1587",
+      "time": "2023-09-09T04:37:33Z",
+      "link": "https://github.com/coronasafe/care/pull/1587",
+      "text": "Production Release; Sep Week 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1684",
+      "time": "2023-10-22T19:49:58Z",
+      "link": "https://github.com/coronasafe/care/pull/1684",
+      "text": "Production Release; Oct Week 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1684",
+      "time": "2023-10-22T20:08:04Z",
+      "link": "https://github.com/coronasafe/care/pull/1684",
+      "text": "Production Release; Oct Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#195",
+      "time": "2022-05-02T07:59:06Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/195",
+      "text": "manipur prod release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#195",
+      "time": "2022-05-02T07:59:21Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/195",
+      "text": "manipur prod release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#196",
+      "time": "2022-05-24T11:12:07Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/196",
+      "text": "added Manipur CD"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#196",
+      "time": "2022-05-24T11:12:23Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/196",
+      "text": "added Manipur CD"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#197",
+      "time": "2022-05-24T11:13:53Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/197",
+      "text": "updated PR branch filter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#197",
+      "time": "2022-05-24T11:14:22Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/197",
+      "text": "updated PR branch filter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#198",
+      "time": "2022-05-24T11:15:18Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/198",
+      "text": "test PR "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/dashboard#199",
+      "time": "2022-05-24T11:19:58Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/199",
+      "text": "correcting quotes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/dashboard#199",
+      "time": "2022-05-24T11:25:53Z",
+      "link": "https://github.com/coronasafe/dashboard/pull/199",
+      "text": "correcting quotes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/teleicu_middleware#15",
+      "time": "2022-01-05T05:27:07Z",
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/15",
+      "text": "added dev.docker-compose.yml for devenv"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/teleicu_middleware#15",
+      "time": "2022-01-05T05:40:53Z",
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/15",
+      "text": "added dev.docker-compose.yml for devenv"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/teleicu_nginx#3",
+      "time": "2021-12-29T06:52:27Z",
+      "link": "https://github.com/coronasafe/teleicu_nginx/pull/3",
+      "text": "Delete backlog.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/teleicu_nginx#3",
+      "time": "2021-12-30T05:36:11Z",
+      "link": "https://github.com/coronasafe/teleicu_nginx/pull/3",
+      "text": "Delete backlog.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/teleicu_nginx#4",
+      "time": "2021-12-30T05:38:58Z",
+      "link": "https://github.com/coronasafe/teleicu_nginx/pull/4",
+      "text": "Delete teleicu"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/teleicu_nginx#4",
+      "time": "2021-12-30T05:39:35Z",
+      "link": "https://github.com/coronasafe/teleicu_nginx/pull/4",
+      "text": "Delete teleicu"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_dashboard#52",
+      "time": "2022-10-27T11:49:39Z",
+      "link": "https://github.com/coronasafe/care_dashboard/pull/52",
+      "text": "updated ACTIVATED_DISTRICTS"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_dashboard#52",
+      "time": "2022-10-27T11:54:13Z",
+      "link": "https://github.com/coronasafe/care_dashboard/pull/52",
+      "text": "updated ACTIVATED_DISTRICTS"
     }
   ],
   "open_prs": [

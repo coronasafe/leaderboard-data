@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-20T18:39:57+00:00",
+  "last_updated": "2024-03-29T18:31:19+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1336",
+      "time": "2024-03-29T18:31:19+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1336#issuecomment-2027582752",
+      "text": "Hi @sainak @rithviknishad I have raised a pull request at https://github.com/coronasafe/care/pull/2035 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2035",
+      "time": "2024-03-29T18:30:12+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2035",
+      "text": "fix N+1 queries in /api/v1/resource/"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1336",
+      "time": "2024-03-27T12:06:44+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1336#issuecomment-2022609493",
+      "text": "I found the view `ResourceRequestViewSet`, working on it."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1336",
@@ -23,6 +44,13 @@
       "text": "Hi @sainak can I work on this issue\r\n"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/2035",
+      "title": "fix N+1 queries in /api/v1/resource/",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

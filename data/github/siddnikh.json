@@ -1184,6 +1184,27 @@
       "time": "2022-05-22T09:24:11.000Z",
       "link": "https://github.com/coronasafe/care/pull/775",
       "text": "Modified maximum number of doses for a patient"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4672",
+      "time": "2023-02-02T03:21:45Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4672",
+      "text": "Added scroll bar to avoid overflow of number of beds in facility page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5413",
+      "time": "2023-08-02T03:00:25Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5413",
+      "text": "Add support for creating multiple beds"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1406",
+      "time": "2023-06-25T10:33:44Z",
+      "link": "https://github.com/coronasafe/care/pull/1406",
+      "text": "Changed Regex Validator for Phone Number Field for Patient Registration Form"
     }
   ],
   "open_prs": [],

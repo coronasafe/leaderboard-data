@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-03-22T21:29:11Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#18",
+      "time": "2020-03-22T21:29:11Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/18",
+      "text": "Adding CI Files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#18",
+      "time": "2020-03-22T21:30:49Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/18",
+      "text": "Adding CI Files"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

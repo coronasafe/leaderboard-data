@@ -645,6 +645,34 @@
       "time": "2022-05-17T09:44:00.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2332",
       "text": "fix: Notes breadcrumb link on Patient Notes page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4227",
+      "time": "2022-12-08T18:37:07Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4227",
+      "text": "Fix (HospitalList): textarea of notify facility modal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4306",
+      "time": "2022-12-15T05:17:04Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4306",
+      "text": "Fix (AddLocationForm): location edit cancel button triggers toast notification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4339",
+      "time": "2022-12-20T04:10:38Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4339",
+      "text": "Fix (UpdateFacilityMiddleware): made the facility middleware form responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4377",
+      "time": "2022-12-20T18:04:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4377",
+      "text": "Fix (Sidebar): made the sidebar collapse on clicking active links"
     }
   ],
   "open_prs": [],

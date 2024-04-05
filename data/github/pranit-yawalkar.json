@@ -54,6 +54,27 @@
       "time": "2023-04-06T11:16:24.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5236#issuecomment-1498902962",
       "text": "Hey, I would like to work on this."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#5275",
+      "time": "2023-04-07T15:50:31Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5275",
+      "text": "Changed save configuration button width to full width"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5275",
+      "time": "2023-04-11T10:56:36Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5275",
+      "text": "Changed save configuration button width to full width"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5285",
+      "time": "2023-04-11T11:01:55Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5285",
+      "text": "Consultation form aligned center"
     }
   ],
   "open_prs": [],

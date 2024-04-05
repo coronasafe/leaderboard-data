@@ -1,0 +1,42 @@
+{
+  "last_updated": "2021-04-29T07:27:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#547",
+      "time": "2021-04-29T07:27:34Z",
+      "link": "https://github.com/coronasafe/care/pull/547",
+      "text": "Fixes #501 Added `district_id` filter to the User List View"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#547",
+      "time": "2021-04-30T13:25:38Z",
+      "link": "https://github.com/coronasafe/care/pull/547",
+      "text": "Fixes #501 Added `district_id` filter to the User List View"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#548",
+      "time": "2021-04-29T07:28:31Z",
+      "link": "https://github.com/coronasafe/care/pull/548",
+      "text": "Added collectstatic step to README"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#548",
+      "time": "2021-04-30T13:01:23Z",
+      "link": "https://github.com/coronasafe/care/pull/548",
+      "text": "Added collectstatic step to README"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/life#260",
+      "time": "2021-05-04T06:24:44Z",
+      "link": "https://github.com/coronasafe/life/pull/260",
+      "text": "WIP commit for review comments"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

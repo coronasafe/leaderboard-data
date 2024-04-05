@@ -662,6 +662,13 @@
       "time": "2023-05-19T07:07:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5487",
       "text": "Replaced Material UI components with Form component in DeathReport.tsx #4939"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6255",
+      "time": "2023-09-09T13:45:01Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6255",
+      "text": "Asset filter parameters reset on unselect"
     }
   ],
   "open_prs": [],

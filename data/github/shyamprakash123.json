@@ -845,6 +845,20 @@
       "time": "2023-09-25T04:43:26.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6330#issuecomment-1732899121",
       "text": "I would like to work on this issue, can you assign me to this?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6532",
+      "time": "2023-11-07T03:58:16Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6532",
+      "text": "☑️ Added Loading component while the assets are being fetched."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6536",
+      "time": "2023-11-07T03:57:11Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/6536",
+      "text": "🔧 Hide Camera Feed Tab for bed with no camera attached."
     }
   ],
   "open_prs": [
