@@ -1,6 +1,83 @@
 {
-  "last_updated": "2024-04-02T03:27:17+00:00",
+  "last_updated": "2024-04-24T11:21:57+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7644",
+      "time": "2024-04-24T11:21:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644#issuecomment-2074713872",
+      "text": "@rithviknishad  I have made all relevant changes but I am unable to get cypress test failing reason, can you tell  what updates do i have to make in cypress ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7644",
+      "time": "2024-04-24T06:54:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644#issuecomment-2074206736",
+      "text": "@nihal467 okay"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7522",
+      "time": "2024-04-18T15:52:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7522#issuecomment-2064333068",
+      "text": "@rithviknishad I have made relevant changes, kindly review the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7644",
+      "time": "2024-04-17T12:14:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644#issuecomment-2061120105",
+      "text": "@rithviknishad can you review the PR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7644",
+      "time": "2024-04-17T10:24:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644",
+      "text": "Fixed #7610 Toggle  Emergency Contact No. From Phone Number"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7635",
+      "time": "2024-04-17T05:43:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7635#issuecomment-2060418843",
+      "text": "@nihal467 can you please assign this issue to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7622",
+      "time": "2024-04-17T05:33:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7622#issuecomment-2060387473",
+      "text": "@rithviknishad can you assign this issue to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7592",
+      "time": "2024-04-16T06:43:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7592#issuecomment-2058350728",
+      "text": "@bodhish done"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7610",
+      "time": "2024-04-15T06:39:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7610#issuecomment-2055620563",
+      "text": "@gayann-au @rithviknishad can you please assign this to me?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7592",
+      "time": "2024-04-13T11:16:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7592",
+      "text": "[FIXED] Able to Change the Values using Upward and Downward arrow"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7572",
+      "time": "2024-04-12T16:05:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7572#issuecomment-2052048882",
+      "text": "@rithviknishad can you please assign this issue to me?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7522",
@@ -112,6 +189,33 @@
       "text": "@rithviknishad, can you please assign this to me?"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7644",
+      "title": "Fixed #7610 Toggle  Emergency Contact No. From Phone Number",
+      "stale_for": 0,
+      "labels": [
+        "changes required",
+        "cypress failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7592",
+      "title": "[FIXED] Able to Change the Values using Upward and Downward arrow",
+      "stale_for": 1,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7522",
+      "title": "[Enhancement] Ventilator Parameters Input - Validate Consultation Bed for Linked Ventilator Asset is resolved",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "test failed"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

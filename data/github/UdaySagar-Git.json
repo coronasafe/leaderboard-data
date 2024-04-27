@@ -1,6 +1,250 @@
 {
-  "last_updated": "2024-04-04T15:02:09+00:00",
+  "last_updated": "2024-04-24T14:29:50+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7698",
+      "time": "2024-04-24T14:29:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7698",
+      "text": "Merge develop to staging v24.18.0",
+      "collaborated_with": [
+        "GokulramGHV",
+        "nihal467",
+        "thedevildude",
+        "kshitijv256"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-04-24T07:17:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367",
+      "text": "Introduced Reusable JSON Parser and Validator with Schema, File Preview, and Selected Import Support for XLSX/CSV Files",
+      "turnaround_time": 3778
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-04-24T07:17:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367",
+      "text": "Introduced Reusable JSON Parser and Validator with Schema, File Preview, and Selected Import Support for XLSX/CSV Files",
+      "collaborated_with": [
+        "gigincg",
+        "Ashesh3",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7556",
+      "time": "2024-04-24T06:46:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7556",
+      "text": "Fix: unusual behaviour when removing selected Options",
+      "turnaround_time": 54714
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7556",
+      "time": "2024-04-24T06:46:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7556",
+      "text": "Fix: unusual behaviour when removing selected Options",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7561",
+      "time": "2024-04-24T06:46:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7561",
+      "text": "fix: Auto-close country codes dropdown when clicking outside the component",
+      "turnaround_time": 54706
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7561",
+      "time": "2024-04-24T06:46:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7561",
+      "text": "fix: Auto-close country codes dropdown when clicking outside the component",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-18T23:41:20+00:00",
+      "title": "coronasafe/care_fe#7556",
+      "link": "https://github.com/coronasafe/care_fe/pull/7556#pullrequestreview-2010111733",
+      "text": "Fix: unusual behaviour when removing selected Options"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-04-18T23:21:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#issuecomment-2065475241",
+      "text": "@rithviknishad done! "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7607",
+      "time": "2024-04-18T22:49:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7607#issuecomment-2065449043",
+      "text": "@Sulochan-khadka , I completely agree with you, buddy! \ud83d\ude00 That PR involved a couple of changes in packages, which in turn resulted in a very large PR. \r\nI'll keep that in mind from next time."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7607",
+      "time": "2024-04-16T17:54:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7607#issuecomment-2059646904",
+      "text": "@Sulochan-khadka @nihal467 this issue is already covered in my pr https://github.com/coronasafe/care_fe/pull/7367\r\n\r\ni will fix the merge conficts and push it as soon as possible "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7605",
+      "time": "2024-04-14T16:15:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7605#issuecomment-2054110772",
+      "text": "I would like to take this as well can you please assign me !"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7604",
+      "time": "2024-04-14T16:06:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7604#issuecomment-2054108219",
+      "text": "i would like to work on this can you please assign this to me "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#430",
+      "time": "2024-04-13T20:21:48+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/430#issuecomment-2053749818",
+      "text": "@dgparmar14 we need authentication to verify the users who will have access to private repositories, right? \r\nthe problem here is how we going to allow which users will have access \r\nlet me know if you have any ideas on how this can be achived "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#430",
+      "time": "2024-04-13T20:16:30+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/430#issuecomment-2053748603",
+      "text": "@rithviknishad , can we have a separate endpoint that is only accessible to the owner? The owner's email will be placed in the env , and the user with that email can access a route where the owner can add users' emails to allow them access to the website. I think we can somehow have write access permissions for the data repository directly using GitHub's new fine-grained PAT and update the data repository using Octokit.\r\n![image](https://github.com/coronasafe/leaderboard/assets/111575806/a952f2be-f24e-486d-95b0-c0c497e3eb2b)\r\n, Also, we can directly update a specific file, such as `allowedUsers`, from the web using Octokit.\r\nhttps://stackoverflow.com/questions/41316067/updating-a-file-in-github-repository-using-octokit"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#430",
+      "time": "2024-04-11T08:50:36+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/430#issuecomment-2049225821",
+      "text": "That might be a bit tricky! \r\n\r\n- One thing we can do is domain specific validation (email@organization.com).\r\n- Only the users present in the data repository will be validated or allowed.\r\n- We can add something like a request for access, which creates a PR similar to what we have for updating profiles. If and only if the pr gets merged, then the user will get access."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#430",
+      "time": "2024-04-10T17:38:27+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/430#issuecomment-2048121190",
+      "text": "> How would you validate a user is allowed to access the deployment?\r\n\r\n- The feature will be disabled by default, and all routes related to authentication (/api/auth) will redirect to the home page if it's disabled.\r\n- The user needs to manually change a flag like (ENABLE_AUTHENTICATION=true) in the environment variables to enable authentication.\r\n- If a user has enabled this flag, they need to provide a client ID and secret from their own OAuth.\r\n- The user's role will be fetched from the data repo directly based on a username."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#430",
+      "time": "2024-04-10T17:04:57+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/430#issuecomment-2048064046",
+      "text": "@rithviknishad can you please assign this to me !"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#430",
+      "time": "2024-04-10T17:03:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/430",
+      "text": "Configurable Authentication for Leaderboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7561",
+      "time": "2024-04-10T14:56:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7561#issuecomment-2047784070",
+      "text": "> Would it be possible to use one of the headlessui component to handle the dropdown/popover? So that we won't need a custom hook to handle click outside to begin with?\r\n\r\nwill give it a try"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-04-09T10:48:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#issuecomment-2044699190",
+      "text": "@rithviknishad can you please mark this as needs testing "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-09T10:20:52+00:00",
+      "title": "coronasafe/care_fe#7561",
+      "link": "https://github.com/coronasafe/care_fe/pull/7561#pullrequestreview-1988677840",
+      "text": "fix: Auto-close country codes dropdown when clicking outside the component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7561",
+      "time": "2024-04-07T06:34:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7561",
+      "text": "fix: Auto-close country codes dropdown when clicking outside the component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7557",
+      "time": "2024-04-06T21:42:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7557#issuecomment-2041212472",
+      "text": "can you please assign me !"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7557",
+      "time": "2024-04-06T21:42:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7557",
+      "text": "Auto-close country codes dropdown when clicking outside the component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7556",
+      "time": "2024-04-06T21:06:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7556",
+      "text": "Fixed unusual behaviour when removing selected Options"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7552",
+      "time": "2024-04-06T20:09:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7552#issuecomment-2041182453",
+      "text": "@ShreySinha02 the drop down will automatically close when a single select option is selected (asymptomatic) , and it will remain inclosed when multi select option is selected "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7552",
+      "time": "2024-04-06T06:53:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7552#issuecomment-2040995069",
+      "text": "can you please assign this to me "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7552",
+      "time": "2024-04-06T06:53:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7552",
+      "text": "Unexpected Behaviour When Removing Multiple Selected Options"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7417",
+      "time": "2024-04-06T04:24:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7417#issuecomment-2040960682",
+      "text": "@itxsoumya Are you still working on this issue? If not, I would like to take it up.\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-05T12:47:43+00:00",
+      "title": "coronasafe/care#1964",
+      "link": "https://github.com/coronasafe/care/pull/1964#pullrequestreview-1983081116",
+      "text": "Adds bulk import support for assets"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-05T12:15:21+00:00",
+      "title": "coronasafe/care#1964",
+      "link": "https://github.com/coronasafe/care/pull/1964#pullrequestreview-1983005809",
+      "text": "Adds bulk import support for assets"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-04-04T15:02:09+00:00",
@@ -1012,23 +1256,26 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1964",
       "title": "Adds bulk import support for assets",
-      "stale_for": 0,
+      "stale_for": 19,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7367",
-      "title": "Introduced Reusable JSON Parser and Validator with Schema, File Preview, and Selected Import Support for XLSX/CSV Files",
-      "stale_for": 2,
-      "labels": [
-        "test failed",
-        "Deploy-Failed"
-      ]
     }
   ],
   "authored_issue_and_pr": [
     {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7557",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7561"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7552",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7556"
+    },
+    {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/377",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/380"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7333",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7367"
     },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/312",

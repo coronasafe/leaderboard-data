@@ -1,6 +1,56 @@
 {
-  "last_updated": "2024-04-03T03:40:58+00:00",
+  "last_updated": "2024-04-18T14:40:39+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-04-18T14:40:39+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2064051824",
+      "text": "blur placeholder doesnt seem to work on client side so I removed it for hover card only"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#423",
+      "time": "2024-04-18T12:23:15+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/423",
+      "text": "refactor: implemented dynamic import on /people route",
+      "turnaround_time": 3453
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-18T07:02:24+00:00",
+      "title": "coronasafe/leaderboard#423",
+      "link": "https://github.com/coronasafe/leaderboard/pull/423#pullrequestreview-2008021182",
+      "text": "refactor: implemented dynamic import on /people route"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#421",
+      "time": "2024-04-06T13:29:36+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/421#issuecomment-2041082594",
+      "text": "@rash-27 only the hover card is being rendered client side in my PR. You can see to learn more."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#421",
+      "time": "2024-04-06T11:30:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/421#issuecomment-2041054525",
+      "text": "@rithviknishad sorry for making a PR before getting assigned. Just happened to get some free time today."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#421",
+      "time": "2024-04-06T11:28:07+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/421#issuecomment-2041053928",
+      "text": "@rash-27 i think you forgot to put the condition when to dynamically import"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#423",
+      "time": "2024-04-06T11:25:42+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/423",
+      "text": "refactor: implemented dynamic import on /people route"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#398",

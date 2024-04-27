@@ -1155,5 +1155,346 @@
                 }
             ]
         }
+    ],
+    "2024-04-05 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1712338140.873079",
+            "client_msg_id": "17dd2a8b-3a97-40be-97f8-efdbe128984c",
+            "text": "EOD 05/04/2024\n\u2022 Made PR from terraform testing branch to master. \n\u2022 Worked on improving middleware generating scripts. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cjy50",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 05/04/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR from terraform testing branch to master. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on improving middleware generating scripts. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-04-08 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1712612821.766309",
+            "client_msg_id": "4013ccda-5057-447f-800f-8463c7e641ff",
+            "text": "EOD 08/04/2024\n\u2022 drafted a obsidian vault for documenting dev-ops docs\n\u2022 worked on ansible script for migrating middleware to cert based auth",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "P9aqu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 08/04/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "drafted a obsidian vault for documenting dev-ops docs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "worked on ansible script for migrating middleware to cert based auth"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-04-11 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1712872610.078549",
+            "client_msg_id": "75419d94-2ab5-4761-b750-b0790b636e67",
+            "text": "EOD 11/04/2024\n\u2022 pushed Docusaurus devops-docs to 10bedicu\n\u2022 tested ansible script for cert authentication. \n\u2022 worked on terraform script to manage cloudflare access applications",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UbCVI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 11/04/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "pushed Docusaurus devops-docs to 10bedicu"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "tested ansible script for cert authentication. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "worked on terraform script to manage cloudflare access applications"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-04-15 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1713206754.596379",
+            "client_msg_id": "a0b70e5f-94aa-4153-aa9f-6b6ad98e9e12",
+            "text": "EOD 15/04/2024\n\u2022 pushed final draft of DevOps Docs \n\u2022 rewrote and tested ansible script to add provided ssh pub key to middleware instances. \n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rsSVB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 15/04/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "pushed final draft of DevOps Docs "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "rewrote and tested ansible script to add provided ssh pub key to middleware instances. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-04-17 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1713386634.943439",
+            "client_msg_id": "28db8d28-fcdd-4149-9a81-0cbfe4f6cdc8",
+            "text": "EOD 17/04/2024\n\u2022 Added ssh-key ansible script to devops docs. \n\u2022 finished working on the midlleware ssh-key script ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7ISEw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 17/04/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added ssh-key ansible script to devops docs. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "finished working on the midlleware ssh-key script "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-04-18 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1713469332.824459",
+            "client_msg_id": "055df3bc-fb20-4f84-ab00-ecb583200eb3",
+            "text": "EOD 18/04/2024\n\u2022 test deployed care-devops-docs.\n\u2022 helped with ssh-key migration.\n\u2022 configured hosts.yml required for jumpserver ansible scripts.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "x53lk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 18/04/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "test deployed care-devops-docs."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "helped with ssh-key migration."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "configured hosts.yml required for jumpserver ansible scripts."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

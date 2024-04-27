@@ -1,6 +1,40 @@
 {
-  "last_updated": "2024-03-28T18:50:18+00:00",
+  "last_updated": "2024-04-26T18:48:48+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7656",
+      "time": "2024-04-26T18:48:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7656#issuecomment-2079950500",
+      "text": "@rithviknishad @aparnacoronasafe is there any api to find out the role of a logged in user.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7656",
+      "time": "2024-04-26T17:21:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7656#issuecomment-2079788792",
+      "text": "> @vishisht-dubey few more things:\r\n> \r\n> * As for the migration, existing data can be set to null for `prescribed_by`.\r\n> * For such entries show only \"entered by `<user name>`\" in the FE and omit the \"prescribed by `<user name>`\"\r\n> * The prescribed by doctor's home facility must be the same as the patient's admitted facility.\r\n> \r\n> cc: @aparnacoronasafe\r\n\r\nok got it"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/ayushma_fe#196",
+      "time": "2024-04-22T16:32:35+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/196",
+      "text": "prod",
+      "collaborated_with": [
+        "ishanExtreme",
+        "skks1212",
+        "Ashesh3",
+        "Lobi29"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7656",
+      "time": "2024-04-19T07:45:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7656#issuecomment-2065987151",
+      "text": "Hey @aparnacoronasafe would you please assign this to me??"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#405",
@@ -245,7 +279,7 @@
       "title": "coronasafe/ayushma_fe#190",
       "time": "2024-03-08T17:21:37+00:00",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1986102695",
-      "text": "> @vishisht-dubey if there are no premade components for uploading files, you can go ahead and create one. Although have a look at the document upload page\r\n> \r\n> Also I see in the CSV languages are not in ISO language format as requested in the issue.\r\n\r\n\r\n\r\n> @vishisht-dubey if there are no premade components for uploading files, you can go ahead and create one. Although have a look at the document upload page\r\n> \r\n> Also I see in the CSV languages are not in ISO language format as requested in the issue.\r\n\r\n@skks1212 is this UI ok??\r\n![Uploading Screenshot 2024-03-08 225045.png…]()\r\n"
+      "text": "> @vishisht-dubey if there are no premade components for uploading files, you can go ahead and create one. Although have a look at the document upload page\r\n> \r\n> Also I see in the CSV languages are not in ISO language format as requested in the issue.\r\n\r\n\r\n\r\n> @vishisht-dubey if there are no premade components for uploading files, you can go ahead and create one. Although have a look at the document upload page\r\n> \r\n> Also I see in the CSV languages are not in ISO language format as requested in the issue.\r\n\r\n@skks1212 is this UI ok??\r\n![Uploading Screenshot 2024-03-08 225045.png\u2026]()\r\n"
     },
     {
       "type": "comment_created",
@@ -498,7 +532,7 @@
     {
       "link": "https://github.com/coronasafe/ayushma_fe/pull/192",
       "title": "Closes #Issue-191 UI Compatibility",
-      "stale_for": 7,
+      "stale_for": 36,
       "labels": []
     }
   ],

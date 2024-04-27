@@ -1,6 +1,230 @@
 {
-  "last_updated": "2024-04-01T17:04:28+00:00",
+  "last_updated": "2024-04-25T14:05:48+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7708",
+      "time": "2024-04-25T14:05:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7708#issuecomment-2077284796",
+      "text": "this will be fixed with my change \r\nhttps://github.com/coronasafe/care_fe/pull/7588"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2116",
+      "time": "2024-04-25T14:03:45+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2116#issuecomment-2077278345",
+      "text": "> LGTM, but there is no need to make the filter specific to hl7 monitor right? We can make a filter `not_occupied_by_asset_type` which accepts the asset type to exclude.\r\n> \r\n> This way it'd work for excluding ONVIF cameras or ventilators too if needed in the future.\r\n\r\nyes makes sense and is also scalable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2116",
+      "time": "2024-04-24T21:07:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2116",
+      "text": "Disable the Bed List of Already occupied Beds (back-end change)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7699",
+      "time": "2024-04-24T21:03:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7699",
+      "text": "Disable the Bed List of Already occupied Beds (front-end change)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T13:30:12+00:00",
+      "title": "coronasafe/care_fe#7609",
+      "link": "https://github.com/coronasafe/care_fe/pull/7609#pullrequestreview-2019879417",
+      "text": "Fix Notifications for Facility Cover Image Deletion "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7671",
+      "time": "2024-04-20T19:51:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7671",
+      "text": "Allow only admins to delete a location or a bed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2089",
+      "time": "2024-04-20T12:51:52+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2089#issuecomment-2067664339",
+      "text": "@sainak have resolved your comments pls take a look "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7609",
+      "time": "2024-04-17T14:29:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7609#issuecomment-2061400024",
+      "text": "pls take a look @bodhish "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7588",
+      "time": "2024-04-17T14:17:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7588#issuecomment-2061372664",
+      "text": "@bodhish i have upadated the pr also. these other changes in file are not because of my changes they are related to commits which were merged"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T12:55:11+00:00",
+      "title": "coronasafe/care#2089",
+      "link": "https://github.com/coronasafe/care/pull/2089#pullrequestreview-2003551829",
+      "text": "Fix facility n+1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2089",
+      "time": "2024-04-15T19:17:38+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2089",
+      "text": "Fix facility n+1"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7571",
+      "time": "2024-04-15T18:53:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7571#issuecomment-2057593696",
+      "text": "@khavinshankar @Ashesh3 my changes are to handle invalid qr code \r\ncurrently the page starts infinite loading if a wrong QR code is sent \r\nand notification says something went wrong "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-15T12:25:32+00:00",
+      "title": "coronasafe/care_fe#7609",
+      "link": "https://github.com/coronasafe/care_fe/pull/7609#pullrequestreview-2000964094",
+      "text": "Fix Notifications for Facility Cover Image Deletion "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-15T12:23:14+00:00",
+      "title": "coronasafe/care_fe#7609",
+      "link": "https://github.com/coronasafe/care_fe/pull/7609#pullrequestreview-2000959109",
+      "text": "Fix Notifications for Facility Cover Image Deletion "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7601",
+      "time": "2024-04-15T08:04:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7601#issuecomment-2056050748",
+      "text": "i can take this up now "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7608",
+      "time": "2024-04-14T23:03:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7608#issuecomment-2054213465",
+      "text": "@nihal467 found the root cause for this will discuss my solution with others and make a pr\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7608",
+      "time": "2024-04-14T20:12:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7608#issuecomment-2054172556",
+      "text": "@nihal467 can i pick this up ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7595",
+      "time": "2024-04-14T20:11:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7595#issuecomment-2054172351",
+      "text": "@nihal467 we already had a notification for this one just fixed it do we still need the copy change ? it is currently \"Cover image deleted\""
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7609",
+      "time": "2024-04-14T20:08:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7609#issuecomment-2054171432",
+      "text": "@rithviknishad we already had notification for deletion its just that due to re-renders it does not show it. this should fix it \r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7609",
+      "time": "2024-04-14T20:07:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7609",
+      "text": "Fix Notifications for Facility Cover Image Deletion "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7595",
+      "time": "2024-04-14T09:45:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7595#issuecomment-2053987095",
+      "text": "can i take this up ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1840",
+      "time": "2024-04-12T13:15:29+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1840#issuecomment-2051742558",
+      "text": "this is on hold until #1757 is done "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7569",
+      "time": "2024-04-11T21:34:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7569#issuecomment-2050592767",
+      "text": "\r\n<img width=\"551\" alt=\"Screenshot 2024-04-12 at 2 58 40 AM\" src=\"https://github.com/coronasafe/care_fe/assets/85862184/060444bb-cd2f-4c74-a698-34899a2aa3fc\">\r\n\r\n\r\n@rithviknishad in the query object instead of adding `searchAll` we just have to use `unoccupiedOnly` this will solve this issue right ?\r\nlet me know if this is what we want ill make the pr for this one "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7571",
+      "time": "2024-04-11T20:15:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7571#issuecomment-2050445527",
+      "text": "@rithviknishad  here is the pr can you tell me how can i test is locally for valid QR codes "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7588",
+      "time": "2024-04-11T20:14:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7588",
+      "text": "Fix Incorrect error message for invalid QR code "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7571",
+      "time": "2024-04-11T15:32:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7571#issuecomment-2049973468",
+      "text": "fixing it and raising a pr "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7571",
+      "time": "2024-04-11T15:32:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7571#issuecomment-2049973114",
+      "text": "@rithviknishad I found the root cause "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7583",
+      "time": "2024-04-11T10:35:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7583#issuecomment-2049400090",
+      "text": "@sainak can i take this up ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-04-10T18:26:13+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-2048196278",
+      "text": "@sainak @nihal467 the docker for me now shows update_by field already present is table ambulance but its not.\r\nalso it says \"facility_ambulance\" so how are they related i was not able to find this, the relation seems like the issue here \r\n \r\n<img width=\"1491\" alt=\"Screenshot 2024-04-10 at 11 45 55 PM\" src=\"https://github.com/coronasafe/care/assets/85862184/a54bbc82-e20a-4558-82ff-f9da76c13ca9\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-04-10T14:30:50+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-2047716098",
+      "text": "@nihal467 there was a pr which was related to db change which was conflicting with my change deleted those migrations and created new ones."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-04-09T14:05:37+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-2045267184",
+      "text": "> @AnkurPrabhu ![image](https://private-user-images.githubusercontent.com/57055998/320667486-ddc9f18e-9f9e-4157-adf9-7784ed547c86.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI2NzE3NzEsIm5iZiI6MTcxMjY3MTQ3MSwicGF0aCI6Ii81NzA1NTk5OC8zMjA2Njc0ODYtZGRjOWYxOGUtOWY5ZS00MTU3LWFkZjktNzc4NGVkNTQ3Yzg2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA5VDE0MDQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4ZGMxNjczZjU2YWM0ZjMwN2NjNDk5NDkwYWQ1ZWE4ZGI5NzU0OTY1ZDhiOTg2YjQ2NDRhNDg4OWMyNDRiZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.93IBcYzzgi-R8Oep83bsgcTGLH73xUv09zQnrf0goAE)\r\n> \r\n> the backend is not loading properly in docker, just check your PR is working properly , there are migration missing in it\r\n\r\n\r\nwas working fine for me will take a look "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2024",
+      "time": "2024-04-05T20:37:59+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2024#issuecomment-2040595347",
+      "text": "@sainak let me know if the changes made look good to you "
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2038",
@@ -450,7 +674,7 @@
       "title": "coronasafe/care_fe#7288",
       "time": "2024-02-29T15:33:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971395852",
-      "text": "Yes I am\r\n\r\nOn Thu, 29 Feb 2024, 20:53 Arnit Gupta, ***@***.***> wrote:\r\n\r\n> Hi!\r\n> Is there anyone working on this issue?\r\n> If not may i proceed with the task?\r\n>\r\n> —\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971374292>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/AUPCOKCK6HQAHAMN7GEAOYDYV5DXJAVCNFSM6AAAAABD3Y2NZ2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSNZRGM3TIMRZGI>\r\n> .\r\n> You are receiving this because you were assigned.Message ID:\r\n> ***@***.***>\r\n>\r\n"
+      "text": "Yes I am\r\n\r\nOn Thu, 29 Feb 2024, 20:53 Arnit Gupta, ***@***.***> wrote:\r\n\r\n> Hi!\r\n> Is there anyone working on this issue?\r\n> If not may i proceed with the task?\r\n>\r\n> \u2014\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971374292>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/AUPCOKCK6HQAHAMN7GEAOYDYV5DXJAVCNFSM6AAAAABD3Y2NZ2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSNZRGM3TIMRZGI>\r\n> .\r\n> You are receiving this because you were assigned.Message ID:\r\n> ***@***.***>\r\n>\r\n"
     },
     {
       "type": "comment_created",
@@ -462,15 +686,61 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/2116",
+      "title": "Disable the Bed List of Already occupied Beds (back-end change)",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7699",
+      "title": "Disable the Bed List of Already occupied Beds (front-end change)",
+      "stale_for": 0,
+      "labels": [
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7671",
+      "title": "Allow only admins to delete a location or a bed",
+      "stale_for": 1,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2089",
+      "title": "Fix facility n+1",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7609",
+      "title": "Fix Notifications for Facility Cover Image Deletion ",
+      "stale_for": 1,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7588",
+      "title": "Fix Incorrect error message for invalid QR code ",
+      "stale_for": 4,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/2024",
       "title": "add support for configurable sms backend",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 17,
+      "labels": [
+        "Hold"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1940",
       "title": "Add created_by and updated_by fields to base model",
-      "stale_for": 6,
+      "stale_for": 9,
       "labels": []
     }
   ],

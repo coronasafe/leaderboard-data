@@ -1,6 +1,781 @@
 {
-  "last_updated": "2024-04-04T16:45:15+00:00",
+  "last_updated": "2024-04-26T12:12:52+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7718",
+      "time": "2024-04-26T12:12:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7718",
+      "text": "Minor fix | Merge develop to Staging v24.18.0",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7707",
+      "time": "2024-04-26T07:53:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7707",
+      "text": "Fix facility page live monitor button",
+      "turnaround_time": 75042
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-26T07:25:16+00:00",
+      "title": "coronasafe/care_fe#7714",
+      "link": "https://github.com/coronasafe/care_fe/pull/7714#pullrequestreview-2024302503",
+      "text": "disable ratelimiting for cypress action"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-25T18:49:58+00:00",
+      "title": "coronasafe/care_fe#7688",
+      "link": "https://github.com/coronasafe/care_fe/pull/7688#pullrequestreview-2023339650",
+      "text": "'Treating Physician' field nomenclature changed to 'Treating Doctor' "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-25T18:49:46+00:00",
+      "title": "coronasafe/care_fe#7709",
+      "link": "https://github.com/coronasafe/care_fe/pull/7709#pullrequestreview-2023338895",
+      "text": "Enhancements to Doctor Connect Slideover"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-25T18:49:25+00:00",
+      "title": "coronasafe/care_fe#7644",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644#pullrequestreview-2023337601",
+      "text": "Fixed #7610 Toggle  Emergency Contact No. From Phone Number"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-25T18:49:12+00:00",
+      "title": "coronasafe/care_fe#7645",
+      "link": "https://github.com/coronasafe/care_fe/pull/7645#pullrequestreview-2023336989",
+      "text": "[FIXED] Modified Notification related to Patient Log update successfully"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7710",
+      "time": "2024-04-25T14:46:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7710",
+      "text": "Change home facility indicator in linked facilities slideover"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7707",
+      "time": "2024-04-25T12:16:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7707",
+      "text": "Fix facility page live monitor button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T16:55:03+00:00",
+      "title": "coronasafe/ayushma#512",
+      "link": "https://github.com/coronasafe/ayushma/pull/512#pullrequestreview-2020435945",
+      "text": "Show chat's feedbacks"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T11:35:35+00:00",
+      "title": "coronasafe/care_fe#6901",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#pullrequestreview-2019615355",
+      "text": "Added Timeline UI for Bed Activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T11:34:21+00:00",
+      "title": "coronasafe/care_fe#7618",
+      "link": "https://github.com/coronasafe/care_fe/pull/7618#pullrequestreview-2019613175",
+      "text": "Add notification for inventory use stock. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1647",
+      "time": "2024-04-24T11:01:55+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1647#issuecomment-2074681342",
+      "text": "Closing in favor of https://github.com/coronasafe/care_fe/issues/6276"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1647",
+      "time": "2024-04-24T11:01:54+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1647",
+      "text": "Assigning patient to multiple doctors/nurses in consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1903",
+      "time": "2024-04-24T10:58:19+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1903#issuecomment-2074675717",
+      "text": "@rithviknishad @sainak @khavinshankar @vigneshhari could you guys review this?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2114",
+      "time": "2024-04-24T08:24:03+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2114",
+      "text": "Prevent destination facility from marking shift as complete"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7697",
+      "time": "2024-04-24T08:21:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7697",
+      "text": "Rework Shifting Process for \"Complete\" stage"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-04-24T07:17:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367",
+      "text": "Introduced Reusable JSON Parser and Validator with Schema, File Preview, and Selected Import Support for XLSX/CSV Files",
+      "collaborated_with": [
+        "UdaySagar-Git",
+        "gigincg",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/zoomdrive#20",
+      "time": "2024-04-24T05:42:27+00:00",
+      "link": "https://github.com/coronasafe/zoomdrive/pull/20",
+      "text": "Fix workflow file hyperlink in README",
+      "turnaround_time": 80349
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T05:32:31+00:00",
+      "title": "coronasafe/care#2110",
+      "link": "https://github.com/coronasafe/care/pull/2110#pullrequestreview-2018864352",
+      "text": "Add validation for patient transfers"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/zoomdrive#20",
+      "time": "2024-04-24T04:41:24+00:00",
+      "link": "https://github.com/coronasafe/zoomdrive/pull/20#issuecomment-2074015605",
+      "text": "@rithviknishad could you review this once?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:39:11+00:00",
+      "title": "coronasafe/care_fe#7537",
+      "link": "https://github.com/coronasafe/care_fe/pull/7537#pullrequestreview-2018810713",
+      "text": "Replace react-qr-reader with @yudiel/react-qr-scanner package"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:38:43+00:00",
+      "title": "coronasafe/care#2089",
+      "link": "https://github.com/coronasafe/care/pull/2089#pullrequestreview-2018810147",
+      "text": "Fix facility n+1"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:38:09+00:00",
+      "title": "coronasafe/care#2093",
+      "link": "https://github.com/coronasafe/care/pull/2093#pullrequestreview-2018809610",
+      "text": "Add workflow to combine dependency update prs"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7694",
+      "time": "2024-04-24T04:36:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7694#issuecomment-2074011770",
+      "text": "Cypress tests failing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:36:27+00:00",
+      "title": "coronasafe/care_fe#7691",
+      "link": "https://github.com/coronasafe/care_fe/pull/7691#pullrequestreview-2018808198",
+      "text": "Allow 'State Admin Read Only' to view Camera + Refactor permissions related code to reduce duplication"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:35:58+00:00",
+      "title": "coronasafe/care_fe#7522",
+      "link": "https://github.com/coronasafe/care_fe/pull/7522#pullrequestreview-2018807787",
+      "text": "[Enhancement] Ventilator Parameters Input - Validate Consultation Bed for Linked Ventilator Asset is resolved"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:35:24+00:00",
+      "title": "coronasafe/care_fe#7694",
+      "link": "https://github.com/coronasafe/care_fe/pull/7694#pullrequestreview-2018807246",
+      "text": "Fixes alignment of \"Year of Birth\" text in patient registration form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:35:17+00:00",
+      "title": "coronasafe/care_fe#7556",
+      "link": "https://github.com/coronasafe/care_fe/pull/7556#pullrequestreview-2018807136",
+      "text": "Fix: unusual behaviour when removing selected Options"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:35:05+00:00",
+      "title": "coronasafe/care_fe#7551",
+      "link": "https://github.com/coronasafe/care_fe/pull/7551#pullrequestreview-2018806809",
+      "text": "search by typing in symptoms"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:34:42+00:00",
+      "title": "coronasafe/care_fe#7561",
+      "link": "https://github.com/coronasafe/care_fe/pull/7561#pullrequestreview-2018806279",
+      "text": "fix: Auto-close country codes dropdown when clicking outside the component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:33:42+00:00",
+      "title": "coronasafe/care_fe#7594",
+      "link": "https://github.com/coronasafe/care_fe/pull/7594#pullrequestreview-2018805481",
+      "text": "Add Sorting filter on Discharged Patients page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-24T04:33:29+00:00",
+      "title": "coronasafe/care_fe#7599",
+      "link": "https://github.com/coronasafe/care_fe/pull/7599#pullrequestreview-2018805306",
+      "text": "update middleware update notification"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-23T16:31:04+00:00",
+      "title": "coronasafe/care#2112",
+      "link": "https://github.com/coronasafe/care/pull/2112#pullrequestreview-2017744436",
+      "text": "Remove defining `date_of_birth` and `year_of_birth` serializer fields"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7641",
+      "time": "2024-04-23T07:54:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7641",
+      "text": "Terminology needs to Changed to \"Critical Care\" of Round type in Log Updates instead of 'Ventilator'"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7641",
+      "time": "2024-04-23T07:54:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7641#issuecomment-2071658115",
+      "text": "Fixed by https://github.com/coronasafe/care_fe/pull/7666"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7641",
+      "time": "2024-04-23T07:53:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7641#issuecomment-2071655881",
+      "text": "This seems to be resolved already - @nihal467 could you confirm?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-23T07:51:42+00:00",
+      "title": "coronasafe/care_fe#7652",
+      "link": "https://github.com/coronasafe/care_fe/pull/7652#pullrequestreview-2016514529",
+      "text": "Fixes profile page not able to retrieve details for superusers"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-23T07:50:48+00:00",
+      "title": "coronasafe/care_fe#7654",
+      "link": "https://github.com/coronasafe/care_fe/pull/7654#pullrequestreview-2016512758",
+      "text": "Migrate Consultation Camera Feed to use newer camera feed components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2110",
+      "time": "2024-04-23T04:10:07+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2110",
+      "text": "Add validation for patient transfers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7689",
+      "time": "2024-04-23T03:41:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7689",
+      "text": "Add Patient transfer validations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-23T01:09:53+00:00",
+      "title": "coronasafe/care#2101",
+      "link": "https://github.com/coronasafe/care/pull/2101#pullrequestreview-2016051478",
+      "text": "Annotate CSV export fields with patient age for sample test and shifting"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/teleicu_middleware#128",
+      "time": "2024-04-22T17:32:16+00:00",
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/128",
+      "text": "Production release v24.17.0",
+      "collaborated_with": [
+        "khavinshankar",
+        "sainak",
+        "mathew-alex",
+        "tomahawk-pilot"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/ayushma_fe#196",
+      "time": "2024-04-22T16:32:35+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/196",
+      "text": "prod",
+      "collaborated_with": [
+        "vishisht-dubey",
+        "ishanExtreme",
+        "skks1212",
+        "Lobi29"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/ayushma#511",
+      "time": "2024-04-22T16:31:45+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/511",
+      "text": "prod",
+      "collaborated_with": [
+        "sainak",
+        "aeswibon"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#193",
+      "time": "2024-04-22T16:20:56+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/193",
+      "text": "Stability Enhancements and Bug Fixes",
+      "turnaround_time": 77625
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#510",
+      "time": "2024-04-22T16:19:54+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/510",
+      "text": "Stability Enhancements and Bug Fixes",
+      "turnaround_time": 77897
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7680",
+      "time": "2024-04-22T09:09:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7680",
+      "text": "Production release v24.17.0 | April week 3",
+      "collaborated_with": [
+        "Spiral-Memory",
+        "khavinshankar",
+        "Pranshu1902",
+        "sainak",
+        "rithviknishad",
+        "nihal467",
+        "Aryanshu919",
+        "gigincg",
+        "jainvedant392",
+        "AshrafMd-1",
+        "Sulochan-khadka",
+        "bodhish"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2108",
+      "time": "2024-04-22T09:09:31+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2108",
+      "text": "Production release v24.17.0 | April week 3",
+      "collaborated_with": [
+        "gigincg",
+        "vigneshhari",
+        "sainak",
+        "jainvedant392",
+        "DraKen0009"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7670",
+      "time": "2024-04-20T13:51:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7670",
+      "text": "Merge develop to staging",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7667",
+      "time": "2024-04-20T12:42:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7667",
+      "text": "Merge develop to staging v24.16.0",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7666",
+      "time": "2024-04-20T12:35:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7666",
+      "text": "Fix round type display and qr field",
+      "turnaround_time": 1309
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7666",
+      "time": "2024-04-20T12:13:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7666",
+      "text": "Fix round type display and qr field"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#195",
+      "time": "2024-04-18T19:11:30+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/195",
+      "text": "Add Feedback Section to Admin Panel for Viewing and Acting on User Feedback"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#194",
+      "time": "2024-04-18T18:59:58+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/194",
+      "text": "Improvements and Fixes to Dark Mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#193",
+      "time": "2024-04-18T18:47:11+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/193",
+      "text": "Stability Enhancements and Bug Fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#510",
+      "time": "2024-04-18T18:41:38+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/510",
+      "text": "Stability Enhancements and Bug Fixes"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7655",
+      "time": "2024-04-18T11:07:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7655",
+      "text": "Merge develop to staging v24.16.0",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "Pranshu1902",
+        "Aryanshu919",
+        "jainvedant392",
+        "bodhish",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-18T09:41:44+00:00",
+      "title": "coronasafe/care_fe#7565",
+      "link": "https://github.com/coronasafe/care_fe/pull/7565#pullrequestreview-2008374431",
+      "text": "Added support for various abha qr in scan and pull"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-18T05:48:35+00:00",
+      "title": "coronasafe/care#2086",
+      "link": "https://github.com/coronasafe/care/pull/2086#pullrequestreview-2007902633",
+      "text": "fix patient sorting filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-18T05:48:10+00:00",
+      "title": "coronasafe/care#2099",
+      "link": "https://github.com/coronasafe/care/pull/2099#pullrequestreview-2007902203",
+      "text": "fix query bugs while resolving asset hostname"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7640",
+      "time": "2024-04-17T09:39:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7640",
+      "text": "Remove recording indicator when recorder is stopped",
+      "turnaround_time": 49140
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T21:52:07+00:00",
+      "title": "coronasafe/care_fe#7564",
+      "link": "https://github.com/coronasafe/care_fe/pull/7564#pullrequestreview-2004657330",
+      "text": "TEMP: disable eslint in code climate"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T21:51:22+00:00",
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-2004656485",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T21:50:07+00:00",
+      "title": "coronasafe/care_fe#7498",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#pullrequestreview-2004655147",
+      "text": "Restrict Unauthorized Users from Accessing Facility's Patient Registration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T21:49:37+00:00",
+      "title": "coronasafe/care_fe#7502",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#pullrequestreview-2004654635",
+      "text": "Issues/7501/appropriate-message-for-empty-records"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T21:49:01+00:00",
+      "title": "coronasafe/care_fe#7587",
+      "link": "https://github.com/coronasafe/care_fe/pull/7587#pullrequestreview-2004654017",
+      "text": "Icon overlapping with text in text-box of Patient's Notes.  #7586"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7640",
+      "time": "2024-04-16T20:00:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7640",
+      "text": "Remove recording indicator when recorder is stopped"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7628",
+      "time": "2024-04-16T16:11:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7628#issuecomment-2059456761",
+      "text": "> @nihal467 The URL seems to be wrong\r\n> \r\n> <img alt=\"image\" width=\"469\" src=\"https://private-user-images.githubusercontent.com/98876115/322903011-3a451531-6d1a-4bf8-85fc-91886efce2db.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMyODM5MzQsIm5iZiI6MTcxMzI4MzYzNCwicGF0aCI6Ii85ODg3NjExNS8zMjI5MDMwMTEtM2E0NTE1MzEtNmQxYS00YmY4LTg1ZmMtOTE4ODZlZmNlMmRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE2VDE2MDcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2MmExZjA4ZjNlZmExZmQ5MWJhNDVhMWE2MDgwOGZiM2YyNmY3NzJkMGU3OTMxMWI3ODQxMDhjMjFjM2FjMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9tilu3irdosNS6xP7WfhezlnfisZmAzl9Sr4pFQV6oQ\"> <img alt=\"image\" width=\"456\" src=\"https://private-user-images.githubusercontent.com/98876115/322903141-90caab28-f422-459a-9bc8-e6461beebb73.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMyODM5MzQsIm5iZiI6MTcxMzI4MzYzNCwicGF0aCI6Ii85ODg3NjExNS8zMjI5MDMxNDEtOTBjYWFiMjgtZjQyMi00NTlhLTliYzgtZTY0NjFiZWViYjczLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE2VDE2MDcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyY2NhNmE5NWVmMTVkMjAzYjhiZmNhMzY3ZDZlMjA0MmZhNmQ5MWJjMzczZDk5ZTQzZTdkYmYzZTJmN2ViOGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.7llBFtbagWWEY_MLXIZuVslykkfYV3IoQ16i0MvXIOc\">\r\n\r\napi url is correct.\r\n\r\nThis is the stacktrace of the crash:\r\n\r\n```\r\nFieldError\r\nUnsupported lookup 'age' for BigAutoField or join on the field not permitted, perhaps you meant range or gte?\r\n\r\nCannot resolve keyword 'age' into field. Choices are: abha_number, abha_number_id, action, address, allergies, allow_transfer, assigned_to, assigned_to_id, blood_group, cluster_name, consultations, contact_with_confirmed_carrier, contact_with_suspected_carrier, contacted_patients, contacts, countries_travelled, countries_travelled_old, covin_id, created_by, created_by_id, created_date, date_declared_positive, date_of_birth, date_of_delivery, date_of_receipt_of_information, date_of_result, date_of_return, date_of_test, death_datetime, deleted, designation_of_health_care_worker, disease_status, district, district_id, emergency_phone_number, estimated_contact_date, external_id, facility, facility_id, fit_for_blood_donation, frontline_worker, gender, has_SARI, id, instituion_of_health_care_worker, is_active, is_antenatal, is_declared_positive, is_medical_worker, is_migrant_worker, is_vaccinated, last_consultation, last_consultation_id, last_edited, last_edited_id, last_menstruation_start_date, last_vaccinated_...\r\n\r\n\r\nCrashed in non-app: django/db/models/sql/query.py in names_to_path\r\n\r\nShow 6 more frames\r\n\r\ncare/facility/api/viewsets/patient_sample.py in list at line 127\r\nIn App\r\n\r\n            and request.user.user_type < User.TYPE_VALUE_MAP[\"Doctor\"]\r\n        ):\r\n            raise PermissionDenied()\r\n        if settings.CSV_REQUEST_PARAMETER in request.GET:\r\n            queryset = self.filter_queryset(self.get_queryset()).values(\r\n                *PatientSample.CSV_MAPPING.keys()\r\n            )\r\n            return render_to_csv_response(\r\n                queryset,\r\n                field_header_map=PatientSample.CSV_MAPPING,\r\n__class__\t\r\n<class 'care.facility.api.viewsets.patient_sample.PatientSampleViewSet'>\r\nargs\t\r\n[]\r\nkwargs\t\r\n{}\r\nrequest\t\r\n<rest_framework.request.Request: GET '/api/v1/test_sample/?csv=1&'>\r\nself\t\r\n<care.facility.api.viewsets.patient_sample.PatientSampleViewSet object at 0x7f7fd3d49510>\r\n\r\nShow More\r\nCalled from: rest_framework/views.py in dispatch\r\n```"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7631",
+      "time": "2024-04-16T14:31:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7631",
+      "text": "Fix Content-type header in Scribe.tsx",
+      "turnaround_time": 9050
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7631",
+      "time": "2024-04-16T14:31:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7631",
+      "text": "Fix Content-type header in Scribe.tsx",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7631",
+      "time": "2024-04-16T12:01:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7631",
+      "text": "Fix Content-type header in Scribe.tsx"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2091",
+      "time": "2024-04-16T09:03:14+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2091",
+      "text": "Merge Develop to Staging 24.16.1",
+      "collaborated_with": [
+        "vigneshhari",
+        "DraKen0009",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7627",
+      "time": "2024-04-16T09:03:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7627",
+      "text": "Merge Develop to Staging 24.16.1",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak",
+        "Sulochan-khadka"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T06:36:43+00:00",
+      "title": "coronasafe/care_fe#7593",
+      "link": "https://github.com/coronasafe/care_fe/pull/7593#pullrequestreview-2002709063",
+      "text": "[FIXED] Total Discharge patients Number is made Visible for all user type"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7626",
+      "time": "2024-04-16T06:36:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7626",
+      "text": "Fix null dosage in Medicine Administrations",
+      "turnaround_time": 4562
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T06:35:08+00:00",
+      "title": "coronasafe/care_fe#7568",
+      "link": "https://github.com/coronasafe/care_fe/pull/7568#pullrequestreview-2002702849",
+      "text": "Fix Domiciliary Care discrepancy. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T06:35:08+00:00",
+      "title": "coronasafe/care_fe#7568",
+      "link": "https://github.com/coronasafe/care_fe/pull/7568#pullrequestreview-2002702849",
+      "text": "Fix Domiciliary Care discrepancy. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T06:33:03+00:00",
+      "title": "coronasafe/care_fe#7618",
+      "link": "https://github.com/coronasafe/care_fe/pull/7618#pullrequestreview-2002700158",
+      "text": "Add notification for inventory use stock. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T06:33:03+00:00",
+      "title": "coronasafe/care_fe#7618",
+      "link": "https://github.com/coronasafe/care_fe/pull/7618#pullrequestreview-2002700158",
+      "text": "Add notification for inventory use stock. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7617",
+      "time": "2024-04-15T18:10:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7617",
+      "text": "Fix asset qr scan",
+      "turnaround_time": 789
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7617",
+      "time": "2024-04-15T17:57:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7617",
+      "text": "Fix asset qr scan"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7481",
+      "time": "2024-04-15T17:34:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7481",
+      "text": "Integrate Voice-Enabled Form Filling with Care Scribe in Care Frontend",
+      "turnaround_time": 21131
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7481",
+      "time": "2024-04-15T17:34:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7481",
+      "text": "Integrate Voice-Enabled Form Filling with Care Scribe in Care Frontend",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2087",
+      "time": "2024-04-15T12:51:36+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2087",
+      "text": "Fix handling of missing resolved_middleware in asset_updates.py",
+      "turnaround_time": 684
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2087",
+      "time": "2024-04-15T12:40:13+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2087",
+      "text": "Fix handling of missing resolved_middleware in asset_updates.py"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-15T10:18:50+00:00",
+      "title": "coronasafe/care_fe#7614",
+      "link": "https://github.com/coronasafe/care_fe/pull/7614#pullrequestreview-2000638823",
+      "text": "Add combine action to merge dependabot prs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2084",
+      "time": "2024-04-15T09:12:31+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2084",
+      "text": "Handle missing instance.resolved_middleware in asset_updates",
+      "turnaround_time": 2142
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2084",
+      "time": "2024-04-15T08:36:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2084",
+      "text": "Handle missing instance.resolved_middleware in asset_updates"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_scribe#5",
+      "time": "2024-04-15T06:23:15+00:00",
+      "link": "https://github.com/coronasafe/care_scribe/issues/5",
+      "text": "Support for Azure Enterprise endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_scribe#4",
+      "time": "2024-04-14T18:56:21+00:00",
+      "link": "https://github.com/coronasafe/care_scribe/pull/4",
+      "text": "Add Scribe functionality",
+      "turnaround_time": 51335
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_scribe#4",
+      "time": "2024-04-14T18:56:21+00:00",
+      "link": "https://github.com/coronasafe/care_scribe/pull/4",
+      "text": "Add Scribe functionality",
+      "collaborated_with": [
+        "vigneshhari",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-12T16:38:38+00:00",
+      "title": "coronasafe/care#1829",
+      "link": "https://github.com/coronasafe/care/pull/1829#pullrequestreview-1997901444",
+      "text": "ABDM M3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/docs#19",
+      "time": "2024-04-10T22:13:18+00:00",
+      "link": "https://github.com/coronasafe/docs/pull/19",
+      "text": "Add Care Scribe Docs"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7577",
+      "time": "2024-04-08T17:56:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7577",
+      "text": "Production release v24.15.0 | April week 2",
+      "collaborated_with": [
+        "soumya-maheshwari",
+        "mohanrajnambe",
+        "aeswibon",
+        "rash-27",
+        "rithviknishad",
+        "AshrafMd-1",
+        "gigincg",
+        "nihal467",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-08T15:10:46+00:00",
+      "title": "coronasafe/care#2061",
+      "link": "https://github.com/coronasafe/care/pull/2061#pullrequestreview-1986743585",
+      "text": "Switch to using year of birth for patient transfer confirmation"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#2054",
@@ -19850,40 +20625,51 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/zoomdrive/pull/20",
-      "title": "Fix workflow file hyperlink in README",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_scribe/pull/4",
-      "title": "Add Scribe functionality",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/2020",
-      "title": "Implement Voice-Enabled Form Filling Feature in Care with Care Scribe",
+      "link": "https://github.com/coronasafe/care_fe/pull/7710",
+      "title": "Change home facility indicator in linked facilities slideover",
       "stale_for": 1,
       "labels": [
-        "blocked"
+        "needs testing"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7481",
-      "title": "Integrate Voice-Enabled Form Filling with Care Scribe in Care Frontend",
+      "link": "https://github.com/coronasafe/care/pull/2114",
+      "title": "Prevent destination facility from marking shift as complete",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7697",
+      "title": "Rework Shifting Process for \"Complete\" stage",
       "stale_for": 2,
       "labels": [
-        "urgent",
-        "tested",
-        "P1",
         "waiting for backend"
       ]
     },
     {
+      "link": "https://github.com/coronasafe/care/pull/2110",
+      "title": "Add validation for patient transfers",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7689",
+      "title": "Add Patient transfer validations",
+      "stale_for": 2,
+      "labels": [
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/docs/pull/19",
+      "title": "Add Care Scribe Docs",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1903",
       "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 4,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -19891,7 +20677,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 22,
+      "stale_for": 44,
       "labels": [
         "POC"
       ]
@@ -19899,7 +20685,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 366,
+      "stale_for": 388,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -19908,7 +20694,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 22,
+      "stale_for": 44,
       "labels": []
     }
   ],

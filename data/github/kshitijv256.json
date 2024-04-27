@@ -1,6 +1,53 @@
 {
-  "last_updated": "2024-04-01T16:27:29+00:00",
+  "last_updated": "2024-04-24T14:29:50+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7698",
+      "time": "2024-04-24T14:29:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7698",
+      "text": "Merge develop to staging v24.18.0",
+      "collaborated_with": [
+        "GokulramGHV",
+        "UdaySagar-Git",
+        "nihal467",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-04-24T07:16:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315",
+      "text": "Rearranged facility home layout",
+      "turnaround_time": 75403
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-04-24T07:16:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315",
+      "text": "Rearranged facility home layout",
+      "collaborated_with": [
+        "nihal467",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-19T07:30:10+00:00",
+      "title": "coronasafe/care_fe#7315",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#pullrequestreview-2010718873",
+      "text": "Rearranged facility home layout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#387",
+      "time": "2024-04-18T05:58:52+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/387",
+      "text": "hidden leaderboard filters in mobile view",
+      "turnaround_time": 76280
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#387",
@@ -376,7 +423,7 @@
       "title": "coronasafe/care_fe#6876",
       "time": "2023-12-19T15:26:26.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6876#issuecomment-1862979545",
-      "text": "Sure, no problem 🙂"
+      "text": "Sure, no problem \ud83d\ude42"
     },
     {
       "type": "comment_created",
@@ -1241,27 +1288,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/387",
-      "title": "hidden leaderboard filters in mobile view",
-      "stale_for": 0,
-      "labels": [
-        "changes required",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7315",
-      "title": "Rearranged facility home layout",
-      "stale_for": 1,
-      "labels": [
-        "changes required",
-        "stale"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1868",
       "title": "added user type check before creating new asset",
-      "stale_for": 19,
+      "stale_for": 42,
       "labels": []
     }
   ],

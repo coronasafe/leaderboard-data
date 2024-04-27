@@ -1,6 +1,196 @@
 {
-  "last_updated": "2024-04-03T13:18:29+00:00",
+  "last_updated": "2024-04-25T08:32:11+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#197",
+      "time": "2024-04-25T08:32:11+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/197",
+      "text": "Show user feedback on admin panel"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#512",
+      "time": "2024-04-24T16:28:29+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/512",
+      "text": "Show chat's feedbacks"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2115",
+      "time": "2024-04-24T14:29:45+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2115",
+      "text": "Merge develop to staging v24.18.0",
+      "collaborated_with": [
+        "GokulramGHV",
+        "hrit2773",
+        "rithviknishad",
+        "DraKen0009",
+        "rash-27",
+        "sainak",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7594",
+      "time": "2024-04-24T14:16:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7594",
+      "text": "Add Sorting filter on Discharged Patients page",
+      "turnaround_time": 18360
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7594",
+      "time": "2024-04-24T14:16:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7594",
+      "text": "Add Sorting filter on Discharged Patients page",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7594",
+      "time": "2024-04-24T08:21:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7594#issuecomment-2074370417",
+      "text": "@nihal467 Updated view:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/6e959986-4c5b-4c6a-b787-17faf17b5148)\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2074",
+      "time": "2024-04-22T18:55:10+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2074",
+      "text": "Add Ordering Filter for Discharge Patients Viewset Class",
+      "turnaround_time": 33301
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2074",
+      "time": "2024-04-22T18:55:10+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2074",
+      "text": "Add Ordering Filter for Discharge Patients Viewset Class",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7680",
+      "time": "2024-04-22T09:09:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7680",
+      "text": "Production release v24.17.0 | April week 3",
+      "collaborated_with": [
+        "Spiral-Memory",
+        "khavinshankar",
+        "sainak",
+        "Ashesh3",
+        "rithviknishad",
+        "nihal467",
+        "Aryanshu919",
+        "gigincg",
+        "jainvedant392",
+        "AshrafMd-1",
+        "Sulochan-khadka",
+        "bodhish"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7655",
+      "time": "2024-04-18T11:07:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7655",
+      "text": "Merge develop to staging v24.16.0",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "Aryanshu919",
+        "jainvedant392",
+        "bodhish",
+        "Ashesh3",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7553",
+      "time": "2024-04-18T10:03:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7553",
+      "text": "Add option to mark notification as unread",
+      "turnaround_time": 53446
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7553",
+      "time": "2024-04-18T10:03:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7553",
+      "text": "Add option to mark notification as unread",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7633",
+      "time": "2024-04-17T09:40:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7633",
+      "text": "Add Restriction to redirect to facility page if user can't Create Fac\u2026",
+      "turnaround_time": 1842
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7633",
+      "time": "2024-04-16T13:52:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7633",
+      "text": "Add Restriction to redirect to facility page if user can't Create Fac\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2074",
+      "time": "2024-04-14T09:40:09+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2074",
+      "text": "Add Ordering Filter for Discharge Patients Viewset Class"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7594",
+      "time": "2024-04-14T09:37:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7594",
+      "text": "Add Sorting filter on Discharged Patients page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7584",
+      "time": "2024-04-11T10:16:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7584",
+      "text": "Add Medicine Prescription Log Summary Section"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2068",
+      "time": "2024-04-09T10:01:04+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2068",
+      "text": "Log Change of Prescriptions and send it through API"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2065",
+      "time": "2024-04-08T17:56:09+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2065",
+      "text": "Production release v24.15.0 | April week 2",
+      "collaborated_with": [
+        "rithviknishad",
+        "khavinshankar",
+        "sainak",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7553",
+      "time": "2024-04-06T19:13:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7553",
+      "text": "Add option to mark notification as unread"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2046",
@@ -7753,6 +7943,156 @@
       "text": "store text at /converse endpoint"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/197",
+      "title": "Show user feedback on admin panel",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/ayushma/pull/512",
+      "title": "Show chat's feedbacks",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7584",
+      "title": "Add Medicine Prescription Log Summary Section",
+      "stale_for": 8,
+      "labels": [
+        "needs testing",
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2068",
+      "title": "Log Change of Prescriptions based on medicine",
+      "stale_for": 11,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1757",
+      "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
+      "stale_for": 43,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/10bedicu/pull/72",
+      "title": "Fix front-end issue for footer and cards",
+      "stale_for": 129,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7459",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7553"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7454",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7455"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7454",
+      "pr_link": "https://github.com/coronasafe/care/pull/2005"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7442",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7443"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6855",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6860"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1761",
+      "pr_link": "https://github.com/coronasafe/care/pull/1762"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/140",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/141"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/363",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/364"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/363",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/139"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/137",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/138"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/135",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/136"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/132",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/133"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/129",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/130"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/125",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/126"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6355",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6356"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6351",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6352"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/336",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/337"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/123",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/124"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/121",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/122"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/117",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/118"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/115",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/116"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/110",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/111"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/128",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/129"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1581",
+      "pr_link": "https://github.com/coronasafe/care/pull/1588"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6214",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6215"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6209",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6210"
+    }
+  ]
 }
