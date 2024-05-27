@@ -3,7 +3,7 @@ name: Dhrumit Parmar
 title: GSoC 2024 Contributor
 github: dgparmar14
 twitter: ""
-linkedin: https://www.linkedin.com/in/dhrumit-parmar-856168217
+linkedin: dhrumit-parmar-856168217
 slack: U06LNUE5PCG
 joining_date: ""
 role: contributor
