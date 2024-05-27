@@ -1,6 +1,391 @@
 {
-  "last_updated": "2024-04-28T20:55:05+00:00",
+  "last_updated": "2024-05-23T09:20:13+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7884",
+      "time": "2024-05-23T09:20:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7884",
+      "text": "Merge Develop to Staging v24.22.0",
+      "collaborated_with": [
+        "r-nikhilkumar",
+        "AshrafMd-1",
+        "AnkurPrabhu",
+        "khavinshankar",
+        "sunny-thakurwar",
+        "rithviknishad",
+        "skks1212"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7822",
+      "time": "2024-05-21T09:37:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822",
+      "text": "Show skills of treating doctor in consultation dashboard",
+      "turnaround_time": 59791
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7822",
+      "time": "2024-05-21T09:37:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822",
+      "text": "Show skills of treating doctor in consultation dashboard",
+      "collaborated_with": [
+        "rithviknishad",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7863",
+      "time": "2024-05-20T16:47:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7863",
+      "text": "Production release v24.21.0",
+      "collaborated_with": [
+        "skks1212",
+        "AshrafMd-1",
+        "vigneshhari",
+        "sainak",
+        "rithviknishad",
+        "r-nikhilkumar",
+        "rash-27",
+        "Ashutosh0602",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7767",
+      "time": "2024-05-17T07:39:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7767#issuecomment-2116941583",
+      "text": "@gigincg @rithviknishad I am not in my work place, this , do not have access to my gadgets... I urge you to go ahead for now with rest of the PRs for them to get merged... Will resume from 3rd June..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7767",
+      "time": "2024-05-16T15:48:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7767#issuecomment-2115600706",
+      "text": "\r\nhttps://github.com/coronasafe/care_fe/assets/122200551/584b5b16-b415-4992-93c3-9b8c65af3024\r\n\r\nThis is the fix that the PR is aiming at. @gigincg , @rithviknishad do let me know if any changes are required further in this."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7833",
+      "time": "2024-05-16T15:47:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7833",
+      "text": "fixes: Prescriptions: Default Discontinued Prescriptions Collapsed #7767"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7767",
+      "time": "2024-05-15T14:57:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7767#issuecomment-2112774390",
+      "text": "Is this issue solved @gigincg @bodhish or shall I raise a PR?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7762",
+      "time": "2024-05-15T14:50:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7762#issuecomment-2112756121",
+      "text": "@gayann-au the issue is unclear to work on. Also the screen recording is not visible to me..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7820",
+      "time": "2024-05-15T14:48:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7820#issuecomment-2112751921",
+      "text": "@rithviknishad could you review this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7822",
+      "time": "2024-05-15T14:45:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822#issuecomment-2112745799",
+      "text": "> Nice work! The UI has improved a lot!\r\n> \r\n> Few more suggestions, and should be ready for testing.\r\n> \r\n> 1. If there are 3 or more skills, since we are truncating it, show those as comma-separated values inside the tooltip.\r\n> 2. Just correct the minor alignment and spacing issue. Seems to be vertically off center.\r\n> \r\n> Before the PR: <img alt=\"image\" width=\"361\" src=\"https://private-user-images.githubusercontent.com/25143503/330844030-40438252-31b6-46de-95dd-bc6c640f252b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3ODQzMDIsIm5iZiI6MTcxNTc4NDAwMiwicGF0aCI6Ii8yNTE0MzUwMy8zMzA4NDQwMzAtNDA0MzgyNTItMzFiNi00NmRlLTk1ZGQtYmM2YzY0MGYyNTJiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE1VDE0NDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkNDNmMDk4MjRmNThkN2MwYTg4NTQzYjhlNjBiOWE2YWI1YjZhYTgxMjA3MjM4YjNjNWQxYjlkMzU5MmViOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.amLpP6wxIGrrN2qXc_fK-UvaTCzcdM0ia46D_tL_i_c\">\r\n> \r\n> PR: <img alt=\"image\" width=\"508\" src=\"https://private-user-images.githubusercontent.com/25143503/330843944-309cbf56-8162-4fa9-a401-8e8bb9490c0c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3ODQzMDIsIm5iZiI6MTcxNTc4NDAwMiwicGF0aCI6Ii8yNTE0MzUwMy8zMzA4NDM5NDQtMzA5Y2JmNTYtODE2Mi00ZmE5LWE0MDEtOGU4YmI5NDkwYzBjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE1VDE0NDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5N2M0Mjc0NmMyOTc4YWY0NWM5MTA5MTczNWRlMGRlOWRkNDg2YzFhMmNhYzNjOTYxYzM4ZDg0YWExNjJmMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IHni17Zu5m8s5xJIPiM4CX8Du0MeM8rztOcvb99NMFs\">\r\n\r\n1. But some users have much more skills, how do I represent them?  Could you give some idea about how should UI look like? A similar reference would be highly appreciated."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T13:56:27+00:00",
+      "title": "coronasafe/care_fe#7822",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822#pullrequestreview-2058115361",
+      "text": "fixes: Linked skills- to show on patient dashboard for \"treating doct\u2026"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7822",
+      "time": "2024-05-15T13:17:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822#issuecomment-2112496497",
+      "text": "@rithviknishad , I have also added appropriate grammar since it was not proper then. Let me know if this PR requires some more improvements."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T13:16:28+00:00",
+      "title": "coronasafe/care_fe#7822",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822#pullrequestreview-2057991115",
+      "text": "fixes: Linked skills- to show on patient dashboard for \"treating doct\u2026"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T13:00:40+00:00",
+      "title": "coronasafe/care_fe#7822",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822#pullrequestreview-2057945155",
+      "text": "fixes: Linked skills- to show on patient dashboard for \"treating doct\u2026"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T12:53:39+00:00",
+      "title": "coronasafe/care_fe#7822",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822#pullrequestreview-2057927368",
+      "text": "fixes: Linked skills- to show on patient dashboard for \"treating doct\u2026"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7821",
+      "time": "2024-05-15T08:22:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7821",
+      "text": "Merge Develop to Staging v24.21.0",
+      "collaborated_with": [
+        "sainak",
+        "r-nikhilkumar",
+        "Ashutosh0602",
+        "AshrafMd-1",
+        "rithviknishad",
+        "skks1212",
+        "khavinshankar",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7822",
+      "time": "2024-05-15T07:56:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822#issuecomment-2111826857",
+      "text": "<img width=\"1438\" alt=\"Screenshot 2024-05-15 at 1 25 39\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/122200551/4b7deac7-8896-4f14-92ce-8e4fa4b6e90b\">\r\nHere is the result for reference!!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7822",
+      "time": "2024-05-15T07:53:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822",
+      "text": "fixes: Linked skills- to show on patient dashboard for \"treating doct\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7804",
+      "time": "2024-05-14T22:41:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7804",
+      "text": "fixes: manage patient button is not properly responsive  #7799",
+      "turnaround_time": 65640
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7816",
+      "time": "2024-05-14T22:39:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7816",
+      "text": "fixes: #7813. Removed COVID Status and added Last Discharged Reason with better alignment in Patient details page",
+      "turnaround_time": 42984
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7820",
+      "time": "2024-05-14T20:09:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7820",
+      "text": "fixes: Renaming patient categorisation #7811"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7810",
+      "time": "2024-05-14T13:00:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7810#issuecomment-2110175224",
+      "text": "Since this is P1, can @rithviknishad @nihal467 comment on this and let me know if I can go ahead and raise a PR?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7816",
+      "time": "2024-05-14T11:14:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7816#issuecomment-2109935632",
+      "text": "@rithviknishad have changed the title to the PR."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7816",
+      "time": "2024-05-14T11:13:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7816#issuecomment-2109931818",
+      "text": "> @Sulochan-khadka It'd be great if you could give a meaningful title to the PR as this would be part of the changelog entry.\r\n> \r\n> +1 for attaching screenshots of the updated UI too! \ud83d\ude04\r\n\r\nOhh... this just somehow escaped from my focus... I will surely..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7811",
+      "time": "2024-05-14T11:11:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7811#issuecomment-2109928075",
+      "text": "I think the data which has already been saved aren't changing. For example in this :\r\n<img width=\"1438\" alt=\"Screenshot 2024-05-14 at 4 40 40\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/122200551/78cba153-c500-439a-abfc-358b93170985\">\r\n\r\nHowever, I have changed in the mentioned places...\r\n\r\nShall I raise a PR? @aparnacoronasafe "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7816",
+      "time": "2024-05-14T10:43:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7816",
+      "text": "fixes: #7813"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7813",
+      "time": "2024-05-14T10:38:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7813#issuecomment-2109863440",
+      "text": "@aparnacoronasafe for status-live, I have made \"Last Discharged Reason\" : \"-\".\r\n\r\nHave a look at the proposed PR.\r\n<img width=\"1438\" alt=\"Screenshot 2024-05-14 at 4 06 40\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/122200551/492960a7-d68f-468b-a7f5-a118de575630\">\r\n\r\n<img width=\"1438\" alt=\"Screenshot 2024-05-14 at 4 06 52\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/122200551/37a34849-8ecb-47c6-8e4a-9c0dc18ad782\">\r\n\r\n<img width=\"1438\" alt=\"Screenshot 2024-05-14 at 4 07 13\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/122200551/4f387358-5046-45e0-ab46-dd527dc5693e\">\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7810",
+      "time": "2024-05-14T10:22:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7810#issuecomment-2109830693",
+      "text": "@aparnacoronasafe Let me know if I can help you ..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7810",
+      "time": "2024-05-14T10:21:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7810#issuecomment-2109828941",
+      "text": "I guess there are two ways in which we can achieve this... \r\n\r\nLike this: (Dropdown)\r\n<img width=\"1438\" alt=\"Screenshot 2024-05-14 at 3 44 56\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/122200551/84015f3c-7d6d-4250-bb94-2d72c2abbb09\">\r\n\r\n\r\nor like this: (SlideOver)\r\n<img width=\"1438\" alt=\"Screenshot 2024-05-14 at 3 49 37\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/122200551/67a3d08b-4137-414c-9b47-0ca8201cc406\">\r\n\r\nAlso let me know if it should have the functionality to unlink the skills or not."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7810",
+      "time": "2024-05-14T09:55:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7810#issuecomment-2109777167",
+      "text": "May you present some UI idea to that... I think since the skills may be large thus, having a dropdown with the heading as Skills would be better."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7804",
+      "time": "2024-05-13T20:33:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7804",
+      "text": "fixesmanage patient button is not properly responsive  #7799"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7799",
+      "time": "2024-05-13T20:30:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7799#issuecomment-2108746543",
+      "text": "Assign me... I will raise a PR now..."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7801",
+      "time": "2024-05-13T16:41:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7801",
+      "text": "Production release v24.20.0",
+      "collaborated_with": [
+        "Vibhu1710",
+        "r-nikhilkumar",
+        "kabirrajsingh",
+        "rithviknishad",
+        "thedevildude",
+        "saloni0419",
+        "Omkar76",
+        "alanansari",
+        "609harsh",
+        "gigincg",
+        "skks1212",
+        "AshrafMd-1",
+        "Keshav-0907",
+        "khavinshankar",
+        "manasvi-gaur",
+        "sainak",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7784",
+      "time": "2024-05-09T07:41:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7784",
+      "text": "Merge Develop to Staging v24.20.0",
+      "collaborated_with": [
+        "saloni0419",
+        "manasvi-gaur",
+        "khavinshankar",
+        "r-nikhilkumar",
+        "nihal467",
+        "Vibhu1710",
+        "thedevildude",
+        "Omkar76",
+        "rithviknishad",
+        "AshrafMd-1",
+        "kabirrajsingh",
+        "609harsh",
+        "skks1212",
+        "sainak",
+        "Keshav-0907",
+        "alanansari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7502",
+      "time": "2024-05-07T09:14:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502",
+      "text": "Show no information card if consultation and sample test history list is empty",
+      "turnaround_time": 23125
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7502",
+      "time": "2024-05-07T09:14:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502",
+      "text": "Show no information card if consultation and sample test history list is empty",
+      "collaborated_with": [
+        "nihal467",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7496",
+      "time": "2024-05-07T09:05:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7496",
+      "text": "Icon overlapping with text in text-box of Doctor's Notes. #7495",
+      "turnaround_time": 53391
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7496",
+      "time": "2024-05-07T09:05:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7496",
+      "text": "Icon overlapping with text in text-box of Doctor's Notes. #7495",
+      "collaborated_with": [
+        "nihal467",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7721",
+      "time": "2024-04-30T12:31:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7721#issuecomment-2085206776",
+      "text": "@nihal467 is this solved? And I am unable to understand the meaning of expected behaviour in this reference? Does it mean that this was not even an issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7721",
+      "time": "2024-04-30T10:46:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7721#issuecomment-2084967734",
+      "text": "<img width=\"942\" alt=\"Screenshot 2024-04-30 at 4 14 26\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/122200551/649a127b-199a-4668-9a7d-1d85cc06570f\">\r\nis the UI all OK ? @nihal467 ? Or should the message be displayed somewhere else? Currently it is checking for validation once the submit is clicked."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7721",
+      "time": "2024-04-29T16:57:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7721#issuecomment-2083220182",
+      "text": "Hey @soumya-maheshwari actually I have progressed significantly... Therefore if you already have progressed further, let me know... Otherwise I will be raising a PR in 2-3 hours."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7721",
+      "time": "2024-04-29T10:24:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7721#issuecomment-2082368223",
+      "text": "Yeah sure... Will be creating a PR soon... "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7721",
@@ -629,32 +1014,24 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7587",
-      "title": "Icon overlapping with text in text-box of Patient's Notes.  #7586",
-      "stale_for": 4,
+      "link": "https://github.com/coronasafe/care_fe/pull/7833",
+      "title": "Prescriptions: Default Discontinued Prescriptions Collapsed",
+      "stale_for": 0,
       "labels": [
-        "changes required",
-        "stale"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7502",
-      "title": "Issues/7501/appropriate-message-for-empty-records",
-      "stale_for": 2,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7496",
-      "title": "Icon overlapping with text in text-box of Doctor's Notes. #7495",
-      "stale_for": 5,
-      "labels": [
-        "changes required"
+        "needs testing",
+        "needs review"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7501",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7502"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7495",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7496"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7474",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7494"

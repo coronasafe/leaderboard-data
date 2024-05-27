@@ -1,6 +1,202 @@
 {
-  "last_updated": "2024-04-25T12:08:35+00:00",
+  "last_updated": "2024-05-22T15:11:57+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-22T15:11:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#issuecomment-2125051556",
+      "text": "Issues noted:\n\n1- when \"patient code status for a patient is updated for the first time (within an encounter), this pop-up window need not come up\n![image](https://github.com/coronasafe/care_fe/assets/67050716/f911558a-36ec-4f7f-88c0-16cd97ee74f0)\n\n2- when I type file name before selecting file, the name of the file I select replaces the file name I typed. This shouldn't happen. Only when the file name field is empty should the name of file uploaded come up there\n\n3- when I uploaded patient code for the first time \"permission denied\" error came up alongside success message. The first workflow was good, but the error message is misplaced \n\n4- small alignment issue view button on mobile screen\n![image](https://github.com/coronasafe/care_fe/assets/67050716/15efe044-e989-42e5-9f4c-1ac75963fd66)\n\n5- I first filed a patient code status DNH. Then I filed one for active treatment. The heading - patient code status continued to show DNH. When I tried to update the patient code status the pop up window also said I am changing it from DNH (it should have been active treatment since that is the latest code status)\n![image](https://github.com/coronasafe/care_fe/assets/67050716/15248c27-e2fc-4642-9561-bb1f759b6053)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7751",
+      "time": "2024-05-22T09:17:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7751#issuecomment-2124283697",
+      "text": "The requirement here is to remove any type of Data validation on the OP No. field. Irrespective of the facility the patient is admitted to.\r\n\r\nDiscussed with @gigincg \r\n\r\nCC: @rithviknishad @skks1212 @nihal467 \r\n\r\nREASON: The issue is, some hospitals are utilising this field to add their Patient ID (MRD No) for the patient, which may be consistant across all encounters for the patient in the facility. This is an acceptable behaviour. In order to allow this, remove all data validation from the field"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7872",
+      "time": "2024-05-21T10:43:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7872",
+      "text": "Watermarks for camera feed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7684",
+      "time": "2024-05-21T10:18:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7684#issuecomment-2122285587",
+      "text": "Yes. this proposed behaviour applies for when 'Wartime' flag is active"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7866",
+      "time": "2024-05-21T08:12:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7866",
+      "text": "Cleaning up Nav Menu"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7769",
+      "time": "2024-05-20T12:57:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7769#issuecomment-2120411594",
+      "text": "@nihal467 @sainak @rithviknishad \r\n\r\nCan we take this up as priority and close in 14 days?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1838",
+      "time": "2024-05-20T12:56:45+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1838#issuecomment-2120410248",
+      "text": "@sainak Can you please take this up as a priority?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#3856",
+      "time": "2024-05-15T10:23:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/3856#issuecomment-2112135640",
+      "text": "remove the covid disease status field altogether from health profile"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7648",
+      "time": "2024-05-15T07:16:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7648#issuecomment-2111760490",
+      "text": "Closed with #7810 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7648",
+      "time": "2024-05-15T07:16:55+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7648",
+      "text": "To Tag Specialization to Treating Physician Card in Patient Dashboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7744",
+      "time": "2024-05-15T04:33:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7744#issuecomment-2111562736",
+      "text": "Only remove the \"Facility\" and \"Facility\" type from the geographic filter. Keep the remaining as is. \r\n\r\n@nihal467 @skks1212 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7810",
+      "time": "2024-05-14T16:10:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7810#issuecomment-2110617872",
+      "text": "@Sulochan-khadka please follow the suggestion from @rithviknishad above. \n\nWe do NOT need a button to show linked skills. It must appear on the page itself. So simply adding a text with skills in (..) should suffice. \n\nWhen there are multiple skills show them one after the other separated by a comma "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#3331",
+      "time": "2024-05-14T13:10:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/3331",
+      "text": "Move \"Health Details\" and \"Medical History\" from patient registration form to consultation form"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#3331",
+      "time": "2024-05-14T10:08:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/3331#issuecomment-2109804878",
+      "text": "Issue updated in #7815 \r\nClosing as redundant "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7815",
+      "time": "2024-05-14T10:08:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7815",
+      "text": "Medical history and health details to be part of consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7812",
+      "time": "2024-05-14T09:19:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7812#issuecomment-2109700310",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7705",
+      "time": "2024-05-13T13:02:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7705#issuecomment-2107521354",
+      "text": "I had informed the field team to expect the feature in 4-6 weeks after you said it can be done in the time frame. \n\nRevising timelines like this, and going from 6 weeks to 4 months will be hard for me to explain to the field team now. \n\nWe must give more realistic timelines and stick to it. \n\nFor now I will file another issue to simplify the form with existing fields.\n\nLet us delivery this asap "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7570",
+      "time": "2024-05-13T12:42:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7570#issuecomment-2107476462",
+      "text": "@skks1212 can you ship this ASAP so that its released next week? "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7705",
+      "time": "2024-05-13T12:35:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7705#issuecomment-2107461311",
+      "text": "This is expected in production in 1-2 weeks @gigincg \r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2124",
+      "time": "2024-05-13T12:26:37+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2124#issuecomment-2107442349",
+      "text": "@skks1212 Will this be ready for production in next release? next monday?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7758",
+      "time": "2024-05-06T09:51:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7758",
+      "text": "Clean up Facility registration form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7756",
+      "time": "2024-05-06T09:20:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7756",
+      "text": "Nurse (Read Only) user type NOT required"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#2128",
+      "time": "2024-05-06T08:33:57+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2128",
+      "text": "User Type: Data entry Operator"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7754",
+      "time": "2024-05-06T08:29:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7754",
+      "text": "User Type: Data entry Operator"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7748",
+      "time": "2024-05-06T06:36:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7748#issuecomment-2095286569",
+      "text": "#7686 renames \"Dcotor's Notes\" to \"Discussion notes\"\r\n\r\nDiscussion notes to have 2 threads of Chat. \r\n1. Doctor's Discussion\r\n2. Nurses Discussion\r\n\r\nMay be contained in 2 tabs within the chat window. \r\n\r\n- Nurses and doctors both must be allowed to post messages on both chat threads. this may be needed in the following scenarios\r\n1) Doctor through TeleICU notices that the patient's Oxygen mask is not fitting properly. The doctors will be leaving a message for the nurses in the Nurses Discussion thread instructing them to correct it. \r\n2) In the doctor's discussion thread, the doctors are discussing the patient's condition and the remote doctor may have raised a question regarding a particular symptom the patient has. The nurse may be able to quickly respond to it and provide the doctors with a quick answer. \r\n\r\nTherefore, even though it is important to differentiate the 2 threads, doctors and nurses both may participate in these chats."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7686",
+      "time": "2024-05-06T06:26:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7686#issuecomment-2095275010",
+      "text": "As discussed the name shall be changed to \"Discussion Notes\".\r\n\r\nOnly to be done once #7705 is closed. Blocking issue for now"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7737",
+      "time": "2024-04-29T12:28:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7737",
+      "text": "Discharge patient list"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7736",
+      "time": "2024-04-29T12:18:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7736",
+      "text": "Occupation- patient registration form"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7706",

@@ -1,6 +1,373 @@
 {
-  "last_updated": "2024-04-28T07:34:08+00:00",
+  "last_updated": "2024-05-26T08:36:44+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2190",
+      "time": "2024-05-26T08:36:44+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2190#issuecomment-2132136934",
+      "text": "@rithviknishad @sainak  \r\nCan you take a look at the validation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2190",
+      "time": "2024-05-24T03:07:09+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2190#issuecomment-2128428930",
+      "text": "@rithviknishad can u check once"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2190",
+      "time": "2024-05-24T02:55:32+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2190#issuecomment-2128404201",
+      "text": "@rithviknishad also is it required to push the migrations?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7852",
+      "time": "2024-05-24T02:54:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7852#issuecomment-2128403572",
+      "text": "@rithviknishad  can you check once "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-23T17:53:12+00:00",
+      "title": "coronasafe/care#2190",
+      "link": "https://github.com/coronasafe/care/pull/2190#pullrequestreview-2074667027",
+      "text": "Add new medical history options "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7884",
+      "time": "2024-05-23T09:20:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7884",
+      "text": "Merge Develop to Staging v24.22.0",
+      "collaborated_with": [
+        "r-nikhilkumar",
+        "Sulochan-khadka",
+        "AnkurPrabhu",
+        "khavinshankar",
+        "sunny-thakurwar",
+        "rithviknishad",
+        "skks1212"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2190",
+      "time": "2024-05-22T19:16:08+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2190",
+      "text": "Add new medical history options "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7725",
+      "time": "2024-05-22T12:02:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7725",
+      "text": "Make the switch bed card styling consistent.",
+      "turnaround_time": 68781
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7866",
+      "time": "2024-05-21T14:18:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7866#issuecomment-2122746752",
+      "text": "@aparnacoronasafe this has already been addressed in https://github.com/coronasafe/care_fe/issues/6920"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7863",
+      "time": "2024-05-20T16:47:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7863",
+      "text": "Production release v24.21.0",
+      "collaborated_with": [
+        "skks1212",
+        "vigneshhari",
+        "Sulochan-khadka",
+        "sainak",
+        "rithviknishad",
+        "r-nikhilkumar",
+        "rash-27",
+        "Ashutosh0602",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": "2024-05-18T07:52:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-2118683374",
+      "text": "I am actually slightly busy in doing other issues [p2] so as of now I will unassign myself "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7852",
+      "time": "2024-05-17T21:15:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7852#issuecomment-2118392114",
+      "text": "@rithviknishad can you check this once "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7852",
+      "time": "2024-05-17T21:14:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7852#issuecomment-2118391636",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/98876115/51728705-33a4-4073-9878-2490e888156a)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7852",
+      "time": "2024-05-17T21:13:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7852#issuecomment-2118390866",
+      "text": "Slightly changed the type \r\n\r\n```js\r\ninterface medicalHistoryModel {\r\n  id?: number;\r\n  disease: string | number;\r\n  details: string;\r\n  extra_info?: object;\r\n}\r\n```\r\n\r\nthe way it sends payload is \r\n\r\n```js\r\nif (medData) {\r\n        const details = formData[`medical_history_${medData.id}`];\r\n        if (medData.id === 11) {\r\n          medical_history.push({\r\n            disease: medData.text,\r\n            details: details ? details : \"\",\r\n            extra_info: {\r\n              tb_status: formData[\"tb_status\"] ?? \"\",\r\n              tb_duration: formData[\"tb_duration\"] ?? \"\",\r\n            },\r\n          });\r\n        } else if (medData.id === 13) {\r\n          medical_history.push({\r\n            disease: medData.text,\r\n            details: details ? details : \"\",\r\n            extra_info: {\r\n              cancer_type: formData[\"cancer_type\"] ?? \"\",\r\n            },\r\n          });\r\n        } else {\r\n          medical_history.push({\r\n            disease: medData.text,\r\n            details: details ? details : \"\",\r\n          });\r\n        }\r\n      }\r\n```"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7852",
+      "time": "2024-05-17T21:11:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7852",
+      "text": "Expanding medical history [ Comorbidities ]"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7821",
+      "time": "2024-05-15T08:22:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7821",
+      "text": "Merge Develop to Staging v24.21.0",
+      "collaborated_with": [
+        "sainak",
+        "r-nikhilkumar",
+        "Ashutosh0602",
+        "rithviknishad",
+        "skks1212",
+        "Sulochan-khadka",
+        "khavinshankar",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-14T23:15:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498",
+      "text": "Restrict Unauthorized Users from Accessing Facility's Patient Registration",
+      "turnaround_time": 37472
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-14T23:15:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498",
+      "text": "Restrict Unauthorized Users from Accessing Facility's Patient Registration",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7726",
+      "time": "2024-05-13T18:55:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7726#issuecomment-2108579206",
+      "text": "ready for testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7726",
+      "time": "2024-05-13T18:53:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7726#issuecomment-2108575548",
+      "text": "@nihal467 can you check once "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7725",
+      "time": "2024-05-13T17:52:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7725#issuecomment-2108431440",
+      "text": "@nihal467 can you check once "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7801",
+      "time": "2024-05-13T16:41:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7801",
+      "text": "Production release v24.20.0",
+      "collaborated_with": [
+        "Vibhu1710",
+        "r-nikhilkumar",
+        "kabirrajsingh",
+        "rithviknishad",
+        "thedevildude",
+        "saloni0419",
+        "Omkar76",
+        "alanansari",
+        "609harsh",
+        "gigincg",
+        "skks1212",
+        "Keshav-0907",
+        "khavinshankar",
+        "Sulochan-khadka",
+        "manasvi-gaur",
+        "sainak",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-13T07:13:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#issuecomment-2106819851",
+      "text": "ready for testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-13T07:11:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#issuecomment-2106816932",
+      "text": "@nihal467 can you check once \r\n\r\ncc: @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-09T14:45:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#issuecomment-2102806637",
+      "text": "@nihal467 my bad i did check all those edge cases but forgot to test main case \r\n\r\nMy exams will be over by tomorrow so by the end of Saturday I will submit a tested pr"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7784",
+      "time": "2024-05-09T07:41:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7784",
+      "text": "Merge Develop to Staging v24.20.0",
+      "collaborated_with": [
+        "saloni0419",
+        "manasvi-gaur",
+        "khavinshankar",
+        "r-nikhilkumar",
+        "nihal467",
+        "Vibhu1710",
+        "thedevildude",
+        "Omkar76",
+        "rithviknishad",
+        "kabirrajsingh",
+        "Sulochan-khadka",
+        "609harsh",
+        "skks1212",
+        "sainak",
+        "Keshav-0907",
+        "alanansari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7739",
+      "time": "2024-05-07T09:29:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7739",
+      "text": "Fix tooltip in inventory log",
+      "turnaround_time": 62201
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7765",
+      "time": "2024-05-06T17:22:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7765",
+      "text": "Production release v24.19.0",
+      "collaborated_with": [
+        "khavinshankar",
+        "ayushchauhan12",
+        "gigincg",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": "2024-05-02T15:58:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-2090884208",
+      "text": "@nihal467 i want to work on this issue"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7747",
+      "time": "2024-05-01T16:12:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7747",
+      "text": "Merge develop to staging v24.19.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "ayushchauhan12",
+        "Ashesh3",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7726",
+      "time": "2024-05-01T10:15:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7726#issuecomment-2088252262",
+      "text": "@khavinshankar is this okay?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-01T09:52:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#issuecomment-2088229161",
+      "text": "@rithviknishad can you check once "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7720",
+      "time": "2024-04-30T05:49:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7720",
+      "text": "Add loading to external results.",
+      "turnaround_time": 69104
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7351",
+      "time": "2024-04-29T18:07:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7351#issuecomment-2083348654",
+      "text": "@rithviknishad can you assign me this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7739",
+      "time": "2024-04-29T16:46:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7739#issuecomment-2083202732",
+      "text": "@rithviknishad  can you check once "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7739",
+      "time": "2024-04-29T16:46:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7739",
+      "text": "Fix tooltip in inventory log"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-29T16:01:32+00:00",
+      "title": "coronasafe/care_fe#7726",
+      "link": "https://github.com/coronasafe/care_fe/pull/7726#pullrequestreview-2028932047",
+      "text": "Fix QR code error notification"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-29T16:01:17+00:00",
+      "title": "coronasafe/care_fe#7726",
+      "link": "https://github.com/coronasafe/care_fe/pull/7726#pullrequestreview-2028931024",
+      "text": "Fix QR code error notification"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-29T15:56:12+00:00",
+      "title": "coronasafe/care_fe#7726",
+      "link": "https://github.com/coronasafe/care_fe/pull/7726#pullrequestreview-2028914778",
+      "text": "Fix QR code error notification"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-29T15:55:23+00:00",
+      "title": "coronasafe/care_fe#7726",
+      "link": "https://github.com/coronasafe/care_fe/pull/7726#pullrequestreview-2028913033",
+      "text": "Fix QR code error notification"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-04-28T07:34:08+00:00",
@@ -2501,6 +2868,69 @@
       "text": "Add Cypress test to patient file upload"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/2190",
+      "title": "Add new medical history options ",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7852",
+      "title": "Expanding medical history [ Comorbidities ]",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7726",
+      "title": "Fix QR code error notification",
+      "stale_for": 4,
+      "labels": [
+        "needs review",
+        "test failed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7642",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7643"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7384",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7392"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6923",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6946"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6902",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6910"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6838",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6842"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6837",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6841"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6783",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6848"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6632",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6639"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6599",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6614"
+    }
+  ]
 }

@@ -1,6 +1,645 @@
 {
-  "last_updated": "2024-04-23T13:29:44+00:00",
+  "last_updated": "2024-05-24T18:18:29+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-24T18:18:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882",
+      "text": "Separate page for patient consent records",
+      "turnaround_time": 35546
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-24T18:18:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882",
+      "text": "Separate page for patient consent records",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7887",
+      "time": "2024-05-23T14:30:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7887",
+      "text": "Migrate FileUpload page to useFileUpload and useFileManage hooks"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-23T13:55:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#issuecomment-2127183822",
+      "text": "@nihal467 changes made"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2191",
+      "time": "2024-05-23T10:03:05+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2191",
+      "text": "Merge Develop to Staging v24.22.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak",
+        "vigneshhari",
+        "AnkurPrabhu",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7884",
+      "time": "2024-05-23T09:20:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7884",
+      "text": "Merge Develop to Staging v24.22.0",
+      "collaborated_with": [
+        "r-nikhilkumar",
+        "AshrafMd-1",
+        "Sulochan-khadka",
+        "AnkurPrabhu",
+        "khavinshankar",
+        "sunny-thakurwar",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-22T20:46:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#issuecomment-2125717505",
+      "text": "@aparnacoronasafe changes have been made.\r\nI have replaced \"delete\" with archive. This will allow you to see archived consultations in the new tab.\r\n\r\nI could not add the \"nurse changed x\" logs as that would require a backend PR. If the current solution does not work, then I will make that."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-22T13:17:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882",
+      "text": "Separate page for patient consent records"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2176",
+      "time": "2024-05-22T07:36:22+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2176",
+      "text": "Removed Discharge Filters, reused patient filters",
+      "turnaround_time": 52550
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2176",
+      "time": "2024-05-22T07:36:22+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2176",
+      "text": "Removed Discharge Filters, reused patient filters",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7292",
+      "time": "2024-05-22T04:36:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7292",
+      "text": "Update Security Policy to redirect to issue page",
+      "turnaround_time": 65044
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7853",
+      "time": "2024-05-22T04:35:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7853",
+      "text": "Updated discharged patients page",
+      "turnaround_time": 44471
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7853",
+      "time": "2024-05-22T04:35:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7853",
+      "text": "Updated discharged patients page",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2147",
+      "time": "2024-05-21T10:52:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2147#issuecomment-2122355240",
+      "text": "PR was incomplete, forgot to label as wip \ud83d\ude05. Fixing now"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2179",
+      "time": "2024-05-20T16:47:17+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2179",
+      "text": "Production release v24.21.0",
+      "collaborated_with": [
+        "DraKen0009",
+        "vigneshhari",
+        "sainak",
+        "bodhish",
+        "GokulramGHV",
+        "rithviknishad",
+        "gigincg",
+        "rash-27",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7863",
+      "time": "2024-05-20T16:47:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7863",
+      "text": "Production release v24.21.0",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "vigneshhari",
+        "Sulochan-khadka",
+        "sainak",
+        "rithviknishad",
+        "r-nikhilkumar",
+        "rash-27",
+        "Ashutosh0602",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2176",
+      "time": "2024-05-17T21:55:58+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2176",
+      "text": "Removed Discharge Filters, reused patient filters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7853",
+      "time": "2024-05-17T21:52:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7853",
+      "text": "Discharged patients page"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2172",
+      "time": "2024-05-16T16:25:40+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2172",
+      "text": "Develop to Staging",
+      "collaborated_with": [
+        "vigneshhari",
+        "bodhish",
+        "GokulramGHV",
+        "rithviknishad",
+        "khavinshankar",
+        "DraKen0009",
+        "gigincg",
+        "sainak",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2168",
+      "time": "2024-05-15T08:23:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2168",
+      "text": "Merge Develop to Staging v24.21.0",
+      "collaborated_with": [
+        "sainak",
+        "DraKen0009",
+        "rithviknishad",
+        "GokulramGHV",
+        "khavinshankar",
+        "gigincg",
+        "vigneshhari",
+        "bodhish",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7821",
+      "time": "2024-05-15T08:22:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7821",
+      "text": "Merge Develop to Staging v24.21.0",
+      "collaborated_with": [
+        "sainak",
+        "r-nikhilkumar",
+        "Ashutosh0602",
+        "AshrafMd-1",
+        "rithviknishad",
+        "Sulochan-khadka",
+        "khavinshankar",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2146",
+      "time": "2024-05-15T06:58:16+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2146",
+      "text": "Change devcontainer make up command to run after start",
+      "turnaround_time": 26450
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2146",
+      "time": "2024-05-15T06:58:16+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2146",
+      "text": "Change devcontainer make up command to run after start",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7744",
+      "time": "2024-05-15T06:56:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7744",
+      "text": "Updated discharged patients page",
+      "turnaround_time": 52902
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7808",
+      "time": "2024-05-14T23:15:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7808",
+      "text": "Fixed alignment in users page",
+      "turnaround_time": 62164
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7808",
+      "time": "2024-05-14T23:15:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7808",
+      "text": "Fixed alignment in users page",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7773",
+      "time": "2024-05-14T23:03:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7773",
+      "text": "Capitalized patient names",
+      "turnaround_time": 77575
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7773",
+      "time": "2024-05-14T23:03:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7773",
+      "text": "Capitalized patient names",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2124",
+      "time": "2024-05-14T16:13:37+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2124",
+      "text": "Added discharge patient filters",
+      "turnaround_time": 13555
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2124",
+      "time": "2024-05-14T16:13:37+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2124",
+      "text": "Added discharge patient filters",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7801",
+      "time": "2024-05-13T16:41:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7801",
+      "text": "Production release v24.20.0",
+      "collaborated_with": [
+        "Vibhu1710",
+        "r-nikhilkumar",
+        "kabirrajsingh",
+        "rithviknishad",
+        "thedevildude",
+        "saloni0419",
+        "Omkar76",
+        "alanansari",
+        "609harsh",
+        "gigincg",
+        "AshrafMd-1",
+        "Keshav-0907",
+        "khavinshankar",
+        "Sulochan-khadka",
+        "manasvi-gaur",
+        "sainak",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2148",
+      "time": "2024-05-13T16:41:25+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2148",
+      "text": "Production release v24.20.0",
+      "collaborated_with": [
+        "sainak",
+        "gigincg",
+        "Pranshu1902",
+        "vigneshhari",
+        "rithviknishad",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2124",
+      "time": "2024-05-13T12:28:18+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2124#issuecomment-2107445731",
+      "text": "@aparnacoronasafe will try my best to get it reviewed and merged by then"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2147",
+      "time": "2024-05-12T18:07:08+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2147",
+      "text": "Fix op number constraint for readmitted patients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2146",
+      "time": "2024-05-12T17:30:50+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2146",
+      "text": "Change devcontainer make up command to run after start"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#2142",
+      "time": "2024-05-10T23:37:21+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2142",
+      "text": "Dev container runs `make up` every time you connect to it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-10T13:44:17+00:00",
+      "title": "coronasafe/care#2137",
+      "link": "https://github.com/coronasafe/care/pull/2137#pullrequestreview-2050110186",
+      "text": "Adds support for doctors and nurses discussions threads in Discussion Notes"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2139",
+      "time": "2024-05-09T07:41:25+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2139",
+      "text": "Merge Develop to Staging v24.20.0",
+      "collaborated_with": [
+        "Pranshu1902",
+        "rithviknishad",
+        "sainak",
+        "vigneshhari",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7784",
+      "time": "2024-05-09T07:41:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7784",
+      "text": "Merge Develop to Staging v24.20.0",
+      "collaborated_with": [
+        "saloni0419",
+        "manasvi-gaur",
+        "khavinshankar",
+        "r-nikhilkumar",
+        "nihal467",
+        "Vibhu1710",
+        "thedevildude",
+        "Omkar76",
+        "rithviknishad",
+        "AshrafMd-1",
+        "kabirrajsingh",
+        "Sulochan-khadka",
+        "609harsh",
+        "sainak",
+        "Keshav-0907",
+        "alanansari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7380",
+      "time": "2024-05-09T07:07:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7380",
+      "text": "Updated Preview UIs and Changes to Painscale",
+      "turnaround_time": 80176
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7380",
+      "time": "2024-05-09T07:07:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7380",
+      "text": "Updated Preview UIs and Changes to Painscale",
+      "collaborated_with": [
+        "khavinshankar",
+        "nihal467",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-09T06:59:35+00:00",
+      "title": "coronasafe/care_fe#7772",
+      "link": "https://github.com/coronasafe/care_fe/pull/7772#pullrequestreview-2047277742",
+      "text": "Added facility hubs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-09T06:56:06+00:00",
+      "title": "coronasafe/care_fe#7773",
+      "link": "https://github.com/coronasafe/care_fe/pull/7773#pullrequestreview-2047272423",
+      "text": "Capitalized patient names"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1967",
+      "time": "2024-05-08T08:53:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1967",
+      "text": "Painscale changed from 0 - 5 to 0 - 10",
+      "turnaround_time": 52932
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1967",
+      "time": "2024-05-08T08:53:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1967",
+      "text": "Painscale changed from 0 - 5 to 0 - 10",
+      "collaborated_with": [
+        "sainak",
+        "vigneshhari",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2136",
+      "time": "2024-05-08T08:50:12+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2136",
+      "text": "Exact patient no. in filters",
+      "turnaround_time": 24601
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2136",
+      "time": "2024-05-08T02:00:11+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2136",
+      "text": "Exact patient no. in filters"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7759",
+      "time": "2024-05-08T01:50:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7759#issuecomment-2099585971",
+      "text": "@gayann-au Can you share the link of the log updates you are trying to access?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7773",
+      "time": "2024-05-08T01:45:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7773",
+      "text": "Capitalized patient names"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7772",
+      "time": "2024-05-08T00:50:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7772",
+      "text": "Added facility hubs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2135",
+      "time": "2024-05-08T00:36:59+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2135",
+      "text": "Added Facility Hubs"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7583",
+      "time": "2024-05-03T14:25:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7583#issuecomment-2093130863",
+      "text": "As discussed on EOD call (03-05-24) a spoke can have multiple hubs."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-03T13:10:53+00:00",
+      "title": "coronasafe/care_fe#7746",
+      "link": "https://github.com/coronasafe/care_fe/pull/7746#pullrequestreview-2038112503",
+      "text": "occupation field options are in alphabetical order"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7745",
+      "time": "2024-05-02T22:49:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7745#issuecomment-2091872332",
+      "text": "Closing issue as we are migrating Exports out of CARE"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7745",
+      "time": "2024-05-02T22:49:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7745",
+      "text": "Export Discharged Patients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#448",
+      "time": "2024-05-02T13:13:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/448",
+      "text": "EOD Bot : Showing cached app home for one hour",
+      "turnaround_time": 2959
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#448",
+      "time": "2024-05-02T13:13:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/448",
+      "text": "EOD Bot : Showing cached app home for one hour",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#448",
+      "time": "2024-05-02T12:23:45+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/448",
+      "text": "EOD Bot : Showing cached app home for one hour"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#447",
+      "time": "2024-05-02T12:19:49+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/447",
+      "text": "Ensure app home updates are not triggered only for home tab"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#446",
+      "time": "2024-05-02T12:19:44+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/446",
+      "text": "Ensure App Home update requests are rate-limited to avoid exhaustion of github's rate limit."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#443",
+      "time": "2024-04-30T13:44:55+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/443",
+      "text": "Fixed Slack Events Duplicates",
+      "turnaround_time": 447
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#443",
+      "time": "2024-04-30T13:37:29+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/443",
+      "text": "changed storage key"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#442",
+      "time": "2024-04-30T13:35:25+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/442",
+      "text": "Ensure a general update is only added once, and prevent duplicate entries due to Slack's unpredictable retires."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7737",
+      "time": "2024-04-30T12:50:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7737#issuecomment-2085244809",
+      "text": "Will track exports in another issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7745",
+      "time": "2024-04-30T12:49:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7745",
+      "text": "Export Discharged Patients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7744",
+      "time": "2024-04-30T12:39:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7744",
+      "text": "Updated discharged patients page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2124",
+      "time": "2024-04-30T12:27:42+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2124",
+      "text": "Added discharge patient filters"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7673",
@@ -7705,21 +8344,47 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1967",
-      "title": "Painscale changed from 0 - 5 to 0 - 10",
-      "stale_for": 0,
-      "labels": []
+      "link": "https://github.com/coronasafe/care/pull/2147",
+      "title": "Fix op number constraint for readmitted patients",
+      "stale_for": 3,
+      "labels": [
+        "P1"
+      ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7380",
-      "title": "Updated Preview UIs and Changes to Painscale",
-      "stale_for": 0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7772",
+      "title": "Added facility hubs",
+      "stale_for": 2,
       "labels": [
+        "needs review",
+        "changes required",
         "waiting for backend"
       ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2135",
+      "title": "Added Facility Hubs",
+      "stale_for": 3,
+      "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7807",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7808"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/2142",
+      "pr_link": "https://github.com/coronasafe/care/pull/2146"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/446",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/448"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/442",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/443"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care/issues/2004",
       "pr_link": "https://github.com/coronasafe/care/pull/2006"

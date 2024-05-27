@@ -1,6 +1,2174 @@
 {
-  "last_updated": "2024-04-28T20:13:53+00:00",
+  "last_updated": "2024-05-26T19:52:12+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7902",
+      "time": "2024-05-26T19:52:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7902",
+      "text": "Show only relevant detail of ICD-11 in events log"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7901",
+      "time": "2024-05-26T19:37:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7901",
+      "text": "Hide skills already linked to the user"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7900",
+      "time": "2024-05-26T18:49:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7900",
+      "text": "Add Loader to the Consent form page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7899",
+      "time": "2024-05-26T18:46:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7899",
+      "text": "File preview download button is malfunctioning in consent form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7898",
+      "time": "2024-05-26T18:31:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7898",
+      "text": "Camera Consent upload component is flickering"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7897",
+      "time": "2024-05-26T18:20:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7897",
+      "text": "No Records Found behavior is not working properly in consent form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7896",
+      "time": "2024-05-26T18:07:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7896",
+      "text": "Remove Consent Record Missing badge from patient details page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7894",
+      "time": "2024-05-25T15:01:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7894",
+      "text": "Add padding in the user tab for \"No user found\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7893",
+      "time": "2024-05-24T19:16:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7893",
+      "text": "Merge develop to staging v24.22.0",
+      "turnaround_time": 535
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7893",
+      "time": "2024-05-24T18:48:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7893",
+      "text": "Merge develop to staging v24.22.0"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-24T18:19:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#issuecomment-2130110789",
+      "text": "Approved due to priority, enhancement issue will be opened after merging"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-24T18:18:50+00:00",
+      "title": "coronasafe/care_fe#7882",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#pullrequestreview-2077567911",
+      "text": "Separate page for patient consent records"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-24T18:18:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882",
+      "text": "Separate page for patient consent records",
+      "collaborated_with": [
+        "skks1212"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-24T15:12:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#issuecomment-2129788479",
+      "text": "\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/ca176787-4d16-4a0e-a3d6-0560dc4faa99)\r\n\r\n\r\n\r\n- [ ] once the file is archived, make the button similar to file upload\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/33511476-93de-4aee-ad58-b8143707d02b)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-24T13:48:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#issuecomment-2129584480",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/dfa613c8-a4c3-4894-b1bb-c72b6304cdc4)\r\n\r\nwhen i click on the consent record, the bed pop-up is triggered, it is not a necessary to have a bed for this"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7890",
+      "time": "2024-05-24T06:30:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7890",
+      "text": "Login-in page is clipping out"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-24T05:55:10+00:00",
+      "title": "coronasafe/care_fe#7882",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#pullrequestreview-2075825896",
+      "text": "Separate page for patient consent records"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-24T05:43:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#issuecomment-2128576374",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/c09a6f87-8b21-4967-9d85-55a1f306d5c9)\r\n\r\n- [ ] keep only individual file level archive only\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/6ffec17d-5160-4f3f-923c-7023e8e2a7e1)\r\n\r\n- [ ] can we keep the file preview ( Left side ) and file upload component (Right side) into same level , expected behavior screenshot is attached in the bottom\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/a3ac13cc-75e3-4f8f-b6a8-9c69895fb85f)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2160",
+      "time": "2024-05-23T14:06:08+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2160#issuecomment-2127216565",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7805",
+      "time": "2024-05-23T14:05:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7805#issuecomment-2127215565",
+      "text": "functionality looks good, approved it , UI need to be improved as discussed in slack ( Ref : https://rebuildearth.slack.com/archives/C010GQC5UE9/p1715235428755999?thread_ts=1715201296.462099&cid=C010GQC5UE9 )"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2191",
+      "time": "2024-05-23T10:03:05+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2191",
+      "text": "Merge Develop to Staging v24.22.0",
+      "turnaround_time": 12017
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7884",
+      "time": "2024-05-23T09:20:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7884",
+      "text": "Merge Develop to Staging v24.22.0",
+      "turnaround_time": 9414
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7833",
+      "time": "2024-05-23T08:36:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7833#issuecomment-2126545328",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/812e2cff-1944-42b7-bc70-07ab324c9ee1)\r\n\r\n@Sulochan-khadka newly added active medicine is getting by-default collapsed state, which is not expected, only discontinued medicine should be in collapsed state bydefault.\r\n\r\nSteps to replicate \r\n\r\n1. Create a new medicine and manually collapse it\r\n2. then create two more medicines.\r\n3. Then you will be seeing except the latest added medicine, all other ones are collapsed "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7755",
+      "time": "2024-05-23T07:20:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7755#issuecomment-2126402570",
+      "text": "@rithviknishad downgrading it to P2, as frontend changes are been merged"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7882",
+      "time": "2024-05-23T06:44:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#issuecomment-2126350153",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/ab998e9e-928a-4cb3-9e49-c16b014d209e)\r\n\r\n- [ ] when we want to archive something, we archive the entire section, i would keep it as file level, @aparnacoronasafe can you confirm this behavior is ok for production release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7884",
+      "time": "2024-05-23T06:43:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7884",
+      "text": "Merge Develop to Staging v24.22.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2191",
+      "time": "2024-05-23T06:42:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2191",
+      "text": "Merge Develop to Staging v24.22.0"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7851",
+      "time": "2024-05-23T06:21:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7851#issuecomment-2126321154",
+      "text": "it is back online, so issues are resolved"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7851",
+      "time": "2024-05-23T06:21:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7851",
+      "text": "ABDM Services are down"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7839",
+      "time": "2024-05-22T16:07:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7839#issuecomment-2125168878",
+      "text": "LGTM tested through Tunnel"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2189",
+      "time": "2024-05-22T16:06:52+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2189#issuecomment-2125168382",
+      "text": "LGTM tested through Tunnel"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7874",
+      "time": "2024-05-22T16:06:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7874#issuecomment-2125167532",
+      "text": "LGTM tested through Tunnel"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2186",
+      "time": "2024-05-22T16:06:22+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2186#issuecomment-2125166965",
+      "text": "LGTM tested through Tunnel"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-22T16:06:14+00:00",
+      "title": "coronasafe/care#2186",
+      "link": "https://github.com/coronasafe/care/pull/2186#pullrequestreview-2071719056",
+      "text": "Symptoms table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-22T13:58:43+00:00",
+      "title": "coronasafe/care_fe#7882",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#pullrequestreview-2071308125",
+      "text": "Separate page for patient consent records"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-22T13:58:43+00:00",
+      "title": "coronasafe/care_fe#7882",
+      "link": "https://github.com/coronasafe/care_fe/pull/7882#pullrequestreview-2071308125",
+      "text": "Separate page for patient consent records"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7795",
+      "time": "2024-05-22T12:01:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7795",
+      "text": "[FIXED] Enhancement of pain scale value and badge position",
+      "collaborated_with": [
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7819",
+      "time": "2024-05-22T12:01:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7819",
+      "text": "Show loading state when switching tabs in Discussion Notes",
+      "collaborated_with": [
+        "sunny-thakurwar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7881",
+      "time": "2024-05-22T11:52:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7881#issuecomment-2124605388",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7880",
+      "time": "2024-05-22T11:49:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7880#issuecomment-2124599510",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7828",
+      "time": "2024-05-22T11:26:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7828#issuecomment-2124559283",
+      "text": "@609harsh \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/5a3d063a-b454-411d-9251-1da614d32a3c)\r\n\r\n- [ ] Don't show this tooltip for all asset names. Show it only for assets with lengthy names, similar to the screenshot attached in the issue. When the user hovers over those cards, display the tooltip."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7819",
+      "time": "2024-05-22T11:22:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7819#issuecomment-2124552939",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7588",
+      "time": "2024-05-22T11:21:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7588#issuecomment-2124550834",
+      "text": "@AnkurPrabhu remove the additional \"something went wrong...!\" error message , when we scan invalid QR\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/a85ffcdc-75bc-4231-a3ed-116ec4cb78ac)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7795",
+      "time": "2024-05-22T10:21:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7795#issuecomment-2124435361",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7865",
+      "time": "2024-05-22T10:11:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7865#issuecomment-2124408680",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7725",
+      "time": "2024-05-22T10:05:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7725#issuecomment-2124396807",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7654",
+      "time": "2024-05-22T10:00:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7654",
+      "text": "Migrate Consultation Camera Feed to use newer camera feed components",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7654",
+      "time": "2024-05-22T09:57:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7654#issuecomment-2124380120",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7879",
+      "time": "2024-05-22T08:33:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7879#issuecomment-2124191741",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7671",
+      "time": "2024-05-22T04:37:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7671",
+      "text": "Allow only admins to delete a location or a bed",
+      "collaborated_with": [
+        "AnkurPrabhu"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7699",
+      "time": "2024-05-22T04:36:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7699",
+      "text": "Disable the Bed List of Already occupied Beds (front-end change)",
+      "collaborated_with": [
+        "AnkurPrabhu"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7853",
+      "time": "2024-05-22T04:35:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7853",
+      "text": "Updated discharged patients page",
+      "collaborated_with": [
+        "skks1212"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2187",
+      "time": "2024-05-21T16:29:57+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2187#issuecomment-2123008275",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7875",
+      "time": "2024-05-21T14:03:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7875#issuecomment-2122715288",
+      "text": "@khavinshankar events log is not working"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7870",
+      "time": "2024-05-21T13:28:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7870",
+      "text": "Remove unwanted covid fields",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2147",
+      "time": "2024-05-21T13:26:34+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2147#issuecomment-2122636835",
+      "text": "@skks1212 the PR is still having bugs, I can create multiple consultation with same IP number for a single patient within a facility "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-21T12:26:50+00:00",
+      "title": "coronasafe/care_fe#7870",
+      "link": "https://github.com/coronasafe/care_fe/pull/7870#pullrequestreview-2068493155",
+      "text": "Remove unwanted covid fields"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7870",
+      "time": "2024-05-21T12:25:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7870#issuecomment-2122519957",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7873",
+      "time": "2024-05-21T12:19:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7873#issuecomment-2122509566",
+      "text": "@khavinshankar \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/35df5f07-7dbf-433e-8791-95da4b1daf72)\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/ca3780b0-777f-4286-8689-b5cb26402c59)\r\n\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/9383d67f-db3e-4d60-be0c-660c0f9c38ba)\r\n\r\n\r\n- [ ] can you make these changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7292",
+      "time": "2024-05-21T11:46:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7292#issuecomment-2122450054",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7870",
+      "time": "2024-05-21T11:07:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7870#issuecomment-2122383809",
+      "text": "remove the covid result date filter in the patient advance filter"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7671",
+      "time": "2024-05-21T09:58:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7671#issuecomment-2122243254",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7822",
+      "time": "2024-05-21T09:37:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822",
+      "text": "Show skills of treating doctor in consultation dashboard",
+      "collaborated_with": [
+        "rithviknishad",
+        "Sulochan-khadka"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7867",
+      "time": "2024-05-21T09:33:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7867#issuecomment-2122196660",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7869",
+      "time": "2024-05-21T09:31:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7869",
+      "text": "Follow-up : Admitted to filter in Facility Specific discharge patient page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7822",
+      "time": "2024-05-21T09:24:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7822#issuecomment-2122176620",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-21T08:33:06+00:00",
+      "title": "coronasafe/care#2133",
+      "link": "https://github.com/coronasafe/care/pull/2133#pullrequestreview-2067927283",
+      "text": "Prescriptions and MAR: Disallow non-home facility users to perform edits and disallow edits for discharged patients"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2176",
+      "time": "2024-05-21T08:04:44+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2176#issuecomment-2122013772",
+      "text": "@vigneshhari can you review and merge it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7853",
+      "time": "2024-05-21T08:03:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7853#issuecomment-2122011807",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2147",
+      "time": "2024-05-21T07:46:07+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2147#issuecomment-2121974328",
+      "text": "**Test Case** Status : In-progress \r\n\r\n- [ ] Same IP number for re-admitted patient within the facility { It should throw error }\r\n- [ ] Same OP number for re-admitted patient within the facility\r\n- [ ] OP number is unique for different patient within the facility\r\n- [ ] OP number can be modified to match previous consultation OP number\r\n\r\n\r\n**Bug** \r\n![image](https://github.com/coronasafe/care/assets/57055998/5a1f3f0b-c747-4787-99e2-634e3f910916)\r\n\r\n- [ ] When we re-admit same patient to the same facility with same IP number , it is throw \"something went wrong\" error, reuse the existing error shown for unique IP number\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7853",
+      "time": "2024-05-21T06:32:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7853#issuecomment-2121850257",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/7a066f1e-6957-44b0-8f35-56581039d162)\r\n\r\n- [ ] admitted to , in the advanced filter, actually check in the patient page the current bed status , but when you re-use the same component in the discharge page, it won't filter patient data based on the last bed assigned to the patient"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2116",
+      "time": "2024-05-21T04:28:53+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2116#issuecomment-2121717104",
+      "text": "LGTM @rithviknishad @sainak can you fix the lint issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7862",
+      "time": "2024-05-20T14:44:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7862",
+      "text": "Merge Develop to Staging v24.21.0 | ABDM Enhancement",
+      "turnaround_time": 322
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7862",
+      "time": "2024-05-20T14:44:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7862",
+      "text": "Merge Develop to Staging v24.21.0 | ABDM Enhancement",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7862",
+      "time": "2024-05-20T14:39:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7862",
+      "text": "Merge Develop to Staging v24.21.0 | ABDM Enhancement"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7861",
+      "time": "2024-05-20T14:37:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7861",
+      "text": "Abdm improvements",
+      "collaborated_with": [
+        "Khavin Shankar",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7861",
+      "time": "2024-05-20T14:36:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7861#issuecomment-2120592393",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7861",
+      "time": "2024-05-20T14:35:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7861#issuecomment-2120590570",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7861",
+      "time": "2024-05-20T14:06:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7861#issuecomment-2120534490",
+      "text": "change the warning message text to warning and re-use the warning icon from the file components"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7854",
+      "time": "2024-05-18T12:19:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7854",
+      "text": "Enhance the treating doctor field in the consultation form"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7849",
+      "time": "2024-05-18T11:46:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7849#issuecomment-2118795872",
+      "text": "@609harsh Iam unassigning you from this issue, as you already have a unfinished PR pending cypress changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7851",
+      "time": "2024-05-17T18:29:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7851",
+      "text": "ABDM Services are down"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7850",
+      "time": "2024-05-17T17:01:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7850",
+      "text": "Scroll functionality is malfunctioning in the consultation form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7849",
+      "time": "2024-05-17T16:48:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7849",
+      "text": "Enhance the existing AutocompleteFormField component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2175",
+      "time": "2024-05-17T16:35:25+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2175",
+      "text": "Merge Develop to Staging v24.21.0",
+      "turnaround_time": 604
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2175",
+      "time": "2024-05-17T16:25:22+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2175",
+      "text": "Merge Develop to Staging v24,.21,0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7848",
+      "time": "2024-05-17T16:00:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7848",
+      "text": "Merge Develop to Staging v 24.21.0",
+      "turnaround_time": 1111
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7848",
+      "time": "2024-05-17T15:41:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7848",
+      "text": "Merge Develop to Staging v 24.21.0"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7845",
+      "time": "2024-05-17T15:01:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7845#issuecomment-2117796890",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7847",
+      "time": "2024-05-17T14:57:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7847#issuecomment-2117790215",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7846",
+      "time": "2024-05-17T13:58:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7846",
+      "text": "Enhance the event module UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7844",
+      "time": "2024-05-17T13:11:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7844",
+      "text": "Merge develop to staging v24.21.0 | Events related Changes",
+      "turnaround_time": 791
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7844",
+      "time": "2024-05-17T13:11:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7844",
+      "text": "Merge develop to staging v24.21.0 | Events related Changes",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7844",
+      "time": "2024-05-17T12:58:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7844",
+      "text": "Merge develop to staging v24.21.0 | Events related Changes"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7826",
+      "time": "2024-05-17T12:48:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7826",
+      "text": "Events: Set as default tab; Fixes nested objects not rendered in events; Limit precision for numeric values;",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7826",
+      "time": "2024-05-17T12:30:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7826#issuecomment-2117494518",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7843",
+      "time": "2024-05-17T12:23:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7843",
+      "text": "File is not getting reset after upload"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7738",
+      "time": "2024-05-17T11:13:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7738#issuecomment-2117345222",
+      "text": "@Pranshu1902 can you modify the PR based on the latest expected behavior"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7572",
+      "time": "2024-05-17T10:25:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7572#issuecomment-2117251514",
+      "text": "@manasvi-gaur unassigning you from this due to inactivity, feel free to assign this issue if you are still working on it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7835",
+      "time": "2024-05-17T10:18:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7835#issuecomment-2117233406",
+      "text": "fixed, in the deployment side"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7835",
+      "time": "2024-05-17T10:18:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7835",
+      "text": "Asset Template format is not updated in staging env"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7838",
+      "time": "2024-05-17T06:35:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7838",
+      "text": "Revert \"Updated discharged patients page (#7744)\" (#7837) | Merge Develop to Staging v24.21.0",
+      "turnaround_time": 405
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7838",
+      "time": "2024-05-17T06:28:55+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7838",
+      "text": "Revert \"Updated discharged patients page (#7744)\" (#7837) | Merge Develop to Staging v24.21.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7837",
+      "time": "2024-05-17T06:19:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7837",
+      "text": "Revert \"Updated discharged patients page (#7744)\"",
+      "turnaround_time": 859
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7837",
+      "time": "2024-05-17T06:17:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7837#issuecomment-2116820877",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7836",
+      "time": "2024-05-17T06:06:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7836#issuecomment-2116789854",
+      "text": "https://github.com/coronasafe/care_fe/pull/7837"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7837",
+      "time": "2024-05-17T06:05:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7837",
+      "text": "Revert \"Updated discharged patients page (#7744)\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7836",
+      "time": "2024-05-16T21:01:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7836",
+      "text": "Discharge Patient advance filters is malfunctioning"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7835",
+      "time": "2024-05-16T20:30:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7835",
+      "text": "Asset Template format is not updated in staging env"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7738",
+      "time": "2024-05-16T18:27:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7738#issuecomment-2115931974",
+      "text": "@Pranshu1902 blocking it for further clarification from @aparnacoronasafe "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6633",
+      "time": "2024-05-16T17:59:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6633#issuecomment-2115875416",
+      "text": "resolved in https://github.com/coronasafe/care/pull/1742"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6633",
+      "time": "2024-05-16T17:59:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6633",
+      "text": "User Management is showing all user without user access limitation / user location"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7834",
+      "time": "2024-05-16T16:26:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7834",
+      "text": "Merge minor fix from  develop to staging v24.21.0 ",
+      "turnaround_time": 503
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7834",
+      "time": "2024-05-16T16:17:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7834",
+      "text": "Merge minor fix from  develop to staging v24.21.0 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7829",
+      "time": "2024-05-16T15:08:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7829#issuecomment-2115510086",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7832",
+      "time": "2024-05-16T10:52:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7832",
+      "text": "Hide patient monitor logic is not working properly"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7831",
+      "time": "2024-05-16T07:48:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7831",
+      "text": "Enhancement to staff count card"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7826",
+      "time": "2024-05-16T07:32:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7826#issuecomment-2114276027",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/e18b791e-cc7b-40d7-9d41-f2bb90b4c0d6)\r\n\r\n- [ ] When we submit a log update, other detail is shown as empty in the events log, remove it\r\n- [ ] in the level of consciousness, replace _ with space\r\n- [ ] in critical care, when we input infusion events such as when we click something from the drop and submit data, it is not shown in the events, similarly for pressure sore, pain scale, and nursing care"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7825",
+      "time": "2024-05-15T10:46:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7825",
+      "text": "Modify the registration form to hide covid related fields"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#3856",
+      "time": "2024-05-15T10:23:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/3856#issuecomment-2112135665",
+      "text": "it will be addressed in the https://github.com/coronasafe/care_fe/issues/7732"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#3856",
+      "time": "2024-05-15T10:23:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/3856",
+      "text": "Relevance of Covid Status in the Patient Creation Form and detail Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7732",
+      "time": "2024-05-15T10:23:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7732#issuecomment-2112134718",
+      "text": "https://github.com/coronasafe/care_fe/issues/7813 it is partly addressed, \r\n\r\nTo do \r\n\r\n- [ ] remove not vaccinated badge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2168",
+      "time": "2024-05-15T08:23:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2168",
+      "text": "Merge Develop to Staging v24.21.0",
+      "turnaround_time": 13995
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7821",
+      "time": "2024-05-15T08:22:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7821",
+      "text": "Merge Develop to Staging v24.21.0",
+      "turnaround_time": 5099
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7752",
+      "time": "2024-05-15T08:14:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7752",
+      "text": "Daily Rounds: Remove support for copying from previous log update",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7752",
+      "time": "2024-05-15T07:56:32+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7752#issuecomment-2111827759",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T07:55:20+00:00",
+      "title": "coronasafe/care_fe#7752",
+      "link": "https://github.com/coronasafe/care_fe/pull/7752#pullrequestreview-2057200070",
+      "text": "Daily Rounds: Remove support for copying from previous log update"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6943",
+      "time": "2024-05-15T07:51:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6943#issuecomment-2111819512",
+      "text": "based on the discussion, a new issue have been opened https://github.com/coronasafe/care_fe/issues/7815"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6943",
+      "time": "2024-05-15T07:51:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6943",
+      "text": "Patient registration form: Collect \"Post partum\""
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-05-15T07:50:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500#issuecomment-2111817046",
+      "text": "the issue has been already handled in the https://github.com/coronasafe/care/pull/1742"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-05-15T07:50:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500",
+      "text": "Refactoring the access of a district admin in respect to list of users"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7821",
+      "time": "2024-05-15T06:57:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7821",
+      "text": "Merge Develop to Staging v24.21.0"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7664",
+      "time": "2024-05-15T06:35:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664",
+      "text": "update area of specialisation of doctor ",
+      "collaborated_with": [
+        "rithviknishad",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T06:34:06+00:00",
+      "title": "coronasafe/care_fe#7664",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#pullrequestreview-2057006756",
+      "text": "update area of specialisation of doctor "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7662",
+      "time": "2024-05-15T06:21:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7662#issuecomment-2111672694",
+      "text": "@aparnacoronasafe can you provide your opinion on this issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2110",
+      "time": "2024-05-15T06:19:57+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2110#issuecomment-2111670188",
+      "text": "marked as do not merge for getting some clarity from aparna"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7664",
+      "time": "2024-05-15T06:18:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#issuecomment-2111668025",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T05:49:20+00:00",
+      "title": "coronasafe/care_fe#7664",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#pullrequestreview-2056939052",
+      "text": "update area of specialisation of doctor "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T05:49:19+00:00",
+      "title": "coronasafe/care_fe#7664",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#pullrequestreview-2056939052",
+      "text": "update area of specialisation of doctor "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7664",
+      "time": "2024-05-15T04:50:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#issuecomment-2111578544",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/43ff0b95-a42e-4cb8-8188-1401695b0284)\r\n\r\n- [ ] change it to total staff count"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7664",
+      "time": "2024-05-15T04:48:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#issuecomment-2111577324",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/94c6f458-bd59-43aa-a821-1a4181e27387)\r\n\r\n- [ ] update the existing data modify "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7664",
+      "time": "2024-05-15T04:46:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#issuecomment-2111574604",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/b93d7765-8b3e-48d9-b029-dac5e052ab50)\r\n\r\n- [ ] modify the delete pop-up text and relate notification"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7664",
+      "time": "2024-05-15T04:44:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#issuecomment-2111572909",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/8aac4b23-3048-4828-9b56-2afb39ce55d5)\r\n\r\n- [ ] change all doctor related text to staff related text in the facility create work flow"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7664",
+      "time": "2024-05-15T04:43:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#issuecomment-2111572251",
+      "text": "@rithviknishad can you update the following bugs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2168",
+      "time": "2024-05-15T04:29:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2168",
+      "text": "Merge Develop to Staging v24.21.0"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7785",
+      "time": "2024-05-15T01:24:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7785#issuecomment-2111414812",
+      "text": "LGTM as build is completed"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-14T23:15:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498",
+      "text": "Restrict Unauthorized Users from Accessing Facility's Patient Registration",
+      "collaborated_with": [
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7797",
+      "time": "2024-05-14T22:43:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7797",
+      "text": "Update antental filter logic to filter by last menstruation start date within 9 months",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7816",
+      "time": "2024-05-14T19:59:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7816#issuecomment-2111041168",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7797",
+      "time": "2024-05-14T19:49:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7797#issuecomment-2111025729",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7805",
+      "time": "2024-05-14T19:47:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7805#issuecomment-2111021979",
+      "text": "@UdaySagar-Git fix the lint and test in the backend PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2160",
+      "time": "2024-05-14T19:47:21+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2160#issuecomment-2111021730",
+      "text": "@UdaySagar-Git fix the lint and test in the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7777",
+      "time": "2024-05-14T19:46:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7777#issuecomment-2111020179",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7808",
+      "time": "2024-05-14T19:43:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7808#issuecomment-2111016083",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7785",
+      "time": "2024-05-14T19:33:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7785#issuecomment-2110999826",
+      "text": "@sainak clear the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7796",
+      "time": "2024-05-14T19:31:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7796#issuecomment-2110996651",
+      "text": "@609harsh modify the existing cypress test related to facility creation as it is currently failing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7804",
+      "time": "2024-05-14T19:28:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7804#issuecomment-2110993326",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7795",
+      "time": "2024-05-14T19:26:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7795#issuecomment-2110990152",
+      "text": "@r-nikhilkumar \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/e1e9d759-c73c-4936-b7c4-d0a53042539d)\r\n\r\nreduce the input box size and keep the things center aligned"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7792",
+      "time": "2024-05-14T19:15:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7792#issuecomment-2110973883",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7773",
+      "time": "2024-05-14T19:14:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7773#issuecomment-2110971186",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2135",
+      "time": "2024-05-14T19:05:35+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2135#issuecomment-2110954166",
+      "text": "lgtm"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7772",
+      "time": "2024-05-14T19:05:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7772#issuecomment-2110953107",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/b13bf282-4b0a-49fb-8f13-36c07ec39941)\r\n\r\n- [ ] currently, it is a click and select dropdown, change it the component, where users can type and select from the dropdown the respective facility\r\n- [ ] currently, it is not reflected anywhere in the facility details page, we should be reflecting the data somewhere in the details page : take an opinion from @aparnacoronasafe for the UI approval"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7770",
+      "time": "2024-05-14T18:47:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7770#issuecomment-2110907701",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7750",
+      "time": "2024-05-14T18:45:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7750#issuecomment-2110900053",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7744",
+      "time": "2024-05-14T18:30:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7744#issuecomment-2110861167",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/938072e4-3731-4091-968e-eb29c9944b36)\r\n\r\ncan you fix the responsive issue ASAP"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7664",
+      "time": "2024-05-14T18:23:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7664#issuecomment-2110849535",
+      "text": "@rash-27 any update on this PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7584",
+      "time": "2024-05-14T18:20:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7584#issuecomment-2110845526",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/36103d3f-b6c6-4591-a50c-8672396e7aee)\r\n\r\n- [ ] For PRN prescription and prescription, the regular and PRN should be shown in the prescription type, not in the dosage type\r\n- [ ] replace base dosage as Dosage\r\n- [ ] in titrated dosage replace base dosage as start dosage"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7639",
+      "time": "2024-05-14T14:55:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7639#issuecomment-2110459463",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-14T14:53:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#issuecomment-2110455166",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7546",
+      "time": "2024-05-14T10:01:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7546#issuecomment-2109790269",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7524",
+      "time": "2024-05-14T10:01:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7524#issuecomment-2109790117",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7523",
+      "time": "2024-05-14T10:01:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7523#issuecomment-2109789606",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7487",
+      "time": "2024-05-14T09:58:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7487#issuecomment-2109783963",
+      "text": "@dwip708 closing this PR and unassigning you from this issue due to inactivity, feel free to reopen the same if you are still working on it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7491",
+      "time": "2024-05-14T09:58:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7491#issuecomment-2109783411",
+      "text": "@dwip708 closing this PR and unassigning you from this issue due to inactivity, feel free to reopen the same if you are still working on it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7373",
+      "time": "2024-05-14T09:57:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7373#issuecomment-2109781161",
+      "text": "@r-nikhilkumar closing this PR and unassigning you from this issue due to inactivity, feel free to reopen the same if you are still working on it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7438",
+      "time": "2024-05-14T09:57:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7438#issuecomment-2109780361",
+      "text": "@r-nikhilkumar closing this PR and unassigning you from this issue due to inactivity, feel free to reopen the same if you are still working on it"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7193",
+      "time": "2024-05-14T09:52:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7193",
+      "text": "ABDM M3",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7776",
+      "time": "2024-05-14T09:48:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7776#issuecomment-2109762554",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7786",
+      "time": "2024-05-14T09:47:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7786#issuecomment-2109761373",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7812",
+      "time": "2024-05-14T09:31:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7812#issuecomment-2109725173",
+      "text": "@skks1212 you can start working on this issue as @aparnacoronasafe & @gigincg approved it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7803",
+      "time": "2024-05-13T18:44:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7803",
+      "text": "New Cypress Test | Titrated dosage and Individual administration | Patient Prescription Module"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7801",
+      "time": "2024-05-13T16:41:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7801",
+      "text": "Production release v24.20.0",
+      "collaborated_with": [
+        "Vibhu1710",
+        "r-nikhilkumar",
+        "kabirrajsingh",
+        "rithviknishad",
+        "thedevildude",
+        "saloni0419",
+        "Omkar76",
+        "alanansari",
+        "609harsh",
+        "gigincg",
+        "skks1212",
+        "AshrafMd-1",
+        "Keshav-0907",
+        "khavinshankar",
+        "Sulochan-khadka",
+        "manasvi-gaur",
+        "sainak"
+      ]
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7799",
+      "time": "2024-05-13T06:41:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7799",
+      "text": "manage patient button is not properly responsive "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7794",
+      "time": "2024-05-10T14:14:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7794",
+      "text": "merge minor fix from develop to staging v24.20.0 ",
+      "turnaround_time": 430
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7794",
+      "time": "2024-05-10T14:06:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7794",
+      "text": "merge minor fix from develop to staging v24.20.0 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2141",
+      "time": "2024-05-10T13:42:31+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2141",
+      "text": "Merge Minor Fix from Develop to Staging v24.20.0",
+      "turnaround_time": 902
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7793",
+      "time": "2024-05-10T13:30:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7793",
+      "text": "Whatsapp Connect flow is not properly handled"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2141",
+      "time": "2024-05-10T13:27:30+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2141",
+      "text": "Merge Minor Fix from Develop to Staging v24.20.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7790",
+      "time": "2024-05-10T12:14:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7790",
+      "text": "the local body field in the patient registration form is not properly responsive"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7789",
+      "time": "2024-05-10T12:12:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7789",
+      "text": "\"No Review\" status is not properly handled in log update "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7788",
+      "time": "2024-05-10T10:24:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7788#issuecomment-2104358019",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7787",
+      "time": "2024-05-10T09:22:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7787",
+      "text": "Lengthy asset name is not properly handled in asset list page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2139",
+      "time": "2024-05-09T07:41:25+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2139",
+      "text": "Merge Develop to Staging v24.20.0",
+      "turnaround_time": 2587
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7784",
+      "time": "2024-05-09T07:41:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7784",
+      "text": "Merge Develop to Staging v24.20.0",
+      "turnaround_time": 605
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7784",
+      "time": "2024-05-09T07:41:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7784",
+      "text": "Merge Develop to Staging v24.20.0",
+      "collaborated_with": [
+        "saloni0419",
+        "manasvi-gaur",
+        "khavinshankar",
+        "r-nikhilkumar",
+        "Vibhu1710",
+        "thedevildude",
+        "Omkar76",
+        "rithviknishad",
+        "AshrafMd-1",
+        "kabirrajsingh",
+        "Sulochan-khadka",
+        "609harsh",
+        "skks1212",
+        "sainak",
+        "Keshav-0907",
+        "alanansari"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7784",
+      "time": "2024-05-09T07:30:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7784",
+      "text": "Merge Develop to Staging v24.20.0"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7380",
+      "time": "2024-05-09T07:07:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7380",
+      "text": "Updated Preview UIs and Changes to Painscale",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad",
+        "skks1212"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2139",
+      "time": "2024-05-09T06:58:19+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2139",
+      "text": "Merge Develop to Staging v24.20.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7783",
+      "time": "2024-05-09T06:51:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7783",
+      "text": "Add General vaccination detail recording support to CARE"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7782",
+      "time": "2024-05-09T06:46:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7782",
+      "text": "Enhancement to the pain scale preview mode"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7781",
+      "time": "2024-05-09T06:43:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7781",
+      "text": "Enhancement to the pain scale / Pressure sore component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7380",
+      "time": "2024-05-09T06:31:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7380#issuecomment-2102036610",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7779",
+      "time": "2024-05-08T13:23:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7779",
+      "text": "Fixed argument error in patient registration cypress test",
+      "turnaround_time": 532
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7779",
+      "time": "2024-05-08T13:15:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7779",
+      "text": "Fixed argument error in patient registration cypress test"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6993",
+      "time": "2024-05-08T11:50:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6993",
+      "text": "Collect postpartum data",
+      "collaborated_with": [
+        "Omkar76",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7741",
+      "time": "2024-05-08T11:33:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7741#issuecomment-2100372170",
+      "text": "@khavinshankar / @rithviknishad review it, marking it tested and need for review as deploys are passing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2137",
+      "time": "2024-05-08T08:59:01+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2137#issuecomment-2100098737",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7749",
+      "time": "2024-05-08T08:38:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7749#issuecomment-2100058438",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7744",
+      "time": "2024-05-08T08:34:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7744#issuecomment-2100050686",
+      "text": "@skks1212 makes the necessary changes request in the backend"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2118",
+      "time": "2024-05-08T08:32:51+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2118#issuecomment-2100048023",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7746",
+      "time": "2024-05-08T08:25:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7746",
+      "text": "occupation field options are in alphabetical order",
+      "collaborated_with": [
+        "609harsh"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7775",
+      "time": "2024-05-08T08:23:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7775#issuecomment-2100025262",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2068",
+      "time": "2024-05-08T08:22:11+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2068#issuecomment-2100021912",
+      "text": "> @nihal467 This PR can be reviewed and merged even if front-end changes maybe required.\r\n> \r\n> cc: @sainak\r\n\r\n@vigneshhari can you review and merge it :)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2062",
+      "time": "2024-05-08T08:05:20+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2062#issuecomment-2099990177",
+      "text": "@aeswibon fix the bugs in the related frontend PR's\r\n\r\n@vigneshhari only review the PR and dont merge it due to bugs in the related frontend PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7738",
+      "time": "2024-05-08T08:00:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7738#issuecomment-2099981906",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/4a3b2617-1266-4b8e-a637-94ace3d25dd2)\r\n\r\nas per the issue, the button was suggested to be hidden, as non-admin users have no privilege to use it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7658",
+      "time": "2024-05-08T07:41:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7658#issuecomment-2099949496",
+      "text": "@aeswibon \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/300912cf-c3be-48b6-a567-7a99e61bce1f)\r\n\r\n- [ ] when we open the configuration page itself, there is a error been thrown"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2068",
+      "time": "2024-05-08T07:15:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2068#issuecomment-2099903783",
+      "text": "related Frontend is still having bugs, @Pranshu1902 can you make the related change \r\n\r\n@vigneshhari only review this PR, don't merge it,  "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7584",
+      "time": "2024-05-08T07:14:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7584#issuecomment-2099901075",
+      "text": "@Pranshu1902 \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/df8af105-f69e-4305-bbc3-5c0abe294a32)\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/3890c304-2f7d-4a9d-821d-0b318a7ecb19)\r\n\r\n- [ ] failed the test , follow the below step to replicate it : \r\n\r\nStep 1 : Add a dolo medicine with prescription\r\nstep 2 : Change the medicine to titrated dosage\r\nstep 3 : Discontinue the medicine\r\nStep 4 : Add the same medicine in PRN Prescription\r\n\r\nthe medicine summary is missing the discontinue in the timeline\r\n\r\n- [ ] when there is no summary, add a text in the bottom \"no medicine summary\" with white padding similar to the card we show when there is no consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7498",
+      "time": "2024-05-08T06:39:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7498#issuecomment-2099849574",
+      "text": "@AshrafMd-1 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/f766846a-73f6-4487-a224-793c1886f4aa)\r\n\r\n- [ ] When we click on the add patient button with a nurse user having 1 home facility and multiple linked facility, the error is thrown.\r\n\r\nNote: Before marking it again for testing, do a QA test for self-evaluation of the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7726",
+      "time": "2024-05-07T14:39:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7726#issuecomment-2098565995",
+      "text": "@AshrafMd-1 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/181e6924-67ae-41be-bd15-943d611fe92f)\r\n\r\n- [ ] something went wrong error is still shown along with the invalid QR code\r\n- [ ] When a staff user scans a valid QR code, but they do not having access to it, due to no access to the asset. So, throwing an \"Invalid QR code\" error won't make sense, it would be better in these scenerio's to throw a \"You don't have permission to access this asset\" notification, which will be more proper."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7696",
+      "time": "2024-05-07T14:26:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7696#issuecomment-2098538719",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7738",
+      "time": "2024-05-07T14:16:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7738#issuecomment-2098517961",
+      "text": "@Pranshu1902 \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/2774614e-ed8d-474c-bbe5-84b77efb7964)\r\n\r\nabove is the current stage screenshot\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/4ea8e564-9c0c-46f0-ba8d-3d51c5379617)\r\n\r\nabove is the PR deployment\r\n\r\n- the PR is not showing the home facility page, can you check into this issue and reverify the code change you made while clearing the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7746",
+      "time": "2024-05-07T14:00:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7746#issuecomment-2098481940",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7645",
+      "time": "2024-05-07T09:34:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7645",
+      "text": "[FIXED] Modified Notification related to Patient Log update successfully",
+      "collaborated_with": [
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7644",
+      "time": "2024-05-07T09:22:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644",
+      "text": "Fixed #7610 Toggle  Emergency Contact No. From Phone Number",
+      "collaborated_with": [
+        "manasvi-gaur",
+        "khavinshankar",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7502",
+      "time": "2024-05-07T09:14:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502",
+      "text": "Show no information card if consultation and sample test history list is empty",
+      "collaborated_with": [
+        "Sulochan-khadka",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7496",
+      "time": "2024-05-07T09:05:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7496",
+      "text": "Icon overlapping with text in text-box of Doctor's Notes. #7495",
+      "collaborated_with": [
+        "Sulochan-khadka",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7488",
+      "time": "2024-05-07T09:05:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7488",
+      "text": "Add \"needs testing\" label if contributor comments \"ready for testing\" ",
+      "collaborated_with": [
+        "saloni0419",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7480",
+      "time": "2024-05-07T09:03:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7480",
+      "text": "fixes \"Set average weekly working hour\" button in user tab is not responsive Fixes #7309",
+      "collaborated_with": [
+        "kabirrajsingh",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7273",
+      "time": "2024-05-07T09:00:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7273",
+      "text": "Fix : Minimum value in forms should be greater than 0",
+      "collaborated_with": [
+        "Ashesh3",
+        "khavinshankar",
+        "Keshav-0907",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7644",
+      "time": "2024-05-07T08:58:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644#issuecomment-2097795895",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-07T08:58:24+00:00",
+      "title": "coronasafe/care_fe#7644",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644#pullrequestreview-2042516780",
+      "text": "Fixed #7610 Toggle  Emergency Contact No. From Phone Number"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-07T08:46:58+00:00",
+      "title": "coronasafe/care_fe#7645",
+      "link": "https://github.com/coronasafe/care_fe/pull/7645#pullrequestreview-2042483239",
+      "text": "[FIXED] Modified Notification related to Patient Log update successfully"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7645",
+      "time": "2024-05-07T08:45:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7645#issuecomment-2097769914",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7757",
+      "time": "2024-05-07T07:32:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7757#issuecomment-2097638460",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7739",
+      "time": "2024-05-07T07:30:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7739#issuecomment-2097634890",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7725",
+      "time": "2024-05-07T07:27:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7725#issuecomment-2097629349",
+      "text": "@AshrafMd-1 add a white padding as mention in the issue \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/50fa3513-6dbe-4c99-b123-48041df5edf0)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7654",
+      "time": "2024-05-07T07:11:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7654#issuecomment-2097604679",
+      "text": "@rithviknishad when we free move the camera, after selecting a preset, the entire component is going to a loading state"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7609",
+      "time": "2024-05-07T07:02:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7609#issuecomment-2097589942",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7645",
+      "time": "2024-05-07T06:36:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7645#issuecomment-2097553417",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7645",
+      "time": "2024-05-07T06:27:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7645#issuecomment-2097542503",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7639",
+      "time": "2024-05-07T06:25:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7639#issuecomment-2097539383",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7588",
+      "time": "2024-05-07T06:17:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7588#issuecomment-2097530870",
+      "text": "@AnkurPrabhu clear the merge conflict\r\n\r\nCC: @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7502",
+      "time": "2024-05-07T06:14:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#issuecomment-2097527241",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7496",
+      "time": "2024-05-07T06:09:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7496#issuecomment-2097521014",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7480",
+      "time": "2024-05-07T06:07:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7480#issuecomment-2097518040",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6993",
+      "time": "2024-05-07T06:04:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#issuecomment-2097514839",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/8886b124-3191-4d1a-9268-66553ebd4d8a)\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/df293ca2-372d-4ba3-929f-17f0f245a6f0)\r\n\r\n\r\n- [ ] modify the cypress test to check both last menstruation and date of delivery dates reflection using cypress"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7764",
+      "time": "2024-05-06T15:24:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7764",
+      "text": "New Cypress Test | Duplicate Medicine Validation | Patient Prescription Module",
+      "turnaround_time": 3595
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7761",
+      "time": "2024-05-06T15:24:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7761",
+      "text": "New Cypress Test | MEWS Score | Patient Consultation Module",
+      "turnaround_time": 3170
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7764",
+      "time": "2024-05-06T14:25:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7764",
+      "text": "New Cypress Test | Duplicate Medicine Validation | Patient Prescription Module"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7763",
+      "time": "2024-05-06T11:53:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7763",
+      "text": "Medicine Administration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7761",
+      "time": "2024-05-06T11:12:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7761",
+      "text": "New Cypress Test | MEWS Score | Patient Consultation Module"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7747",
+      "time": "2024-05-01T16:12:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7747",
+      "text": "Merge develop to staging v24.19.0",
+      "turnaround_time": 1249
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2125",
+      "time": "2024-05-01T16:12:10+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2125",
+      "text": "Merge develop to staging v24.19.0",
+      "turnaround_time": 1159
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2125",
+      "time": "2024-05-01T15:52:51+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2125",
+      "text": "Merge develop to staging v24.19.0"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7743",
+      "time": "2024-04-30T17:24:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7743#issuecomment-2086116463",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7743",
+      "time": "2024-04-30T14:33:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7743#issuecomment-2085504702",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/80c7ae49-1ec2-4df3-892c-ede2422b070d)\r\n\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7742",
+      "time": "2024-04-30T11:45:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7742",
+      "text": "Fix the existing malfunctioning validation for titrated dose"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7721",
+      "time": "2024-04-30T11:41:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7721#issuecomment-2085084569",
+      "text": "it's a expected behavior, @Sulochan-khadka closing this issue, feel free to sign new issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7721",
+      "time": "2024-04-30T11:41:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7721",
+      "text": "Add frontend validation for titrated dosage"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7658",
+      "time": "2024-04-30T11:31:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7658#issuecomment-2085052846",
+      "text": "@aeswibon can you clear the merge conflict and lint failure"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7740",
+      "time": "2024-04-30T05:41:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7740",
+      "text": "Production Release v24.18.0",
+      "turnaround_time": 43486
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7740",
+      "time": "2024-04-30T05:41:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7740",
+      "text": "Production Release v24.18.0",
+      "collaborated_with": [
+        "GokulramGHV",
+        "UdaySagar-Git",
+        "thedevildude",
+        "kshitijv256"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2123",
+      "time": "2024-04-30T05:41:55+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2123",
+      "text": "Production Release v24.18.0",
+      "turnaround_time": 43404
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2110",
+      "time": "2024-04-29T18:58:37+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2110#issuecomment-2083449732",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7689",
+      "time": "2024-04-29T18:56:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7689#issuecomment-2083443177",
+      "text": "@Ashesh3 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/8a58222e-3f06-4b72-9beb-6b22c7941bd6)\r\n\r\nauto-fetch current date and time in the pop-up and allow users to edit it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7727",
+      "time": "2024-04-29T18:37:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7727#issuecomment-2083402678",
+      "text": "@Aryanshu919 clear the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7730",
+      "time": "2024-04-29T18:36:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7730#issuecomment-2083401883",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7654",
+      "time": "2024-04-29T18:29:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7654#issuecomment-2083388633",
+      "text": "@rithviknishad the preset updation feature is not available in this component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7644",
+      "time": "2024-04-29T18:22:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7644#issuecomment-2083374683",
+      "text": "- [ ] Go to patient_registration.cy.ts file and modify any existing test to include this toggle function in the emergency phone number"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7735",
+      "time": "2024-04-29T18:13:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7735#issuecomment-2083359211",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7735",
+      "time": "2024-04-29T18:13:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7735#issuecomment-2083358293",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2123",
+      "time": "2024-04-29T17:38:32+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2123",
+      "text": "Production Release v24.18.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7740",
+      "time": "2024-04-29T17:37:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7740",
+      "text": "Production Release v24.18.0"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7710",
+      "time": "2024-04-29T17:28:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7710#issuecomment-2083274470",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7688",
+      "time": "2024-04-29T16:56:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7688#issuecomment-2083219365",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7683",
+      "time": "2024-04-29T16:49:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7683#issuecomment-2083207319",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7645",
+      "time": "2024-04-29T16:41:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7645#issuecomment-2083193763",
+      "text": "@r-nikhilkumar \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/b7161c3a-19fc-4af6-a3cd-92ad706f1d2b)\r\n\r\n- [ ] When we create a critical care log update, it is shown as a \"Ventilator\" log update created successfully, replace the ventilator with \"Critical Care\" in the notification"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7639",
+      "time": "2024-04-29T16:33:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7639#issuecomment-2083180548",
+      "text": "@r-nikhilkumar \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/952f7ad2-0443-49f6-97d9-e2ee81bc13d2)\r\n\r\n- [ ] Once you click the \"edit profile\" button, the condition for a new password is always present there. It should only be shown when the user clicks on the \"new password\" column to input the data.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/5c08b167-6d6a-4ade-92a9-1f4608ea6280)\r\n\r\n- [ ] As per the issue, it is expected to behave similarly to the new user creation form. But in your PR, when the condition passes, they disappear. It shouldn't be the case; it should turn the condition to green.\r\n\r\nNote: understand the existing behavior in the new user creation form password input column then replicate that behavior in the edit profile page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7584",
+      "time": "2024-04-29T16:23:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7584#issuecomment-2083161051",
+      "text": "@Pranshu1902 where is it mention whether the prescription is just prescription or PRN prescription"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7584",
+      "time": "2024-04-29T14:44:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7584#issuecomment-2082938824",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/3148847a-9dc1-4921-871d-73aa3989b917)\r\n\r\n@Pranshu1902 the dosage is shown twice in the frontend\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/17cb7b59-e451-4c34-abdf-24bfa4e1a5f8)\r\n\r\n- [ ] when i discontinue a prescription and add the same medicine in prn prescription, the following things are not understandable from this summary .\r\n1. when is the medicine discontinued\r\n2. whether its a PRN prescription or a Prescription"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7323",
+      "time": "2024-04-29T10:07:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7323#issuecomment-2082339314",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7252",
+      "time": "2024-04-29T09:53:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7252#issuecomment-2082313077",
+      "text": "@rithviknishad can you push the two minor fix :\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/0b45b995-7359-45ce-b04a-060da89873a2)\r\n\r\n- [ ] add a prefix in the patient list page \"IP Days\"\r\n- [ ] only show this badge if the patient is having a live consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-29T08:41:19+00:00",
+      "title": "coronasafe/care_fe#7731",
+      "link": "https://github.com/coronasafe/care_fe/pull/7731#pullrequestreview-2027868077",
+      "text": "Update README to specify to use local backend for cypress tests"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7731",
+      "time": "2024-04-29T08:41:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7731#issuecomment-2082169539",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7720",
+      "time": "2024-04-29T08:40:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7720#issuecomment-2082168134",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7721",
@@ -35231,5 +37399,10 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7728",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7761"
+    }
+  ]
 }

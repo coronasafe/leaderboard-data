@@ -1,6 +1,110 @@
 {
-  "last_updated": "2024-04-24T14:29:50+00:00",
+  "last_updated": "2024-05-20T16:47:17+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2179",
+      "time": "2024-05-20T16:47:17+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2179",
+      "text": "Production release v24.21.0",
+      "collaborated_with": [
+        "skks1212",
+        "DraKen0009",
+        "vigneshhari",
+        "sainak",
+        "bodhish",
+        "rithviknishad",
+        "gigincg",
+        "rash-27",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2172",
+      "time": "2024-05-16T16:25:40+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2172",
+      "text": "Develop to Staging",
+      "collaborated_with": [
+        "vigneshhari",
+        "bodhish",
+        "skks1212",
+        "rithviknishad",
+        "khavinshankar",
+        "DraKen0009",
+        "gigincg",
+        "sainak",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2168",
+      "time": "2024-05-15T08:23:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2168",
+      "text": "Merge Develop to Staging v24.21.0",
+      "collaborated_with": [
+        "sainak",
+        "DraKen0009",
+        "rithviknishad",
+        "skks1212",
+        "khavinshankar",
+        "gigincg",
+        "vigneshhari",
+        "bodhish",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1742",
+      "time": "2024-05-15T07:02:22+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1742",
+      "text": "Display users list based on user access limitation",
+      "turnaround_time": 71759
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1742",
+      "time": "2024-05-15T07:02:22+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1742",
+      "text": "Display users list based on user access limitation",
+      "collaborated_with": [
+        "khavinshankar",
+        "vigneshhari",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7740",
+      "time": "2024-04-30T05:41:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7740",
+      "text": "Production Release v24.18.0",
+      "collaborated_with": [
+        "nihal467",
+        "UdaySagar-Git",
+        "thedevildude",
+        "kshitijv256"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2123",
+      "time": "2024-04-30T05:41:55+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2123",
+      "text": "Production Release v24.18.0",
+      "collaborated_with": [
+        "gigincg",
+        "rithviknishad",
+        "Pranshu1902",
+        "sainak",
+        "DraKen0009",
+        "vigneshhari",
+        "hrit2773",
+        "rash-27"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7698",
@@ -3199,14 +3303,7 @@
       "text": "Rearranging buttons in the Patient consultation page"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1742",
-      "title": "Display users list based on user access limitation",
-      "stale_for": 42,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1208",
